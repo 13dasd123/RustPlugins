@@ -1,0 +1,424 @@
+{
+  "VendingProfiles": [
+    {
+      "ShopName": "Tools & Stuff",
+      "Monument": "assets/bundled/prefabs/autospawn/monument/medium/compound.prefab",
+      "Position": {
+        "x": 32.0190048,
+        "y": 1.54800034,
+        "z": -20.9340153
+      },
+      "Offers": [
+        {
+          "SellItem": {
+            "ShortName": "keycard_blue",
+            "Amount": 1
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 600
+          }
+        },
+        {
+          "SellItem": {
+            "ShortName": "keycard_red",
+            "Amount": 1
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 750
+          },
+          "RefillDelay": 0
+        },
+        {
+          "SellItem": {
+            "ShortName": "jackhammer",
+            "Amount": 1
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 350
+          },
+          "RefillMax": 30,
+          "RefillDelay": 0,
+          "RefillAmount": 0
+        }
+      ]
+    },
+    {
+      "ShopName": "Weapons",
+      "Monument": "assets/bundled/prefabs/autospawn/monument/medium/compound.prefab",
+      "Position": {
+        "x": 3.906007,
+        "y": 1.74500275,
+        "z": -18.31001
+      },
+      "Offers": [
+        {
+          "SellItem": {
+            "ShortName": "guntrap",
+            "Amount": 1
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 350
+          }
+        },
+        {
+          "SellItem": {
+            "ShortName": "autoturret",
+            "Amount": 1
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 3000
+          }
+        },
+        {
+          "SellItem": {
+            "ShortName": "samsite",
+            "Amount": 1
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 2500
+          }
+        },
+        {
+          "SellItem": {
+            "ShortName": "ammo.rocket.sam",
+            "Amount": 6
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 200
+          }
+        }
+      ]
+    },
+    {
+      "ShopName": "Output Outfitters",
+      "Monument": "assets/bundled/prefabs/autospawn/monument/medium/compound.prefab",
+      "Position": {
+        "x": 32.01402,
+        "y": 1.57427979,
+        "z": -18.7556782
+      },
+      "Offers": [
+        {
+          "SellItem": {
+            "ShortName": "tactical.gloves",
+            "Amount": 1
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 50
+          },
+          "RefillDelay": 0
+        },
+        {
+          "SellItem": {
+            "ShortName": "jackhammer",
+            "Amount": 1
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 350
+          },
+          "RefillDelay": 0
+        }
+      ]
+    },
+    {
+      "ShopName": "Components",
+      "Monument": "assets/bundled/prefabs/autospawn/monument/medium/compound.prefab",
+      "Position": {
+        "x": -25.13801,
+        "y": 0.3223648,
+        "z": -12.7010031
+      },
+      "Offers": [
+        {
+          "SellItem": {
+            "ShortName": "sheetmetal",
+            "Amount": 1
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 45
+          },
+          "RefillMax": 999999,
+          "RefillDelay": 0,
+          "RefillAmount": 0
+        },
+        {
+          "SellItem": {
+            "ShortName": "gears",
+            "Amount": 1
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 125
+          },
+          "RefillMax": 9999,
+          "RefillDelay": 0
+        },
+        {
+          "SellItem": {
+            "ShortName": "metalspring",
+            "Amount": 1
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 60
+          },
+          "RefillMax": 9999,
+          "RefillDelay": 0
+        },
+        {
+          "SellItem": {
+            "ShortName": "metalpipe",
+            "Amount": 1
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 60
+          },
+          "RefillMax": 9999,
+          "RefillDelay": 0
+        },
+        {
+          "SellItem": {
+            "ShortName": "metalblade",
+            "Amount": 1
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 30
+          },
+          "RefillMax": 9999,
+          "RefillDelay": 0
+        },
+        {
+          "SellItem": {
+            "ShortName": "rope",
+            "Amount": 1
+          },
+          "CurrencyItem": {
+            "ShortName": "cloth",
+            "Amount": 30
+          },
+          "RefillMax": 9999,
+          "RefillDelay": 0
+        }
+      ]
+    },
+    {
+      "ShopName": "Stables Shopkeeper",
+      "Monument": "assets/bundled/prefabs/autospawn/monument/small/stables_a.prefab",
+      "Position": {
+        "x": -5.59200335,
+        "y": 3.58545113,
+        "z": -13.3309984
+      },
+      "Offers": [
+        {
+          "SellItem": {
+            "ShortName": "horse.saddle",
+            "Amount": 1
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 400
+          }
+        },
+        {
+          "SellItem": {
+            "ShortName": "horse.armor.roadsign",
+            "Amount": 1
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 100
+          }
+        },
+        {
+          "SellItem": {
+            "ShortName": "horse.shoes.advanced",
+            "Amount": 1
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 80
+          }
+        }
+      ]
+    },
+    {
+      "ShopName": "Building",
+      "Monument": "assets/bundled/prefabs/autospawn/monument/medium/compound.prefab",
+      "Position": {
+        "x": 5.0840764,
+        "y": 0.145172119,
+        "z": -47.0660057
+      },
+      "Offers": [
+        {
+          "SellItem": {
+            "ShortName": "rifle.l96",
+            "Amount": 1,
+            "Ammo": 2,
+            "AmmoType": "ammo.rifle"
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 2500
+          }
+        },
+        {
+          "SellItem": {
+            "ShortName": "rifle.m39",
+            "Amount": 1,
+            "Ammo": 4,
+            "AmmoType": "ammo.rifle"
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 600
+          }
+        },
+        {
+          "SellItem": {
+            "ShortName": "pistol.m92",
+            "Amount": 1,
+            "Ammo": 6,
+            "AmmoType": "ammo.pistol"
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 1000
+          }
+        },
+        {
+          "SellItem": {
+            "ShortName": "pistol.prototype17",
+            "Amount": 1,
+            "Ammo": 4,
+            "AmmoType": "ammo.pistol"
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 313
+          }
+        },
+        {
+          "SellItem": {
+            "ShortName": "hmlmg",
+            "Amount": 1,
+            "Ammo": 10,
+            "AmmoType": "ammo.rifle"
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 312
+          }
+        }
+      ]
+    },
+    {
+      "ShopName": "Resource Exchange",
+      "Monument": "assets/bundled/prefabs/autospawn/monument/medium/compound.prefab",
+      "Position": {
+        "x": -25.1209888,
+        "y": 0.3430004,
+        "z": -14.7019939
+      },
+      "Offers": [
+        {
+          "SellItem": {
+            "ShortName": "stones",
+            "Amount": 1000
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 50
+          },
+          "RefillMax": 9999,
+          "RefillDelay": 0
+        },
+        {
+          "SellItem": {
+            "ShortName": "wood",
+            "Amount": 1000
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 20
+          },
+          "RefillMax": 9999,
+          "RefillDelay": 0
+        },
+        {
+          "SellItem": {
+            "ShortName": "metal.fragments",
+            "Amount": 250
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 25
+          },
+          "RefillMax": 9999,
+          "RefillDelay": 0
+        },
+        {
+          "SellItem": {
+            "ShortName": "stones",
+            "Amount": 150
+          },
+          "CurrencyItem": {
+            "ShortName": "wood",
+            "Amount": 500
+          },
+          "RefillMax": 9999,
+          "RefillDelay": 0
+        },
+        {
+          "SellItem": {
+            "ShortName": "wood",
+            "Amount": 25000
+          },
+          "CurrencyItem": {
+            "ShortName": "stones",
+            "Amount": 10000
+          },
+          "RefillMax": 9999,
+          "RefillDelay": 0
+        },
+        {
+          "SellItem": {
+            "ShortName": "lowgradefuel",
+            "Amount": 20
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 10
+          },
+          "RefillMax": 9999,
+          "RefillDelay": 0
+        },
+        {
+          "SellItem": {
+            "ShortName": "diesel_barrel",
+            "Amount": 5
+          },
+          "CurrencyItem": {
+            "ShortName": "scrap",
+            "Amount": 2500
+          },
+          "RefillMax": 9999,
+          "RefillDelay": 0
+        }
+      ]
+    }
+  ]
+}

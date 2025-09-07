@@ -1,0 +1,7 @@
+{
+  "Upgrades Cost Materials": true,
+  "Only Show UI When Holding Building Plan or Hammer": true,
+  "Error Message Color": "FF0000",
+  "Command Name": "ul",
+  "Allow Automatic Upgrading When Building Blocked": false
+}

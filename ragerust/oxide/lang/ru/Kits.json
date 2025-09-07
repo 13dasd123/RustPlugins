@@ -1,0 +1,17 @@
+{
+  "Help": "/kit name|add|clone|remove|list|reset",
+  "Kit Already Exists": "Такой набор уже существует",
+  "Kit Added": "Набор создан",
+  "No Kit Found": "Такого набора не существует",
+  "Kit Replaced": "Вещи в наборе успешно заменены",
+  "Kit Removed": "Набор удалён",
+  "KitRedeemed": "Набор получен",
+  "Empty kit name ": "Не указан набор",
+  "CantRedeemNow": "В данный момент нельзя получить набор",
+  "NoPermKit": "У вас нет прав на этот набор",
+  "NoRemainingUses": "Данный набор закончился",
+  "CooldownMessage": "Осталось подождать {0}",
+  "NoInventorySpace": "Недостаточно места в инвентаре",
+  "No kits": "Нет доступных наборов",
+  "Kit edited": "Набор успешно отредактирован"
+}

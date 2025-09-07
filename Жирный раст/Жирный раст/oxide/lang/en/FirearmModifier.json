@@ -1,0 +1,9 @@
+{
+  "InvalidSelection": "You've selected an invalid weapon to modify please type a valid weapon shortname",
+  "Syntax": "Invalid Params please do /modify shortname magazinesize amount",
+  "NoPerm": "Unkown Command: modify",
+  "Success": "You've successfully set {0} to {1}",
+  "SuccessVip": "You've successfully set {0} to {1}",
+  "DoublePerms": "Error Double Perms, Defaults applied, Contact admin to fix",
+  "DoublePermsReload": "You have both firearmmodifier.use & firearmmodifier.vip please contact Admin, Rust defaults applied"
+}

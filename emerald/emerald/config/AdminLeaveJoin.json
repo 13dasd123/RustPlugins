@@ -1,0 +1,22 @@
+{
+  "General": {
+    "Admin": {
+      "OxideGroup": "admin",
+      "Permission(adminleavejoin.?)": "admin",
+      "ShowJoin": true,
+      "ShowLeave": true
+    },
+    "Moderator": {
+      "OxideGroup": "moderator",
+      "Permission(adminleavejoin.?)": "moderator",
+      "ShowJoin": true,
+      "ShowLeave": true
+    }
+  },
+  "Settings": {
+    "Chat": {
+      "Color": "#005682",
+      "Prefix": "AdminJoin"
+    }
+  }
+}

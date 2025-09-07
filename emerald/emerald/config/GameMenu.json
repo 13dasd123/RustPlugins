@@ -1,0 +1,78 @@
+{
+  "Distance between buttons": 0.02,
+  "FadeIn and FadeOut time": 0.3,
+  "List of menus": [
+    {
+      "Menu title": "<color=yellow>NICE RUST</color>\n <color=green>Владелец сервера Marin & Vlas03rus</color>\n Мы делаем не просто сервер, мы делаем мечту! Присойденяйся к нам)",
+      "Menu title color": "#ffffff",
+      "Menu title size": 12,
+      "Menu title height": 0.1,
+      "Menu permission": "gamemenu.use",
+      "Chat command to open the menu": "menu",
+      "Console command to open the menu": "menu",
+      "Background color": "0.66 0.66 0.66 0.9",
+      "Menu buttons": [
+        {
+          "Button color": "0.0 0.0 0.0 1.0",
+          "Text color": "#ffffff",
+          "Text size": 12,
+          "Button width": 0.4,
+          "Button height": 0.1,
+          "Button text": "<color=yellow>УЗНАТЬ ИНФОРМАЦИЮ О СЕРВЕРЕ</color>",
+          "Execute chat (true) or console (false) command": true,
+          "Executing command": "/info"
+        },
+        {
+          "Button color": "0.0 0.0 0.0 1.0",
+          "Text color": "#ffffff",
+          "Text size": 12,
+          "Button width": 0.4,
+          "Button height": 0.1,
+          "Button text": "<color=yellow>ОТКРЫТЬ КАРТУ</color>\n /map открыть/закрыть карту",
+          "Execute chat (true) or console (false) command": true,
+          "Executing command": "/map"
+        },
+        {
+          "Button color": "0.0 0.0 0.0 1.0",
+          "Text color": "#ffffff",
+          "Text size": 12,
+          "Button width": 0.4,
+          "Button height": 0.1,
+          "Button text": "<color=yellow>ОТКРЫТЬ МЕНЮ МАГАЗИНА</color>",
+          "Execute chat (true) or console (false) command": true,
+          "Executing command": "/store"
+        },
+        {
+          "Button color": "0.0 0.0 0.0 0.0",
+          "Text color": "#ffffff",
+          "Text size": 12,
+          "Button width": 0.2,
+          "Button height": 0.05,
+          "Button text": "<color=yellow>ИГРОВОЕ МЕНЮ</color>",
+          "Execute chat (true) or console (false) command": true,
+          "Executing command": "/trade accept"
+        },
+        {
+          "Button color": "0.0 0.0 0.0 1.0",
+          "Text color": "#ffffff",
+          "Text size": 12,
+          "Button width": 0.4,
+          "Button height": 0.1,
+          "Button text": "<color=yellow>ПРИНЯТЬ ТРЕЙД</color>",
+          "Execute chat (true) or console (false) command": true,
+          "Executing command": "/trade accept"
+        },
+        {
+          "Button color": "0.0 0.0 0.0 1.0",
+          "Text color": "#ffffff",
+          "Text size": 12,
+          "Button width": 0.4,
+          "Button height": 0.1,
+          "Button text": "<color=yellow>ПРИНЯТЬ ТЕЛЕПОРТ</color>",
+          "Execute chat (true) or console (false) command": true,
+          "Executing command": "/tpa"
+        }
+      ]
+    }
+  ]
+}

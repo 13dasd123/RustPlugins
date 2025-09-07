@@ -1,0 +1,64 @@
+{
+  "BackgroundColor": "#7F7F7F99",
+  "CalendarNumbersSize": 35,
+  "CurrentDayCounter": "#F54343FF",
+  "CurrentMonthGlobalWipeDays": [
+    7,
+    20
+  ],
+  "DayOfWeeks": {
+    "0": "Sunday",
+    "1": "Monday",
+    "2": "Tuesday",
+    "3": "Wednesday",
+    "4": "Thursday",
+    "5": "Friday",
+    "6": "Saturday"
+  },
+  "DayOfWeeksColor": "#898989D9",
+  "DayOfWeeksTextColor": "#FFFFFFFF",
+  "DownPanelsTextSize": 14,
+  "Events": {
+    "10": "event",
+    "25": "second event"
+  },
+  "EventsColor": "#1D5FFFFF",
+  "EventsText": "Events",
+  "EventsTextColor": "#FFFFFFFF",
+  "EventsTextSize": 20,
+  "GlobalWipeColor": "#FFA000FF",
+  "GlobalWipeText": "Global wipe",
+  "GlobalWipeTextColor": "#FFFFFFFF",
+  "GlobalWipeTextSize": 20,
+  "HeaderText": "Wipe Calendar",
+  "Months": {
+    "0": "October ",
+    "1": "January",
+    "11": "November",
+    "12": "December",
+    "2": "February",
+    "3": "March",
+    "4": "April",
+    "5": "May",
+    "6": "June",
+    "7": "July",
+    "8": "August",
+    "9": "September"
+  },
+  "NextDayColor": "#8E8E8EFF",
+  "NextDayTextColor": "#B7B7B7FF",
+  "NextMonthGlobalWipeDay": 8,
+  "NowDayColor": "#B5B5B5FF",
+  "NowDayTextColor": "#FFFFFFFF",
+  "OldDayColor": "#8E8E8EFF",
+  "OldDayTextColor": "#B7B7B7FF",
+  "WipeColor": "#00EB57FF",
+  "WipeDays": [
+    15,
+    22,
+    29
+  ],
+  "WipeText": "Just wipe the map",
+  "WipeTextColor": "#FFFFFFFF",
+  "WipeTextSize": 20
+}

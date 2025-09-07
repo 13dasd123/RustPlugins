@@ -1,0 +1,10 @@
+{
+  "RANK_NEW": "Поздравляем, вы получили ранг {0}",
+  "COMMAND_RANK_NO_ARG": "\n<size=15>Используйте синтаксис</size>\n- rank list - список доступных рангов\n- rank add НазваниеРанга - устанавливает нужнный вам ранг\n- rank remove - очищает ваш активный ранг",
+  "COMMAND_RANK_LIST": "\n<size=15>Список доступных рангов:</size>{0}",
+  "COMMAND_RANK_LIST_NO_ACCES": "У вас нет доступных рангов",
+  "COMMAND_RANK_LIST_NO_ANY": "Вы ввели неправильно название ранга , либо такого ранга у вас нет",
+  "COMMAND_RANK_LIST_TO_ACTIVE": "Вы успешно установили себе ранг: {0}",
+  "COMMAND_RANK_LIST_NO_CLEAR": "У вас нет установленного ранга",
+  "COMMAND_RANK_LIST_CLEAR": "Вы успешно очистили ранг"
+}

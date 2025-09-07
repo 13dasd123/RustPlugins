@@ -1,0 +1,829 @@
+{
+  "Settings": {
+    "clearOnReboot": false,
+    "commandsAuthLevel": 2,
+    "ExcludedItems": [
+      "water",
+      "water.salt",
+      "blood",
+      "blueprintbase",
+      "coal",
+      "flare",
+      "ammo.rocket.smoke",
+      "generator.wind.scrap",
+      "battery.small",
+      "mining.pumpjack",
+      "building.planner",
+      "door.key",
+      "map",
+      "note"
+    ],
+    "limitPlayerInventory": false,
+    "playerInventoryStacklimit": 0
+  },
+  "StackLimits": {
+    "ammo.grenadelauncher.buckshot": 500000,
+    "ammo.grenadelauncher.he": 500000,
+    "ammo.grenadelauncher.smoke": 500000,
+    "ammo.handmade.shell": 500000,
+    "ammo.nailgun.nails": 500000,
+    "ammo.pistol": 500000,
+    "ammo.pistol.fire": 500000,
+    "ammo.pistol.hv": 500000,
+    "ammo.rifle": 500000,
+    "ammo.rifle.explosive": 500000,
+    "ammo.rifle.hv": 500000,
+    "ammo.rifle.incendiary": 500000,
+    "ammo.rocket.basic": 500000,
+    "ammo.rocket.fire": 500000,
+    "ammo.rocket.hv": 500000,
+    "ammo.rocket.sam": 500000,
+    "ammo.shotgun": 500000,
+    "ammo.shotgun.fire": 500000,
+    "ammo.shotgun.slug": 500000,
+    "antiradpills": 500000,
+    "apple": 500000,
+    "apple.spoiled": 500000,
+    "arcade.machine.chippy": 1,
+    "arrow.bone": 500000,
+    "arrow.fire": 500000,
+    "arrow.hv": 500000,
+    "arrow.wooden": 500000,
+    "attire.bunny.onesie": 1,
+    "attire.bunnyears": 1,
+    "attire.hide.boots": 1,
+    "attire.hide.helterneck": 1,
+    "attire.hide.pants": 1,
+    "attire.hide.skirt": 1,
+    "attire.hide.vest": 1,
+    "attire.reindeer.headband": 1,
+    "autoturret": 500000,
+    "bandage": 25,
+    "barricade.concrete": 25,
+    "barricade.metal": 25,
+    "barricade.sandbags": 10,
+    "barricade.stone": 25,
+    "barricade.wood": 20,
+    "barricade.woodwire": 10,
+    "bbq": 500000,
+    "bearmeat": 500000,
+    "bearmeat.burned": 500000,
+    "bearmeat.cooked": 500000,
+    "bed": 500000,
+    "black.raspberries": 500000,
+    "bleach": 1,
+    "blueberries": 500000,
+    "bone.fragments": 1000,
+    "boots.frog": 2,
+    "botabag": 1,
+    "box.repair.bench": 1,
+    "box.wooden": 10,
+    "box.wooden.large": 10,
+    "burlap.gloves": 1,
+    "burlap.gloves.new": 1,
+    "burlap.headwrap": 1,
+    "burlap.shirt": 1,
+    "burlap.shoes": 1,
+    "burlap.trousers": 1,
+    "cactusflesh": 500000,
+    "campfire": 500000,
+    "can.beans": 500000,
+    "can.beans.empty": 500000,
+    "can.tuna": 500000,
+    "can.tuna.empty": 500000,
+    "candycane": 500000,
+    "cctv.camera": 500000,
+    "ceilinglight": 500000,
+    "chair": 1,
+    "charcoal": 500000,
+    "chicken.burned": 500000,
+    "chicken.cooked": 500000,
+    "chicken.raw": 500000,
+    "chicken.spoiled": 500000,
+    "chineselantern": 1,
+    "chocholate": 100,
+    "clone.corn": 500000,
+    "clone.hemp": 500000,
+    "clone.pumpkin": 500000,
+    "cloth": 500000,
+    "coffin.storage": 1,
+    "crude.oil": 500000,
+    "cupboard.tool": 500000,
+    "cursedcauldron": 1,
+    "deermeat.burned": 100,
+    "deermeat.cooked": 500000,
+    "deermeat.raw": 500000,
+    "diesel_barrel": 500000,
+    "diving.fins": 500000,
+    "diving.wetsuit": 500000,
+    "door.closer": 5,
+    "door.double.hinged.metal": 500000,
+    "door.double.hinged.toptier": 500000,
+    "door.double.hinged.wood": 500000,
+    "door.hinged.metal": 500000,
+    "door.hinged.toptier": 500000,
+    "door.hinged.wood": 500000,
+    "dragondoorknocker": 1,
+    "dropbox": 10,
+    "drumkit": 1,
+    "ducttape": 500000,
+    "easter.bronzeegg": 10,
+    "easter.goldegg": 10,
+    "easter.paintedeggs": 1000,
+    "easter.silveregg": 10,
+    "easterbasket": 1,
+    "easterdoorwreath": 1,
+    "electric.andswitch": 1,
+    "electric.audioalarm": 1,
+    "electric.battery.rechargable.large": 1,
+    "electric.battery.rechargable.medium": 1,
+    "electric.battery.rechargable.small": 1,
+    "electric.blocker": 1,
+    "electric.cabletunnel": 1,
+    "electric.counter": 1,
+    "electric.doorcontroller": 1,
+    "electric.flasherlight": 1,
+    "electric.fuelgenerator.small": 1,
+    "electric.generator.small": 1,
+    "electric.hbhfsensor": 1,
+    "electric.laserdetector": 1,
+    "electric.orswitch": 1,
+    "electric.pressurepad": 1,
+    "electric.random.switch": 1,
+    "electric.rf.broadcaster": 1,
+    "electric.rf.receiver": 1,
+    "electric.simplelight": 1,
+    "electric.sirenlight": 1,
+    "electric.solarpanel.large": 1,
+    "electric.splitter": 1,
+    "electric.switch": 1,
+    "electric.teslacoil": 1,
+    "electric.timer": 1,
+    "electric.xorswitch": 1,
+    "electrical.branch": 1,
+    "electrical.combiner": 1,
+    "electrical.memorycell": 1,
+    "explosive.satchel": 500000,
+    "explosive.timed": 500000,
+    "explosives": 500000,
+    "facialhair.style01": 1,
+    "fat.animal": 10000,
+    "female_hairstyle_01": 1,
+    "female_hairstyle_02": 1,
+    "female_hairstyle_03": 1,
+    "female_hairstyle_05": 1,
+    "femalearmpithair.style01": 1,
+    "femaleeyebrow.style01": 1,
+    "femalepubichair.style01": 1,
+    "fireplace.stone": 10,
+    "fish.cooked": 100,
+    "fish.minnows": 50,
+    "fish.raw": 100,
+    "fish.troutsmall": 10,
+    "fishtrap.small": 1,
+    "flameturret": 500000,
+    "floor.grill": 500000,
+    "floor.ladder.hatch": 500000,
+    "fogmachine": 1,
+    "fridge": 10,
+    "fun.guitar": 10,
+    "furnace": 500000,
+    "furnace.large": 500000,
+    "gates.external.high.stone": 500000,
+    "gates.external.high.wood": 500000,
+    "gears": 500000,
+    "giantcandycanedecor": 1,
+    "giantlollipops": 1,
+    "glue": 500000,
+    "granolabar": 100,
+    "gravestone": 1,
+    "grenade.beancan": 500000,
+    "grenade.f1": 500000,
+    "grenade.smoke": 500000,
+    "gunpowder": 500000,
+    "guntrap": 500000,
+    "halloween.candy": 1000,
+    "halloween.lootbag": 1,
+    "halloween.lootbag.large": 1,
+    "halloween.lootbag.medium": 1,
+    "halloween.lootbag.small": 1,
+    "halloween.mummysuit": 1,
+    "halloween.surgeonsuit": 1,
+    "hammer": 10,
+    "hat.beenie": 1,
+    "hat.boonie": 1,
+    "hat.candle": 1,
+    "hat.cap": 1,
+    "hat.dragonmask": 1,
+    "hat.miner": 1,
+    "hat.wolf": 1,
+    "hazmatsuit": 500000,
+    "hazmatsuit_scientist": 500000,
+    "hazmatsuit_scientist_peacekeeper": 10,
+    "hitchtroughcombo": 1,
+    "hoodie": 1,
+    "horsemeat.burned": 500000,
+    "horsemeat.cooked": 500000,
+    "horsemeat.raw": 500000,
+    "hq.metal.ore": 500000,
+    "humanmeat.burned": 500000,
+    "humanmeat.cooked": 500000,
+    "humanmeat.raw": 500000,
+    "humanmeat.spoiled": 500000,
+    "jacket": 1,
+    "jacket.snow": 1,
+    "jackolantern.angry": 10,
+    "jackolantern.happy": 10,
+    "jar.pickle": 10,
+    "ladder.wooden.wall": 500000,
+    "lantern": 10,
+    "largecandles": 1,
+    "largemedkit": 500000,
+    "leather": 500000,
+    "lock.code": 500000,
+    "lock.key": 500000,
+    "locker": 10,
+    "lowgradefuel": 500000,
+    "mailbox": 5,
+    "male.facialhair.style02": 1,
+    "male.facialhair.style03": 1,
+    "male.facialhair.style04": 1,
+    "male_hairstyle_01": 1,
+    "male_hairstyle_02": 1,
+    "male_hairstyle_03": 1,
+    "male_hairstyle_04": 1,
+    "male_hairstyle_05": 1,
+    "malearmpithair.style01": 1,
+    "maleeyebrow.style01": 1,
+    "malepubichair.style01": 1,
+    "mask.balaclava": 1,
+    "mask.bandana": 1,
+    "meat.boar": 100,
+    "meat.pork.burned": 100,
+    "meat.pork.cooked": 100,
+    "metal.fragments": 500000,
+    "metal.ore": 500000,
+    "metal.refined": 500000,
+    "metalblade": 500000,
+    "metalpipe": 500000,
+    "metalspring": 500000,
+    "mining.quarry": 1,
+    "mushroom": 500000,
+    "pants": 1,
+    "pants.shorts": 1,
+    "paper": 200,
+    "partyhat": 1,
+    "piano": 1,
+    "pickaxe": 500000,
+    "planter.large": 10,
+    "planter.small": 10,
+    "pookie.bear": 5,
+    "propanetank": 500000,
+    "pumpkinbasket": 500000,
+    "research.table": 5,
+    "researchpaper": 1000,
+    "riflebody": 500000,
+    "roadsign.gloves": 1,
+    "roadsigns": 500000,
+    "rope": 500000,
+    "rug": 10,
+    "rug.bear": 1,
+    "rustige_egg_a": 1,
+    "rustige_egg_b": 1,
+    "samsite": 1,
+    "santabeard": 1,
+    "santahat": 1,
+    "scarecrow": 10,
+    "scarecrow.suit": 1,
+    "scarecrowhead": 1,
+    "scientistsuit_heavy": 1,
+    "scrap": 10000,
+    "searchlight": 10,
+    "seed.corn": 100,
+    "seed.hemp": 100,
+    "seed.pumpkin": 100,
+    "semibody": 500000,
+    "sewingkit": 500000,
+    "sheetmetal": 500000,
+    "shelves": 25,
+    "shirt.collared": 1,
+    "shirt.tanktop": 1,
+    "shoes.boots": 1,
+    "shutter.metal.embrasure.a": 20,
+    "shutter.metal.embrasure.b": 20,
+    "shutter.wood.a": 20,
+    "sign.hanging": 20,
+    "sign.hanging.banner.large": 20,
+    "sign.hanging.ornate": 20,
+    "sign.pictureframe.landscape": 20,
+    "sign.pictureframe.portrait": 20,
+    "sign.pictureframe.tall": 20,
+    "sign.pictureframe.xl": 20,
+    "sign.pictureframe.xxl": 20,
+    "sign.pole.banner.large": 20,
+    "sign.post.double": 20,
+    "sign.post.single": 20,
+    "sign.post.town": 20,
+    "sign.post.town.roof": 20,
+    "sign.wooden.huge": 20,
+    "sign.wooden.large": 20,
+    "sign.wooden.medium": 20,
+    "sign.wooden.small": 20,
+    "skull.human": 10,
+    "skull.wolf": 5,
+    "skull_fire_pit": 10,
+    "skulldoorknocker": 1,
+    "sleepingbag": 1,
+    "small.oil.refinery": 500000,
+    "smallcandles": 1,
+    "smallwaterbottle": 1,
+    "smgbody": 500000,
+    "snowmachine": 1,
+    "snowman": 1,
+    "spiderweb": 10,
+    "spikes.floor": 40,
+    "spinner.wheel": 500000,
+    "spookyspeaker": 1,
+    "stash.small": 500000,
+    "sticks": 500000,
+    "stocking.large": 500000,
+    "stocking.small": 500000,
+    "stones": 500000,
+    "strobelight": 1,
+    "sulfur": 500000,
+    "sulfur.ore": 500000,
+    "supply.signal": 500000,
+    "surveycharge": 500000,
+    "syringe.medical": 500000,
+    "table": 5,
+    "tactical.gloves": 1,
+    "target.reactive": 500000,
+    "targeting.computer": 500000,
+    "tarp": 500000,
+    "techparts": 500000,
+    "tool.binoculars": 50,
+    "tool.camera": 10,
+    "toolgun": 1,
+    "trap.bear": 20,
+    "trap.landmine": 20,
+    "tshirt": 1,
+    "tshirt.long": 1,
+    "tunalight": 5,
+    "vending.machine": 500000,
+    "wall.external.high": 500000,
+    "wall.external.high.stone": 500000,
+    "wall.frame.cell": 500000,
+    "wall.frame.cell.gate": 500000,
+    "wall.frame.fence": 500000,
+    "wall.frame.fence.gate": 500000,
+    "wall.frame.garagedoor": 500000,
+    "wall.frame.netting": 500000,
+    "wall.frame.shopfront": 500000,
+    "wall.frame.shopfront.metal": 500000,
+    "wall.graveyard.fence": 500000,
+    "wall.window.bars.metal": 500000,
+    "wall.window.bars.toptier": 500000,
+    "wall.window.bars.wood": 500000,
+    "wall.window.glass.reinforced": 500000,
+    "watchtower.wood": 10,
+    "water.barrel": 10,
+    "water.catcher.large": 10,
+    "water.catcher.small": 10,
+    "water.purifier": 10,
+    "waterjug": 10,
+    "weapon.mod.flashlight": 500000,
+    "weapon.mod.holosight": 500000,
+    "weapon.mod.lasersight": 500000,
+    "weapon.mod.simplesight": 500000,
+    "weapon.mod.small.scope": 500000,
+    "wolfmeat.burned": 500000,
+    "wolfmeat.cooked": 500000,
+    "wolfmeat.raw": 500000,
+    "wolfmeat.spoiled": 500000,
+    "wood": 500000,
+    "woodcross": 1,
+    "workbench1": 500000,
+    "workbench2": 500000,
+    "workbench3": 500000,
+    "wrappedgift": 1,
+    "wrappingpaper": 1,
+    "xmas.decoration.baubels": 1,
+    "xmas.decoration.candycanes": 1,
+    "xmas.decoration.gingerbreadmen": 1,
+    "xmas.decoration.lights": 1,
+    "xmas.decoration.pinecone": 1,
+    "xmas.decoration.star": 1,
+    "xmas.decoration.tinsel": 1,
+    "xmas.door.garland": 10,
+    "xmas.lightstring": 500000,
+    "xmas.present.large": 500000,
+    "xmas.present.medium": 500000,
+    "xmas.present.small": 500000,
+    "xmas.tree": 1,
+    "xmas.window.garland": 10,
+    "xmasdoorwreath": 1,
+    "xylophone": 1
+  },
+  "Storages": {
+    "Stack": {
+      "autoturret": 0,
+      "bbq": 0,
+      "box.wooden.large": 0,
+      "campfire": 0,
+      "ceilinglight": 0,
+      "crudeoutput": 0,
+      "cupboard.tool": 0,
+      "dropbox": 0,
+      "fireplace": 0,
+      "flameturret": 500,
+      "fridge": 0,
+      "fuel_storage": 0,
+      "fuelstorage": 0,
+      "furnace": 0,
+      "furnace.large": 0,
+      "guntrap": 0,
+      "hopperoutput": 0,
+      "jackolantern.angry": 0,
+      "jackolantern.happy": 0,
+      "lantern": 0,
+      "locker": 0,
+      "mailbox": 0,
+      "refinery_small": 0,
+      "repairbench": 0,
+      "researchtable": 0,
+      "rowboat_storage": 0,
+      "searchlight": 0,
+      "skull_fire_pit": 0,
+      "small_stash": 0,
+      "survivalfishtrap": 0,
+      "tunalight": 0,
+      "vendingmachine": 0,
+      "wall.frame.shopfront.metal": 0,
+      "water_catcher_large": 50000,
+      "water_catcher_small": 10000,
+      "waterbarrel": 20000,
+      "waterpurifier": 2000,
+      "waterstorage": 2000,
+      "waterwellstatic": 5000,
+      "woodbox": 0,
+      "workbench1": 0,
+      "workbench2": 0,
+      "workbench3": 0,
+      "xmas_tree": 0
+    },
+    "VIP": {
+      "autoturret": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "bbq": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "box.wooden.large": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "campfire": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "ceilinglight": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "crudeoutput": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "cupboard.tool": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "dropbox": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "fireplace": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "flameturret": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "fridge": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "fuel_storage": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "fuelstorage": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "furnace": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "furnace.large": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "guntrap": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "hopperoutput": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "jackolantern.angry": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "jackolantern.happy": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "lantern": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "locker": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "mailbox": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "refinery_small": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "repairbench": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "researchtable": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "rowboat_storage": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "searchlight": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "skull_fire_pit": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "small_stash": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "survivalfishtrap": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "tunalight": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "vendingmachine": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "wall.frame.shopfront.metal": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "water_catcher_large": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "water_catcher_small": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "waterbarrel": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "waterpurifier": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "waterstorage": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "waterwellstatic": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "woodbox": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "workbench1": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "workbench2": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "workbench3": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      },
+      "xmas_tree": {
+        "Enabled": false,
+        "Permissions": {
+          "vip1": 0,
+          "vip2": 0,
+          "vip3": 0
+        }
+      }
+    }
+  }
+}

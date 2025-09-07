@@ -1,0 +1,51 @@
+{
+  "EnableInGameTime-Timer": false,
+  "EnableRealTime-Timer": false,
+  "EnableTimerOnce": false,
+  "EnableTimerRepeat": true,
+  "InGameTime-Timer": {
+    "01:00": "weather rain",
+    "12:00": "command 1",
+    "15:00": "command 2"
+  },
+  "RealTime-Timer": {
+    "16:00:00": "command1 arg",
+    "16:30:00": "command2 arg",
+    "17:00:00": "command3 arg",
+    "18:00:00": "command4 arg"
+  },
+  "TimerOnce": {
+    "command1 'msg'": 60,
+    "command2 'msg'": 120,
+    "command3 arg": 180,
+    "reset.timeronce": 181
+  },
+  "TimerRepeat": {
+    "weather.atmosphere_brightness -1": 240,
+    "weather.atmosphere_contrast -1": 241,
+    "weather.atmosphere_directionality -1": 242,
+    "weather.atmosphere_mie -1": 243,
+    "weather.atmosphere_rayleigh 0.7": 244,
+    "weather.clear_chance 1": 245,
+    "weather.cloud_attenuation -1": 246,
+    "weather.cloud_brightness 0.9": 247,
+    "weather.cloud_coloring -1": 248,
+    "weather.cloud_coverage -1": 249,
+    "weather.cloud_opacity 0.7": 250,
+    "weather.cloud_saturation -1": 251,
+    "weather.cloud_scattering -1": 252,
+    "weather.cloud_sharpness 1": 253,
+    "weather.cloud_size -1": 254,
+    "weather.dust_chance 0": 255,
+    "weather.fog 0": 256,
+    "weather.fog_chance 0": 257,
+    "weather.overcast_chance 0": 258,
+    "weather.rain 0": 259,
+    "weather.rain_chance 0": 260,
+    "weather.rainbow 0": 261,
+    "weather.storm_chance 0": 262,
+    "weather.thunder 0.3": 263,
+    "weather.wind 0": 264
+  }
+
+}

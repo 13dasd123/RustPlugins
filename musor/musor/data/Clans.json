@@ -1,0 +1,111 @@
+{
+  "clans": {
+    "wag": {
+      "ClanPoints": 0,
+      "KilledTCAll": 0,
+      "CupCount": 0,
+      "raidpoint": 0,
+      "Farm": 0,
+      "KillC": 0,
+      "DeathC": 0,
+      "SuicideC": 0,
+      "pvo": 0,
+      "cups": 0,
+      "turret": 0,
+      "obj": 0,
+      "tag": "wag",
+      "description": "",
+      "owner": "76561198866607991",
+      "ownerName": "AvGuNn x 弱い",
+      "ClanAvatar": "",
+      "council": null,
+      "created": 1674767034,
+      "updated": 1674767034,
+      "moderators": [],
+      "members": {
+        "76561198866607991": {
+          "PlayerPoints": 0,
+          "Killed": 0,
+          "Death": 0,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        }
+      },
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": [],
+      "SkinList": {
+        "wear": {
+          "metal.facemask": 0,
+          "metal.plate.torso": 0,
+          "roadsign.kilt": 0,
+          "hoodie": 0,
+          "pants": 0,
+          "shoes.boots": 0
+        },
+        "weapon": {
+          "rifle.ak": 0
+        }
+      },
+      "Change": {
+        "wood": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "metal.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "stones": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "sulfur.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "fat.animal": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "cloth": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "leather": {
+          "Need": 100,
+          "Complete": 0
+        },
+        "hq.metal.ore": {
+          "Need": 500,
+          "Complete": 0
+        },
+        "loot-barrel": {
+          "Need": 20,
+          "Complete": 0
+        }
+      }
+    }
+  },
+  "saveStamp": 1674818202,
+  "lastStorage": "json"
+}

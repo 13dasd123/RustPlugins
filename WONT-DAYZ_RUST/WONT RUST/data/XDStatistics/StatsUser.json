@@ -1,0 +1,384 @@
+{
+  "76561198836398984": {
+    "Name": "[56] ADADADADADADADADAD",
+    "HidedStatistics": false,
+    "Score": 778.402649,
+    "harvesting": {
+      "HarvestingList": {},
+      "AllHarvesting": 0
+    },
+    "otherStat": {
+      "CrateOpen": 18,
+      "BarrelDeath": 18,
+      "AllCraft": 560,
+      "BuildingCrate": 158,
+      "AnimalsKill": 3
+    },
+    "explosion": {
+      "ExplosionUsed": {
+        "explosive.timed": 177,
+        "explosive.satchel": 0,
+        "grenade.beancan": 0,
+        "grenade.f1": 1,
+        "ammo.rocket.basic": 0,
+        "ammo.rocket.hv": 0,
+        "ammo.rocket.fire": 0,
+        "ammo.rifle.explosive": 0
+      },
+      "AllExplosionUsed": 178
+    },
+    "gather": {
+      "GatheredTotal": {
+        "wood": 50,
+        "stones": 24100,
+        "metal.ore": 24000,
+        "sulfur.ore": 12000,
+        "hq.metal.ore": 80,
+        "scrap": 22
+      },
+      "AllGathered": 60252
+    },
+    "weapon": {
+      "WeaponUsed": {
+        "mace.baseballbat": {
+          "Kills": 0,
+          "Headshots": 2,
+          "Shots": 2
+        },
+        "jackhammer": {
+          "Kills": 0,
+          "Headshots": 0,
+          "Shots": 1
+        }
+      }
+    },
+    "pVP": {
+      "Kills": 0,
+      "KillsNpc": 0,
+      "Deaths": 10,
+      "Suicides": 2,
+      "Shots": 5,
+      "Headshots": 2,
+      "HeliKill": 0,
+      "BradleyKill": 0
+    },
+    "playedTime": {
+      "DayNumber": "02/15/2023",
+      "PlayedForWipe": 495,
+      "PlayedToday": 243
+    }
+  },
+  "76561199420437841": {
+    "Name": "[1212] dorevel",
+    "HidedStatistics": false,
+    "Score": 352.502167,
+    "harvesting": {
+      "HarvestingList": {
+        "mushroom": 2,
+        "cloth": 10
+      },
+      "AllHarvesting": 12
+    },
+    "otherStat": {
+      "CrateOpen": 16,
+      "BarrelDeath": 12,
+      "AllCraft": 2,
+      "BuildingCrate": 12,
+      "AnimalsKill": 13
+    },
+    "explosion": {
+      "ExplosionUsed": {
+        "explosive.timed": 30,
+        "explosive.satchel": 0,
+        "grenade.beancan": 0,
+        "grenade.f1": 19,
+        "ammo.rocket.basic": 6,
+        "ammo.rocket.hv": 24,
+        "ammo.rocket.fire": 0,
+        "ammo.rifle.explosive": 0
+      },
+      "AllExplosionUsed": 79
+    },
+    "gather": {
+      "GatheredTotal": {
+        "wood": 0,
+        "stones": 16000,
+        "metal.ore": 0,
+        "sulfur.ore": 2400,
+        "hq.metal.ore": 0,
+        "scrap": 66
+      },
+      "AllGathered": 18466
+    },
+    "weapon": {
+      "WeaponUsed": {
+        "pistol.prototype17": {
+          "Kills": 0,
+          "Headshots": 6,
+          "Shots": 16
+        },
+        "crossbow": {
+          "Kills": 0,
+          "Headshots": 1,
+          "Shots": 7
+        },
+        "grenade.f1": {
+          "Kills": 2,
+          "Headshots": 0,
+          "Shots": 1
+        },
+        "icepick.salvaged": {
+          "Kills": 0,
+          "Headshots": 1,
+          "Shots": 0
+        },
+        "explosive.timed": {
+          "Kills": 2,
+          "Headshots": 0,
+          "Shots": 1
+        },
+        "hmlmg": {
+          "Kills": 0,
+          "Headshots": 1,
+          "Shots": 0
+        },
+        "rifle.ak": {
+          "Kills": 0,
+          "Headshots": 7,
+          "Shots": 8
+        },
+        "spear.wooden": {
+          "Kills": 0,
+          "Headshots": 1,
+          "Shots": 0
+        }
+      }
+    },
+    "pVP": {
+      "Kills": 4,
+      "KillsNpc": 13,
+      "Deaths": 4,
+      "Suicides": 0,
+      "Shots": 41,
+      "Headshots": 17,
+      "HeliKill": 0,
+      "BradleyKill": 0
+    },
+    "playedTime": {
+      "DayNumber": "02/16/2023",
+      "PlayedForWipe": 634,
+      "PlayedToday": 113
+    }
+  },
+  "76561198260848142": {
+    "Name": "fxfx",
+    "HidedStatistics": false,
+    "Score": 58.40001,
+    "harvesting": {
+      "HarvestingList": {
+        "cloth": 170,
+        "mushroom": 8
+      },
+      "AllHarvesting": 178
+    },
+    "otherStat": {
+      "CrateOpen": 7,
+      "BarrelDeath": 3,
+      "AllCraft": 49,
+      "BuildingCrate": 0,
+      "AnimalsKill": 1
+    },
+    "explosion": {
+      "ExplosionUsed": {
+        "explosive.timed": 0,
+        "explosive.satchel": 0,
+        "grenade.beancan": 3,
+        "grenade.f1": 0,
+        "ammo.rocket.basic": 0,
+        "ammo.rocket.hv": 0,
+        "ammo.rocket.fire": 0,
+        "ammo.rifle.explosive": 0
+      },
+      "AllExplosionUsed": 3
+    },
+    "gather": {
+      "GatheredTotal": {
+        "wood": 6550,
+        "stones": 8050,
+        "metal.ore": 50,
+        "sulfur.ore": 0,
+        "hq.metal.ore": 0,
+        "scrap": 112
+      },
+      "AllGathered": 14762
+    },
+    "weapon": {
+      "WeaponUsed": {
+        "bow.hunting": {
+          "Kills": 1,
+          "Headshots": 2,
+          "Shots": 1
+        }
+      }
+    },
+    "pVP": {
+      "Kills": 1,
+      "KillsNpc": 0,
+      "Deaths": 1,
+      "Suicides": 0,
+      "Shots": 2,
+      "Headshots": 2,
+      "HeliKill": 0,
+      "BradleyKill": 0
+    },
+    "playedTime": {
+      "DayNumber": "02/14/2023",
+      "PlayedForWipe": 21,
+      "PlayedToday": 21
+    }
+  },
+  "76561199310118239": {
+    "Name": "kurushimu",
+    "HidedStatistics": false,
+    "Score": 200.89978,
+    "harvesting": {
+      "HarvestingList": {
+        "cloth": 10
+      },
+      "AllHarvesting": 10
+    },
+    "otherStat": {
+      "CrateOpen": 8,
+      "BarrelDeath": 2,
+      "AllCraft": 141,
+      "BuildingCrate": 39,
+      "AnimalsKill": 2
+    },
+    "explosion": {
+      "ExplosionUsed": {
+        "explosive.timed": 0,
+        "explosive.satchel": 0,
+        "grenade.beancan": 0,
+        "grenade.f1": 0,
+        "ammo.rocket.basic": 0,
+        "ammo.rocket.hv": 0,
+        "ammo.rocket.fire": 0,
+        "ammo.rifle.explosive": 0
+      },
+      "AllExplosionUsed": 0
+    },
+    "gather": {
+      "GatheredTotal": {
+        "wood": 0,
+        "stones": 0,
+        "metal.ore": 0,
+        "sulfur.ore": 0,
+        "hq.metal.ore": 0,
+        "scrap": 53
+      },
+      "AllGathered": 53
+    },
+    "weapon": {
+      "WeaponUsed": {
+        "pistol.nailgun": {
+          "Kills": 0,
+          "Headshots": 0,
+          "Shots": 0
+        },
+        "spear.wooden": {
+          "Kills": 0,
+          "Headshots": 3,
+          "Shots": 3
+        },
+        "rifle.ak": {
+          "Kills": 0,
+          "Headshots": 36,
+          "Shots": 48
+        },
+        "shotgun.waterpipe": {
+          "Kills": 0,
+          "Headshots": 6,
+          "Shots": 8
+        },
+        "pistol.eoka": {
+          "Kills": 0,
+          "Headshots": 5,
+          "Shots": 9
+        }
+      }
+    },
+    "pVP": {
+      "Kills": 0,
+      "KillsNpc": 0,
+      "Deaths": 3,
+      "Suicides": 0,
+      "Shots": 73,
+      "Headshots": 50,
+      "HeliKill": 0,
+      "BradleyKill": 0
+    },
+    "playedTime": {
+      "DayNumber": "02/15/2023",
+      "PlayedForWipe": 81,
+      "PlayedToday": 81
+    }
+  },
+  "76561198415422196": {
+    "Name": "King.",
+    "HidedStatistics": false,
+    "Score": -0.100000024,
+    "harvesting": {
+      "HarvestingList": {},
+      "AllHarvesting": 0
+    },
+    "otherStat": {
+      "CrateOpen": 3,
+      "BarrelDeath": 0,
+      "AllCraft": 0,
+      "BuildingCrate": 0,
+      "AnimalsKill": 0
+    },
+    "explosion": {
+      "ExplosionUsed": {
+        "explosive.timed": 0,
+        "explosive.satchel": 0,
+        "grenade.beancan": 0,
+        "grenade.f1": 0,
+        "ammo.rocket.basic": 0,
+        "ammo.rocket.hv": 0,
+        "ammo.rocket.fire": 0,
+        "ammo.rifle.explosive": 0
+      },
+      "AllExplosionUsed": 0
+    },
+    "gather": {
+      "GatheredTotal": {
+        "wood": 0,
+        "stones": 0,
+        "metal.ore": 0,
+        "sulfur.ore": 0,
+        "hq.metal.ore": 0,
+        "scrap": 24
+      },
+      "AllGathered": 24
+    },
+    "weapon": {
+      "WeaponUsed": {}
+    },
+    "pVP": {
+      "Kills": 0,
+      "KillsNpc": 0,
+      "Deaths": 1,
+      "Suicides": 1,
+      "Shots": 0,
+      "Headshots": 0,
+      "HeliKill": 0,
+      "BradleyKill": 0
+    },
+    "playedTime": {
+      "DayNumber": "02/16/2023",
+      "PlayedForWipe": 2,
+      "PlayedToday": 2
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "weapons": {
+    "Type": "weapons",
+    "Name": "Оружие",
+    "Images": "https://i.imgur.com/w9tvRY8.png",
+    "Description": "Описание",
+    "CoolDown": 43200,
+    "Items": [
+      {
+        "Shortname": "rifle.ak",
+        "Min": 1,
+        "Max": 1
+      }
+    ]
+  },
+  "resources": {
+    "Type": "resources",
+    "Name": "Ресурсы",
+    "Images": "https://i.imgur.com/w9tvRY8.png",
+    "Description": "Описание",
+    "CoolDown": 43200,
+    "Items": [
+      {
+        "Shortname": "rifle.ak",
+        "Min": 1,
+        "Max": 1
+      }
+    ]
+  }
+}

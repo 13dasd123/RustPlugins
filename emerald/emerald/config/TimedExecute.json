@@ -1,0 +1,21 @@
+{
+  "EnableInGameTime-Timer": false,
+  "EnableRealTime-Timer": false,
+  "EnableTimerOnce": false,
+  "EnableTimerRepeat": true,
+  "InGameTime-Timer": {},
+  "RealTime-Timer": {
+    "16:00:00": "command1 arg",
+    "16:30:00": "command2 arg",
+    "17:00:00": "command3 arg",
+    "18:00:00": "command4 arg"
+  },
+  "TimerOnce": {
+    "command1 'msg'": 60,
+    "command2 'msg'": 120
+  },
+  "TimerRepeat": {
+    "weather.fog 0": 1799,
+    "weather.clouds 0": 1799
+  }
+}

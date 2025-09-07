@@ -1,0 +1,21 @@
+{
+  "Drop on Death (true/false)": false,
+  "Erase on Death (true/false)": false,
+  "Use Blacklist (true/false)": false,
+  "Clear Backpacks on Map-Wipe (true/false)": true,
+  "Only Save Backpacks on Server-Save (true/false)": true,
+  "Blacklisted Items (Item Shortnames)": [
+    ""
+  ],
+  "GUI Button": {
+    "Image": "https://i.imgur.com/CyF0QNV.png",
+    "Background color (RGBA format)": "1 0.96 0.88 0.15",
+    "GUI Button Position": {
+      "Anchors Min": "0.15 0.0",
+      "Anchors Max": "0.15 0.0",
+      "Offsets Min": "180 18",
+      "Offsets Max": "250 78"
+    }
+  },
+  "Backpack Size (1-7 Rows)": 1
+}

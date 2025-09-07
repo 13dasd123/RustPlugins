@@ -1,0 +1,46 @@
+{
+  "76561198260848142": {
+    "Prefix": "chatplus.default",
+    "NameColor": "chatplus.default",
+    "MessageColor": "chatplus.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "fxfx",
+    "IsAdmin": false,
+    "IsModer": false,
+    "BlackList": []
+  },
+  "76561198836398984": {
+    "Prefix": "chatplus.default",
+    "NameColor": "chatplus.default",
+    "MessageColor": "chatplus.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "[56] ADADADADADADADADAD",
+    "IsAdmin": false,
+    "IsModer": false,
+    "BlackList": []
+  },
+  "76561199420437841": {
+    "Prefix": "chatplus.default",
+    "NameColor": "chatplus.default",
+    "MessageColor": "chatplus.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "[12] dorevel#WONTRUST",
+    "IsAdmin": false,
+    "IsModer": false,
+    "BlackList": []
+  },
+  "76561199310118239": {
+    "Prefix": "chatplus.default",
+    "NameColor": "chatplus.default",
+    "MessageColor": "chatplus.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "[123] kurushimu",
+    "IsAdmin": false,
+    "IsModer": false,
+    "BlackList": []
+  }
+}

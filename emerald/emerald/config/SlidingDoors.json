@@ -1,0 +1,14 @@
+{
+  "AutoDoor Settings": {
+    "AutoDoors Enabled": true,
+    "Default Length": 5.0
+  },
+  "Door Settings": {
+    "Door Speed Multiplier (Metal)": 1.0,
+    "Door Speed Multiplier (Scrap)": 1.0,
+    "Door Speed Multiplier (Wood)": 1.0,
+    "Enable For All Doors": false,
+    "Need Building Auth To Enable": true,
+    "Need Code Lock Auth To Enable": true
+  }
+}

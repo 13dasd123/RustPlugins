@@ -1,0 +1,10 @@
+{
+  "voteSuccess": "{msg}Вы проголосовали за пропуск ночи!</color>",
+  "noVote": "{msg}На данный момент голосование не запущено!</color>",
+  "alreadyOpen": "{msg}Голосование уже запущено!</color>",
+  "invalidSyntax": "{msg}Неправильный синтаксис!</color> {main}/voteday open</color>{msg} или </color> {main}/voteday close</color>",
+  "votingSuccessful": "{main}Голосование прошло успешно!</color>{msg} Ночь пропущена</color>",
+  "votingUnsuccessful": "{msg}Голосование не удалось! Слишком мало игроков проголосовало!</color>",
+  "commandSyn": "{msg}Введите </color>{main}/voteday</color>{msg}, если вы хотите пропустить ночь!\n-- Необходимо </color>{main}{percent}%</color>{msg} голосов от общего количества игроков</color>",
+  "skipNight": "Пропуcтить ночь"
+}

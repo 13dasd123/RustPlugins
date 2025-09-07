@@ -1,0 +1,26 @@
+{
+  "MapPlayerData": {
+    "76561198836398984": {
+      "Name": "ADADADADADADADADAD",
+      "Homes": false,
+      "Raid": false,
+      "AllRaids": false,
+      "Friends": false,
+      "Clans": false,
+      "Death": true,
+      "AllPlayers": false,
+      "Teams": false
+    },
+    "76561199420437841": {
+      "Name": "dorevel",
+      "Homes": false,
+      "Raid": false,
+      "AllRaids": false,
+      "Friends": false,
+      "Clans": false,
+      "Death": true,
+      "AllPlayers": false,
+      "Teams": false
+    }
+  }
+}

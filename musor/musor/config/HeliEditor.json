@@ -1,0 +1,16 @@
+{
+  "minicopter": {
+    "maxHealth": 800.0,
+    "invincible": false,
+    "blockExplosions": false,
+    "instantTakeoff": false,
+    "hydrophobic": false
+  },
+  "scrapheli": {
+    "maxHealth": 1500.0,
+    "invincible": false,
+    "blockExplosions": false,
+    "instantTakeoff": false,
+    "hydrophobic": false
+  }
+}

@@ -1,0 +1,607 @@
+{
+  "Common": [
+    {
+      "Wood": {
+        "ShortName": "wood",
+        "Min": 3000,
+        "Max": 10000
+      },
+      "Stone": {
+        "ShortName": "stones",
+        "Min": 5000,
+        "Max": 9000
+      },
+      "Metall": {
+        "ShortName": "metal.fragments",
+        "Min": 1000,
+        "Max": 5000
+      },
+      "Charcoal": {
+        "ShortName": "charcoal",
+        "Min": 2500,
+        "Max": 10000
+      },
+      "Fuel": {
+        "ShortName": "lowgradefuel",
+        "Min": 100,
+        "Max": 500
+      }
+    },
+    {
+      "Wood": {
+        "ShortName": "wood",
+        "Min": 5000,
+        "Max": 15000
+      },
+      "Stone": {
+        "ShortName": "stones",
+        "Min": 9000,
+        "Max": 20000
+      },
+      "Metall": {
+        "ShortName": "metal.fragments",
+        "Min": 2500,
+        "Max": 10000
+      },
+      "Charcoal": {
+        "ShortName": "charcoal",
+        "Min": 5000,
+        "Max": 15000
+      },
+      "Fuel": {
+        "ShortName": "lowgradefuel",
+        "Min": 250,
+        "Max": 900
+      },
+      "HQMetall": {
+        "ShortName": "metal.refined",
+        "Min": 50,
+        "Max": 150
+      }
+    },
+    {
+      "Wood": {
+        "ShortName": "wood",
+        "Min": 8000,
+        "Max": 25000
+      },
+      "Stone": {
+        "ShortName": "stones",
+        "Min": 15000,
+        "Max": 32000
+      },
+      "Metall": {
+        "ShortName": "metal.fragments",
+        "Min": 5000,
+        "Max": 15000
+      },
+      "Charcoal": {
+        "ShortName": "charcoal",
+        "Min": 7000,
+        "Max": 23000
+      },
+      "Fuel": {
+        "ShortName": "lowgradefuel",
+        "Min": 350,
+        "Max": 1200
+      },
+      "HQMetall": {
+        "ShortName": "metal.refined",
+        "Min": 150,
+        "Max": 400
+      },
+      "Sulfur": {
+        "ShortName": "sulfur",
+        "Min": 1000,
+        "Max": 3500
+      }
+    },
+    {
+      "Wood": {
+        "ShortName": "wood",
+        "Min": 15000,
+        "Max": 35000
+      },
+      "Stone": {
+        "ShortName": "stones",
+        "Min": 40000,
+        "Max": 70000
+      },
+      "Metall": {
+        "ShortName": "metal.fragments",
+        "Min": 10000,
+        "Max": 25000
+      },
+      "Charcoal": {
+        "ShortName": "charcoal",
+        "Min": 20000,
+        "Max": 40000
+      },
+      "Fuel": {
+        "ShortName": "lowgradefuel",
+        "Min": 500,
+        "Max": 1500
+      },
+      "HQMetall": {
+        "ShortName": "metal.refined",
+        "Min": 250,
+        "Max": 600
+      },
+      "Sulfur": {
+        "ShortName": "sulfur",
+        "Min": 2500,
+        "Max": 6000
+      },
+      "GunPow": {
+        "ShortName": "gunpowder",
+        "Min": 1000,
+        "Max": 3000
+      }
+    },
+    {
+      "Wood": {
+        "ShortName": "wood",
+        "Min": 25000,
+        "Max": 50000
+      },
+      "Stone": {
+        "ShortName": "stones",
+        "Min": 50000,
+        "Max": 80000
+      },
+      "Metall": {
+        "ShortName": "metal.fragments",
+        "Min": 15000,
+        "Max": 35000
+      },
+      "Charcoal": {
+        "ShortName": "charcoal",
+        "Min": 30000,
+        "Max": 50000
+      },
+      "Fuel": {
+        "ShortName": "lowgradefuel",
+        "Min": 750,
+        "Max": 1750
+      },
+      "HQMetall": {
+        "ShortName": "metal.refined",
+        "Min": 350,
+        "Max": 700
+      },
+      "Sulfur": {
+        "ShortName": "sulfur",
+        "Min": 3500,
+        "Max": 7000
+      },
+      "GunPow": {
+        "ShortName": "gunpowder",
+        "Min": 2000,
+        "Max": 5000
+      },
+      "Explosives": {
+        "ShortName": "explosives",
+        "Min": 70,
+        "Max": 150
+      }
+    },
+    {
+      "Wood": {
+        "ShortName": "wood",
+        "Min": 35000,
+        "Max": 70000
+      },
+      "Stone": {
+        "ShortName": "stones",
+        "Min": 70000,
+        "Max": 100000
+      },
+      "Metall": {
+        "ShortName": "metal.fragments",
+        "Min": 20000,
+        "Max": 40000
+      },
+      "Charcoal": {
+        "ShortName": "charcoal",
+        "Min": 40000,
+        "Max": 60000
+      },
+      "Fuel": {
+        "ShortName": "lowgradefuel",
+        "Min": 1000,
+        "Max": 2000
+      },
+      "HQMetall": {
+        "ShortName": "metal.refined",
+        "Min": 500,
+        "Max": 900
+      },
+      "Sulfur": {
+        "ShortName": "sulfur",
+        "Min": 5000,
+        "Max": 10000
+      },
+      "GunPow": {
+        "ShortName": "gunpowder",
+        "Min": 4000,
+        "Max": 7000
+      },
+      "Explosives": {
+        "ShortName": "explosives",
+        "Min": 100,
+        "Max": 250
+      }
+    },
+    {
+      "Wood": {
+        "ShortName": "wood",
+        "Min": 50000,
+        "Max": 90000
+      },
+      "Stone": {
+        "ShortName": "stones",
+        "Min": 90000,
+        "Max": 130000
+      },
+      "Metall": {
+        "ShortName": "metal.fragments",
+        "Min": 25000,
+        "Max": 47000
+      },
+      "Charcoal": {
+        "ShortName": "charcoal",
+        "Min": 50000,
+        "Max": 70000
+      },
+      "Fuel": {
+        "ShortName": "lowgradefuel",
+        "Min": 1300,
+        "Max": 2500
+      },
+      "HQMetall": {
+        "ShortName": "metal.refined",
+        "Min": 700,
+        "Max": 1200
+      },
+      "Sulfur": {
+        "ShortName": "sulfur",
+        "Min": 10000,
+        "Max": 20000
+      },
+      "GunPow": {
+        "ShortName": "gunpowder",
+        "Min": 7000,
+        "Max": 15000
+      },
+      "Explosives": {
+        "ShortName": "explosives",
+        "Min": 250,
+        "Max": 400
+      }
+    }
+  ],
+  "Rare": [
+    {
+      "WoodGates": {
+        "ShortName": "gates.external.high.wood",
+        "Min": 1,
+        "Max": 1
+      },
+      "WoodWall": {
+        "ShortName": "wall.external.high",
+        "Min": 2,
+        "Max": 3
+      },
+      "MetallBarricade": {
+        "ShortName": "barricade.metal",
+        "Min": 2,
+        "Max": 3
+      }
+    },
+    {
+      "StoneWall": {
+        "ShortName": "wall.external.high.stone",
+        "Min": 2,
+        "Max": 3
+      },
+      "StoneGate": {
+        "ShortName": "gates.external.high.stone",
+        "Min": 1,
+        "Max": 1
+      },
+      "P250": {
+        "ShortName": "pistol.semiauto",
+        "Min": 1,
+        "Max": 1
+      },
+      "Python": {
+        "ShortName": "pistol.python",
+        "Min": 1,
+        "Max": 1
+      }
+    },
+    {
+      "GunPow": {
+        "ShortName": "gunpowder",
+        "Min": 500,
+        "Max": 2000
+      },
+      "Explosives": {
+        "ShortName": "explosives",
+        "Min": 10,
+        "Max": 40
+      },
+      "Smg": {
+        "ShortName": "smg.2",
+        "Min": 1,
+        "Max": 1
+      },
+      "SmgMp5": {
+        "ShortName": "smg.mp5",
+        "Min": 1,
+        "Max": 1
+      }
+    },
+    {
+      "Explosives": {
+        "ShortName": "explosives",
+        "Min": 40,
+        "Max": 100
+      },
+      "Thompson": {
+        "ShortName": "smg.thompson",
+        "Min": 1,
+        "Max": 1
+      },
+      "Bolt": {
+        "ShortName": "rifle.bolt",
+        "Min": 1,
+        "Max": 1
+      },
+      "B4": {
+        "ShortName": "explosive.satchel",
+        "Min": 4,
+        "Max": 11
+      }
+    },
+    {
+      "AmmoRifle": {
+        "ShortName": "ammo.rifle",
+        "Min": 90,
+        "Max": 150
+      },
+      "Bolt": {
+        "ShortName": "rifle.bolt",
+        "Min": 1,
+        "Max": 1
+      },
+      "LR300": {
+        "ShortName": "rifle.lr300",
+        "Min": 1,
+        "Max": 1
+      },
+      "Ak": {
+        "ShortName": "rifle.ak",
+        "Min": 1,
+        "Max": 1
+      },
+      "Mask": {
+        "ShortName": "metal.facemask",
+        "Min": 1,
+        "Max": 1
+      },
+      "B4": {
+        "ShortName": "explosive.satchel",
+        "Min": 8,
+        "Max": 17
+      }
+    },
+    {
+      "AmmoRifle": {
+        "ShortName": "ammo.rifle",
+        "Min": 60,
+        "Max": 120
+      },
+      "Bolt": {
+        "ShortName": "rifle.bolt",
+        "Min": 1,
+        "Max": 1
+      },
+      "LR300": {
+        "ShortName": "rifle.lr300",
+        "Min": 1,
+        "Max": 1
+      },
+      "Ak": {
+        "ShortName": "rifle.ak",
+        "Min": 1,
+        "Max": 1
+      },
+      "C4": {
+        "ShortName": "explosive.timed",
+        "Min": 2,
+        "Max": 4
+      },
+      "B4": {
+        "ShortName": "explosive.satchel",
+        "Min": 6,
+        "Max": 13
+      }
+    },
+    {
+      "AmmoRifle": {
+        "ShortName": "ammo.rifle",
+        "Min": 150,
+        "Max": 240
+      },
+      "Bolt": {
+        "ShortName": "rifle.bolt",
+        "Min": 1,
+        "Max": 1
+      },
+      "LR300": {
+        "ShortName": "rifle.lr300",
+        "Min": 1,
+        "Max": 1
+      },
+      "Ak": {
+        "ShortName": "rifle.ak",
+        "Min": 1,
+        "Max": 1
+      },
+      "Launcher": {
+        "ShortName": "rocket.launcher",
+        "Min": 1,
+        "Max": 1
+      },
+      "M249": {
+        "ShortName": "lmg.m249",
+        "Min": 1,
+        "Max": 1
+      }
+    }
+  ],
+  "Top": [
+    {
+      "DoorHQ": {
+        "ShortName": "door.hinged.toptier",
+        "Min": 1,
+        "Max": 1
+      },
+      "DdoorHQ": {
+        "ShortName": "door.double.hinged.toptier",
+        "Min": 1,
+        "Max": 2
+      },
+      "p250": {
+        "ShortName": "pistol.semiauto",
+        "Min": 1,
+        "Max": 1
+      }
+    },
+    {
+      "Pomp": {
+        "ShortName": "shotgun.pump",
+        "Min": 1,
+        "Max": 1
+      },
+      "B4": {
+        "ShortName": "explosive.satchel",
+        "Min": 1,
+        "Max": 4
+      },
+      "m92": {
+        "ShortName": "pistol.m92",
+        "Min": 1,
+        "Max": 1
+      }
+    },
+    {
+      "Thompson": {
+        "ShortName": "smg.thompson",
+        "Min": 1,
+        "Max": 1
+      },
+      "Ak": {
+        "ShortName": "rifle.ak",
+        "Min": 1,
+        "Max": 1
+      },
+      "B4": {
+        "ShortName": "explosive.satchel",
+        "Min": 3,
+        "Max": 9
+      }
+    },
+    {
+      "C4": {
+        "ShortName": "explosive.timed",
+        "Min": 1,
+        "Max": 3
+      },
+      "LR300": {
+        "ShortName": "rifle.lr300",
+        "Min": 1,
+        "Max": 1
+      },
+      "Plate": {
+        "ShortName": "metal.plate.torso",
+        "Min": 1,
+        "Max": 1
+      }
+    },
+    {
+      "C4": {
+        "ShortName": "explosive.timed",
+        "Min": 3,
+        "Max": 5
+      },
+      "Launcher": {
+        "ShortName": "rocket.launcher",
+        "Min": 1,
+        "Max": 1
+      },
+      "M249": {
+        "ShortName": "lmg.m249",
+        "Min": 1,
+        "Max": 1
+      }
+    },
+    {
+      "C4": {
+        "ShortName": "explosive.timed",
+        "Min": 7,
+        "Max": 10
+      },
+      "LauncherRocket": {
+        "ShortName": "ammo.rocket.basic",
+        "Min": 4,
+        "Max": 11
+      },
+      "M249": {
+        "ShortName": "lmg.m249",
+        "Min": 1,
+        "Max": 1
+      }
+    },
+    {
+      "C4": {
+        "ShortName": "explosive.timed",
+        "Min": 10,
+        "Max": 15
+      },
+      "LauncherRocket": {
+        "ShortName": "ammo.rocket.basic",
+        "Min": 15,
+        "Max": 35
+      },
+      "B4": {
+        "ShortName": "explosive.satchel",
+        "Min": 19,
+        "Max": 31
+      }
+    }
+  ],
+  "RadiationRadius": [
+    {
+      "Радиус радиации в первый день": 10.0,
+      "Радиус радиации во второй день": 12.0,
+      "Радиус радиации в третий день": 14.0,
+      "Радиус радиации в четвертый день": 16.0,
+      "Радиус радиации в пятый день": 18.0,
+      "Радиус радиации в шестой день": 20.0,
+      "Радиус радиации в седьмой день": 20.0
+    }
+  ],
+  "RadiationIntensity": [
+    {
+      "Радиация в первый день": 10.0,
+      "Радиация во второй день": 15.0,
+      "Радиация в третий день": 20.0,
+      "Радиация в четвертый день": 25.0,
+      "Радиация в пятый день": 30.0,
+      "Радиация в шестой день": 35.0,
+      "Радиация в седьмой день": 40.0
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "Restrict build height (true/false)": true,
+  "Maximum build height": 15,
+  "Restrict foundations (true/false)": true,
+  "Maximum foundations": 80,
+  "Maximum triangle foundations": 80,
+  "Restrict tool cupboards (true/false)": true,
+  "Maximum tool cupboards": 1,
+  "Restrict water depth (true/false)": true,
+  "Maximum water depth": 2.0,
+  "Refund resources when restricted": true
+}

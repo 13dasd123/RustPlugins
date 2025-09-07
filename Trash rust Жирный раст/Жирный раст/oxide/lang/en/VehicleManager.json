@@ -1,0 +1,18 @@
+{
+  "rhib": "RHIB",
+  "minicopter": "MiniCopter",
+  "boat": "Boat",
+  "balloon": "Air balloon",
+  "sedan": "Car",
+  "horse": "Horse",
+  "scraptransportheli": "Transport Helicopter",
+  "ch47": "Chinook",
+  "ConsoleSyntax": "Syntax: vehicle.give <steamid|username> <{0}> [shortname]",
+  "PlayerNotFound": "Player '{0}' not found!",
+  "VehicleNotFound": "Vehicle '{0}' not found!",
+  "ShortnameNotFound": "Item shortname '{0}' not found!",
+  "SuccessfullyGive": "Transport '{0}' successfully give to '{1}'",
+  "2module_car": "Small chassis",
+  "3module_car": "Medium chassis",
+  "4module_car": "Large chassis"
+}

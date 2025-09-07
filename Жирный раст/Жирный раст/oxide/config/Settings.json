@@ -1,0 +1,100 @@
+{
+  "colorConfig": {
+    "gradientColor": "#00000099",
+    "menuContentHighlighting": "#0000007f",
+    "menuContentHighlightingalternative": "#FFFFFF10"
+  },
+  "pluginSettings": {
+    //"0": {
+    //  "command": "friend codelock",
+    //  "commandDescription": "Авторизация друзей в шкафу/замках - /friend codelock",
+    //  "isChecked": false,
+    //  "onlyOne": true,
+    //  "subSettings": {
+    //  }
+    //},
+    //"1": {
+    //  "command": "friend turret",
+    //  "commandDescription": "Авторизация друзей в туррелях - /friend turret",
+    //  "isChecked": false,
+    //  "onlyOne": false,
+    //  "subSettings": {
+    //  }
+    //},
+    //"2": {
+    //  "command": "friend ff",
+    //  "commandDescription": "Включить/Отключить нанесение урона по друзьям - /friend ff",
+    //  "isChecked": false,
+    //  "onlyOne": false,
+    //  "subSettings": {
+    //	}
+    //},
+    //"3": {
+    //  "command": "grass",
+    //  "commandDescription": "Включить/Отключить траву на сервере (Процедурка без травы)",
+    //  "isChecked": false,
+    //  "onlyOne": false,
+    //  "subSettings": {
+    // 	}
+    //},
+    "0": {
+      "command": "",
+      "commandDescription": "Настройки вашего ника в чате:",
+      "isChecked": true,
+      "onlyOne": true,
+      "subSettings": {
+        "0": {
+          "command": "set %STEAMID% nick iqchat.default",
+          "commandDescription": "Изменить цвет ника на <color=#F24525>КРАСНЫЙ</color>",
+          "isChecked": true,
+          "onlyOne": false,
+          "subSettings": null
+        },
+        "1": {
+          "command": "set %STEAMID% nick iqchat.yellow",
+          "commandDescription": "Изменить цвет ника на <color=#FFAA00>ЖЕЛТЫЙ</color>",
+          "isChecked": false,
+          "onlyOne": false,
+          "subSettings": null
+        },
+        "2": {
+          "command": "set %STEAMID% nick iqchat.blue",
+          "commandDescription": "Изменить цвет ника на <color=#83CBFF>СИНИЙ</color>",
+          "isChecked": false,
+          "onlyOne": false,
+          "subSettings": null
+        },
+        "3": {
+          "command": "set %STEAMID% nick iqchat.green",
+          "commandDescription": "Изменить цвет ника на <color=#7FAA00>ЗЕЛЁНЫЙ</color>",
+          "isChecked": false,
+          "onlyOne": false,
+          "subSettings": null
+        },
+        "4": {
+          "command": "set %STEAMID% nick iqchat.white",
+          "commandDescription": "Изменить цвет ника на <color=#FFFFFF>БЕЛЫЙ</color>",
+          "isChecked": false,
+          "onlyOne": false,
+          "subSettings": null
+        }
+      }
+    },
+    "1": {
+      "command": "chat.say /crosshair",
+      "commandDescription": "Включить/Выключить прицел (точка по центру)",
+      "isChecked": false,
+      "onlyOne": false,
+      "subSettings": {
+      }
+    },
+	"2": {
+      "command": "chat.say /ad",
+      "commandDescription": "Включить/Выключить автоматическое закрытие дверей",
+      "isChecked": true,
+      "onlyOne": false,
+      "subSettings": {
+      }
+    },
+  }
+}

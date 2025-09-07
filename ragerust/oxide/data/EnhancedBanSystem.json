@@ -1,0 +1,7 @@
+{
+  "Banlist": [
+    "{\n  \"id\": 95,\n  \"steamid\": \"76561199184466178\",\n  \"ip\": \"188.227.10.200\",\n  \"name\": \"bubuka\",\n  \"game\": \"Rust\",\n  \"server\": \"1.1.1.1:28015\",\n  \"source\": \"Server Console\",\n  \"date\": 1676036765.3685808,\n  \"expire\": 0.0,\n  \"reason\": \"ждем на янг расте\",\n  \"platform\": \"Steam\"\n}",
+    "{\n  \"id\": 96,\n  \"steamid\": \"76561199091785584\",\n  \"ip\": \"46.146.26.85\",\n  \"name\": \"Aquma - איך ליבע\",\n  \"game\": \"Rust\",\n  \"server\": \"1.1.1.1:28015\",\n  \"source\": \"Server Console\",\n  \"date\": 1676036786.9859309,\n  \"expire\": 0.0,\n  \"reason\": \"ddos(sps za adminky,byadam4ik)\",\n  \"platform\": \"Steam\"\n}",
+    "{\n  \"id\": 97,\n  \"steamid\": \"76561198847044695\",\n  \"ip\": \"37.144.210.150\",\n  \"name\": \"Samodovolnый\",\n  \"game\": \"Rust\",\n  \"server\": \"1.1.1.1:28015\",\n  \"source\": \"Server Console\",\n  \"date\": 1676036828.1876609,\n  \"expire\": 0.0,\n  \"reason\": \"sps za adminky(byadam4ik)\",\n  \"platform\": \"Steam\"\n}"
+  ]
+}

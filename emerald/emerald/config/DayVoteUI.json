@@ -1,0 +1,15 @@
+{
+  "Colors": {
+    "MainColor": "#EBB146",
+    "MSGColor": "#939393",
+    "ProgressBarColor": "#EBB146",
+    "UIBackgroundAlpha": 0.7,
+    "UIBackgroundColor": "#4C4C4C"
+  },
+  "Options": {
+    "RequiredVotePercentage": 0.4,
+    "TimeToOpen": 18.0,
+    "TimeToSet": 9.0,
+    "VoteOpenTime": 120
+  }
+}

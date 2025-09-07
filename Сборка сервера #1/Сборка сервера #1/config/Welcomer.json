@@ -1,0 +1,14 @@
+{
+  "Message - Welcome - Enabled": true,
+  "Message - Join - Enabled": false,
+  "Message - Leave - Enabled": false,
+  "Chat Icon (SteamID64)": 1,
+  "Display Players Steam Avatar - Enabled": false,
+  "Print To Console - Enabled": false,
+  "Custom Welcome Messages": [
+    {
+      "Steam ID": 1,
+      "Message": "<size=12>Меню сервера <color=#EBD4AE>/menu</color>\nБесплатная посылка <color=#EBD4AE>eternityrust.online</color></size>"
+    }
+  ]
+}

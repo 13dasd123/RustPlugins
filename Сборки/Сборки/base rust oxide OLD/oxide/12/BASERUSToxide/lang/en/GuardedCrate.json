@@ -1,0 +1,9 @@
+{
+  "InvalidSyntax": "gc start|stop",
+  "Permission": "No permission",
+  "CreateEvent": "<color=#DC143C>Base Rust</color>: Новый ивент денежный крейт запущен!!!",
+  "CleanEvents": "<color=#DC143C>Base Rust</color>: Очистка ивента.",
+  "EventStarted": "<color=#DC143C>Base Rust</color>: Идёт ивент денежный крейт!!! Убейте всех и получите очки клана и монетки залутавшему!!!\nКвадрат : {0}.",
+  "EventEnded": "<color=#DC143C>Base Rust</color>: Ивент залутан!",
+  "EventClear": "<color=#DC143C>Base Rust</color>: Ивент закончился <color=#EDDf45>{0}</color>; Никто не успел("
+}

@@ -1,0 +1,12 @@
+{
+  "76561199068749577": {
+    "Enabled": true,
+    "UpdateTime": 0.01,
+    "PlayerDistance": 20000,
+    "ShowAdmins": true,
+    "DrawNames": true,
+    "DrawBoxes": true,
+    "DrawEyeLine": true,
+    "EyeLineDistance": 500
+  }
+}

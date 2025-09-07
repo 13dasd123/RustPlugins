@@ -1,0 +1,13 @@
+{
+  "Settings": {
+    "Covert Name and SteamID(for profile pic)": {
+      "RandomPlayerName1": "76561198381967577",
+      "RandomPlayerName2": "76561198381967577"
+    },
+    "Covert Name Colour": "#54A7FB",
+    "Disable Admin Abilities": false,
+    "Disable On Logout": true,
+    "Message Size": "15",
+    "Tags": ""
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "List": [
+    {
+      "Permission": "bedscooldowns.default",
+      "Priority": 1,
+      "Sleeping bag cooldown": 70.0,
+      "Bed cooldown": 45.0,
+      "Sleeping bag unlock time": 50.0,
+      "Bed unlock time": 50.0
+    },
+    {
+      "Permission": "bedscooldowns.TARIFISHE",
+      "Priority": 1,
+      "Sleeping bag cooldown": 60.0,
+      "Bed cooldown": 35.0,
+      "Sleeping bag unlock time": 50.0,
+      "Bed unlock time": 50.0
+    },
+    {
+      "Permission": "bedscooldowns.BEZLEMITISHE",
+      "Priority": 2,
+      "Sleeping bag cooldown": 75.0,
+      "Bed cooldown": 25.0,
+      "Sleeping bag unlock time": 50.0,
+      "Bed unlock time": 50.0
+    },
+    {
+      "Permission": "bedscooldowns.NETARIF",
+      "Priority": 3,
+      "Sleeping bag cooldown": 45.0,
+      "Bed cooldown": 10.0,
+      "Sleeping bag unlock time": 50.0,
+      "Bed unlock time": 50.0
+    }
+  ]
+}

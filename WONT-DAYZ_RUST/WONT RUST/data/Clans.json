@@ -1,0 +1,323 @@
+{
+  "clans": {
+    "56": {
+      "ClanPoints": 0,
+      "KilledTCAll": 0,
+      "CupCount": 0,
+      "raidpoint": 0,
+      "Farm": 0,
+      "KillC": 0,
+      "DeathC": 0,
+      "SuicideC": 0,
+      "pvo": 0,
+      "cups": -1,
+      "turret": 0,
+      "obj": -1,
+      "tag": "56",
+      "description": "",
+      "owner": "76561198836398984",
+      "ownerName": "ADADADADADADADADAD",
+      "ClanAvatar": "",
+      "council": null,
+      "created": 1676746106,
+      "updated": 1676799283,
+      "moderators": [],
+      "members": {
+        "76561198836398984": {
+          "PlayerPoints": 0,
+          "Killed": 0,
+          "Death": 0,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        }
+      },
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": [],
+      "SkinList": {
+        "wear": {
+          "metal.facemask": 0,
+          "metal.plate.torso": 0,
+          "roadsign.kilt": 0,
+          "hoodie": 0,
+          "pants": 0,
+          "shoes.boots": 0
+        },
+        "weapon": {
+          "rifle.ak": 0
+        }
+      },
+      "Change": {
+        "wood": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "metal.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "stones": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "sulfur.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "fat.animal": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "cloth": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "leather": {
+          "Need": 100,
+          "Complete": 0
+        },
+        "hq.metal.ore": {
+          "Need": 500,
+          "Complete": 0
+        },
+        "loot-barrel": {
+          "Need": 20,
+          "Complete": 0
+        }
+      }
+    },
+    "LOLIPOP": {
+      "ClanPoints": 0,
+      "KilledTCAll": 0,
+      "CupCount": 0,
+      "raidpoint": 0,
+      "Farm": 0,
+      "KillC": 0,
+      "DeathC": 0,
+      "SuicideC": 0,
+      "pvo": 0,
+      "cups": 0,
+      "turret": 0,
+      "obj": 0,
+      "tag": "LOLIPOP",
+      "description": "",
+      "owner": "76561198408556122",
+      "ownerName": ".siga x xyesos:)",
+      "ClanAvatar": "",
+      "council": null,
+      "created": 1676728499,
+      "updated": 1676728499,
+      "moderators": [],
+      "members": {
+        "76561198408556122": {
+          "PlayerPoints": 0,
+          "Killed": 0,
+          "Death": 0,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        }
+      },
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": [],
+      "SkinList": {
+        "wear": {
+          "metal.facemask": 0,
+          "metal.plate.torso": 0,
+          "roadsign.kilt": 0,
+          "hoodie": 0,
+          "pants": 0,
+          "shoes.boots": 0
+        },
+        "weapon": {
+          "rifle.ak": 0
+        }
+      },
+      "Change": {
+        "wood": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "metal.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "stones": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "sulfur.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "fat.animal": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "cloth": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "leather": {
+          "Need": 100,
+          "Complete": 0
+        },
+        "hq.metal.ore": {
+          "Need": 500,
+          "Complete": 0
+        },
+        "loot-barrel": {
+          "Need": 20,
+          "Complete": 0
+        }
+      }
+    },
+    "12": {
+      "ClanPoints": -1,
+      "KilledTCAll": 0,
+      "CupCount": 0,
+      "raidpoint": 0,
+      "Farm": 0,
+      "KillC": 0,
+      "DeathC": 0,
+      "SuicideC": 1,
+      "pvo": 0,
+      "cups": 0,
+      "turret": 0,
+      "obj": 8,
+      "tag": "12",
+      "description": "",
+      "owner": "76561199420437841",
+      "ownerName": "dorevel",
+      "ClanAvatar": "",
+      "council": null,
+      "created": 1676799376,
+      "updated": 1676828617,
+      "moderators": [],
+      "members": {
+        "76561199420437841": {
+          "PlayerPoints": -1,
+          "Killed": 0,
+          "Death": 0,
+          "Suicide": 1,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        }
+      },
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": [],
+      "SkinList": {
+        "wear": {
+          "metal.facemask": 2642930784,
+          "metal.plate.torso": 2642929746,
+          "roadsign.kilt": 2469019097,
+          "hoodie": 2562665334,
+          "pants": 2562666817,
+          "shoes.boots": 2932448101,
+          "coffeecan.helmet": 2503956851,
+          "roadsign.jacket": 2503955663
+        },
+        "weapon": {
+          "rifle.ak": 2536316473
+        }
+      },
+      "Change": {
+        "wood": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "metal.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "stones": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "sulfur.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "fat.animal": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "cloth": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "leather": {
+          "Need": 100,
+          "Complete": 0
+        },
+        "hq.metal.ore": {
+          "Need": 500,
+          "Complete": 0
+        },
+        "loot-barrel": {
+          "Need": 20,
+          "Complete": 0
+        }
+      }
+    }
+  },
+  "saveStamp": 1676828654,
+  "lastStorage": "json"
+}

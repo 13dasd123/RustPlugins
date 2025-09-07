@@ -1,0 +1,16 @@
+# Ignore everything by default
+*
+
+# But not directories (so exceptions below work recursively)
+!*/
+
+# Keep repo control files
+!.gitignore
+!.gitattributes
+
+# Allow only C# source and JSON configs
+!*.cs
+!*.json
+
+# Never commit deploy keys
+.deploy_keys/

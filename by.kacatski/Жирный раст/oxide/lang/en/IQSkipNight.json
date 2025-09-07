@@ -1,0 +1,10 @@
+{
+  "UI_TITLE": "<size=15><b>SKIP NIGHT</b></size>",
+  "UI_YES": "<size=20>YES</size>",
+  "UI_NO": "<size=20>NO</size>",
+  "CHAT_VOTE_START": "Voting for the night has begun!",
+  "CHAT_VOTE_STOP_YES": "Voting for the night is over!\nThe night is missed",
+  "CHAT_VOTE_STOP_NO": "Voting for the night is over\nThe night is not missed",
+  "COMMAND_YES": "You have voted successfully to <color=#932424FF>PASS</color> the night",
+  "COMMAND_NO": "You have voted <color=#932424FF>AGAINST</color> skipping the night"
+}

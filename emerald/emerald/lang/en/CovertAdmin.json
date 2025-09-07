@@ -1,0 +1,10 @@
+{
+  "format": "<size={0}>{1} <color={2}>{3}</color>: {4}</size>",
+  "No Permission": "You cannot use this command",
+  "configerror": "Error in config, cannot read SteamID, Please check config for errors.",
+  "inputerror": "Error processing SteamID, please try again.",
+  "Covert Disabled": "Covert mode disabled",
+  "Covert Enabled": "Covert mode enabled! You will now appear under the name of \"{0}\"",
+  "Already In Covert": "You are already in covert mode",
+  "Login Warning": "Your covert mode is still activated! type /covert to disable it"
+}

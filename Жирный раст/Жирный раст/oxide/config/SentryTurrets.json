@@ -1,0 +1,11 @@
+{
+  "Can get damage": true,
+  "Required power": 0,
+  "Authorize friends and team members": true,
+  "Authorize tc members": true,
+  "Amount of ammo for one spray (set to 0 for no-ammo mode)": 3,
+  "Range (normal turret - 30": 60,
+  "Give back on ground missing": false,
+  "Health (normal turret - 1000)": 2000.0,
+  "Aim cone (normal turret - 4)": 2.0
+}

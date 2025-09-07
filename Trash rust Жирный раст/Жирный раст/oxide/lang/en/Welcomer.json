@@ -1,0 +1,9 @@
+{
+  "Welcome Message": "<size=17>Добро пожаловать на сервер: <color=#0099CC>ЖИРНЫЙ RUST</color></size>",
+  "Join Message": "<color=#37BC61>•</color> {0} <color=#37BC61>(<color=#37BC61>{1}</color>) присоединился к серверу</color>",
+  "Join Message Unknown": "<color=#37BC61>•</color> {0} <color=#37BC61>присоединился к серверу</color>",
+  "Leave Message": "<color=#FF4040>•</color> {0} <color=#FF4040>покинул сервер</color>",
+  "Join Message (Console)": "{0} присоединился к серверу из {1}",
+  "Join Message Unknown (Console)": "{0} присоединился к серверу",
+  "Leave Message (Console)": "{0} покинул сервер"
+}

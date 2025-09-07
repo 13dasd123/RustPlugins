@@ -1,0 +1,14 @@
+{
+  "turnon": "Вкличить",
+  "turnoff": "Выключить",
+  "title": " АВТОСОРТИРОВЩИК",
+  "eta": "ВРЕМЯ",
+  "totalstacks": "Всего стаков",
+  "trim": "Топливо",
+  "lootsource_invalid": "Текущий источник добычи недействителен",
+  "unsupported_furnace": "Неподдерживаемая печь",
+  "nopermission": "У вас нет разрешения на его использование",
+  "StatusONColor": "<color=green>ON</color>",
+  "StatusOFFColor": "<color=red>OFF</color>",
+  "StatusMessage": "Furnace Splitter status set to: "
+}

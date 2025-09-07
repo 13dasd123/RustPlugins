@@ -1,0 +1,2680 @@
+{
+  "76561198973460303": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198973460303,
+    "username": "S1kalok"
+  },
+  "76561198357924019": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198357924019,
+    "username": "бестолочь"
+  },
+  "76561198983823370": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198983823370,
+    "username": "харам шуе"
+  },
+  "76561198891928089": {
+    "cooldown": {
+      "HOME/ДОМ": 1614217033,
+      "resurce": 1614258065,
+      "med/медицина": 1614184273,
+      "TOOL": 1614183726
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198891928089,
+    "username": "bbqq"
+  },
+  "76561198876264016": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198876264016,
+    "username": "Alex2523"
+  },
+  "76561199037414565": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199037414565,
+    "username": "Sasha00"
+  },
+  "76561199006470461": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199006470461,
+    "username": "=) panochito JR =O"
+  },
+  "76561198851069678": {
+    "cooldown": {
+      "TOOL": 1614167558
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561198851069678,
+    "username": "Заноза#Жирный Rust"
+  },
+  "76561198827937940": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198827937940,
+    "username": "H ù n g"
+  },
+  "76561199074004131": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199074004131,
+    "username": "ElPaKa"
+  },
+  "76561199062657454": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199062657454,
+    "username": "lil чича"
+  },
+  "76561199137190403": {
+    "cooldown": {
+      "resurce": 1614250363,
+      "HOME/ДОМ": 1614210172,
+      "med/медицина": 1614190238,
+      "TOOL": 1614190239
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199137190403,
+    "username": "recetascocinacdp"
+  },
+  "76561199034062196": {
+    "cooldown": {
+      "HOME/ДОМ": 1614209977,
+      "resurce": 1614250617
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199034062196,
+    "username": "normpacas"
+  },
+  "76561199023566156": {
+    "cooldown": {
+      "HOME/ДОМ": 1614225192,
+      "med/медицина": 1614183985
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199023566156,
+    "username": "Woodman"
+  },
+  "76561198870889667": {
+    "cooldown": {
+      "resurce": 1614254113,
+      "HOME/ДОМ": 1614213915,
+      "TOOL": 1614181874
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198870889667,
+    "username": "samyrau"
+  },
+  "76561199121532195": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199121532195,
+    "username": "Ski4i"
+  },
+  "76561198922337064": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198922337064,
+    "username": "полтос"
+  },
+  "76561199136716032": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199136716032,
+    "username": "ᴜᴄʜɪʜᴀ-ꜱʜɪꜱᴜɪ"
+  },
+  "76561199058588019": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199058588019,
+    "username": "MomoRod"
+  },
+  "76561199144354304": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199144354304,
+    "username": "bengitplay"
+  },
+  "76561199134823364": {
+    "cooldown": {
+      "HOME/ДОМ": 1614212510,
+      "TOOL": 1614168282
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199134823364,
+    "username": "NiggaEatsAssie"
+  },
+  "76561199140947909": {
+    "cooldown": {
+      "HOME/ДОМ": 1614210148,
+      "TOOL": 1614178632,
+      "resurce": 1614250349
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199140947909,
+    "username": "danilgurkovskei"
+  },
+  "76561198953622775": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198953622775,
+    "username": "Mr.Mafi"
+  },
+  "76561199141544178": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199141544178,
+    "username": "НАБАЛДАШНИК"
+  },
+  "76561199144305181": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199144305181,
+    "username": "я ФЕЯ Винкс"
+  },
+  "76561198390475609": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198390475609,
+    "username": "IgorMax221"
+  },
+  "76561199010106587": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199010106587,
+    "username": "f0rest"
+  },
+  "76561199049478984": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199049478984,
+    "username": "Elon"
+  },
+  "76561198834718597": {
+    "cooldown": {
+      "HOME/ДОМ": 1614222503,
+      "resurce": 1614263539
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198834718597,
+    "username": "smauluk178"
+  },
+  "76561199123984091": {
+    "cooldown": {
+      "HOME/ДОМ": 1614224082,
+      "TOOL": 1614178483
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199123984091,
+    "username": "#RustBlueberry"
+  },
+  "76561198188138826": {
+    "cooldown": {
+      "resurce": 1614250052,
+      "HOME/ДОМ": 1614209853
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198188138826,
+    "username": "ОдИНоКиЙ_Волк"
+  },
+  "76561199092615177": {
+    "cooldown": {
+      "HOME/ДОМ": 1614210478,
+      "TOOL": 1614165709,
+      "resurce": 1614250755
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199092615177,
+    "username": "MarAn"
+  },
+  "76561198052529806": {
+    "cooldown": {
+      "TOOL": 1614164303
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 2,
+    "userid": 76561198052529806,
+    "username": "vlas03rus"
+  },
+  "76561198871890237": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198871890237,
+    "username": "Stariy DED"
+  },
+  "76561199143772186": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199143772186,
+    "username": "Stoffi_Zdesj"
+  },
+  "76561199144991678": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199144991678,
+    "username": "dolexon"
+  },
+  "76561198444942339": {
+    "cooldown": {
+      "HOME/ДОМ": 1614208909,
+      "TOOL": 1614163309,
+      "resurce": 1614249505
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198444942339,
+    "username": "POKAMOLODOY"
+  },
+  "76561199129178967": {
+    "cooldown": {
+      "resurce": 1614256062,
+      "HOME/ДОМ": 1614216090,
+      "TOOL": 1614183605
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199129178967,
+    "username": "rabbit"
+  },
+  "76561198859075170": {
+    "cooldown": {
+      "HOME/ДОМ": 1614211073
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198859075170,
+    "username": "ChErehNYa"
+  },
+  "76561199129352198": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199129352198,
+    "username": "Lucifer"
+  },
+  "76561198884264521": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198884264521,
+    "username": "sakshamsharma48"
+  },
+  "76561198941465636": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198941465636,
+    "username": "Billy miligan gamehag.com"
+  },
+  "76561199071031034": {
+    "cooldown": {
+      "HOME/ДОМ": 1614211382,
+      "resurce": 1614251848
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199071031034,
+    "username": "zeka3235"
+  },
+  "76561198356360483": {
+    "cooldown": {
+      "resurce": 1614251907,
+      "HOME/ДОМ": 1614211211,
+      "TOOL": 1614170001
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198356360483,
+    "username": "babyfrizzable"
+  },
+  "76561199008822039": {
+    "cooldown": {
+      "resurce": 1614250126,
+      "TOOL": 1614164327,
+      "HOME/ДОМ": 1614209928
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199008822039,
+    "username": "{][ ГИТЛИРi!}]"
+  },
+  "76561198954491434": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198954491434,
+    "username": "Gives_fures"
+  },
+  "76561199144433024": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199144433024,
+    "username": "ЧОРТИК"
+  },
+  "76561198872957049": {
+    "cooldown": {},
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561198872957049,
+    "username": "Graf Шелби#Borzone"
+  },
+  "76561199070981071": {
+    "cooldown": {
+      "HOME/ДОМ": 1614229348,
+      "TOOL": 1614186691
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199070981071,
+    "username": "bany"
+  },
+  "76561198441413038": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198441413038,
+    "username": "Gamer War"
+  },
+  "76561199043744609": {
+    "cooldown": {
+      "HOME/ДОМ": 1614210529
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199043744609,
+    "username": "КАЛЫВАНИЩЕ"
+  },
+  "76561198365312483": {
+    "cooldown": {
+      "HOME/ДОМ": 1614210895,
+      "resurce": 1614257243,
+      "vipcomponent": 1614214014
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198365312483,
+    "username": "intakap1"
+  },
+  "76561199067609513": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199067609513,
+    "username": "KhaBanhQuayGame"
+  },
+  "76561198804252719": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198804252719,
+    "username": "DrayZi lucky-cases.com"
+  },
+  "76561199105348411": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199105348411,
+    "username": "DenisKot45"
+  },
+  "76561199004563186": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199004563186,
+    "username": "Мувимэйкер"
+  },
+  "76561199014794770": {
+    "cooldown": {
+      "resurce": 1614264812,
+      "med/медицина": 1614179077,
+      "TOOL": 1614179173,
+      "HOME/ДОМ": 1614224942
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199014794770,
+    "username": "ZOOM"
+  },
+  "76561199083041877": {
+    "cooldown": {
+      "TOOL": 1614170971,
+      "HOME/ДОМ": 1614212434,
+      "resurce": 1614252636
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199083041877,
+    "username": "sahmedhanov"
+  },
+  "76561199140174316": {
+    "cooldown": {
+      "HOME/ДОМ": 1614212120,
+      "resurce": 1614252933,
+      "TOOL": 1614180327,
+      "med/медицина": 1614180327
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199140174316,
+    "username": "Татарский Мясник"
+  },
+  "76561199144166147": {
+    "cooldown": {
+      "resurce": 1614253384,
+      "TOOL": 1614167585,
+      "HOME/ДОМ": 1614213215
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199144166147,
+    "username": "TyMeR"
+  },
+  "76561199144277712": {
+    "cooldown": {
+      "resurce": 1614253989,
+      "HOME/ДОМ": 1614214032
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199144277712,
+    "username": "ЙОЖЫК"
+  },
+  "76561199074242619": {
+    "cooldown": {
+      "TOOL": 1614166529,
+      "resurce": 1614252331,
+      "HOME/ДОМ": 1614212133
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199074242619,
+    "username": "BOKOWA_TITA KeyDrop.com"
+  },
+  "76561199143482488": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199143482488,
+    "username": "vertlkin"
+  },
+  "76561198843524915": {
+    "cooldown": {},
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561198843524915,
+    "username": "Cталин"
+  },
+  "76561198120468478": {
+    "cooldown": {
+      "TOOL": 1614167136,
+      "HOME/ДОМ": 1614212737
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198120468478,
+    "username": "ImZox33"
+  },
+  "76561199100866646": {
+    "cooldown": {
+      "TOOL": 1614168350,
+      "resurce": 1614254156
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199100866646,
+    "username": "๋"
+  },
+  "76561199000992772": {
+    "cooldown": {
+      "HOME/ДОМ": 1614213872
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199000992772,
+    "username": "Divelt"
+  },
+  "76561199138233729": {
+    "cooldown": {
+      "TOOL": 1614168283
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199138233729,
+    "username": "[HgT]moлoлeтkA"
+  },
+  "76561199143606328": {
+    "cooldown": {},
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199143606328,
+    "username": "MataRusos#SimioNoMataSimio"
+  },
+  "76561198983709472": {
+    "cooldown": {
+      "resurce": 1614253786,
+      "TOOL": 1614182863,
+      "med/медицина": 1614182873
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198983709472,
+    "username": "fega"
+  },
+  "76561199123821910": {
+    "cooldown": {
+      "HOME/ДОМ": 1614213694,
+      "TOOL": 1614180541,
+      "resurce": 1614254158,
+      "med/медицина": 1614180542
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199123821910,
+    "username": "sergejsostak68"
+  },
+  "76561198889976302": {
+    "cooldown": {
+      "resurce": 1614254225
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198889976302,
+    "username": "HYDRA"
+  },
+  "76561199025181849": {
+    "cooldown": {},
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199025181849,
+    "username": "maleekcole45"
+  },
+  "76561198823505433": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198823505433,
+    "username": "Joe2"
+  },
+  "76561198391686134": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198391686134,
+    "username": "жоский"
+  },
+  "76561199090930752": {
+    "cooldown": {
+      "TOOL": 1614168693
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199090930752,
+    "username": "prosto4ok#Anti-Rust"
+  },
+  "76561199138885428": {
+    "cooldown": {
+      "HOME/ДОМ": 1614216006,
+      "resurce": 1614256207,
+      "TOOL": 1614188694
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199138885428,
+    "username": "vlad43132"
+  },
+  "76561198050299358": {
+    "cooldown": {
+      "HOME/ДОМ": 1614214778,
+      "resurce": 1614255029,
+      "med/медицина": 1614189760,
+      "TOOL": 1614189761
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198050299358,
+    "username": "Chanclasida"
+  },
+  "76561199143557739": {
+    "cooldown": {
+      "HOME/ДОМ": 1614215212
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199143557739,
+    "username": "red"
+  },
+  "76561199143742769": {
+    "cooldown": {},
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199143742769,
+    "username": "QuarTnex"
+  },
+  "76561199119051554": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199119051554,
+    "username": "gauyben"
+  },
+  "76561198981341125": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198981341125,
+    "username": "yusufus_75"
+  },
+  "76561199138525127": {
+    "cooldown": {},
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199138525127,
+    "username": "mmuuhhaammmmeedd12"
+  },
+  "76561198860313188": {
+    "cooldown": {
+      "resurce": 1614258893,
+      "med/медицина": 1614179648
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198860313188,
+    "username": "VlReives"
+  },
+  "76561199144127016": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199144127016,
+    "username": "shitassnotfound"
+  },
+  "76561199108978083": {
+    "cooldown": {
+      "resurce": 1614255124,
+      "TOOL": 1614169335,
+      "HOME/ДОМ": 1614215149
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199108978083,
+    "username": "чиф"
+  },
+  "76561199142561355": {
+    "cooldown": {},
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199142561355,
+    "username": "Zargana"
+  },
+  "76561199086901644": {
+    "cooldown": {},
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199086901644,
+    "username": "strelok"
+  },
+  "76561199106480960": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199106480960,
+    "username": "DanieeltorresX"
+  },
+  "76561199142664476": {
+    "cooldown": {
+      "TOOL": 1614172363
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199142664476,
+    "username": "Папаша антон ганд"
+  },
+  "76561199058337297": {
+    "cooldown": {
+      "HOME/ДОМ": 1614215293,
+      "resurce": 1614256435
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199058337297,
+    "username": "LvnX"
+  },
+  "76561199083690561": {
+    "cooldown": {
+      "resurce": 1614259391,
+      "HOME/ДОМ": 1614220066
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199083690561,
+    "username": "NoyanGh"
+  },
+  "76561199060796004": {
+    "cooldown": {
+      "resurce": 1614255548,
+      "TOOL": 1614174592,
+      "HOME/ДОМ": 1614215351
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199060796004,
+    "username": "mohammadsjp2"
+  },
+  "76561198158713834": {
+    "cooldown": {
+      "HOME/ДОМ": 1614216435,
+      "TOOL": 1614171350,
+      "resurce": 1614257151
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198158713834,
+    "username": "SnowBall"
+  },
+  "76561198369790311": {
+    "cooldown": {
+      "HOME/ДОМ": 1614217045,
+      "TOOL": 1614171447,
+      "resurce": 1614257303
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198369790311,
+    "username": "gift-drop.comahmhakakd"
+  },
+  "76561199144605057": {
+    "cooldown": {
+      "TOOL": 1614170818
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199144605057,
+    "username": "Strafer"
+  },
+  "76561199143295903": {
+    "cooldown": {
+      "HOME/ДОМ": 1614215698,
+      "TOOL": 1614174095,
+      "resurce": 1614256344
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199143295903,
+    "username": "Senpai_"
+  },
+  "76561198409618282": {
+    "cooldown": {
+      "HOME/ДОМ": 1614220468,
+      "resurce": 1614258219
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198409618282,
+    "username": "egor190410"
+  },
+  "76561198884234967": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198884234967,
+    "username": "posighdon"
+  },
+  "76561198865719517": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198865719517,
+    "username": "karel.henzl"
+  },
+  "76561199140121226": {
+    "cooldown": {
+      "HOME/ДОМ": 1614218311,
+      "TOOL": 1614174334,
+      "resurce": 1614258513
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199140121226,
+    "username": "лох#JustRust"
+  },
+  "76561199075170568": {
+    "cooldown": {
+      "TOOL": 1614170382
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199075170568,
+    "username": "килька [ld]"
+  },
+  "76561199085953623": {
+    "cooldown": {},
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199085953623,
+    "username": "MONALIT[mog]"
+  },
+  "76561199092246975": {
+    "cooldown": {
+      "TOOL": 1614174725
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199092246975,
+    "username": "pyro"
+  },
+  "76561199095778154": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199095778154,
+    "username": "makc-mactep"
+  },
+  "76561199120547227": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199120547227,
+    "username": "TRASH-MICH7"
+  },
+  "76561198445092199": {
+    "cooldown": {
+      "resurce": 1614260793,
+      "TOOL": 1614175587,
+      "HOME/ДОМ": 1614221398
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198445092199,
+    "username": "SKIBOY"
+  },
+  "76561198341006823": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198341006823,
+    "username": "pomello?"
+  },
+  "76561199053467007": {
+    "cooldown": {
+      "HOME/ДОМ": 1614221493,
+      "resurce": 1614269854
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199053467007,
+    "username": "kerpe.18"
+  },
+  "76561199144370573": {
+    "cooldown": {
+      "resurce": 1614257892,
+      "HOME/ДОМ": 1614220101,
+      "TOOL": 1614184698,
+      "med/медицина": 1614184698
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199144370573,
+    "username": "chmoshniy"
+  },
+  "76561199015169132": {
+    "cooldown": {
+      "HOME/ДОМ": 1614217737,
+      "resurce": 1614259156
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199015169132,
+    "username": "Pouky #BossRust"
+  },
+  "76561199134775323": {
+    "cooldown": {
+      "HOME/ДОМ": 1614216931,
+      "resurce": 1614257393,
+      "TOOL": 1614183163
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199134775323,
+    "username": "ArchAngel"
+  },
+  "76561199142249329": {
+    "cooldown": {
+      "resurce": 1614256619,
+      "TOOL": 1614170820,
+      "HOME/ДОМ": 1614216425
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199142249329,
+    "username": "kharitonv.a"
+  },
+  "76561199142028102": {
+    "cooldown": {
+      "resurce": 1614258615,
+      "HOME/ДОМ": 1614217019,
+      "med/медицина": 1614179307
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199142028102,
+    "username": "weqewqcwfa"
+  },
+  "76561199133616898": {
+    "cooldown": {
+      "TOOL": 1614174777
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199133616898,
+    "username": "majordimas777"
+  },
+  "76561199129045222": {
+    "cooldown": {
+      "HOME/ДОМ": 1614218490,
+      "resurce": 1614257139,
+      "med/медицина": 1614182526
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199129045222,
+    "username": "Doge"
+  },
+  "76561199129117548": {
+    "cooldown": {
+      "TOOL": 1614171849
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199129117548,
+    "username": "EverN3Kit"
+  },
+  "76561198334736531": {
+    "cooldown": {
+      "HOME/ДОМ": 1614219894,
+      "resurce": 1614260095
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198334736531,
+    "username": "Tokio"
+  },
+  "76561198889954412": {
+    "cooldown": {
+      "HOME/ДОМ": 1614218192,
+      "TOOL": 1614173787,
+      "resurce": 1614259601
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198889954412,
+    "username": "орел"
+  },
+  "76561198862746260": {
+    "cooldown": {
+      "HOME/ДОМ": 1614217251,
+      "med/медицина": 1614179673,
+      "resurce": 1614263732,
+      "TOOL": 1614179673
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198862746260,
+    "username": "KeyClox"
+  },
+  "76561198963720423": {
+    "cooldown": {
+      "HOME/ДОМ": 1614218347,
+      "resurce": 1614259018,
+      "TOOL": 1614174179
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198963720423,
+    "username": "˙·٠•●๑۩ПсИх۩๑"
+  },
+  "76561198967923621": {
+    "cooldown": {
+      "HOME/ДОМ": 1614217327,
+      "TOOL": 1614171728,
+      "resurce": 1614257656
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198967923621,
+    "username": "☭ СССР ☭"
+  },
+  "76561199043192270": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199043192270,
+    "username": "FirgonYT"
+  },
+  "76561198889896821": {
+    "cooldown": {
+      "resurce": 1614257492,
+      "TOOL": 1614171693,
+      "HOME/ДОМ": 1614217568
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198889896821,
+    "username": "veri nan"
+  },
+  "76561198157429993": {
+    "cooldown": {
+      "TOOL": 1614172439
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561198157429993,
+    "username": "MiStER"
+  },
+  "76561198998558232": {
+    "cooldown": {
+      "TOOL": 1614173988,
+      "resurce": 1614257825,
+      "HOME/ДОМ": 1614217916
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198998558232,
+    "username": "☜_☢Legenda☢_☞"
+  },
+  "76561198377823195": {
+    "cooldown": {},
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561198377823195,
+    "username": "Facoun"
+  },
+  "76561199111076346": {
+    "cooldown": {
+      "TOOL": 1614172123
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199111076346,
+    "username": "romasik"
+  },
+  "76561199111011041": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199111011041,
+    "username": "МегаПро"
+  },
+  "76561199134832897": {
+    "cooldown": {
+      "HOME/ДОМ": 1614218264,
+      "resurce": 1614260988,
+      "TOOL": 1614175189
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199134832897,
+    "username": "☢Na´Vi Cупер сус☢"
+  },
+  "76561198157579524": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198157579524,
+    "username": "SHULA"
+  },
+  "76561198343067100": {
+    "cooldown": {
+      "HOME/ДОМ": 1614218046,
+      "resurce": 1614258353
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198343067100,
+    "username": "Безперcпективняк"
+  },
+  "76561199140683663": {
+    "cooldown": {
+      "HOME/ДОМ": 1614218731,
+      "TOOL": 1614173928,
+      "resurce": 1614259740
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199140683663,
+    "username": "n1kl0h#JustRust"
+  },
+  "76561199082244439": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199082244439,
+    "username": "Ali"
+  },
+  "76561198366941506": {
+    "cooldown": {
+      "TOOL": 1614173562
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561198366941506,
+    "username": "Власянский"
+  },
+  "76561199002270033": {
+    "cooldown": {
+      "HOME/ДОМ": 1614227257
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199002270033,
+    "username": "sstason0599"
+  },
+  "76561198945399735": {
+    "cooldown": {
+      "HOME/ДОМ": 1614218543,
+      "TOOL": 1614172945,
+      "resurce": 1614258902
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198945399735,
+    "username": "❤karuseel & Im honey❤"
+  },
+  "76561198889074562": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198889074562,
+    "username": "8642"
+  },
+  "76561199144541295": {
+    "cooldown": {
+      "TOOL": 1614173087
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199144541295,
+    "username": "ilove_alinky"
+  },
+  "76561198115131770": {
+    "cooldown": {
+      "HOME/ДОМ": 1614219371,
+      "resurce": 1614260037,
+      "TOOL": 1614174327
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198115131770,
+    "username": "Darkehv"
+  },
+  "76561198874720268": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198874720268,
+    "username": "GOOT"
+  },
+  "76561199042797554": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199042797554,
+    "username": "^8Ruginis"
+  },
+  "76561198322383579": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198322383579,
+    "username": "Fair3191"
+  },
+  "76561199115102346": {
+    "cooldown": {
+      "HOME/ДОМ": 1614220042,
+      "resurce": 1614260459,
+      "TOOL": 1614174683
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199115102346,
+    "username": "wincza_pl KeyDrop.com"
+  },
+  "76561198376559198": {
+    "cooldown": {},
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561198376559198,
+    "username": "124"
+  },
+  "76561198873327891": {
+    "cooldown": {
+      "TOOL": 1614174821,
+      "HOME/ДОМ": 1614220673,
+      "resurce": 1614261196
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198873327891,
+    "username": "Mvndy"
+  },
+  "76561198059314244": {
+    "cooldown": {
+      "resurce": 1614263684
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198059314244,
+    "username": "Cheems"
+  },
+  "76561199006968950": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199006968950,
+    "username": "JamOFF"
+  },
+  "76561199123663029": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199123663029,
+    "username": "(っ◔◡◔)っ ♥ PUSHOK ♥"
+  },
+  "76561199142878608": {
+    "cooldown": {
+      "resurce": 1614262471,
+      "HOME/ДОМ": 1614222295
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199142878608,
+    "username": "quinonerorust"
+  },
+  "76561198340767124": {
+    "cooldown": {
+      "HOME/ДОМ": 1614221792,
+      "resurce": 1614262013,
+      "TOOL": 1614176213
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561198340767124,
+    "username": "Фин-парнишка"
+  },
+  "76561199052465069": {
+    "cooldown": {
+      "HOME/ДОМ": 1614221746,
+      "resurce": 1614262076
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199052465069,
+    "username": "Reterat#JastinRust"
+  },
+  "76561199094950034": {
+    "cooldown": {
+      "HOME/ДОМ": 1614222137,
+      "resurce": 1614263165,
+      "vipcomponent": 1614214105
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199094950034,
+    "username": "killer031196"
+  },
+  "76561199037361976": {
+    "cooldown": {},
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199037361976,
+    "username": "мелкий 228"
+  },
+  "76561199133697488": {
+    "cooldown": {
+      "TOOL": 1614181953
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199133697488,
+    "username": "sk1ddy"
+  },
+  "76561198964317881": {
+    "cooldown": {},
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 2,
+    "userid": 76561198964317881,
+    "username": "NAZ_FLOW"
+  },
+  "76561199101739750": {
+    "cooldown": {
+      "TOOL": 1614176576,
+      "resurce": 1614262446
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199101739750,
+    "username": "simon6556"
+  },
+  "76561199003503765": {
+    "cooldown": {
+      "TOOL": 1614184733,
+      "med/медицина": 1614184566
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199003503765,
+    "username": "paketik"
+  },
+  "76561198998524350": {
+    "cooldown": {
+      "TOOL": 1614177086,
+      "resurce": 1614262889,
+      "HOME/ДОМ": 1614222913
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198998524350,
+    "username": "SantaRuF"
+  },
+  "76561198377097234": {
+    "cooldown": {
+      "HOME/ДОМ": 1614223567,
+      "vipcomponent": 1614214096,
+      "resurce": 1614264497
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198377097234,
+    "username": "ДУДОС"
+  },
+  "76561199123489624": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199123489624,
+    "username": "Tempzz"
+  },
+  "76561198809502186": {
+    "cooldown": {
+      "resurce": 1614263223
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561198809502186,
+    "username": "Греш[НИК]"
+  },
+  "76561199029598287": {
+    "cooldown": {},
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199029598287,
+    "username": "maloy"
+  },
+  "76561199112264068": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199112264068,
+    "username": "romanpereguda419"
+  },
+  "76561198985051624": {
+    "cooldown": {
+      "resurce": 1614264023
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198985051624,
+    "username": "The Last Of Us"
+  },
+  "76561198866712595": {
+    "cooldown": {
+      "HOME/ДОМ": 1614223365
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198866712595,
+    "username": "PizzaCasafraz"
+  },
+  "76561199105124870": {
+    "cooldown": {
+      "TOOL": 1614178157
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199105124870,
+    "username": "Thoͥᴍaͣsͫshelbℽ"
+  },
+  "76561198346443257": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198346443257,
+    "username": "76561198346443257"
+  },
+  "76561199081551388": {
+    "cooldown": {
+      "vipcomponent": 1614214045,
+      "HOME/ДОМ": 1614224697
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199081551388,
+    "username": "dencikkabancik"
+  },
+  "76561199140583343": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199140583343,
+    "username": "ilijagejmersubaru"
+  },
+  "76561199144623593": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199144623593,
+    "username": "чиф nahuy"
+  },
+  "76561199139164557": {
+    "cooldown": {
+      "TOOL": 1614178280
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199139164557,
+    "username": "Свинюшка"
+  },
+  "76561199144407341": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199144407341,
+    "username": "MOlodOYY"
+  },
+  "76561199144754676": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199144754676,
+    "username": "#Anti-Rust  Help me NEGER!"
+  },
+  "76561199104165954": {
+    "cooldown": {
+      "resurce": 1614265972
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199104165954,
+    "username": "kkkkk"
+  },
+  "76561199088563370": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199088563370,
+    "username": "samuelito.programer"
+  },
+  "76561198171731517": {
+    "cooldown": {
+      "HOME/ДОМ": 1614224575,
+      "resurce": 1614265428
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198171731517,
+    "username": "Mr Dimka"
+  },
+  "76561198817653718": {
+    "cooldown": {
+      "HOME/ДОМ": 1614224547,
+      "med/медицина": 1614184782,
+      "resurce": 1614265611,
+      "TOOL": 1614184778
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198817653718,
+    "username": "Youshouldknowwhoiam"
+  },
+  "76561198999360030": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198999360030,
+    "username": "баба яга"
+  },
+  "76561199126342239": {
+    "cooldown": {
+      "HOME/ДОМ": 1614224622,
+      "resurce": 1614266043
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199126342239,
+    "username": "TAMOHA666"
+  },
+  "76561199118279834": {
+    "cooldown": {
+      "HOME/ДОМ": 1614225404,
+      "med/медицина": 1614180338,
+      "TOOL": 1614180339
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199118279834,
+    "username": "gsorianolechon"
+  },
+  "76561199059663028": {
+    "cooldown": {
+      "HOME/ДОМ": 1614224752,
+      "TOOL": 1614180524
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199059663028,
+    "username": "ElputoBenito"
+  },
+  "76561199070231440": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199070231440,
+    "username": "ByDarius KeyDrop.com"
+  },
+  "76561199144776195": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199144776195,
+    "username": "NeZaBuHaY"
+  },
+  "76561199089050760": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199089050760,
+    "username": "0 ping 260 hz"
+  },
+  "76561199005854758": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199005854758,
+    "username": "Kiss"
+  },
+  "76561198847538286": {
+    "cooldown": {
+      "TOOL": 1614180549
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198847538286,
+    "username": "jerebec"
+  },
+  "76561198407532639": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198407532639,
+    "username": "Ichigo"
+  },
+  "76561198448716412": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198448716412,
+    "username": "Diciembre"
+  },
+  "76561199109765473": {
+    "cooldown": {},
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199109765473,
+    "username": "Шут CS.FAIL"
+  },
+  "76561199005279281": {
+    "cooldown": {
+      "resurce": 1614265767
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199005279281,
+    "username": "02❤Dolfes❤02"
+  },
+  "76561198834495873": {
+    "cooldown": {
+      "resurce": 1614275987,
+      "HOME/ДОМ": 1614235802
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198834495873,
+    "username": "DonToreto"
+  },
+  "76561198139847925": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198139847925,
+    "username": "#Феминист"
+  },
+  "76561199095588955": {
+    "cooldown": {},
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199095588955,
+    "username": "frimeiceYT"
+  },
+  "76561199106786037": {
+    "cooldown": {
+      "resurce": 1614270318,
+      "TOOL": 1614184550,
+      "HOME/ДОМ": 1614230161
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199106786037,
+    "username": "ЕРЖАН ВСТАВАЙ НА"
+  },
+  "76561198889821382": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198889821382,
+    "username": "xenopho"
+  },
+  "76561199135312014": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199135312014,
+    "username": "RoYt"
+  },
+  "76561198839041521": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198839041521,
+    "username": ".low.scroll.foyt. #JustRust"
+  },
+  "76561198889655583": {
+    "cooldown": {
+      "HOME/ДОМ": 1614228456,
+      "resurce": 1614269000,
+      "TOOL": 1614183451
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198889655583,
+    "username": "баклажановая пис"
+  },
+  "76561199048415721": {
+    "cooldown": {
+      "resurce": 1614268138,
+      "med/медицина": 1614182340,
+      "TOOL": 1614182340
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199048415721,
+    "username": "Asddddd)))"
+  },
+  "76561199137716602": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199137716602,
+    "username": "iErick97"
+  },
+  "76561199107706538": {
+    "cooldown": {
+      "med/медицина": 1614183242
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199107706538,
+    "username": "Бубль_Гум"
+  },
+  "76561199009428035": {
+    "cooldown": {
+      "resurce": 1614269669,
+      "HOME/ДОМ": 1614229727,
+      "med/медицина": 1614184310,
+      "TOOL": 1614184311
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199009428035,
+    "username": "alop PEIN"
+  },
+  "76561198987765889": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198987765889,
+    "username": "gg"
+  },
+  "76561199070928927": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199070928927,
+    "username": "yohanmembribe1"
+  },
+  "76561198154395088": {
+    "cooldown": {
+      "med/медицина": 1614185967,
+      "HOME/ДОМ": 1614232031
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198154395088,
+    "username": "кОчка"
+  },
+  "76561199135210884": {
+    "cooldown": {
+      "resurce": 1614269576
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199135210884,
+    "username": "obzoit"
+  },
+  "76561199082345157": {
+    "cooldown": {
+      "TOOL": 1614185905
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199082345157,
+    "username": "focusbtw"
+  },
+  "76561199135943551": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199135943551,
+    "username": "baby#KILLERsTM"
+  },
+  "76561199141136443": {
+    "cooldown": {
+      "resurce": 1614269856,
+      "TOOL": 1614184230,
+      "HOME/ДОМ": 1614229846,
+      "med/медицина": 1614184272
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199141136443,
+    "username": "snickers74268_PrimeRP"
+  },
+  "76561199109473200": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199109473200,
+    "username": "zsaveley"
+  },
+  "76561199144440907": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199144440907,
+    "username": "lil_pande"
+  },
+  "76561199045530287": {
+    "cooldown": {
+      "med/медицина": 1614185045,
+      "TOOL": 1614184589
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199045530287,
+    "username": "АУЕ Пирожок ❤"
+  },
+  "76561199136947353": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199136947353,
+    "username": "_grofix_"
+  },
+  "76561198309900926": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198309900926,
+    "username": "vlad7"
+  },
+  "76561198035012497": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198035012497,
+    "username": "Kasatik"
+  },
+  "76561199144611823": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199144611823,
+    "username": "kobzartaras58"
+  },
+  "76561199113727023": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199113727023,
+    "username": "xiltirmak"
+  },
+  "76561199144123369": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199144123369,
+    "username": "غشحهيخق"
+  },
+  "76561198890118043": {
+    "cooldown": {
+      "HOME/ДОМ": 1614231370
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561198890118043,
+    "username": "cridox"
+  },
+  "76561199144339315": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199144339315,
+    "username": "0710sasha2009"
+  },
+  "76561198865956045": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198865956045,
+    "username": "Elite Yove"
+  },
+  "76561198435383069": {
+    "cooldown": {
+      "resurce": 1614271779
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198435383069,
+    "username": "Bylo4ka"
+  },
+  "76561199056230088": {
+    "cooldown": {},
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199056230088,
+    "username": "Юлий"
+  },
+  "76561198928046639": {
+    "cooldown": {
+      "HOME/ДОМ": 1614231612
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561198928046639,
+    "username": "anna0novoklinova"
+  },
+  "76561199111272481": {
+    "cooldown": {
+      "resurce": 1614270604,
+      "med/медицина": 1614184808,
+      "TOOL": 1614184809,
+      "HOME/ДОМ": 1614230571
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199111272481,
+    "username": "シ"
+  },
+  "76561198203040442": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198203040442,
+    "username": "josealejandro.fernandez"
+  },
+  "76561199128695498": {
+    "cooldown": {
+      "HOME/ДОМ": 1614231935,
+      "resurce": 1614272357
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199128695498,
+    "username": "valerasemenuk462"
+  },
+  "76561199101492778": {
+    "cooldown": {},
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199101492778,
+    "username": "InFlames1"
+  },
+  "76561198195429354": {
+    "cooldown": {},
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561198195429354,
+    "username": "OzcanBYFND"
+  },
+  "76561198875608857": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198875608857,
+    "username": "hasocan4812"
+  },
+  "76561199123008820": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199123008820,
+    "username": "sckackun.sveta"
+  },
+  "76561198881720915": {
+    "cooldown": {
+      "HOME/ДОМ": 1614231979,
+      "resurce": 1614272668,
+      "TOOL": 1614186885,
+      "med/медицина": 1614186887
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198881720915,
+    "username": "EnGoL"
+  },
+  "76561199089922971": {
+    "cooldown": {
+      "TOOL": 1614186901
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199089922971,
+    "username": "kisliysenya"
+  },
+  "76561198859237532": {
+    "cooldown": {},
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561198859237532,
+    "username": "Assasin5533"
+  },
+  "76561198153804314": {
+    "cooldown": {
+      "HOME/ДОМ": 1614231501,
+      "TOOL": 1614185906
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561198153804314,
+    "username": "GreVor"
+  },
+  "76561198306870529": {
+    "cooldown": {
+      "TOOL": 1614186772,
+      "med/медицина": 1614186772
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198306870529,
+    "username": "Dark"
+  },
+  "76561199049550897": {
+    "cooldown": {
+      "TOOL": 1614186716,
+      "resurce": 1614272610
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199049550897,
+    "username": "serzhant32"
+  },
+  "76561199134345603": {
+    "cooldown": {},
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199134345603,
+    "username": "Rubin"
+  },
+  "76561199144897825": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199144897825,
+    "username": "CuCe4Ka"
+  },
+  "76561199071956465": {
+    "cooldown": {
+      "TOOL": 1614186410
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199071956465,
+    "username": "TehnoMi"
+  },
+  "76561199135016508": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199135016508,
+    "username": "HellStaff"
+  },
+  "76561198340336516": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198340336516,
+    "username": "/6٥.ㄷ ㅌ ㅐ ㅜ\\"
+  },
+  "76561198003108295": {
+    "cooldown": {
+      "TOOL": 1614188626,
+      "med/медицина": 1614189071
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198003108295,
+    "username": "Jaime!!"
+  },
+  "76561199007055442": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199007055442,
+    "username": "Besart"
+  },
+  "76561199059746285": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199059746285,
+    "username": "RinGOR"
+  },
+  "76561198831953072": {
+    "cooldown": {
+      "HOME/ДОМ": 1614234458,
+      "resurce": 1614275551,
+      "med/медицина": 1614190045
+    },
+    "limit": {
+      "HOME/ДОМ": 1,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 2,
+    "userid": 76561198831953072,
+    "username": "Картошка"
+  },
+  "76561199016949413": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199016949413,
+    "username": "Venguful assasin"
+  },
+  "76561198993393774": {
+    "cooldown": {},
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561198993393774,
+    "username": "RASTA"
+  },
+  "76561198989092812": {
+    "cooldown": {
+      "TOOL": 1614189753
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561198989092812,
+    "username": "Time4ek"
+  },
+  "76561199043854995": {
+    "cooldown": {
+      "med/медицина": 1614189750
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 1
+    },
+    "authlevel": 0,
+    "userid": 76561199043854995,
+    "username": "FearAngel#BossRust"
+  },
+  "76561198920391289": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198920391289,
+    "username": "Doggie"
+  },
+  "76561199130989375": {
+    "cooldown": {
+      "med/медицина": 1614189140
+    },
+    "limit": {
+      "HOME/ДОМ": 0,
+      "RESURCES/РЕСУРСЫ": 0
+    },
+    "authlevel": 0,
+    "userid": 76561199130989375,
+    "username": "__aphextwin__"
+  },
+  "76561198408820127": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561198408820127,
+    "username": "eZerno#INFERNUSRUST"
+  },
+  "76561199055798439": {
+    "cooldown": {},
+    "limit": {},
+    "authlevel": 0,
+    "userid": 76561199055798439,
+    "username": "Fruzy"
+  }
+}

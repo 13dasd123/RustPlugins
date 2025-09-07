@@ -1,0 +1,5788 @@
+{
+  "76561198871345140": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785368066.329262
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785299883.010727
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785299381.417633
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785368213.86071
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785368165.132156
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785368191.996582
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785304430.725105
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785292631.350716
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785304445.828156
+    }
+  },
+  "76561198974226451": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785456838.73336
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785357326.551437
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785372280.3933
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785367996.183128
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785368007.802147
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785368044.075195
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785387320.800789
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785363838.782547
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785363769.570145
+    }
+  },
+  "76561199076810545": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785372563.931046
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785351740.751289
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785369117.247551
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785368580.122849
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785368681.912788
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785365452.471886
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785351798.80471
+    }
+  },
+  "76561198327679808": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785282676.095917
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785299836.942055
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785291902.451454
+    }
+  },
+  "76561199262762404": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785282112.919487
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785288009.215408
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785303241.201729
+    }
+  },
+  "76561198871244072": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785367722.009178
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785297332.012619
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785305448.451385
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785368155.189453
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785463895.229568
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785292599.1605
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785308737.354042
+    }
+  },
+  "76561199000265713": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785367732.912544
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785311170.25161
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785368347.328064
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561198230281624": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785368273.291336
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785286083.108604
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785296432.102631
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785367494.666161
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785367551.871918
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785367521.852013
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785305967.347725
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785305982.434364
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785304826.071136
+    }
+  },
+  "76561199162943819": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785368122.309158
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785281992.028992
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785301696.835991
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785368240.44426
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785368289.206947
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785305119.497467
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785305090.883591
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785368947.041367
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785305098.214638
+    }
+  },
+  "76561198885665318": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785367784.411148
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785284835.415344
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785340815.917923
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785368904.84156
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785336150.704826
+    }
+  },
+  "76561199048036011": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785367927.86319
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785283384.789375
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785284564.059456
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785369725.047935
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785294112.763733
+    }
+  },
+  "76561198810973413": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785367534.736481
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785367685.01725
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785380990.424446
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785291915.985542
+    }
+  },
+  "76561198872972687": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785367586.16925
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785286727.601929
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785282723.764236
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785367545.781937
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785367513.589859
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785291901.864944
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785291931.145523
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785372409.412346
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561199114460854": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785367615.356911
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785285845.902451
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785369705.02684
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785369753.583778
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785297252.95504
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561198994967852": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785367520.526245
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785286685.793365
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785303590.787674
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785368447.043648
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785292831.416878
+    }
+  },
+  "76561198995754384": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785390343.503242
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785370800.669884
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785378748.26429
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785367545.243385
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785367594.082657
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785367622.793533
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785378591.973869
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785378613.947632
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785387969.137238
+    }
+  },
+  "76561199059776218": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785367765.663254
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785293382.955544
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785292930.611015
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785367637.50322
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785303116.029358
+    }
+  },
+  "76561198401352310": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785368044.352341
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785379095.52636
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785369958.7217
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785370377.20002
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785370452.935921
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785383876.142822
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785386742.441559
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785386896.567627
+    }
+  },
+  "76561199063304430": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785456414.555481
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785377833.452759
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785379498.497711
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785367804.70578
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785367787.945381
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785367705.642708
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785387258.64119
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785387135.374855
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785292038.359833
+    }
+  },
+  "76561199134192732": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785464341.212929
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785289064.050919
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785383992.394287
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785463390.082893
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785386959.600792
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785386599.072845
+    }
+  },
+  "76561199109124274": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785380770.778778
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785457907.960075
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785390069.305954
+    }
+  },
+  "76561199151924670": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785368313.786278
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785305682.063789
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785307980.643723
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785368379.591972
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785368364.323723
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785368339.767662
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785374482.958153
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785374501.855827
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785374522.796936
+    }
+  },
+  "76561199029023253": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785282189.580643
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561198952584878": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785368709.875656
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785283190.096672
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785283775.833931
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785370282.441177
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785367668.152115
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785370796.532845
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561198414578168": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785367865.587555
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785348995.132095
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785287311.119987
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785368044.628807
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785358575.329659
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785368182.713036
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785368247.947823
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785358607.932564
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785292570.440125
+    }
+  },
+  "76561199110129708": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785302479.468384
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785368594.995155
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785368767.735535
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785293207.152008
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785293285.082481
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785368965.447372
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785293327.668961
+    }
+  },
+  "76561198981744192": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785440561.713982
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785361412.186684
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785361830.644569
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785368279.396194
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785368304.608513
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785364572.09111
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785364582.318451
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785442417.766731
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785366811.641357
+    }
+  },
+  "76561199145920409": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785376281.354118
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785288309.314362
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785345031.9645
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785369299.808395
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785369262.939262
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785354027.957779
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785293654.417953
+    }
+  },
+  "76561199259866440": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785368232.14077
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785282516.029976
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785293130.477364
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785369185.175804
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785296478.390579
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785369255.1833
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785296492.0502
+    }
+  },
+  "76561198291890592": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785367775.5243
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785283890.911522
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785289294.401505
+    }
+  },
+  "76561199196645366": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785293312.407486
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785367816.693619
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785367893.811707
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785292258.015472
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785292272.453911
+    }
+  },
+  "76561198012940506": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785368893.312012
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785283376.443108
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785292589.524704
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785368053.051079
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785367880.108665
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785292493.979469
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785292518.9584
+    }
+  },
+  "76561199083228675": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785282363.453651
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785378437.003456
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785377999.568085
+    }
+  },
+  "76561198855157103": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785284793.469925
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785289648.831
+    }
+  },
+  "76561198296541151": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785369198.266609
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785282450.744751
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785295282.01683
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785369497.765862
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785369712.374054
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785369596.509514
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785294030.990067
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785294044.7347
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785294079.786
+    }
+  },
+  "76561199208092080": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785353741.649818
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561198978866763": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785367970.122787
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785293338.397949
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785315741.535179
+    }
+  },
+  "76561198146223197": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785380199.851616
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785364124.356514
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785368095.964134
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785368118.992256
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785368144.841713
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785292567.2067
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785292583.407562
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785292590.997475
+    }
+  },
+  "76561198955541833": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785368528.688728
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785282840.362465
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785293209.371567
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785368435.152573
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785368467.793869
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785368482.885742
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785292896.636581
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785373491.096611
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785380085.676964
+    }
+  },
+  "76561198035632758": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785368279.74868
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785292432.039009
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785368443.673767
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785292869.650124
+    }
+  },
+  "76561198841778620": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785368242.089661
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785366407.6411
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785374508.269684
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785368946.789131
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785370337.560394
+    }
+  },
+  "76561199010415014": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785368104.560509
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785368286.872536
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785368519.36618
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785292742.657433
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785292841.057686
+    }
+  },
+  "76561199060997175": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785382264.07856
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785285138.831642
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785292767.148758
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785368566.220985
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785368999.193665
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785293431.792946
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785293439.356659
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785369129.34716
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785293582.957565
+    }
+  },
+  "76561198073228072": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785368719.864319
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785304317.137329
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785350300.327972
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785368336.387733
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785365931.676193
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785389155.594444
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785292964.409416
+    }
+  },
+  "76561198415422196": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785456194.913841
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785383207.964272
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785368291.212875
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785368381.776894
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785368367.550957
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785386878.5223
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785386886.395508
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785386895.724785
+    }
+  },
+  "76561199107766995": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785282887.548157
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785355615.847778
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785370771.014755
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785370826.153404
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785370856.0485
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561199118381907": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785369086.142708
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785286467.771469
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785311630.52211
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785369114.189629
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785320255.744637
+    }
+  },
+  "76561199142812980": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785368980.0103
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785286596.260452
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785368487.816193
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785368528.507607
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785368560.994568
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785293000.452118
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785293012.629158
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785293019.760307
+    }
+  },
+  "76561198432259091": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785368757.567841
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785283471.678
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785298308.297279
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785369181.715134
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785293629.597054
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785369324.550476
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785293702.005371
+    }
+  },
+  "76561198080149954": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785437973.875214
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785361958.61113
+    }
+  },
+  "76561198251185044": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785370639.844391
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785285160.206062
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785357766.4762
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785370813.473061
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785295096.501488
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785364845.460724
+    }
+  },
+  "76561199113912054": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785368736.511971
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785284850.018188
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785284717.7388
+    }
+  },
+  "76561199185048138": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785371583.959526
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785300850.335075
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785369154.819839
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785369216.8374
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785308296.63607
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785308311.897545
+    }
+  },
+  "76561198053046437": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785369002.212746
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785297924.637962
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785369271.12162
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785369201.300911
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785369237.303368
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785305581.570404
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785305591.933884
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785305606.64299
+    }
+  },
+  "76561198965091530": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785455381.124992
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785283739.053909
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785284337.203323
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785369129.310921
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785379582.546669
+    }
+  },
+  "76561198218677005": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785376356.273369
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785291695.679115
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785284335.752571
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785368994.865646
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785369021.780518
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785369192.955528
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785293445.081223
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785293614.973358
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785293624.479904
+    }
+  },
+  "76561198999045773": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785376191.95607
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785293732.614388
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785293664.074059
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785369072.525948
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785369117.427528
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785369180.87851
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785293599.61161
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785293608.511986
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785293615.115181
+    }
+  },
+  "76561199086724222": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561198332312560": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785369232.857391
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785286981.449341
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785299265.4418
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785369699.839828
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785293593.574158
+    }
+  },
+  "76561198165792414": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785462671.808891
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785377842.909447
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785369264.2982
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785369351.501785
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785385165.1524
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785386199.936256
+    }
+  },
+  "76561198998643830": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785370903.933434
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785291226.918716
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785370673.685165
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785370721.842491
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785295384.507034
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785295587.76339
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785370748.943039
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785295575.576637
+    }
+  },
+  "76561198003251504": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785372000.877319
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785357756.614319
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785370356.741592
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785370401.90332
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785359411.82785
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785359422.8935
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785370378.167587
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785364893.206818
+    }
+  },
+  "76561199155342352": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785369445.535149
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785291932.0855
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785369676.37513
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785294544.199585
+    }
+  },
+  "76561199089014854": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785283922.782387
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561199162975643": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785369913.50222
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785288518.317024
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785310585.373741
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785369545.557335
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785370006.732323
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785308571.727905
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785308600.421295
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785369955.265457
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785308610.506355
+    }
+  },
+  "76561198971151460": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785369668.999474
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785284927.192009
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785301489.37812
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785369709.823883
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785294096.839088
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785369810.336739
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785310900.784332
+    }
+  },
+  "76561199121858531": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785460691.538528
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785375089.701012
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785383512.129364
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785370348.279137
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785370384.251411
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785370405.672638
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785392955.687035
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785294722.088715
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785294734.4341
+    }
+  },
+  "76561199027389301": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785363670.979385
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785369856.832008
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785369464.106453
+    }
+  },
+  "76561198028975670": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785369958.946838
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785284354.633163
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785287805.325836
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785370322.080742
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785370437.440636
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785370368.591469
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785294855.433273
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785294867.585594
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785294875.825851
+    }
+  },
+  "76561198879823295": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785284743.957359
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785287777.482529
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785369972.298134
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785370040.966125
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785370074.457275
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785294560.19593
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785294569.638306
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785294576.297379
+    }
+  },
+  "76561199054725422": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785370289.121292
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785284523.280434
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785300405.960251
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785370349.43512
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785307926.254715
+    }
+  },
+  "76561199165828913": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785370149.105545
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785286693.3126
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785294461.651733
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785370066.028755
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785370097.114891
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785370122.602722
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785294569.230614
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785294579.09922
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785294587.858749
+    }
+  },
+  "76561198967508577": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785285450.375244
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785370644.210457
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785295005.529945
+    }
+  },
+  "76561199053966492": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785391771.335342
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785367898.097992
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785370469.349869
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785370418.157516
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785309753.717041
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785373516.471588
+    }
+  },
+  "76561199007590091": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785371067.614357
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785293283.011635
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785298573.851555
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785371107.9648
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785295448.887962
+    }
+  },
+  "76561199197166844": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785292004.1548
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785453705.0269
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785378307.615715
+    }
+  },
+  "76561198441783186": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785371089.030472
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785368516.413704
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785371390.460327
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785371016.86026
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785371987.204468
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785296563.482086
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785296573.321114
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785296580.868874
+    }
+  },
+  "76561198154990503": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785296782.527817
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785371223.186043
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785371322.75
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785309731.978455
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785309762.660271
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785371284.929916
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785309771.815041
+    }
+  },
+  "76561199012289377": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785370676.815445
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785286895.175156
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785371140.816429
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785370895.24015
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785371197.73394
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785316041.368019
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785316051.920326
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785316058.801674
+    }
+  },
+  "76561198864207673": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785370890.342369
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785367934.100014
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785368308.2151
+    }
+  },
+  "76561199110255133": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785371085.161766
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785285267.824608
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785294444.895935
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785371131.161469
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785295576.699821
+    }
+  },
+  "76561198983383273": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785285923.812477
+    }
+  },
+  "76561198446872634": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785290723.9981
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785375597.988556
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785351266.119194
+    }
+  },
+  "76561198870541766": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785370858.357056
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785285347.347122
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785294256.967613
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785371112.812256
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785295573.05616
+    }
+  },
+  "76561199088084213": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785372630.661949
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785366729.310616
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785366187.707375
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785372840.164772
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785297283.649338
+    }
+  },
+  "76561198807292936": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785372887.398949
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785287381.091545
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785371817.92617
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785371903.51017
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785377127.642235
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785377137.71347
+    }
+  },
+  "76561198031770139": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561199038025555": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785372130.067993
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785292039.3774
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785372275.793236
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785372377.642776
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785372327.969864
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785296813.539734
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785296838.057968
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785296878.148514
+    }
+  },
+  "76561198394897410": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785374404.3346
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785288764.1698
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785288176.6461
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785372192.137917
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785296546.066978
+    }
+  },
+  "76561199224376464": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785372408.110039
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785372433.011032
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785311678.766
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785296784.767731
+    }
+  },
+  "76561199124543917": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785349198.908936
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785357367.9436
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785373195.144455
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785297393.1694
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785395610.865662
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785373174.694908
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785356812.031845
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785366670.83287
+    }
+  },
+  "76561199125441315": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785459757.625008
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785374502.2082
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785375015.438538
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785377807.40065
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785377840.219658
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785377865.175346
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785374677.626221
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785374702.447128
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785374717.448128
+    }
+  },
+  "76561199198829122": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785467978.530685
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785382472.576057
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785382891.70108
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785467147.541229
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785379224.770325
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785374318.16188
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785379233.646805
+    }
+  },
+  "76561198173551662": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785378353.5752
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785295301.141319
+    }
+  },
+  "76561198998127773": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785299777.684105
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785347311.609688
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785375898.246132
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785365127.930763
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785375938.06041
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785300275.907646
+    }
+  },
+  "76561199186599290": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785372996.940453
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785305011.688446
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785293491.29715
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785373875.989029
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785373918.596794
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785373939.091454
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785298353.999176
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785298366.994644
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785298378.072052
+    }
+  },
+  "76561199107020445": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785372924.605606
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785287504.453232
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785375350.412773
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785372957.7809
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785380135.202187
+    }
+  },
+  "76561199041448990": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785373630.57299
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785349244.725716
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785349144.651619
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785373034.826546
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785367738.273727
+    }
+  },
+  "76561198930631853": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785288295.099426
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785289103.597183
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785373811.129059
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785298089.6176
+    }
+  },
+  "76561198139802195": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785374014.4438
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785370458.206245
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785455571.83374
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785455652.17601
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785298344.50351
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785298331.066689
+    }
+  },
+  "76561199122717087": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785374225.752815
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785382324.063652
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785374474.226044
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785377010.510818
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785374423.934982
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785392564.609932
+    }
+  },
+  "76561199117057202": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785304791.815842
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785374539.188339
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785378568.29985
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785302824.668053
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785303034.828705
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561198801321918": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785375788.138466
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785292521.348312
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785375991.318932
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785300413.099251
+    }
+  },
+  "76561198042125189": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785377317.955315
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785292672.870155
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785376126.803207
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785376842.42131
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785376802.809265
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785301787.534012
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785301838.815742
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785300612.653015
+    }
+  },
+  "76561198862526324": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785376728.570747
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785376355.775948
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785301259.059464
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785300725.326424
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785376775.3642
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785301279.613075
+    }
+  },
+  "76561198434587261": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785379932.822388
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785290751.276207
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785292503.936058
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785376660.165054
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785300995.226982
+    }
+  },
+  "76561199075064340": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785376327.91851
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785291079.583138
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785296527.006462
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785377027.218094
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561198338682646": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785376848.611145
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785291324.7645
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785298036.55088
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785376691.715515
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785301041.276375
+    }
+  },
+  "76561199098520197": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785396224.1392
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785372717.890083
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785390348.878014
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785357612.248665
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785390283.738022
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785390316.854385
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785384954.501526
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785382439.378174
+    }
+  },
+  "76561198970056173": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785376738.886604
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785296583.62928
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785376769.888763
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785376815.597847
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785301195.235672
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785301204.674042
+    }
+  },
+  "76561198092315005": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785377394.046425
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785301832.951
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785377408.3414
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785377419.3754
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785301843.089211
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785301849.442924
+    }
+  },
+  "76561198207839409": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785378071.090279
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785377781.218071
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785302520.411865
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785302529.978813
+    }
+  },
+  "76561199147620827": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785378531.562752
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785301854.5777
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785378698.3645
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785378834.314323
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785355680.052979
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785355700.135971
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785379856.181435
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785355690.397293
+    }
+  },
+  "76561198868390644": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785357557.516708
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785360803.037254
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785302747.084145
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785368138.622345
+    }
+  },
+  "76561198242653352": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785378495.9838
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785371421.888344
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785379161.8131
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785379117.844223
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785374469.497841
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785374484.1004
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785379143.139595
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785374407.267067
+    }
+  },
+  "76561198844211993": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785378447.44133
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785293086.504318
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785293682.5058
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785378615.329033
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785302993.8637
+    }
+  },
+  "76561199224336417": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785378233.845833
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785293960.929855
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785381868.728958
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785306008.458275
+    }
+  },
+  "76561198925949589": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785379268.476135
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785302030.958458
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785379495.341766
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785303854.091682
+    }
+  },
+  "76561199112580448": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785293162.80864
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785293759.629349
+    }
+  },
+  "76561199112399846": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785378995.465279
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785299804.736778
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785369410.506248
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785378847.888275
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785379117.368919
+    }
+  },
+  "76561199097764317": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785379448.1744
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785379744.05262
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785304046.664986
+    }
+  },
+  "76561198844952230": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785305949.36998
+    }
+  },
+  "76561198822993808": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785294370.122566
+    }
+  },
+  "76561197985951810": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785379751.37661
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785294119.212646
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785379804.204567
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785379830.316566
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785386834.902832
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785304135.333092
+    }
+  },
+  "76561198122724786": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785379680.937096
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785303005.002815
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785305594.871368
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785379767.489113
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785379799.676071
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785315794.084373
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785315805.260666
+    }
+  },
+  "76561199060982280": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785446915.389351
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785376906.876427
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785377154.18927
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785380006.968086
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785385294.811104
+    }
+  },
+  "76561198205841781": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785380424.708542
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785294629.724693
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785380690.146469
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785380545.474022
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785305132.992622
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785305141.499542
+    }
+  },
+  "76561198220951192": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785381420.888275
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785304414.817215
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785303299.439484
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785380490.96624
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785304812.867119
+    }
+  },
+  "76561199096628004": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785380750.188141
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785298435.278473
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785298834.791435
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785381703.64537
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785381670.563568
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785306138.603493
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785306132.326256
+    }
+  },
+  "76561198395310617": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785296073.672729
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785380932.0588
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785305940.311241
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561199205989780": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785380727.3312
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561199251315817": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785299586.828911
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785308238.717018
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785306144.081184
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785305217.645668
+    }
+  },
+  "76561198986223510": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785381708.6021
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785366504.524376
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785382118.790817
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785377336.003838
+    }
+  },
+  "76561198964345489": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785295731.5237
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785298294.328064
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785381314.237129
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785305949.747391
+    }
+  },
+  "76561199112102108": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785381119.472321
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785340685.147491
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785381172.1287
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785381582.444031
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785347603.764069
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785350593.524788
+    }
+  },
+  "76561198410331733": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785383219.350319
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785307586.820862
+    }
+  },
+  "76561199061430404": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785382012.660133
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785297127.963539
+    }
+  },
+  "76561198956694392": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785382018.503677
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785299310.754723
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785299928.830681
+    }
+  },
+  "76561199102677992": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785382398.171707
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785296875.832916
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785297128.087639
+    }
+  },
+  "76561199079129185": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785367477.856522
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561199072208195": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785300115.923157
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785300714.31115
+    }
+  },
+  "76561199005847825": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785298651.445229
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785382168.403351
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785377902.228195
+    }
+  },
+  "76561198805049228": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785296780.586227
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785298245.441521
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561198892289852": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785297519.540886
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561199064912430": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785389428.376915
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785303911.418991
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785382768.113945
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785312134.972878
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785311993.546272
+    }
+  },
+  "76561198189803437": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785382920.856613
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785297529.564743
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785298562.505165
+    }
+  },
+  "76561199259793041": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785383225.33194
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785297694.75499
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785355621.92334
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785383395.155968
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785383352.340874
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785361489.189026
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785384414.444374
+    }
+  },
+  "76561199139135703": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785384460.123085
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785300473.407623
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785383387.049355
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785383411.592918
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785307835.124634
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785307892.267784
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785307912.105446
+    }
+  },
+  "76561198823828723": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561199142740786": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785383794.980949
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785383773.317619
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785366255.68116
+    }
+  },
+  "76561199125906547": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785384060.436333
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785299484.987823
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785384185.986008
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785308574.226364
+    }
+  },
+  "76561198448859958": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785309468.307159
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785384876.473038
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785308928.441734
+    }
+  },
+  "76561199032499379": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785384587.266159
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785374387.897919
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785384788.194931
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785381969.137611
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785383610.394913
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785309372.595642
+    }
+  },
+  "76561198850831248": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785385655.841454
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785302588.754349
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785310823.771568
+    }
+  },
+  "76561199021293039": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785385246.494881
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785303736.589645
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785306587.537254
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785385872.099854
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785310263.520378
+    }
+  },
+  "76561198383033892": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785388818.690445
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785359130.371429
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785359338.292465
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785365814.238739
+    }
+  },
+  "76561198342431172": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785301144.481674
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785386633.0544
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785311361.743355
+    }
+  },
+  "76561199095080504": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785301334.727448
+    }
+  },
+  "76561198800676934": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785387041.51561
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785306842.572762
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785387701.366447
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785387378.129715
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785312087.014305
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785361801.085159
+    }
+  },
+  "76561199087219752": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785387476.468582
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785387691.621666
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785312072.564606
+    }
+  },
+  "76561198210370673": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785302352.136551
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785303060.187057
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785311825.665627
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785312052.150574
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785312129.911575
+    }
+  },
+  "76561199084861138": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785387568.998512
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785381825.736328
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785382163.939468
+    }
+  },
+  "76561199112467984": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785302869.643913
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785387741.67804
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785312126.91658
+    }
+  },
+  "76561198827753005": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785387696.68985
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785302369.204529
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785303207.524719
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785387825.908134
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785387660.9295
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785312450.467735
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785312475.334152
+    }
+  },
+  "76561198969215453": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785387865.759766
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785353341.009636
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785354755.261925
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785388587.207588
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785388671.27494
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785388695.611992
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785358661.125092
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785358683.30777
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785358716.375687
+    }
+  },
+  "76561199230574950": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785389132.1116
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785389533.692467
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785389093.350624
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785314467.187271
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785313869.879814
+    }
+  },
+  "76561199241475782": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785393451.265396
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785352393.478973
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785391963.161827
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785391990.281021
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785362180.543373
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785351115.044373
+    }
+  },
+  "76561199216575539": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785390215.053383
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785304705.770622
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785305266.75415
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785390441.984047
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785390401.546989
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785390481.917747
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785314896.093079
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785314906.72448
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785314913.776855
+    }
+  },
+  "76561198815166005": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785390858.5101
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785390693.554031
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785315162.22963
+    }
+  },
+  "76561198025823414": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785390791.699516
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785309754.514969
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785390887.32914
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785316119.87632
+    }
+  },
+  "76561198816004814": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785391319.35
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785356951.566513
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785377055.13707
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785391357.216087
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785382474.328224
+    }
+  },
+  "76561199077077739": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785306985.542381
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785392138.5386
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561199178286660": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785394580.824341
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785313926.911789
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785394764.195007
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785319581.181564
+    }
+  },
+  "76561199181473705": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785394551.885361
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785394783.378113
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785319172.451744
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785319218.395668
+    }
+  },
+  "76561199183780128": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785394744.371323
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785315981.127243
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785394889.867569
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785395065.659348
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785319488.987762
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785319496.749184
+    }
+  },
+  "76561198976344607": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785397700.199028
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785315713.575752
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785395107.739685
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785319486.543587
+    }
+  },
+  "76561199174748307": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785400117.020042
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785314626.159546
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785315236.953163
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785397166.829308
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785321526.384254
+    }
+  },
+  "76561198966340014": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785313484.721275
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785322303.768776
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561199007299397": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785399767.3295
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785357289.504662
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785358372.900375
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785437793.33181
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785437824.881805
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785437845.139694
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785362255.8142
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785362264.584061
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785362280.028046
+    }
+  },
+  "76561199236089945": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785417040.738571
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785331144.511948
+    }
+  },
+  "76561198839041521": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785336262.953865
+    }
+  },
+  "76561198977594919": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785380418.500282
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785434970.857521
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785435046.926247
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785435111.594238
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785359201.1233
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785359276.01564
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785359317.795609
+    }
+  },
+  "76561199054545512": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785341905.718346
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785377874.602188
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785428852.475746
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785381439.068542
+    }
+  },
+  "76561199165884680": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561198965561355": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785434740.420967
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785349229.999191
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785352987.889343
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785434899.022766
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785434954.446617
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785359399.325691
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785359441.890343
+    }
+  },
+  "76561199174223873": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785435147.511482
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785435102.236916
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785359457.040764
+    }
+  },
+  "76561199113792103": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785436726.471283
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785352746.407265
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785376407.1867
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785436887.977249
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785386570.365082
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785436979.386505
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785386115.192352
+    }
+  },
+  "76561199011257723": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785437075.046013
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785354018.481453
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785437834.506226
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785438358.619553
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785437142.674622
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785362779.254936
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785361573.0815
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785362811.899033
+    }
+  },
+  "76561199056284545": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561199032878067": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785448143.110886
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785378461.815636
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785439486.865723
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785387246.3318
+    }
+  },
+  "76561199242137599": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785443154.988762
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785443506.741257
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785368269.35479
+    }
+  },
+  "76561199165921368": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785358662.874855
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561198849706061": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561199086985874": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561199121004371": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785450962.367188
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785454113.427017
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785375653.722633
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785374316.2078
+    }
+  },
+  "76561199121437116": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785364107.713867
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561198406622536": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785451251.554848
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 63785451269.232391
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785375635.032227
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561198964841861": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785454836.715004
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561199029006298": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785369287.24633
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561199061702737": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561199021135688": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785456275.811119
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785374294.132385
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785455274.1287
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785379652.322021
+    }
+  },
+  "76561199189321024": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785457170.363373
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785374625.850708
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785381717.131248
+    }
+  },
+  "76561198821011812": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561199264661525": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785457736.593971
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785374750.745735
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 63785382288.865356
+    }
+  },
+  "76561199220021812": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561199014055242": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785461229.853325
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785375468.996193
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  },
+  "76561199252205900": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785460559.367226
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785385731.874825
+    }
+  },
+  "76561199112668344": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785460331.794121
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785375782.114456
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785385034.016762
+    }
+  },
+  "76561199026277127": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 63785461989.668884
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 63785376485.129112
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 63785377903.468361
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785462254.897789
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785386637.8049
+    }
+  },
+  "76561198288610801": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785467321.563606
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785392402.355667
+    }
+  },
+  "76561198858542661": {
+    "house": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "start": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "med": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hard": {
+      "Amount": 0,
+      "Cooldown": 63785467904.084145
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "prem": {
+      "Amount": 0,
+      "Cooldown": 63785467718.74337
+    },
+    "pvphard": {
+      "Amount": 0,
+      "Cooldown": 63785392327.624512
+    },
+    "pvppremium": {
+      "Amount": 0,
+      "Cooldown": 63785392372.913765
+    },
+    "pvpvip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  }
+}

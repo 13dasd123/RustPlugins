@@ -1,0 +1,14 @@
+{
+  "BulletDamage": 50.0,
+  "Heli Napam prefab : ": "assets/prefabs/npc/patrol helicopter/rocket_heli_napalm.prefab",
+  "Heli Rocket prefab : ": "assets/prefabs/npc/patrol helicopter/rocket_heli.prefab",
+  "Max Napalm Loaded": 1000.0,
+  "Max Rockets Loaded": 1000.0,
+  "RocketDelay": 0.4,
+  "RocketNapalmReloadTime": 10.0,
+  "ShowCockpitOverlay": true,
+  "ShowCrosshair": true,
+  "SpawnCrates": true,
+  "UseAutoVanish": true,
+  "UseParachutes": false
+}

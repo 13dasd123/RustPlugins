@@ -1,0 +1,21 @@
+{
+  "UI_MY_BALANCE": "<b><size=12>Balance : {0}</size></b>",
+  "UI_MY_BALANCE_TRANSFER": "<b><size=9>Balance : {0}</size></b>",
+  "CHAT_MY_BALANCE": "Your Balance : <color=yellow>{0}</color>",
+  "BALANCE_CUSTOM_MONEY_NOT_PLAYER": "Player not found",
+  "BALANCE_CUSTOM_MONEY_INVENTORY_FULL": "Your inventory is full, coins fell to the floor",
+  "BALANCE_SET": "You have successfully received : {0} money",
+  "BALANCE_TRANSFER_NO_BALANCE": "You do not have so many coins to transfer",
+  "BALANCE_TRANSFER_PLAYER": "You have successfully submitted {0} {1} money",
+  "BALANCE_TRANSFER_TRANSFERPLAYER": "You have successfully received {0} money from {1}",
+  "BALANCE_CUSTOM_MONEY_NO_COUNT_TAKE": "The player does not have as many coins available",
+  "BALANCE_TRANSFER_TRANSFERPLAYER_DIE": "The player is dead, you can’t give him coins",
+  "TRANSFER_COMMAND_NO_ARGS": "Invalid Command\nEnter the correct transfer command transfer [Nick] [Amount Money]",
+  "UI_CHANGER_TRANSFER": "<size=14>EXCHANGE</size>",
+  "UI_CHANGER_TRANSFER_ALL": "<size=14>EXCHANGE ALL</size>",
+  "UI_CHANGER_TRANSFER_TITLE": "Currency exchange system",
+  "CHAT_NO_AUTH_STORE": "You no auth stores",
+  "CHAT_STORE_SUCCESS": "You succes transfers",
+  "CHAT_LIMITED_PLAYER": "You have raised the withdrawal limit, expect the limit to be reset",
+  "UI_LIMITED_PLAYER": "Your available limit : {0}"
+}

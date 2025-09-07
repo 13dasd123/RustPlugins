@@ -1,0 +1,2866 @@
+{
+  "clans": {
+    "KEKS": {
+      "ClanPoints": -150,
+      "KilledTCAll": 0,
+      "CupCount": 0,
+      "raidpoint": 0,
+      "Farm": 0,
+      "KillC": 0,
+      "DeathC": 2,
+      "SuicideC": 2,
+      "tag": "KEKS",
+      "description": "",
+      "owner": "76561198844174408",
+      "ownerName": "PEPSI | VALIM RUST",
+      "ClanAvatar": "",
+      "council": null,
+      "created": 1676033702,
+      "updated": 1676040192,
+      "moderators": [],
+      "members": {
+        "76561198844174408": {
+          "PlayerPoints": -150,
+          "Killed": 0,
+          "Death": 2,
+          "Suicide": 2,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561198331350127": {
+          "PlayerPoints": 0,
+          "Killed": 0,
+          "Death": 0,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561199217349708": {
+          "PlayerPoints": 0,
+          "Killed": 0,
+          "Death": 0,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        }
+      },
+      "invites": {
+        "76561198813619112": 1676034155,
+        "76561198329476129": 1676034394
+      },
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": [],
+      "SkinList": {
+        "wear": {
+          "metal.facemask": 0,
+          "metal.plate.torso": 0,
+          "roadsign.kilt": 0,
+          "hoodie": 0,
+          "pants": 0,
+          "shoes.boots": 0
+        },
+        "weapon": {
+          "rifle.ak": 0
+        }
+      },
+      "Change": {
+        "wood": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "metal.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "stones": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "sulfur.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "fat.animal": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "cloth": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "leather": {
+          "Need": 100,
+          "Complete": 0
+        },
+        "hq.metal.ore": {
+          "Need": 500,
+          "Complete": 0
+        },
+        "loot-barrel": {
+          "Need": 20,
+          "Complete": 0
+        }
+      }
+    },
+    "Requiem": {
+      "ClanPoints": 5775,
+      "KilledTCAll": 0,
+      "CupCount": 0,
+      "raidpoint": 0,
+      "Farm": 3133146,
+      "KillC": 76,
+      "DeathC": 79,
+      "SuicideC": 4,
+      "tag": "Requiem",
+      "description": "",
+      "owner": "76561198892387857",
+      "ownerName": "baltika9 x papa x god#BOLOTORUST",
+      "ClanAvatar": "",
+      "council": null,
+      "created": 1676034016,
+      "updated": 1676040553,
+      "moderators": [],
+      "members": {
+        "76561198892387857": {
+          "PlayerPoints": 804,
+          "Killed": 7,
+          "Death": 13,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 1092,
+            "metal.ore": 0,
+            "sulfur.ore": 1078,
+            "hq.metal.ore": 63,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561199117052312": {
+          "PlayerPoints": 1145,
+          "Killed": 15,
+          "Death": 11,
+          "Suicide": 2,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 1225,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 98,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561198118593301": {
+          "PlayerPoints": 459,
+          "Killed": 3,
+          "Death": 12,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 112,
+            "fat.animal": 0,
+            "cloth": 36,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561199004569893": {
+          "PlayerPoints": 823,
+          "Killed": 11,
+          "Death": 10,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 42,
+            "fat.animal": 297,
+            "cloth": 86,
+            "leather": 105,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561198310666803": {
+          "PlayerPoints": 397,
+          "Killed": 12,
+          "Death": 9,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 28,
+            "fat.animal": 7,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561199105331818": {
+          "PlayerPoints": 714,
+          "Killed": 6,
+          "Death": 6,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 49,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561198360791707": {
+          "PlayerPoints": 604,
+          "Killed": 10,
+          "Death": 11,
+          "Suicide": 2,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 35,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561198954193811": {
+          "PlayerPoints": 829,
+          "Killed": 12,
+          "Death": 7,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 63,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561199047594211": {
+          "PlayerPoints": 0,
+          "Killed": 0,
+          "Death": 0,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        }
+      },
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": [],
+      "SkinList": {
+        "wear": {
+          "metal.facemask": 2363112910,
+          "metal.plate.torso": 799657859,
+          "roadsign.kilt": 784577443,
+          "hoodie": 2775148109,
+          "pants": 1234956405,
+          "shoes.boots": 10022
+        },
+        "weapon": {
+          "rifle.ak": 903882218
+        }
+      },
+      "Change": {
+        "wood": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "metal.ore": {
+          "Need": 1000,
+          "Complete": 1000
+        },
+        "stones": {
+          "Need": 1000,
+          "Complete": 1000
+        },
+        "sulfur.ore": {
+          "Need": 1000,
+          "Complete": 1000
+        },
+        "fat.animal": {
+          "Need": 300,
+          "Complete": 300
+        },
+        "cloth": {
+          "Need": 300,
+          "Complete": 122
+        },
+        "leather": {
+          "Need": 100,
+          "Complete": 100
+        },
+        "hq.metal.ore": {
+          "Need": 500,
+          "Complete": 490
+        },
+        "loot-barrel": {
+          "Need": 20,
+          "Complete": 114
+        }
+      }
+    },
+    "KONCHA": {
+      "ClanPoints": 109,
+      "KilledTCAll": 0,
+      "CupCount": 0,
+      "raidpoint": 0,
+      "Farm": 70,
+      "KillC": 4,
+      "DeathC": 1,
+      "SuicideC": 1,
+      "tag": "KONCHA",
+      "description": "",
+      "owner": "76561199195879373",
+      "ownerName": "Дракс x makhachkalinec",
+      "ClanAvatar": "",
+      "council": null,
+      "created": 1676034034,
+      "updated": 1676041679,
+      "moderators": [],
+      "members": {
+        "76561199195879373": {
+          "PlayerPoints": 0,
+          "Killed": 0,
+          "Death": 0,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        }
+      },
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": [],
+      "SkinList": {
+        "wear": {
+          "metal.facemask": 0,
+          "metal.plate.torso": 0,
+          "roadsign.kilt": 0,
+          "hoodie": 0,
+          "pants": 0,
+          "shoes.boots": 0
+        },
+        "weapon": {
+          "rifle.ak": 0
+        }
+      },
+      "Change": {
+        "wood": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "metal.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "stones": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "sulfur.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "fat.animal": {
+          "Need": 300,
+          "Complete": 40
+        },
+        "cloth": {
+          "Need": 300,
+          "Complete": 10
+        },
+        "leather": {
+          "Need": 100,
+          "Complete": 20
+        },
+        "hq.metal.ore": {
+          "Need": 500,
+          "Complete": 0
+        },
+        "loot-barrel": {
+          "Need": 20,
+          "Complete": 1
+        }
+      }
+    },
+    "WAGNER": {
+      "ClanPoints": 2116,
+      "KilledTCAll": 0,
+      "CupCount": 0,
+      "raidpoint": 0,
+      "Farm": 1665847,
+      "KillC": 41,
+      "DeathC": 47,
+      "SuicideC": 6,
+      "tag": "WAGNER",
+      "description": "",
+      "owner": "76561199362203627",
+      "ownerName": "Sneжинка#VALIM RUST",
+      "ClanAvatar": "",
+      "council": null,
+      "created": 1676034037,
+      "updated": 1676039402,
+      "moderators": [
+        "76561199362203627",
+        "76561199006214483",
+        "76561198220951192",
+        "76561198980159939"
+      ],
+      "members": {
+        "76561199362203627": {
+          "PlayerPoints": 321,
+          "Killed": 5,
+          "Death": 4,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 46725,
+            "sulfur.ore": 2800,
+            "hq.metal.ore": 42,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561199006214483": {
+          "PlayerPoints": 438,
+          "Killed": 3,
+          "Death": 2,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 11592,
+            "metal.ore": 65695,
+            "sulfur.ore": 1400,
+            "hq.metal.ore": 28,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561198220951192": {
+          "PlayerPoints": 87,
+          "Killed": 0,
+          "Death": 2,
+          "Suicide": 1,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 5250,
+            "metal.ore": 77000,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 14,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561198980159939": {
+          "PlayerPoints": 351,
+          "Killed": 8,
+          "Death": 6,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 28,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561199161705705": {
+          "PlayerPoints": 162,
+          "Killed": 3,
+          "Death": 7,
+          "Suicide": 2,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 63070,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 28,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561198866514399": {
+          "PlayerPoints": 153,
+          "Killed": 1,
+          "Death": 2,
+          "Suicide": 1,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 28,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561199071505812": {
+          "PlayerPoints": 79,
+          "Killed": 1,
+          "Death": 8,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 56707,
+            "sulfur.ore": 1610,
+            "hq.metal.ore": 56,
+            "fat.animal": 1428,
+            "cloth": 868,
+            "leather": 343,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        }
+      },
+      "invites": {
+        "76561199184276867": 1676034064
+      },
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": [],
+      "SkinList": {
+        "wear": {
+          "metal.facemask": 831923884,
+          "metal.plate.torso": 797410767,
+          "roadsign.kilt": 1106569231,
+          "hoodie": 14179,
+          "pants": 1106596145,
+          "shoes.boots": 10023
+        },
+        "weapon": {
+          "rifle.ak": 0
+        }
+      },
+      "Change": {
+        "wood": {
+          "Need": 50000,
+          "Complete": 0
+        },
+        "metal.ore": {
+          "Need": 333333,
+          "Complete": 333333
+        },
+        "stones": {
+          "Need": 33333,
+          "Complete": 33333
+        },
+        "sulfur.ore": {
+          "Need": 10000,
+          "Complete": 10000
+        },
+        "fat.animal": {
+          "Need": 3333333,
+          "Complete": 1728
+        },
+        "cloth": {
+          "Need": 33333,
+          "Complete": 916
+        },
+        "leather": {
+          "Need": 333,
+          "Complete": 333
+        },
+        "hq.metal.ore": {
+          "Need": 3333333,
+          "Complete": 252
+        },
+        "loot-barrel": {
+          "Need": 20,
+          "Complete": 13
+        }
+      }
+    },
+    "JOPA": {
+      "ClanPoints": -71,
+      "KilledTCAll": 0,
+      "CupCount": 0,
+      "raidpoint": 0,
+      "Farm": 0,
+      "KillC": 2,
+      "DeathC": 4,
+      "SuicideC": 1,
+      "tag": "JOPA",
+      "description": "",
+      "owner": "76561198129951358",
+      "ownerName": "S U E T N I K#bolotorust",
+      "ClanAvatar": "",
+      "council": null,
+      "created": 1676034051,
+      "updated": 1676035154,
+      "moderators": [],
+      "members": {
+        "76561198129951358": {
+          "PlayerPoints": -71,
+          "Killed": 2,
+          "Death": 4,
+          "Suicide": 1,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        }
+      },
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": [],
+      "SkinList": {
+        "wear": {
+          "metal.facemask": 0,
+          "metal.plate.torso": 0,
+          "roadsign.kilt": 0,
+          "hoodie": 0,
+          "pants": 0,
+          "shoes.boots": 0
+        },
+        "weapon": {
+          "rifle.ak": 0
+        }
+      },
+      "Change": {
+        "wood": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "metal.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "stones": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "sulfur.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "fat.animal": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "cloth": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "leather": {
+          "Need": 100,
+          "Complete": 0
+        },
+        "hq.metal.ore": {
+          "Need": 500,
+          "Complete": 0
+        },
+        "loot-barrel": {
+          "Need": 20,
+          "Complete": 1
+        }
+      }
+    },
+    "noname": {
+      "ClanPoints": 2438,
+      "KilledTCAll": 0,
+      "CupCount": 0,
+      "raidpoint": 0,
+      "Farm": 1683925,
+      "KillC": 38,
+      "DeathC": 37,
+      "SuicideC": 1,
+      "tag": "noname",
+      "description": "",
+      "owner": "76561198272782875",
+      "ownerName": "ГАЧИБОЙ",
+      "ClanAvatar": "",
+      "council": null,
+      "created": 1676036727,
+      "updated": 1676040731,
+      "moderators": [
+        "76561198444236429"
+      ],
+      "members": {
+        "76561198272782875": {
+          "PlayerPoints": 219,
+          "Killed": 4,
+          "Death": 5,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 84,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561198404491251": {
+          "PlayerPoints": 1155,
+          "Killed": 21,
+          "Death": 8,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 1323,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 133,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561198962589440": {
+          "PlayerPoints": 774,
+          "Killed": 11,
+          "Death": 7,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 1092,
+            "metal.ore": 0,
+            "sulfur.ore": 1078,
+            "hq.metal.ore": 28,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561198136603134": {
+          "PlayerPoints": 284,
+          "Killed": 0,
+          "Death": 8,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 168,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561198444236429": {
+          "PlayerPoints": 9,
+          "Killed": 2,
+          "Death": 7,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 28,
+            "fat.animal": 0,
+            "cloth": 147,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561198853832534": {
+          "PlayerPoints": -3,
+          "Killed": 0,
+          "Death": 2,
+          "Suicide": 1,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 14,
+            "fat.animal": 280,
+            "cloth": 120,
+            "leather": 140,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        }
+      },
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": [],
+      "SkinList": {
+        "wear": {
+          "metal.facemask": 792827436,
+          "metal.plate.torso": 832233112,
+          "roadsign.kilt": 828173323,
+          "hoodie": 0,
+          "pants": 0,
+          "shoes.boots": 0
+        },
+        "weapon": {
+          "rifle.ak": 2843727355
+        }
+      },
+      "Change": {
+        "wood": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "metal.ore": {
+          "Need": 1000,
+          "Complete": 1000
+        },
+        "stones": {
+          "Need": 1000,
+          "Complete": 1000
+        },
+        "sulfur.ore": {
+          "Need": 1000,
+          "Complete": 1000
+        },
+        "fat.animal": {
+          "Need": 300,
+          "Complete": 280
+        },
+        "cloth": {
+          "Need": 300,
+          "Complete": 267
+        },
+        "leather": {
+          "Need": 100,
+          "Complete": 100
+        },
+        "hq.metal.ore": {
+          "Need": 500,
+          "Complete": 455
+        },
+        "loot-barrel": {
+          "Need": 20,
+          "Complete": 35
+        }
+      }
+    },
+    "123": {
+      "ClanPoints": 2375,
+      "KilledTCAll": 0,
+      "CupCount": 0,
+      "raidpoint": 0,
+      "Farm": 32520,
+      "KillC": 91,
+      "DeathC": 60,
+      "SuicideC": 3,
+      "tag": "123",
+      "description": "",
+      "owner": "76561198085932851",
+      "ownerName": "я ебу ньюкамов",
+      "ClanAvatar": "",
+      "council": null,
+      "created": 1676034104,
+      "updated": 1676040863,
+      "moderators": [],
+      "members": {
+        "76561198085932851": {
+          "PlayerPoints": 225,
+          "Killed": 11,
+          "Death": 13,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 70,
+            "fat.animal": 0,
+            "cloth": 22,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561198845943496": {
+          "PlayerPoints": 505,
+          "Killed": 23,
+          "Death": 18,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 1225,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 14,
+            "fat.animal": 0,
+            "cloth": 49,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561198983285973": {
+          "PlayerPoints": 463,
+          "Killed": 16,
+          "Death": 7,
+          "Suicide": 2,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 94,
+            "stones": 1003,
+            "metal.ore": 0,
+            "sulfur.ore": 1018,
+            "hq.metal.ore": 21,
+            "fat.animal": 338,
+            "cloth": 250,
+            "leather": 116,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561198815166005": {
+          "PlayerPoints": 507,
+          "Killed": 20,
+          "Death": 13,
+          "Suicide": 1,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 420,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 21,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561197970658835": {
+          "PlayerPoints": 630,
+          "Killed": 20,
+          "Death": 9,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561199096994758": {
+          "PlayerPoints": 45,
+          "Killed": 1,
+          "Death": 0,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        }
+      },
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": [],
+      "SkinList": {
+        "wear": {
+          "metal.facemask": 0,
+          "metal.plate.torso": 0,
+          "roadsign.kilt": 0,
+          "hoodie": 0,
+          "pants": 0,
+          "shoes.boots": 0
+        },
+        "weapon": {
+          "rifle.ak": 0
+        }
+      },
+      "Change": {
+        "wood": {
+          "Need": 1000,
+          "Complete": 514
+        },
+        "metal.ore": {
+          "Need": 1000,
+          "Complete": 1000
+        },
+        "stones": {
+          "Need": 1000,
+          "Complete": 1000
+        },
+        "sulfur.ore": {
+          "Need": 1000,
+          "Complete": 1000
+        },
+        "fat.animal": {
+          "Need": 300,
+          "Complete": 300
+        },
+        "cloth": {
+          "Need": 300,
+          "Complete": 300
+        },
+        "leather": {
+          "Need": 100,
+          "Complete": 100
+        },
+        "hq.metal.ore": {
+          "Need": 500,
+          "Complete": 126
+        },
+        "loot-barrel": {
+          "Need": 20,
+          "Complete": 2
+        }
+      }
+    },
+    "EZLOX": {
+      "ClanPoints": -30,
+      "KilledTCAll": 0,
+      "CupCount": 0,
+      "raidpoint": 0,
+      "Farm": 0,
+      "KillC": 0,
+      "DeathC": 1,
+      "SuicideC": 0,
+      "tag": "EZLOX",
+      "description": "",
+      "owner": "76561199323325783",
+      "ownerName": ".merzost",
+      "ClanAvatar": "",
+      "council": null,
+      "created": 1676034217,
+      "updated": 1676034217,
+      "moderators": [],
+      "members": {
+        "76561199323325783": {
+          "PlayerPoints": -30,
+          "Killed": 0,
+          "Death": 1,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        }
+      },
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": [],
+      "SkinList": {
+        "wear": {
+          "metal.facemask": 0,
+          "metal.plate.torso": 0,
+          "roadsign.kilt": 0,
+          "hoodie": 0,
+          "pants": 0,
+          "shoes.boots": 0
+        },
+        "weapon": {
+          "rifle.ak": 0
+        }
+      },
+      "Change": {
+        "wood": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "metal.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "stones": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "sulfur.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "fat.animal": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "cloth": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "leather": {
+          "Need": 100,
+          "Complete": 0
+        },
+        "hq.metal.ore": {
+          "Need": 500,
+          "Complete": 0
+        },
+        "loot-barrel": {
+          "Need": 20,
+          "Complete": 0
+        }
+      }
+    },
+    "keksteam": {
+      "ClanPoints": -225,
+      "KilledTCAll": 0,
+      "CupCount": 0,
+      "raidpoint": 0,
+      "Farm": 0,
+      "KillC": 0,
+      "DeathC": 6,
+      "SuicideC": 1,
+      "tag": "keksteam",
+      "description": "",
+      "owner": "76561199031890098",
+      "ownerName": "Lurlene",
+      "ClanAvatar": "",
+      "council": null,
+      "created": 1676034307,
+      "updated": 1676035154,
+      "moderators": [],
+      "members": {
+        "76561199031890098": {
+          "PlayerPoints": -225,
+          "Killed": 0,
+          "Death": 6,
+          "Suicide": 1,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        }
+      },
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": [],
+      "SkinList": {
+        "wear": {
+          "metal.facemask": 0,
+          "metal.plate.torso": 0,
+          "roadsign.kilt": 0,
+          "hoodie": 0,
+          "pants": 0,
+          "shoes.boots": 0
+        },
+        "weapon": {
+          "rifle.ak": 0
+        }
+      },
+      "Change": {
+        "wood": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "metal.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "stones": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "sulfur.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "fat.animal": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "cloth": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "leather": {
+          "Need": 100,
+          "Complete": 0
+        },
+        "hq.metal.ore": {
+          "Need": 500,
+          "Complete": 0
+        },
+        "loot-barrel": {
+          "Need": 20,
+          "Complete": 0
+        }
+      }
+    },
+    "TTTTT": {
+      "ClanPoints": 296,
+      "KilledTCAll": 0,
+      "CupCount": 0,
+      "raidpoint": 0,
+      "Farm": 222287,
+      "KillC": 4,
+      "DeathC": 3,
+      "SuicideC": 1,
+      "tag": "TTTTT",
+      "description": "",
+      "owner": "76561199087520818",
+      "ownerName": "rqiourquhrf",
+      "ClanAvatar": "",
+      "council": null,
+      "created": 1676034443,
+      "updated": 1676037808,
+      "moderators": [
+        "76561199017135673"
+      ],
+      "members": {
+        "76561199087520818": {
+          "PlayerPoints": 15,
+          "Killed": 1,
+          "Death": 1,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 9,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561199017135673": {
+          "PlayerPoints": 281,
+          "Killed": 3,
+          "Death": 2,
+          "Suicide": 1,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 1092,
+            "metal.ore": 1225,
+            "sulfur.ore": 1078,
+            "hq.metal.ore": 28,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561198846739564": {
+          "PlayerPoints": 0,
+          "Killed": 0,
+          "Death": 0,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        }
+      },
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": [],
+      "SkinList": {
+        "wear": {
+          "metal.facemask": 0,
+          "metal.plate.torso": 0,
+          "roadsign.kilt": 0,
+          "hoodie": 0,
+          "pants": 0,
+          "shoes.boots": 0
+        },
+        "weapon": {
+          "rifle.ak": 0
+        }
+      },
+      "Change": {
+        "wood": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "metal.ore": {
+          "Need": 1000,
+          "Complete": 1000
+        },
+        "stones": {
+          "Need": 1000,
+          "Complete": 1000
+        },
+        "sulfur.ore": {
+          "Need": 1000,
+          "Complete": 1000
+        },
+        "fat.animal": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "cloth": {
+          "Need": 300,
+          "Complete": 9
+        },
+        "leather": {
+          "Need": 100,
+          "Complete": 0
+        },
+        "hq.metal.ore": {
+          "Need": 500,
+          "Complete": 28
+        },
+        "loot-barrel": {
+          "Need": 20,
+          "Complete": 5
+        }
+      }
+    },
+    "PBN": {
+      "ClanPoints": -743,
+      "KilledTCAll": 0,
+      "CupCount": 0,
+      "raidpoint": 0,
+      "Farm": 41395,
+      "KillC": 43,
+      "DeathC": 92,
+      "SuicideC": 2,
+      "tag": "PBN",
+      "description": "hahaha",
+      "owner": "76561199032581382",
+      "ownerName": ".?Pneumonia#HyperRust",
+      "ClanAvatar": "",
+      "council": null,
+      "created": 1676034478,
+      "updated": 1676040336,
+      "moderators": [],
+      "members": {
+        "76561199032581382": {
+          "PlayerPoints": 7,
+          "Killed": 10,
+          "Death": 18,
+          "Suicide": 1,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 728,
+            "metal.ore": 1225,
+            "sulfur.ore": 686,
+            "hq.metal.ore": 14,
+            "fat.animal": 441,
+            "cloth": 252,
+            "leather": 147,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561199227141480": {
+          "PlayerPoints": -540,
+          "Killed": 7,
+          "Death": 28,
+          "Suicide": 1,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 542,
+            "metal.ore": 0,
+            "sulfur.ore": 400,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561199210296693": {
+          "PlayerPoints": -615,
+          "Killed": 5,
+          "Death": 28,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561199098355767": {
+          "PlayerPoints": 180,
+          "Killed": 6,
+          "Death": 3,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561199008360109": {
+          "PlayerPoints": 225,
+          "Killed": 15,
+          "Death": 15,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        }
+      },
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": [],
+      "SkinList": {
+        "wear": {
+          "metal.facemask": 0,
+          "metal.plate.torso": 0,
+          "roadsign.kilt": 0,
+          "hoodie": 0,
+          "pants": 0,
+          "shoes.boots": 0
+        },
+        "weapon": {
+          "rifle.ak": 0
+        }
+      },
+      "Change": {
+        "wood": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "metal.ore": {
+          "Need": 1000,
+          "Complete": 1000
+        },
+        "stones": {
+          "Need": 1000,
+          "Complete": 1000
+        },
+        "sulfur.ore": {
+          "Need": 1000,
+          "Complete": 1000
+        },
+        "fat.animal": {
+          "Need": 300,
+          "Complete": 300
+        },
+        "cloth": {
+          "Need": 300,
+          "Complete": 252
+        },
+        "leather": {
+          "Need": 100,
+          "Complete": 100
+        },
+        "hq.metal.ore": {
+          "Need": 500,
+          "Complete": 14
+        },
+        "loot-barrel": {
+          "Need": 20,
+          "Complete": 31
+        }
+      }
+    },
+    "323": {
+      "ClanPoints": 0,
+      "KilledTCAll": 0,
+      "CupCount": 0,
+      "raidpoint": 0,
+      "Farm": 0,
+      "KillC": 0,
+      "DeathC": 0,
+      "SuicideC": 0,
+      "tag": "323",
+      "description": "",
+      "owner": "76561199184466178",
+      "ownerName": "bubuka",
+      "ClanAvatar": "",
+      "council": null,
+      "created": 1676034678,
+      "updated": 1676036666,
+      "moderators": [],
+      "members": {
+        "76561199184466178": {
+          "PlayerPoints": 0,
+          "Killed": 0,
+          "Death": 0,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561198847044695": {
+          "PlayerPoints": 0,
+          "Killed": 0,
+          "Death": 0,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561199091785584": {
+          "PlayerPoints": 0,
+          "Killed": 0,
+          "Death": 0,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        }
+      },
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": [],
+      "SkinList": {
+        "wear": {
+          "metal.facemask": 0,
+          "metal.plate.torso": 0,
+          "roadsign.kilt": 0,
+          "hoodie": 0,
+          "pants": 0,
+          "shoes.boots": 0
+        },
+        "weapon": {
+          "rifle.ak": 0
+        }
+      },
+      "Change": {
+        "wood": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "metal.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "stones": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "sulfur.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "fat.animal": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "cloth": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "leather": {
+          "Need": 100,
+          "Complete": 0
+        },
+        "hq.metal.ore": {
+          "Need": 500,
+          "Complete": 0
+        },
+        "loot-barrel": {
+          "Need": 20,
+          "Complete": 0
+        }
+      }
+    },
+    "pepsilox": {
+      "ClanPoints": 600,
+      "KilledTCAll": 0,
+      "CupCount": 0,
+      "raidpoint": 0,
+      "Farm": 0,
+      "KillC": 36,
+      "DeathC": 28,
+      "SuicideC": 4,
+      "tag": "pepsilox",
+      "description": "",
+      "owner": "76561198094273346",
+      "ownerName": "безгрешен и опасе",
+      "ClanAvatar": "",
+      "council": null,
+      "created": 1676035238,
+      "updated": 1676041217,
+      "moderators": [
+        "76561199216007171"
+      ],
+      "members": {
+        "76561198094273346": {
+          "PlayerPoints": 720,
+          "Killed": 27,
+          "Death": 12,
+          "Suicide": 3,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561199216007171": {
+          "PlayerPoints": -120,
+          "Killed": 9,
+          "Death": 16,
+          "Suicide": 1,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        }
+      },
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": [],
+      "SkinList": {
+        "wear": {
+          "metal.facemask": 0,
+          "metal.plate.torso": 0,
+          "roadsign.kilt": 0,
+          "hoodie": 0,
+          "pants": 0,
+          "shoes.boots": 0
+        },
+        "weapon": {
+          "rifle.ak": 0
+        }
+      },
+      "Change": {
+        "wood": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "metal.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "stones": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "sulfur.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "fat.animal": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "cloth": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "leather": {
+          "Need": 100,
+          "Complete": 0
+        },
+        "hq.metal.ore": {
+          "Need": 500,
+          "Complete": 0
+        },
+        "loot-barrel": {
+          "Need": 20,
+          "Complete": 0
+        }
+      }
+    },
+    "broken": {
+      "ClanPoints": -301,
+      "KilledTCAll": 0,
+      "CupCount": 0,
+      "raidpoint": 0,
+      "Farm": 100331,
+      "KillC": 11,
+      "DeathC": 27,
+      "SuicideC": 3,
+      "tag": "broken",
+      "description": "",
+      "owner": "76561199258130333",
+      "ownerName": "recawwq x aka slabiy",
+      "ClanAvatar": "",
+      "council": null,
+      "created": 1676035266,
+      "updated": 1676038360,
+      "moderators": [],
+      "members": {
+        "76561199258130333": {
+          "PlayerPoints": -232,
+          "Killed": 6,
+          "Death": 14,
+          "Suicide": 2,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561198367533806": {
+          "PlayerPoints": -69,
+          "Killed": 5,
+          "Death": 13,
+          "Suicide": 1,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 1323,
+            "sulfur.ore": 1015,
+            "hq.metal.ore": 56,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        }
+      },
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": [],
+      "SkinList": {
+        "wear": {
+          "metal.facemask": 0,
+          "metal.plate.torso": 0,
+          "roadsign.kilt": 0,
+          "hoodie": 0,
+          "pants": 0,
+          "shoes.boots": 0
+        },
+        "weapon": {
+          "rifle.ak": 0
+        }
+      },
+      "Change": {
+        "wood": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "metal.ore": {
+          "Need": 1000,
+          "Complete": 1000
+        },
+        "stones": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "sulfur.ore": {
+          "Need": 1000,
+          "Complete": 1000
+        },
+        "fat.animal": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "cloth": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "leather": {
+          "Need": 100,
+          "Complete": 0
+        },
+        "hq.metal.ore": {
+          "Need": 500,
+          "Complete": 56
+        },
+        "loot-barrel": {
+          "Need": 20,
+          "Complete": 2
+        }
+      }
+    },
+    "BUBEN": {
+      "ClanPoints": 8525,
+      "KilledTCAll": 0,
+      "CupCount": 0,
+      "raidpoint": 0,
+      "Farm": 3548064,
+      "KillC": 117,
+      "DeathC": 67,
+      "SuicideC": 8,
+      "tag": "BUBEN",
+      "description": "",
+      "owner": "76561198366065523",
+      "ownerName": "Дракс x makhachkalinec",
+      "ClanAvatar": "",
+      "council": null,
+      "created": 1676035590,
+      "updated": 1676042094,
+      "moderators": [
+        "76561198393216809"
+      ],
+      "members": {
+        "76561198366065523": {
+          "PlayerPoints": 1230,
+          "Killed": 11,
+          "Death": 6,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 70,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561198984405280": {
+          "PlayerPoints": 836,
+          "Killed": 7,
+          "Death": 9,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 56,
+            "fat.animal": 0,
+            "cloth": 147,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561199265978592": {
+          "PlayerPoints": 1099,
+          "Killed": 11,
+          "Death": 5,
+          "Suicide": 1,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 91,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561198393216809": {
+          "PlayerPoints": 1487,
+          "Killed": 25,
+          "Death": 9,
+          "Suicide": 3,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 1470,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 98,
+            "fat.animal": 441,
+            "cloth": 252,
+            "leather": 147,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561199109943018": {
+          "PlayerPoints": 1206,
+          "Killed": 32,
+          "Death": 13,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 1225,
+            "sulfur.ore": 1078,
+            "hq.metal.ore": 56,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561198425658113": {
+          "PlayerPoints": 1035,
+          "Killed": 13,
+          "Death": 4,
+          "Suicide": 1,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 70,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561199184276867": {
+          "PlayerPoints": 1012,
+          "Killed": 10,
+          "Death": 11,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 49,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561199349310065": {
+          "PlayerPoints": 96,
+          "Killed": 4,
+          "Death": 6,
+          "Suicide": 3,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 28,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561199055295844": {
+          "PlayerPoints": 500,
+          "Killed": 4,
+          "Death": 3,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        },
+        "76561198360496184": {
+          "PlayerPoints": -18,
+          "Killed": 0,
+          "Death": 1,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        }
+      },
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": [],
+      "SkinList": {
+        "wear": {
+          "metal.facemask": 784316334,
+          "metal.plate.torso": 797410767,
+          "roadsign.kilt": 1102986622,
+          "hoodie": 14179,
+          "pants": 2709707942,
+          "shoes.boots": 10023
+        },
+        "weapon": {
+          "rifle.ak": 0
+        }
+      },
+      "Change": {
+        "wood": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "metal.ore": {
+          "Need": 1000,
+          "Complete": 1000
+        },
+        "stones": {
+          "Need": 1000,
+          "Complete": 1000
+        },
+        "sulfur.ore": {
+          "Need": 1000,
+          "Complete": 1000
+        },
+        "fat.animal": {
+          "Need": 300,
+          "Complete": 300
+        },
+        "cloth": {
+          "Need": 300,
+          "Complete": 300
+        },
+        "leather": {
+          "Need": 100,
+          "Complete": 100
+        },
+        "hq.metal.ore": {
+          "Need": 500,
+          "Complete": 500
+        },
+        "loot-barrel": {
+          "Need": 20,
+          "Complete": 17
+        }
+      }
+    },
+    "hui": {
+      "ClanPoints": 0,
+      "KilledTCAll": 0,
+      "CupCount": 0,
+      "raidpoint": 0,
+      "Farm": 0,
+      "KillC": 0,
+      "DeathC": 0,
+      "SuicideC": 0,
+      "tag": "hui",
+      "description": "",
+      "owner": "76561199230819466",
+      "ownerName": "LILDRUGHILL",
+      "ClanAvatar": "",
+      "council": null,
+      "created": 1676038678,
+      "updated": 1676038678,
+      "moderators": [],
+      "members": {
+        "76561199230819466": {
+          "PlayerPoints": 0,
+          "Killed": 0,
+          "Death": 0,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 0,
+            "cloth": 0,
+            "leather": 0,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        }
+      },
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": [],
+      "SkinList": {
+        "wear": {
+          "metal.facemask": 824898622,
+          "metal.plate.torso": 832233112,
+          "roadsign.kilt": 828173323,
+          "hoodie": 939604165,
+          "pants": 939586076,
+          "shoes.boots": 2090776132
+        },
+        "weapon": {
+          "rifle.ak": 10138
+        }
+      },
+      "Change": {
+        "wood": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "metal.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "stones": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "sulfur.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "fat.animal": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "cloth": {
+          "Need": 300,
+          "Complete": 0
+        },
+        "leather": {
+          "Need": 100,
+          "Complete": 0
+        },
+        "hq.metal.ore": {
+          "Need": 500,
+          "Complete": 0
+        },
+        "loot-barrel": {
+          "Need": 20,
+          "Complete": 0
+        }
+      }
+    },
+    "PEPSIDAUN": {
+      "ClanPoints": -60,
+      "KilledTCAll": 0,
+      "CupCount": 0,
+      "raidpoint": 0,
+      "Farm": 123,
+      "KillC": 0,
+      "DeathC": 2,
+      "SuicideC": 0,
+      "tag": "PEPSIDAUN",
+      "description": "",
+      "owner": "76561199022272280",
+      "ownerName": "vavavooob banditcamp.com",
+      "ClanAvatar": "",
+      "council": null,
+      "created": 1676041517,
+      "updated": 1676041517,
+      "moderators": [],
+      "members": {
+        "76561199022272280": {
+          "PlayerPoints": -60,
+          "Killed": 0,
+          "Death": 2,
+          "Suicide": 0,
+          "KilledHeli": 0,
+          "KilledBradleyAPC": 0,
+          "CupAuth": true,
+          "CodeAuth": true,
+          "TurretAuth": true,
+          "GatherInfo": {
+            "wood": 0,
+            "stones": 0,
+            "metal.ore": 0,
+            "sulfur.ore": 0,
+            "hq.metal.ore": 0,
+            "fat.animal": 70,
+            "cloth": 18,
+            "leather": 35,
+            "scrap": 0,
+            "gears": 0,
+            "techparts": 0,
+            "metalpipe": 0
+          }
+        }
+      },
+      "invites": {},
+      "clanAlliances": [],
+      "invitedAllies": [],
+      "pendingInvites": [],
+      "SkinList": {
+        "wear": {
+          "metal.facemask": 0,
+          "metal.plate.torso": 0,
+          "roadsign.kilt": 0,
+          "hoodie": 0,
+          "pants": 0,
+          "shoes.boots": 0
+        },
+        "weapon": {
+          "rifle.ak": 0
+        }
+      },
+      "Change": {
+        "wood": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "metal.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "stones": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "sulfur.ore": {
+          "Need": 1000,
+          "Complete": 0
+        },
+        "fat.animal": {
+          "Need": 300,
+          "Complete": 70
+        },
+        "cloth": {
+          "Need": 300,
+          "Complete": 18
+        },
+        "leather": {
+          "Need": 100,
+          "Complete": 35
+        },
+        "hq.metal.ore": {
+          "Need": 500,
+          "Complete": 0
+        },
+        "loot-barrel": {
+          "Need": 20,
+          "Complete": 0
+        }
+      }
+    }
+  },
+  "saveStamp": 1676042232,
+  "lastStorage": "json"
+}

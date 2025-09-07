@@ -1,0 +1,69 @@
+{
+  "WipeNumber": 233,
+  "Items": [
+    {
+      "ID": -2099697608,
+      "Position": 0,
+      "Amount": 5000
+    },
+    {
+      "ID": -1021495308,
+      "Position": 1,
+      "Amount": 3
+    },
+    {
+      "ID": 642482233,
+      "Position": 2,
+      "Amount": 14,
+      "Skin": 1707224728,
+      "Name": "Серебро"
+    },
+    {
+      "ID": -932201673,
+      "Position": 3,
+      "Amount": 14
+    },
+    {
+      "ID": -1994909036,
+      "Position": 4,
+      "Amount": 2
+    },
+    {
+      "ID": 1230323789,
+      "Position": 5,
+      "Amount": 2
+    },
+    {
+      "ID": 73681876,
+      "Position": 6,
+      "Amount": 14
+    },
+    {
+      "ID": 2019042823,
+      "Position": 7,
+      "Amount": 4
+    },
+    {
+      "ID": 1882709339,
+      "Position": 8,
+      "Amount": 3
+    },
+    {
+      "ID": -151838493,
+      "Position": 11,
+      "Amount": 2336,
+      "Fuel": 10.0
+    },
+    {
+      "ID": 69511070,
+      "Position": 9,
+      "Amount": 21
+    },
+    {
+      "ID": -265876753,
+      "Position": 10,
+      "Amount": 5000
+    }
+  ],
+  "OwnerID": 76561199195879373
+}

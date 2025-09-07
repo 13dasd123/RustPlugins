@@ -1,0 +1,14 @@
+{
+  "useAttire": true,
+  "useTools": true,
+  "useWeapons": true,
+  "useWhiteList": true,
+  "WhitelistedItems": [
+    "hatchet",
+    "pickaxe",
+    "stonehatchet",
+    "stone.pickaxe",
+    "axe.salvaged",
+    "icepick.salvaged"
+  ]
+}

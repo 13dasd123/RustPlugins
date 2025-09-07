@@ -1,0 +1,50 @@
+{
+  "Command": {
+    "codelockCommand": "codelock"
+  },
+  "Formatting": {
+    "colorCmdUsage": "yellow",
+    "colorOFF": "silver",
+    "colorON": "green",
+    "colorTextMsg": "white",
+    "pluginPrefix": "AutoCodeLock",
+    "prefixColor": "orange",
+    "prefixFormat": "<color={0}>{1}</color>: "
+  },
+  "Options": {
+    "autoUpdateChangedDelays": false,
+    "checkPlayerForCombatBlocked": false,
+    "checkPlayerForRaidBlocked": true,
+    "closerPickupReplaceItem": "scrap",
+    "doorCloserMaxDelay": 15.0,
+    "doorCloserMinDelay": 2.0,
+    "ladderHatchMaxDelay": 15.0,
+    "ladderHatchMinDelay": 3.0,
+    "notifyAuthCodeLock": true
+  },
+  "Permissions": {
+    "adminAutoRights": true,
+    "permissionAll": "autocodelock.all",
+    "permissionAutoLock": "autocodelock.autolock",
+    "permissionDeployBox": "autocodelock.deploybox",
+    "permissionDeployCupboard": "autocodelock.deploycup",
+    "permissionDeployDoor": "autocodelock.deploydoor",
+    "permissionDeployLocker": "autocodelock.deploylocker",
+    "permissionDoorCloser": "autocodelock.doorcloser",
+    "permissionNoLockNeed": "autocodelock.nolockneed"
+  },
+  "PlayerDefaults": {
+    "AutoLock": false,
+    "DefaultCloseDelay": 3.0,
+    "DefaultHatchdelay": 5.0,
+    "DeployBox": false,
+    "DeployCupboard": false,
+    "DeployDoor": false,
+    "DeployDoorCloser": false,
+    "DeployLocker": false,
+    "UseGuestCode": false
+  },
+  "Storage": {
+    "useProtostorageUserdata": false
+  }
+}

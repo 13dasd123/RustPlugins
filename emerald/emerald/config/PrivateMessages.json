@@ -1,0 +1,18 @@
+{
+  "CannotFindUser": "Игрок не найден",
+  "CommandDisabled": "команда отключена",
+  "CooldownMessage": "Подождите {0} сек",
+  "History": "Ваша история: \n{0}",
+  "HistorySyntax": "История: /pmhistory ник",
+  "IgnoreYou": "<color=#ff0000>{0} игнорирует вас</color>",
+  "NoHistory": "Нет истории с этим игроком",
+  "NotAllowedToChat": "чат недоступен",
+  "NotMessaged": "У вас нет лс",
+  "NotOnlineAnymore": "игрок офлайн",
+  "PlayerNotOnline": "{0} офлайн",
+  "PMFrom": "<color=#FFCF40>ЛС от {0}</color>: {1}",
+  "PMTo": "<color=#FFCF40>ЛС для {0}</color>: {1}",
+  "SelfPM": "нельзя отправлять лс к себе",
+  "SyntaxPM": "<color=#00ffb7>/pm ник сообщение</color> - <color=#ff6a00>отправить личное сообщение</color>",
+  "SyntaxR": "<color=#00ffb7>/r <msg></color> - <color=#ff6a00>отправить ответ</color>"
+}

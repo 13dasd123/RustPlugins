@@ -1,0 +1,10 @@
+{
+  "NoClan": "You are not a member of any clan, access is denied.",
+  "PlayerNoOwner": "Only the leader of your clan can customize skins.",
+  "NotClanInBase": "The clan leader has not yet set up skins. Or the clan is not found in the database list",
+  "UIInputText": "<size=24>ALSO YOU CAN HERE ENTER THE ID OF YOUR SKIN (ONLY WORKSHOP)</size>",
+  "UISkinListText": "<size=26>SELECT THE NECESSARY SKIN JUST PRESS ON IT</size>",
+  "WeaponTranslate": "WEAPON",
+  "AttireTranslate": "CLOTHES",
+  "UIMainText": "<size=26>SETTING CLAN SKINS</size>"
+}

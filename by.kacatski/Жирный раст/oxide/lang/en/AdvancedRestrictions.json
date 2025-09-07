@@ -1,0 +1,11 @@
+{
+  "Title": "<color=orange>Restrictions:</color> ",
+  "MaxFoundations": "You have reached the max foundations allowed! (max {0})",
+  "MaxTurrets": "You cant place more turrets! (max {0})",
+  "MaxFoundationsPerBuilding": "You have reached the max foundations allowed per building! (max {0})",
+  "MaxBlocksPerBuilding": "You have built {0} / {1} blocks in this building",
+  "CurrentBlocks": "You have built {0} / {1} blocks in this building",
+  "CurrentFoundations": "You have currently {0} / {1} foundations built, type /fcheck",
+  "denyUnderWater": "This can't be build under water!",
+  "CurrentFoundationsPerBuilding": "This building has {0} / {1} already"
+}

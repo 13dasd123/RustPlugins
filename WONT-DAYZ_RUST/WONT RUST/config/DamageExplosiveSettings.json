@@ -1,0 +1,16 @@
+{
+  "Настройка Damage ( shortname => damage ( 1.0 default )": {
+    "rocket_basic": 0.0,
+    "rocket_hv": 0.0,
+    "explosive.timed.deployed": 0.0,
+    "explosive.satchel.deployed": 0.0,
+    "grenade.beancan.deployed": 0.0,
+    "40mm_grenade_he": 0.1,
+    "grenade.f1.deployed": 0.0
+  },
+  "Версия конфигурации": {
+    "Major": 1,
+    "Minor": 0,
+    "Patch": 0
+  }
+}

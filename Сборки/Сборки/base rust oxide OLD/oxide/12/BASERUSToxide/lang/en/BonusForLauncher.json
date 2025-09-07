@@ -1,0 +1,6 @@
+{
+  "WELCOME_MESSAGE": "Thank you for voting for the server!\nYou can pick up the award by writing the command - /vote\n*You can vote every day and get a reward for this",
+  "TAKE_REWARD_MESSAGE": "You have successfully collected the voting reward!\nYou will be able to receive it the next time you vote for the server",
+  "TAKE_RETURN": "You have already taken the reward!\nYou can get it the next time you vote for the server",
+  "ALERTS_USER": "Player {0} voted for server and received a reward!\nDo you want a reward?\nVote for the server in the launcher!"
+}

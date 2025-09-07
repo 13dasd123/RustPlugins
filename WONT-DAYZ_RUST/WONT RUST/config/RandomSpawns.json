@@ -1,0 +1,44 @@
+{
+  "Generation Options": {
+    "Generation attempts": 3000,
+    "Maximum slope (degrees)": 45.0,
+    "Distance from buildings (metres)": 15.0
+  },
+  "Spawn Options": {
+    "Biome Options": {
+      "Arctic": {
+        "Enable spawn points to be generated in this biome": true,
+        "Minimum required online players before spawns from this biome will be selected": 30
+      },
+      "Tundra": {
+        "Enable spawn points to be generated in this biome": true,
+        "Minimum required online players before spawns from this biome will be selected": 20
+      },
+      "Arid": {
+        "Enable spawn points to be generated in this biome": true,
+        "Minimum required online players before spawns from this biome will be selected": 10
+      },
+      "Temperate": {
+        "Enable spawn points to be generated in this biome": true,
+        "Minimum required online players before spawns from this biome will be selected": 1
+      }
+    },
+    "Disable spawn points in these zones (zone IDs)": [],
+    "Disable spawn points in these topologies": [
+      "Cliff",
+      "Cliffside",
+      "Lake",
+      "Ocean",
+      "Monument",
+      "Offshore",
+      "River",
+      "Swamp",
+      "Rail"
+    ]
+  },
+  "Version": {
+    "Major": 0,
+    "Minor": 3,
+    "Patch": 5
+  }
+}

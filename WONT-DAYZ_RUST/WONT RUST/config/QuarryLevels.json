@@ -1,0 +1,58 @@
+{
+  "FuelSettings": {
+    "PumpjackItem": "lowgradefuel",
+    "QuarryItem": "diesel_barrel"
+  },
+  "SurveySettings": {
+    "EnableOilCraters": false,
+    "OilCraterChance": 10
+  },
+  "DepositSettings": {
+    "UnlockMetalAtLevel": 3,
+    "UnlockSulfurAtLevel": 4,
+    "UnlockHQMAtLevel": 5
+  },
+  "PlayerSettings": {
+    "PreventUnauthorizedToggling": false,
+    "PreventUnauthorizedLooting": false
+  },
+  "QuarrySettings": {
+    "QuarryMaxLevel": 3,
+    "PumpjackMaxLevel": 5,
+    "QuarryCapacityPerLevel": 5,
+    "PumpjackCapacityPerLevel": 5,
+    "EnableEconomics": false,
+    "EconomicsCost": 5000.0,
+    "EconomicsCurrency": "credits",
+    "EnableServerRewards": false,
+    "ServerRewardsCost": 5000.0,
+    "ServerRewardsCurrency": "rp"
+  },
+  "QuarryOptions": {
+    "Metal_Production": 4.0,
+    "Sulfur_Production": 4.0,
+    "HQM_Production": 1.0
+  },
+  "Button": {
+    "ButtonBounds": {
+      "xMin": 0.648,
+      "yMin": 0.115,
+      "xMax": 0.72,
+      "yMax": 0.143
+    },
+    "ButtonColor": "FFFFF3",
+    "ButtonOpacity": 0.16,
+    "ButtonFontColor": "#f7ebe1"
+  },
+  "Panel": {
+    "PanelBounds": {
+      "xMin": 0.39,
+      "yMin": 0.55,
+      "xMax": 0.61,
+      "yMax": 0.75
+    },
+    "PanelColor": "FFFFF3",
+    "PanelOpacity": 0.16,
+    "PanelFontColor": "#e8ddd4"
+  }
+}

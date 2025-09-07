@@ -1,0 +1,13 @@
+{
+  "LootContainerUpdate": "All LootContainer of this type are updated!",
+  "LootContainerNotRates": "No custom rates have been set for this LootContainer!",
+  "SuccessCopyItemsToInventory": "All items have been successfully copied to your inventory!",
+  "UI_REFILL": "REFILL",
+  "UI_RESTORE": "RESTORE",
+  "UI_REMOVE": "REMOVE",
+  "UI_MAXIMUM": "MAXIMUM",
+  "UI_MINIMUM": "MINIMUM",
+  "UI_COPY_TO_INVENTORY": "COPY <b>TO</b> INVENTORY",
+  "UI_COPY_FROM_INVENTORY": "COPY <b>FROM</b> INVENTORY",
+  "UI_ADD_FROM_INVENTORY": "ADD <b>FROM</b> INVENTORY"
+}

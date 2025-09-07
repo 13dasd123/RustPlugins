@@ -1,0 +1,10 @@
+{
+  "ChinookBuild": "<color=#E66062>Вы не можете строить в зоне ивента</color>",
+  "ChinookStart": "<color=#608FE6>Чинук с особым грузом</color> уже вылител на место сброса.\nКвадрат сброса <color=#6ACB52>{0}</color>",
+  "ChinookIsDead": "<color=#608FE6>Чинук с особым грузом</color> потерпел крушения!!!",
+  "ChinookFinish": "<color=#608FE6>Чинук с особым грузом</color> прилител на место сброса (квадрат <color=#6ACB52>{0}</color>), осталось подождать <color=#3DA9FF>{1}</color>  \n Метка на карте G",
+  "ChinookIsDrop": "<color=#608FE6>Чинук с особым грузом</color> сбросил очень ценный груз (квадрат <color=#6ACB52>{0}</color>)\n Метка на карте G",
+  "ChinookIsDropHack": "<color=#FFAB3D>Особый груз кто то начал взламывать!</color>\nУ тебя есть 15 минут до его открытие\nКвадрат (<color=#6ACB52>{0}</color>) Метка на карте G",
+  "ChinookIsDropHackEnd": "<color=#FFAB3D>Особый груз взломан но не залутан!</color>",
+  "ChinookIsDropHackEndLoot": "Особый груз залутан игроком <color=#6ACB52>{0}</color>."
+}

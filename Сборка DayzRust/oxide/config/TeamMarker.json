@@ -1,0 +1,25 @@
+{
+  "Activation button (Check list for valid buttons below)": "FIRE_THIRD",
+  "Marker symbol (From ASCII table: https://www.ascii-code.com)": "¤",
+  "The time how long marker is visible": 4,
+  "Cooldown time": 1,
+  "Max distance to locate the marker": 200,
+  "Marker color": "#cc0000",
+  "Font size of marker info": 12,
+  "Color of text": "#222222",
+  "Effect prefab": "assets/bundled/prefabs/fx/notice/loot.copy.fx.prefab",
+  "Buttons list (Read only)": [
+    "FORWARD",
+    "BACKWARD",
+    "LEFT",
+    "RIGHT",
+    "JUMP",
+    "DUCK",
+    "SPRINT",
+    "USE",
+    "FIRE_PRIMARY",
+    "FIRE_SECONDARY",
+    "RELOAD",
+    "FIRE_THIRD"
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "WipeNumber": 233,
+  "Items": [
+    {
+      "ID": 1931713481,
+      "Position": 0,
+      "Amount": 9
+    },
+    {
+      "ID": 1318558775,
+      "Position": 1,
+      "Amount": 1,
+      "Condition": 85.25,
+      "MaxCondition": 100.0,
+      "Ammo": 20,
+      "AmmoType": 51984655,
+      "Contents": [
+        {
+          "ID": -132516482,
+          "Position": 0,
+          "Amount": 1
+        },
+        {
+          "ID": 442289265,
+          "Position": 1,
+          "Amount": 1
+        },
+        {
+          "ID": 2005491391,
+          "Position": 2,
+          "Amount": 1,
+          "Condition": 100.0,
+          "MaxCondition": 100.0
+        }
+      ]
+    },
+    {
+      "ID": 254522515,
+      "Position": 3,
+      "Amount": 6
+    },
+    {
+      "ID": 1110385766,
+      "Position": 4,
+      "Amount": 1,
+      "Condition": 310.5,
+      "MaxCondition": 360.0
+    },
+    {
+      "ID": -194953424,
+      "Position": 5,
+      "Amount": 1,
+      "Condition": 301.25,
+      "MaxCondition": 320.0
+    },
+    {
+      "ID": -194953424,
+      "Position": 6,
+      "Amount": 1,
+      "Condition": 257.3279,
+      "MaxCondition": 320.0
+    },
+    {
+      "ID": 51984655,
+      "Position": 7,
+      "Amount": 217
+    },
+    {
+      "ID": 1318558775,
+      "Position": 8,
+      "Amount": 1,
+      "Condition": 96.25,
+      "MaxCondition": 100.0,
+      "Ammo": 38,
+      "AmmoType": 51984655,
+      "Contents": [
+        {
+          "ID": 442289265,
+          "Position": 0,
+          "Amount": 1
+        },
+        {
+          "ID": 2005491391,
+          "Position": 1,
+          "Amount": 1,
+          "Condition": 100.0,
+          "MaxCondition": 100.0
+        }
+      ]
+    },
+    {
+      "ID": 1318558775,
+      "Position": 9,
+      "Amount": 1,
+      "Condition": 81.5,
+      "MaxCondition": 100.0,
+      "Ammo": 38,
+      "AmmoType": 51984655,
+      "Contents": [
+        {
+          "ID": 442289265,
+          "Position": 0,
+          "Amount": 1,
+          "MaxCondition": 300.0
+        },
+        {
+          "ID": -132516482,
+          "Position": 1,
+          "Amount": 1
+        },
+        {
+          "ID": 2005491391,
+          "Position": 2,
+          "Amount": 1
+        }
+      ]
+    },
+    {
+      "ID": 1850456855,
+      "Position": 10,
+      "Amount": 1,
+      "Condition": 139.520844,
+      "MaxCondition": 150.0
+    },
+    {
+      "ID": 1850456855,
+      "Position": 11,
+      "Amount": 1,
+      "Condition": 143.3071,
+      "MaxCondition": 150.0
+    }
+  ],
+  "OwnerID": 76561198845943496
+}

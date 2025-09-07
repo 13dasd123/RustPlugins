@@ -1,0 +1,7 @@
+{
+  "useAttire": true,
+  "useTools": true,
+  "useWeapons": true,
+  "useWhiteList": false,
+  "WhitelistedItems": []
+}

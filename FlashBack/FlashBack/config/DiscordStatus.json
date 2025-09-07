@@ -1,0 +1,10 @@
+{
+  "Discord Bot Token": "REDACTED",
+  "Update Interval (Seconds)": 5,
+  "Randomize Status": false,
+  "Status Type (Game/Stream/Listen/Watch)": "Game",
+  "Status": [
+    "{players.online} / {server.maxplayers} Online!",
+    "{players.sleepers} Sleepers!"
+  ]
+}

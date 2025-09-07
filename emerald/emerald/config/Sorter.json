@@ -1,0 +1,41 @@
+{
+  "Настройка названий кнопок": [
+    {
+      "Take": "Взять",
+      "Take Size": 10,
+      "Lay": "Положить",
+      "Lay Size": 10,
+      "All": "Всё",
+      "All Size": 10,
+      "Food": "Еда",
+      "Food Size": 10,
+      "Weapon": "Оружие",
+      "Weapon Size": 10,
+      "Resources": "Ресурсы",
+      "Resources Size": 10,
+      "Medicals": "Медикаменты",
+      "Medicals Size": 9,
+      "Attire": "Одежда",
+      "Attire Size": 10,
+      "Components": "Компоненты",
+      "Components Size": 10,
+      "Tool": "Инструменты",
+      "Tool Size": 9,
+      "Ammunition": "Боеприпасы",
+      "Ammunition Size": 10,
+      "Construction": "Конструкции",
+      "Construction Size": 9,
+      "Traps": "Ловушки",
+      "Traps Size": 10,
+      "Items": "Предметы",
+      "Items Size": 10,
+      "Misc": "Остальное",
+      "Misc Size": 10
+    }
+  ],
+  "Заголовок": "Сортировка",
+  "Цвет заголовка": "#C77335FF",
+  "Цвет Текста": "#3A5137FF",
+  "Цвет Кнопки": "#87B13BFF",
+  "Цвет Активной Кнопки": "#4896CDFF"
+}

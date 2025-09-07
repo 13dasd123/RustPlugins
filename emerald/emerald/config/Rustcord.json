@@ -1,0 +1,97 @@
+{
+  "CustomLoggingKeywords": [],
+  "FilterWords": [
+    "Shit",
+    "Fuck",
+    "Cunt"
+  ],
+  "FilteredWord": "<censored>",
+  "LogExcludeGroups": [
+    "default"
+  ],
+  "LogExcludePerms": [
+    "example.permission"
+  ],
+  "Apikey": "REDACTED",
+  "AutoReloadPlugin": true,
+  "AutoReloadTime": 901,
+  "EnableBotStatus": true,
+  "GameChatIconSteamID": 76561199066612103,
+  "GameChatTag": "[Discord]",
+  "GameChatTagColor": "#7289DA",
+  "GameChatNameColor": "#55aaff",
+  "GameChatTextColor": "#ffffff",
+  "LogChat": true,
+  "LogJoinQuits": true,
+  "LogDeaths": true,
+  "LogVehicleSpawns": true,
+  "LogCrateDrops": true,
+  "LogUserGroups": true,
+  "LogPermissions": true,
+  "LogKickBans": true,
+  "LogNameChanges": true,
+  "LogServerCommands": true,
+  "LogServerMessages": true,
+  "LogF7Reports": true,
+  "LogTeams": true,
+  "LogRCON": true,
+  "LogPluginAdminHammer": true,
+  "LogPluginAdminRadar": true,
+  "LogPluginBetterChatMute": true,
+  "LogPluginClans": true,
+  "LogPluginDiscordAuth": true,
+  "LogPluginPrivateMessages": true,
+  "LogPluginRaidableBases": true,
+  "LogPluginSignArtist": true,
+  "LogPluginVanish": true,
+  "EnableCustomLogging": true,
+  "ReportCommand": "report1",
+  "Commandprefix": "!",
+  "Channels": [
+    {
+      "Channelid": "814100165157453844",
+      "perms": [
+        "cmd_players",
+        "cmd_kick",
+        "cmd_com",
+        "msg_join",
+        "msg_quit",
+        "msg_chat",
+        "death_pvp",
+        "death_npc",
+        "death_animal",
+        "death_vehicle",
+        "msg_serverinit"
+      ]
+    },
+    {
+      "Channelid": "814100165157453844",
+      "perms": [
+        "game_bug"
+      ]
+    }
+  ],
+  "Commandroles": {
+    "players": [],
+    "kick": [
+      "OWNER",
+      "Administrator",
+      "Moderator"
+    ],
+    "mute": [
+      "OWNER",
+      "Administrator",
+      "Moderator"
+    ],
+    "unmute": [
+      "OWNER",
+      "Administrator",
+      "Moderator"
+    ],
+    "com": [
+      "OWNER",
+      "Administrator",
+      "Moderator"
+    ]
+  }
+}

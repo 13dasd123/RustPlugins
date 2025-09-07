@@ -1,0 +1,18 @@
+{
+  "4. CH47 settings:": {
+    "1. Disable default spawns": false,
+    "2. Minimal respawn time (in seconds)": 2401,
+    "3. Maximal respawn time (in seconds)": 2402,
+    "4. Minimal amount that spawned by once": 1,
+    "5. Maximal amount that spawned by once": 1,
+    "6. Minimal players to start event": 0
+  },
+  "5. Cargo ship settings:": {
+    "1. Disable default spawns": true,
+    "2. Minimal respawn time (in seconds)": 2701,
+    "3. Maximal respawn time (in seconds)": 2702,
+    "4. Minimal amount that spawned by once": 1,
+    "5. Maximal amount that spawned by once": 1,
+    "6. Minimal players to start event": 0
+  }
+}

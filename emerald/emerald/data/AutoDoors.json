@@ -1,0 +1,1744 @@
+{
+  "playerData": {
+    "76561199060868252": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199070206465": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198425635520": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199063874990": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199065101458": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198326288204": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198890699700": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199064049565": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198889507226": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199023566156": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199013962819": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198360919508": {
+      "enabled": false,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199007789106": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198410772010": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198377762943": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199030049600": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198121683540": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199071192940": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198204464380": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198052529806": {
+      "enabled": false,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199050915484": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198865337121": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198118926599": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198909909630": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198179526027": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198133836097": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198132016475": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198294837677": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198996301930": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199060327578": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199013285620": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199030746868": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198398016170": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199059122837": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198857676942": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199008542365": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199046571781": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198216862063": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199006847689": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198364817354": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198834495873": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198847410207": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199036367022": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199072239337": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198910455065": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198445735576": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199017172740": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199043681550": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198817453764": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198100269725": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199068520629": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199000621450": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199017198093": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198957982634": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199007989649": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198868192764": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199066315839": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198161070305": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199061530259": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199066773632": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198136749986": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199072097003": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199030023410": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198439195879": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198132416644": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198327214577": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199050372542": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199068063574": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199071784442": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199050711638": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199045520736": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198989180874": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198290183873": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199035521004": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198066729958": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198058175489": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199072619523": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199014232363": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198283598786": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199067680296": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199072906452": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199015413863": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198000768162": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198972630506": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198796131004": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199073031885": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199068778247": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198866502400": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198848044230": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198345938947": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199001798492": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198082266896": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198969919851": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198823527050": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199055538032": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198024396161": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199072561356": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198147485706": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199020636228": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198964317881": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199046368423": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199063437824": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199058006931": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199074158301": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198391332012": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198988386203": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198992464745": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199073277478": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198313935623": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199028715913": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199074155832": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199074712903": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199067309338": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199055717088": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198952674783": {
+      "enabled": false,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198285331546": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198876730605": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198834911309": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199046869104": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198300487398": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198983882354": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199074731967": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198359485265": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199069374543": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198965026659": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199075236156": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199038123073": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198067436614": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198997773358": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198868677410": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198963729686": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198978331323": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199010192231": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198982811779": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199065836798": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198879674634": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198870707968": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199075057071": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199074534975": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198866922850": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199075659628": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199010361828": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198981440813": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198451688592": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198273296727": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198797634448": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199072849265": {
+      "enabled": false,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198985366497": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561197975763086": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198949181684": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199028837869": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198299039675": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198240781370": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199076053674": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199063075711": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198836646976": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198987930650": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198322270289": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198135566419": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198874580438": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199075170568": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198437326540": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198356878830": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198290136692": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199025635646": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199075840115": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198856020112": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199075498260": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198388668624": {
+      "enabled": false,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561197998178211": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198153867041": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199070455663": {
+      "enabled": false,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198367563475": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199076116014": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198965654654": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199017081725": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198980210999": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198821912861": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199075439178": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198007859870": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199073422066": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199076311451": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198964545219": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198813291200": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198167966637": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198927874248": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198813145869": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198081029524": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198950111463": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199066312762": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198391657883": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199068692703": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199016265595": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198986971086": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198293892688": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198188341666": {
+      "enabled": false,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199075891281": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198114823881": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199075728321": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198124046760": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199070447928": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199072858398": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198163954001": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198831129003": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199014594170": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198851554122": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199075014861": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199074977930": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198996534834": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199056422845": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198124514937": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199054714930": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198804323102": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199074586419": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199072083386": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198277781629": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198976040022": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199077054003": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198846529574": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199076089091": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198447900218": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198894416252": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198063393594": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199071319363": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199068354896": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198916208833": {
+      "enabled": false,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199068795670": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199076175237": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199061884853": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198390996138": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199070559028": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198426933012": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198094577276": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198870878027": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198917758852": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198856775323": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199002330786": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198995444293": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199045189923": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198811699426": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199075949025": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199072869700": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198130672782": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198994482862": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198957099733": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198400836795": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199016128197": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198421427759": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198979645155": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198450367927": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198854027637": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198278557246": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199075706077": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199063316633": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198945073946": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199077548923": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199071944114": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198874809478": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199076804629": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198936454659": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199034302811": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199077596642": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199062054988": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199025801290": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199025675077": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198995745419": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198021538038": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199076070255": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199021226184": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199057053433": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199051603096": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199050465709": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198198429118": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198971578557": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199025856742": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199028688612": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199010405088": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198264216633": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198978463801": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198994156476": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199077556204": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199078317055": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199077391805": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199078539897": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199077380253": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199078305617": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198987213682": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199044542862": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561198256027421": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    },
+    "76561199078623949": {
+      "enabled": true,
+      "time": 5.0,
+      "theDoorSettings": {},
+      "doorTypeSettings": {}
+    }
+  }
+}

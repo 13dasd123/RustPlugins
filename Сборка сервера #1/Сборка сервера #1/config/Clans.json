@@ -1,0 +1,301 @@
+{
+  "Default Avatar": "https://i.imgur.com/nn7Lcm2.png",
+  "Commands": [
+    "clan",
+    "clans"
+  ],
+  "Minimum clan tag characters": 2,
+  "Maximum clan tag characters": 8,
+  "Maximum clan description characters": 256,
+  "Clan tag in player name": true,
+  "Automatic team creation": true,
+  "Allow players to leave their clan by using Rust's leave team button": true,
+  "Allow players to kick members from their clan using Rust's kick member button": true,
+  "Allow players to invite other players to their clan via Rust's team invite system": true,
+  "Allow players to promote other clan members via Rust's team promote button": true,
+  "Friendly Fire Default Value": false,
+  "Top refresh rate": 15.0,
+  "Default value for the resource standarts": 100000,
+  "Steampowered API key": "!!! You can get it HERE > https://steamcommunity.com/dev/apikey < and you need to insert HERE !!!",
+  "Chat Settings": {
+    "Enable clan tags in chat?": true,
+    "Tag format": "<color=#4B68FF>[{tag}]</color>"
+  },
+  "Permission Settings": {
+    "Use permission to create a clan": false,
+    "Permission to create a clan": "clans.cancreate",
+    "Use permission to join a clan": false,
+    "Permission to join a clan": "clans.canjoin",
+    "Use permission to kick a clan member": false,
+    "Clan kick permission": "clans.cankick",
+    "Use permission to leave a clan": false,
+    "Clan leave permission": "clans.canleave",
+    "Use permission to disband a clan": false,
+    "Clan disband permission": "clans.candisband"
+  },
+  "Alliance Settings": {
+    "Enable clan alliances": false,
+    "Enable friendly fire (allied clans)": false,
+    "Default friendly firy value": false
+  },
+  "Purge Settings": {
+    "Enable clan purging": true,
+    "Purge clans that havent been online for x amount of day": 14,
+    "List purged clans in console when purging": true,
+    "Wipe clans on new map save": false
+  },
+  "Limit Settings": {
+    "Member Limit": 12,
+    "Moderator Limit": 2,
+    "Alliances Limit": 2
+  },
+  "Resources": [
+    "stones",
+    "sulfur.ore",
+    "metal.ore",
+    "hq.metal.ore",
+    "wood"
+  ],
+  "Score Table (shortname - score)": {
+    "kills": 1.0,
+    "deaths": -1.0,
+    "stone-ore": 0.1,
+    "supply_drop": 3.0,
+    "crate_normal": 0.3,
+    "crate_elite": 0.5,
+    "bradley_crate": 5.0,
+    "heli_crate": 5.0,
+    "bradley": 10.0,
+    "helicopter": 15.0,
+    "barrel": 0.1,
+    "scientistnpc": 0.5,
+    "heavyscientist": 2.0,
+    "sulfur.ore": 0.5,
+    "metal.ore": 0.5,
+    "hq.metal.ore": 0.5,
+    "stones": 0.5,
+    "cupboard.tool.deployed": 1.0
+  },
+  "Available items for resource standarts": [
+    "gears",
+    "metalblade",
+    "metalpipe",
+    "propanetank",
+    "roadsigns",
+    "rope",
+    "sewingkit",
+    "sheetmetal",
+    "metalspring",
+    "tarp",
+    "techparts",
+    "riflebody",
+    "semibody",
+    "smgbody",
+    "fat.animal",
+    "cctv.camera",
+    "charcoal",
+    "cloth",
+    "crude.oil",
+    "diesel_barrel",
+    "gunpowder",
+    "hq.metal.ore",
+    "leather",
+    "lowgradefuel",
+    "metal.fragments",
+    "metal.ore",
+    "scrap",
+    "stones",
+    "sulfur.ore",
+    "sulfur",
+    "targeting.computer",
+    "wood"
+  ],
+  "Blocked Words": [
+    "admin",
+    "mod",
+    "owner"
+  ],
+  "Pages": [
+    {
+      "ID (DON'T CHANGE)": 0,
+      "Key (DON'T CHANGE)": "aboutclan",
+      "Enabled?": true,
+      "Permission": ""
+    },
+    {
+      "ID (DON'T CHANGE)": 1,
+      "Key (DON'T CHANGE)": "memberslist",
+      "Enabled?": true,
+      "Permission": ""
+    },
+    {
+      "ID (DON'T CHANGE)": 2,
+      "Key (DON'T CHANGE)": "clanstop",
+      "Enabled?": true,
+      "Permission": ""
+    },
+    {
+      "ID (DON'T CHANGE)": 3,
+      "Key (DON'T CHANGE)": "playerstop",
+      "Enabled?": true,
+      "Permission": ""
+    },
+    {
+      "ID (DON'T CHANGE)": 4,
+      "Key (DON'T CHANGE)": "resources",
+      "Enabled?": true,
+      "Permission": ""
+    },
+    {
+      "ID (DON'T CHANGE)": 6,
+      "Key (DON'T CHANGE)": "skins",
+      "Enabled?": true,
+      "Permission": ""
+    },
+    {
+      "ID (DON'T CHANGE)": 5,
+      "Key (DON'T CHANGE)": "playerslist",
+      "Enabled?": true,
+      "Permission": ""
+    },
+    {
+      "ID (DON'T CHANGE)": 7,
+      "Key (DON'T CHANGE)": "alianceslist",
+      "Enabled?": true,
+      "Permission": ""
+    }
+  ],
+  "Interface": {
+    "Color 1": "#0E0E10",
+    "Color 2": "#8393cd",
+    "Color 3": "#161617",
+    "Color 4": "#54455A",
+    "Color 5": "#303030",
+    "Color 6": "#FF4B4B",
+    "Use value abbreviation?": true,
+    "Top Clans Columns": [
+      {
+        "Width": 75.0,
+        "Lang Key": "TopTitle",
+        "Key": "top",
+        "Text Format": "#{0}",
+        "Text Align": "MiddleCenter",
+        "Title Font Size": 10,
+        "Font Size": 12
+      },
+      {
+        "Width": 165.0,
+        "Lang Key": "NameTitle",
+        "Key": "name",
+        "Text Format": "{0}",
+        "Text Align": "MiddleCenter",
+        "Title Font Size": 12,
+        "Font Size": 12
+      },
+      {
+        "Width": 70.0,
+        "Lang Key": "LeaderTitle",
+        "Key": "leader",
+        "Text Format": "{0}",
+        "Text Align": "MiddleCenter",
+        "Title Font Size": 12,
+        "Font Size": 12
+      },
+      {
+        "Width": 90.0,
+        "Lang Key": "MembersTitle",
+        "Key": "members",
+        "Text Format": "{0}",
+        "Text Align": "MiddleCenter",
+        "Title Font Size": 12,
+        "Font Size": 12
+      },
+      {
+        "Width": 80.0,
+        "Lang Key": "ScoreTitle",
+        "Key": "score",
+        "Text Format": "{0}",
+        "Text Align": "MiddleCenter",
+        "Title Font Size": 12,
+        "Font Size": 12
+      }
+    ],
+    "Top Players Columns": [
+      {
+        "Width": 75.0,
+        "Lang Key": "TopTitle",
+        "Key": "top",
+        "Text Format": "#{0}",
+        "Text Align": "MiddleCenter",
+        "Title Font Size": 10,
+        "Font Size": 12
+      },
+      {
+        "Width": 185.0,
+        "Lang Key": "NameTitle",
+        "Key": "name",
+        "Text Format": "{0}",
+        "Text Align": "MiddleCenter",
+        "Title Font Size": 12,
+        "Font Size": 12
+      },
+      {
+        "Width": 70.0,
+        "Lang Key": "KillsTitle",
+        "Key": "kills",
+        "Text Format": "{0}",
+        "Text Align": "MiddleCenter",
+        "Title Font Size": 12,
+        "Font Size": 12
+      },
+      {
+        "Width": 70.0,
+        "Lang Key": "ResourcesTitle",
+        "Key": "resources",
+        "Text Format": "{0}",
+        "Text Align": "MiddleCenter",
+        "Title Font Size": 12,
+        "Font Size": 12
+      },
+      {
+        "Width": 80.0,
+        "Lang Key": "ScoreTitle",
+        "Key": "score",
+        "Text Format": "{0}",
+        "Text Align": "MiddleCenter",
+        "Title Font Size": 12,
+        "Font Size": 12
+      }
+    ]
+  },
+  "Skins Settings": {
+    "Item Skins": {
+      "metal.facemask": [
+        0
+      ],
+      "hoodie": [
+        0
+      ],
+      "metal.plate.torso": [
+        0
+      ],
+      "pants": [
+        0
+      ],
+      "roadsign.kilt": [
+        0
+      ],
+      "shoes.boots": [
+        0
+      ],
+      "rifle.ak": [
+        0
+      ],
+      "rifle.bolt": [
+        0
+      ]
+    },
+    "Can players install custom skins?": false,
+    "Permission to install custom skin": ""
+  }
+}

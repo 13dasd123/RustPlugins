@@ -1,0 +1,64 @@
+{
+  "Минимальное количество игроков для запуска ивента": 1,
+  "Время до начала ивента (Минимальное в секундах)": 3600,
+  "Время до начала ивента (Максимальное в секундах)": 7200,
+  "Время открытия ящика ( в секундах )": 600,
+  "Картинка ящика в оповещениях": "https://brawl-stars.net/img/5f028d757a65d-Khromaticheskiy_box.png",
+  "Настройка спавна на различных РТ": [
+    {
+      "Prefab Monument ( узнать префаб можно : data/Mbox/MonumentName": "assets/bundled/prefabs/autospawn/monument/large/airfield_1.prefab",
+      "Название РТ": "Аэродром",
+      "Позиция относительно ширины и длины РТ": "(1, 0.2, 0)",
+      "Лут, который может выпасть на данной рт": [
+        {
+          "ShortName": "sulfur",
+          "Amount": 25000,
+          "SkinID": 0,
+          "DisplayName": ""
+        },
+        {
+          "ShortName": "metal.refined",
+          "Amount": 1000,
+          "SkinID": 0,
+          "DisplayName": ""
+        },
+        {
+          "ShortName": "mining.quarry",
+          "Amount": 1,
+          "SkinID": 0,
+          "DisplayName": ""
+        }
+      ]
+    },
+    {
+      "Prefab Monument ( узнать префаб можно : data/Mbox/MonumentName": "assets/bundled/prefabs/autospawn/monument/small/satellite_dish.prefab",
+      "Название РТ": "Тарелки",
+      "Позиция относительно ширины и длины РТ": "(1, 6, 0)",
+      "Лут, который может выпасть на данной рт": [
+        {
+          "ShortName": "sulfur",
+          "Amount": 25000,
+          "SkinID": 0,
+          "DisplayName": "Какой-то автомат"
+        },
+        {
+          "ShortName": "metal.refined",
+          "Amount": 1000,
+          "SkinID": 0,
+          "DisplayName": ""
+        },
+        {
+          "ShortName": "mining.quarry",
+          "Amount": 1,
+          "SkinID": 1,
+          "DisplayName": ""
+        }
+      ]
+    }
+  ],
+  "Версия конфигурации": {
+    "Major": 1,
+    "Minor": 0,
+    "Patch": 0
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Permission -> Settings": {
+    "metabolism.vip": {
+      "Water on respawn": 250.0,
+      "Calories on respawn": 500.0,
+      "Health on respawn": 100.0
+    }
+  }
+}

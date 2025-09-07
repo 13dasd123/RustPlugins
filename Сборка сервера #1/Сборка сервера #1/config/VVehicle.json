@@ -1,0 +1,279 @@
+{
+  "Транспортные средства": [
+    {
+      "Название": "Двухмодульная машина - Такси",
+      "Префаб": "assets/content/vehicles/modularcar/2module_car_spawned.entity.prefab",
+      "Картинка": "https://gspics.org/images/2022/06/20/01Ls88.png",
+      "Цена": 20,
+      "Спавн на воде?": false,
+      "Топливо": 20,
+      "Дистанция спавна": 5.0,
+      "Модули (для модульной машины)": [
+        "vehicle.1mod.cockpit.with.engine",
+        "vehicle.1mod.taxi"
+      ],
+      "Компоненты (для модульной машины)": [
+        "crankshaft3",
+        "sparkplug3",
+        "piston3",
+        "valve3",
+        "carburetor3"
+      ]
+    },
+    {
+      "Название": "Двухмодульная машина - Бронированная",
+      "Префаб": "assets/content/vehicles/modularcar/2module_car_spawned.entity.prefab",
+      "Картинка": "https://gspics.org/images/2022/06/20/01LL5n.png",
+      "Цена": 80,
+      "Спавн на воде?": false,
+      "Топливо": 20,
+      "Дистанция спавна": 5.0,
+      "Модули (для модульной машины)": [
+        "vehicle.1mod.cockpit.armored",
+        "vehicle.1mod.engine"
+      ],
+      "Компоненты (для модульной машины)": [
+        "crankshaft3",
+        "sparkplug3",
+        "piston3",
+        "valve3",
+        "carburetor3"
+      ]
+    },
+    {
+      "Название": "Трехмодульная машина - Фургон",
+      "Префаб": "assets/content/vehicles/modularcar/3module_car_spawned.entity.prefab",
+      "Картинка": "https://gspics.org/images/2022/06/21/01Cycy.png",
+      "Цена": 50,
+      "Спавн на воде?": false,
+      "Топливо": 20,
+      "Дистанция спавна": 4.0,
+      "Модули (для модульной машины)": [
+        "vehicle.1mod.cockpit.with.engine",
+        "vehicle.2mod.camper"
+      ],
+      "Компоненты (для модульной машины)": [
+        "crankshaft3",
+        "sparkplug3",
+        "piston3",
+        "valve3",
+        "carburetor3"
+      ]
+    },
+    {
+      "Название": "Трехмодульная машина - Грузовая",
+      "Префаб": "assets/content/vehicles/modularcar/3module_car_spawned.entity.prefab",
+      "Картинка": "https://gspics.org/images/2022/06/20/01LFT7.png",
+      "Цена": 50,
+      "Спавн на воде?": false,
+      "Топливо": 20,
+      "Дистанция спавна": 4.0,
+      "Модули (для модульной машины)": [
+        "vehicle.1mod.cockpit.with.engine",
+        "vehicle.1mod.taxi",
+        "vehicle.1mod.storage"
+      ],
+      "Компоненты (для модульной машины)": [
+        "crankshaft3",
+        "sparkplug3",
+        "piston3",
+        "valve3",
+        "carburetor3"
+      ]
+    },
+    {
+      "Название": "Трехмодульная машина - Бронированная",
+      "Префаб": "assets/content/vehicles/modularcar/3module_car_spawned.entity.prefab",
+      "Картинка": "https://gspics.org/images/2022/06/20/01L4LX.png",
+      "Цена": 120,
+      "Спавн на воде?": false,
+      "Топливо": 20,
+      "Дистанция спавна": 4.0,
+      "Модули (для модульной машины)": [
+        "vehicle.1mod.cockpit.armored",
+        "vehicle.1mod.passengers.armored",
+        "vehicle.1mod.engine"
+      ],
+      "Компоненты (для модульной машины)": [
+        "crankshaft3",
+        "sparkplug3",
+        "piston3",
+        "valve3",
+        "carburetor3"
+      ]
+    },
+    {
+      "Название": "Четырех модульная машина",
+      "Префаб": "assets/content/vehicles/modularcar/4module_car_spawned.entity.prefab",
+      "Картинка": "https://gspics.org/images/2022/06/20/01L4LX.png",
+      "Цена": 20,
+      "Спавн на воде?": false,
+      "Топливо": 20,
+      "Дистанция спавна": 4.0,
+      "Модули (для модульной машины)": [
+               "vehicle.1mod.cockpit.with.engine"   
+          ],
+      "Компоненты (для модульной машины)": [
+        "crankshaft3",
+        "sparkplug3",
+        "piston3",
+        "valve3",
+        "carburetor3"
+      ]
+    },
+    {
+      "Название": "Скрап-коптер",
+      "Префаб": "assets/content/vehicles/minicopter/minicopter.entity.prefab",
+      "Картинка": "https://rustlabs.com/img/screenshots/minicopter.png",
+      "Цена": 200,
+      "Спавн на воде?": false,
+      "Топливо": 100,
+      "Дистанция спавна": 4.0,
+      "Модули (для модульной машины)": [],
+      "Компоненты (для модульной машины)": null
+    },
+    {
+      "Название": "Транспортный вертолет",
+      "Префаб": "assets/content/vehicles/scrap heli carrier/scraptransporthelicopter.prefab",
+      "Картинка": "https://rustlabs.com/img/screenshots/scrap-heli.png",
+      "Цена": 200,
+      "Спавн на воде?": false,
+      "Топливо": 100,
+      "Дистанция спавна": 4.0,
+      "Модули (для модульной машины)": [],
+      "Компоненты (для модульной машины)": null
+    },
+    {
+      "Название": "Чинук",
+      "Префаб": "assets/prefabs/npc/ch47/ch47.entity.prefab",
+      "Картинка": "https://gspics.org/images/2022/06/20/01LKLu.png",
+      "Цена": 300,
+      "Спавн на воде?": false,
+      "Топливо": 0,
+      "Дистанция спавна": 4.0,
+      "Модули (для модульной машины)": [],
+      "Компоненты (для модульной машины)": null
+    },
+    {
+      "Название": "Самодельный",
+      "Префаб": "assets/content/vehicles/snowmobiles/snowmobile.prefab",
+      "Картинка": "https://gspics.org/images/2022/06/20/01L9Gi.png",
+      "Цена": 20,
+      "Спавн на воде?": false,
+      "Топливо": 20,
+      "Дистанция спавна": 4.0,
+      "Модули (для модульной машины)": [],
+      "Компоненты (для модульной машины)": null
+    },
+    {
+      "Название": "Томаха",
+      "Префаб": "assets/content/vehicles/snowmobiles/tomahasnowmobile.prefab",
+      "Картинка": "https://gspics.org/images/2022/06/20/01LH5e.png",
+      "Цена": 40,
+      "Спавн на воде?": false,
+      "Топливо": 20,
+      "Дистанция спавна": 4.0,
+      "Модули (для модульной машины)": [],
+      "Компоненты (для модульной машины)": null
+    },    
+    {
+      "Название": "Каяк",
+      "Префаб": "assets/content/vehicles/boats/kayak/kayak.prefab",
+      "Картинка": "https://gspics.org/images/2022/06/20/01Lid9.png",
+      "Цена": 20,
+      "Спавн на воде?": true,
+      "Топливо": 0,
+      "Дистанция спавна": 4.0,
+      "Модули (для модульной машины)": [],
+      "Компоненты (для модульной машины)": null
+    },
+    {
+      "Название": "Моторная лодка",
+      "Префаб": "assets/content/vehicles/boats/rowboat/rowboat.prefab",
+      "Картинка": "https://rustlabs.com/img/screenshots/rowboat.png",
+      "Цена": 40,
+      "Спавн на воде?": true,
+      "Топливо": 50,
+      "Дистанция спавна": 4.0,
+      "Модули (для модульной машины)": [],
+      "Компоненты (для модульной машины)": null
+    },
+    {
+      "Название": "Патрульный катер",
+      "Префаб": "assets/content/vehicles/boats/rhib/rhib.prefab",
+      "Картинка": "https://rustlabs.com/img/screenshots/rhib.png",
+      "Цена": 80,
+      "Спавн на воде?": true,
+      "Топливо": 100,
+      "Дистанция спавна": 4.0,
+      "Модули (для модульной машины)": [],
+      "Компоненты (для модульной машины)": null
+    },
+    {
+      "Название": "Подводная лодка 1 место",
+      "Префаб": "assets/content/vehicles/submarine/submarinesolo.entity.prefab",
+      "Картинка": "https://rustlabs.com/img/screenshots/submarine-solo.png",
+      "Цена": 50,
+      "Спавн на воде?": true,
+      "Топливо": 50,
+      "Дистанция спавна": 4.0,
+      "Модули (для модульной машины)": [],
+      "Компоненты (для модульной машины)": null
+    },
+    {
+      "Название": "Подводная лодка 2 места",
+      "Префаб": "assets/content/vehicles/submarine/submarineduo.entity.prefab",
+      "Картинка": "https://rustlabs.com/img/screenshots/submarine-duo.png",
+      "Цена": 80,
+      "Спавн на воде?": true,
+      "Топливо": 100,
+      "Дистанция спавна": 4.0,
+      "Модули (для модульной машины)": [],
+      "Компоненты (для модульной машины)": null
+    },
+    {
+      "Название": "Воздушный шар",
+      "Префаб": "assets/prefabs/deployable/hot air balloon/hotairballoon.prefab",
+      "Картинка": "https://rustlabs.com/img/screenshots/balloon.png",
+      "Цена": 20,
+      "Спавн на воде?": false,
+      "Топливо": 20,
+      "Дистанция спавна": 4.0,
+      "Модули (для модульной машины)": [],
+      "Компоненты (для модульной машины)": null
+    },
+    {
+      "Название": "Лошадь",
+      "Префаб": "assets/rust.ai/nextai/testridablehorse.prefab",
+      "Картинка": "https://rustlabs.com/img/screenshots/ridable-horse.png",
+      "Цена": 100,
+      "Спавн на воде?": false,
+      "Топливо": 0,
+      "Дистанция спавна": 4.0,
+      "Модули (для модульной машины)": [],
+      "Компоненты (для модульной машины)": null
+    }    
+  ],
+  "Скидки (на это число умножается цена) [пермишены]": {
+    "vvehicle.50": 0.5,
+    "vvehicle.70": 0.3,
+    "vvehicle.90": 0.1
+  },
+  "UI": {
+    "Фон - товар": "0.18 0.21 0.30 0.93",
+    "Фон - картинка товара": "0.20 0.25 0.37 1",
+    "Цвет текста - название меню": "0.7490196 0.7490196 0.7490196 1",
+    "Размер текста - название меню": "20",
+    "Размер текста - название товара": "12",
+    "Размер текста - цена": "10",
+    "Цвет текста - название товара": "0.7490196 0.7490196 0.7490196 1",
+    "Цвет текста - цена": "0.7490196 0.7490196 0.7490196 1",
+    "Цвет текста - обменять": "1 1 1 0.3929068",
+    "Цвет кнопки - обменять": "0.2356492 0.2356492 0.2356492 1",
+    "Цвет кнопки - стрелка влево/вправо": "0.6 0.6 0.6 1",
+    "Цвет фона - успешная покупка": "0 0.8 0 0.5",
+    "Цвет обводки - успешная покупка": "0 0.8 0 1",
+    "Цвет фона - неудачная покупка": "0.8 0 0 0.5",
+    "Цвет обводки -  неудачная покупка": "0.8 0 0 1"
+  }
+}

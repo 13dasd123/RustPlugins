@@ -1,0 +1,13 @@
+{
+  "Closed Sign": "[#262626][[#red]CLOSED[/#]][/#]",
+  "Notify About Closing": true,
+  "Notify About New Tickets": true,
+  "Notify About Replies": true,
+  "Notify About Wipes": true,
+  "Open Sign": "[#262626][[#C4FF00]OPEN[/#]][/#]",
+  "Slack Channel": "general",
+  "Title": "[#262626][[#C4FF00]Tickets[/#]][/#]",
+  "Use Email API": false,
+  "Use Push API": false,
+  "Use Slack": false
+}

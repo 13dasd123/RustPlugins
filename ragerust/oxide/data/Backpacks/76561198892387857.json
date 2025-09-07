@@ -1,0 +1,52 @@
+{
+  "WipeNumber": 233,
+  "Items": [
+    {
+      "ID": 442289265,
+      "Position": 0,
+      "Amount": 1,
+      "Condition": 300.0,
+      "MaxCondition": 300.0
+    },
+    {
+      "ID": -132516482,
+      "Position": 1,
+      "Amount": 1,
+      "Condition": 300.0,
+      "MaxCondition": 300.0
+    },
+    {
+      "ID": -1036635990,
+      "Position": 2,
+      "Amount": 10
+    },
+    {
+      "ID": 1488979457,
+      "Position": 3,
+      "Amount": 1,
+      "Condition": 240.767914,
+      "MaxCondition": 293.769928
+    },
+    {
+      "ID": 1079279582,
+      "Position": 4,
+      "Amount": 7
+    },
+    {
+      "ID": 254522515,
+      "Position": 5,
+      "Amount": 9
+    },
+    {
+      "ID": 99588025,
+      "Position": 6,
+      "Amount": 9
+    },
+    {
+      "ID": 51984655,
+      "Position": 7,
+      "Amount": 195
+    }
+  ],
+  "OwnerID": 76561198892387857
+}

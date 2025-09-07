@@ -1,0 +1,10 @@
+{
+  "Кастомные автокиты по привилегии (Привилегию устанавливаете в настройке кита) | Custom autokit, install privilege in the configuration of the kit": null,
+  "Настройка цвета предмета по шансу": [],
+  "Версия конфигурации | Configuration Version": {
+    "Major": 1,
+    "Minor": 1,
+    "Patch": 2
+  },
+  "Префикс чата | Chat Prefix": null
+}

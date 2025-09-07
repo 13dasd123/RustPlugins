@@ -1,0 +1,14 @@
+{
+  "Check for free place": true,
+  "Split crafted stacks": true,
+  "Normal Speed": [
+    "",
+    "put item shortname here"
+  ],
+  "Blacklist": [
+    "ammo.rifle.explosive",
+    "-1321651331",
+    "Explosive 5.56 Rifle Ammo",
+    "put item shortname here"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "Broadcast Bans (true/false)": true,
+  "Broadcast Kicks (true/false)": true,
+  "Enable Ban Command (true/false)": true,
+  "Enable Kick Command (true/false)": true,
+  "Enable Say Command (true/false)": true,
+  "Enable Unban Command (true/false)": true,
+  "Protect Admin (true/false)": true
+}

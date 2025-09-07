@@ -1,0 +1,23 @@
+{
+  "OutpostTeleport": "TownTeleport: Teleporting to Outpost in {0} seconds...\nType /{1} to cancel the teleport.",
+  "BanditTeleport": "TownTeleport: Teleporting to BanditCamp in {0} seconds...\nType /{1} to cancel the teleport.",
+  "TeleportSuccessMessage": "TownTeleport: You have successfully teleported to the Outpost.",
+  "NoActiveTeleport": "TownTeleport: You are not about to teleport to Bandit Camp or Outpost.\nType /{0} to teleport to the Outpost.\nType /{1} to teleport to Bandit Camp.",
+  "AlreadyTeleporting": "TownTeleport: You are already about to teleport to the Outpost.",
+  "Error: Seated": "You can't teleport while seated.",
+  "Error: NoBuildingPrivilege": "You can't teleport without Building Privilege.",
+  "Error: Wounded": "You can't teleport while wounded.",
+  "Error: Mounted": "You can't teleport while seated.",
+  "Error: CargoShip": "You can't teleport from the Cargo Ship",
+  "Error: Hostile": "You can't teleport while you are marked as Hostile.\nYou will be unmarked as hostile in {0} {1}",
+  "Error: Cooldown": "You can't teleport yet.\nYou will be able to teleport in {0} {1}",
+  "Error: RaidBlocked": "You can't teleport while raid blocked.",
+  "Error: CombatBlocked": "You can't teleport while combat blocked.",
+  "TeleportCancelled": "TownTeleport: You have cancelled the teleport timer.",
+  "TeleportCancelledPlayerDamage": "TownTeleport: Teleport cancelled due to player damage.",
+  "TeleportCancelledFallDamage": "TownTeleport: Teleport cancelled due to fall damage.",
+  "TeleportCancelledDamage": "TownTeleport: Teleport cancelled because you took damage.",
+  "OutpostNotFound": "TownTeleport: Plugin was unable to locate Outpost.",
+  "BanditNotFound": "TownTeleport: Plugin was unable to locate BanditCamp.",
+  "NoPermission": "TownTeleport: You do not have permission to use this command."
+}

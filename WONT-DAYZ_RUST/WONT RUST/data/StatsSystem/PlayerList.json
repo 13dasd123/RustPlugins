@@ -1,0 +1,90 @@
+{
+  "76561199420437841": {
+    "DisplayName": "[12] dorevel#WONTRUST",
+    "Points": 5939,
+    "IsConnected": false,
+    "Balance": 0,
+    "Settings": {
+      "Kill": 61,
+      "Death": 10,
+      "Time": 1274
+    },
+    "Res": {
+      "wood": 0,
+      "stones": 8000,
+      "metal.ore": 0,
+      "sulfur.ore": 0,
+      "hq.metal.ore": 0,
+      "cloth": 0,
+      "leather": 0,
+      "fat.animal": 0,
+      "cratecostume": 41
+    }
+  },
+  "76561198836398984": {
+    "DisplayName": "ADADADADADADADADAD",
+    "Points": 107,
+    "IsConnected": false,
+    "Balance": 0,
+    "Settings": {
+      "Kill": 1,
+      "Death": 1,
+      "Time": 163
+    },
+    "Res": {
+      "wood": 0,
+      "stones": 0,
+      "metal.ore": 0,
+      "sulfur.ore": 0,
+      "hq.metal.ore": 0,
+      "cloth": 0,
+      "leather": 0,
+      "fat.animal": 0,
+      "cratecostume": 16
+    }
+  },
+  "76561199119976562": {
+    "DisplayName": "3 Головы убил",
+    "Points": 150,
+    "IsConnected": false,
+    "Balance": 0,
+    "Settings": {
+      "Kill": 2,
+      "Death": 2,
+      "Time": 9
+    },
+    "Res": {
+      "wood": 0,
+      "stones": 0,
+      "metal.ore": 0,
+      "sulfur.ore": 0,
+      "hq.metal.ore": 0,
+      "cloth": 0,
+      "leather": 0,
+      "fat.animal": 0,
+      "cratecostume": 0
+    }
+  },
+  "76561198408556122": {
+    "DisplayName": ".siga x xyesos:)",
+    "Points": 0,
+    "IsConnected": false,
+    "Balance": 0,
+    "Settings": {
+      "Kill": 0,
+      "Death": 0,
+      "Time": 2
+    },
+    "Res": {
+      "wood": 0,
+      "stones": 0,
+      "metal.ore": 0,
+      "sulfur.ore": 0,
+      "hq.metal.ore": 0,
+      "cloth": 0,
+      "leather": 0,
+      "fat.animal": 0,
+      "cratecostume": 0
+    }
+  }
+}

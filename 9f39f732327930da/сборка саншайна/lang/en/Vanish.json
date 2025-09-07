@@ -1,0 +1,10 @@
+{
+  "VanishCommand": "vanish",
+  "CollisionToggle": "collider",
+  "Vanished": "HARD RUST <color=8400ff> Включён </color>",
+  "Reappear": "HARD RUST <color=8400ff> Отключён </color>",
+  "NoPerms": "You do not have permission to do this",
+  "PermanentVanish": "You are in a permanent vanish mode",
+  "ColliderEnbabled": "Player Collider: <color=orange> Enabled </color>",
+  "ColliderDisabled": "Player Collider: <color=orange> Disabled </color>"
+}

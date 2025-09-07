@@ -1,0 +1,6 @@
+{
+  "Commands": [
+    "chat.say 0 /info",
+    "info"
+  ]
+}

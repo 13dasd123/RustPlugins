@@ -1,0 +1,5449 @@
+{
+  "seed": 2,
+  "mapSize": 3500,
+  "serverTimeStamp": "2021.2.9.8.34",
+  "lastSaveTime": "2021-02-09T15:34:36.757942+03:00",
+  "lastChangeTime": "2021-02-09T15:34:33.149073+03:00",
+  "Players": {
+    "76561198855596193": {
+      "PlayerID": 76561198855596193,
+      "PlayerName": "[1312] ஜ۩吸akamc۞sоxx0名詞۩",
+      "noRecoilViolations": {},
+      "AIMViolations": {},
+      "inRockViolations": {
+        "2021.2.9.8.34_637484613960529800": {
+          "dateTime": "2021-02-09T09:56:36.049892+03:00",
+          "inRockViolationsData": {
+            "1": {
+              "dateTime": "2021-02-09T09:56:36.049892+03:00",
+              "physicsSteps": 32.0,
+              "targetHitDistance": 23.4203949,
+              "targetName": "[BANY] ggLOVE❤️𝕊𝑜𝕟𝑖𝐾",
+              "targetID": "76561198943531460",
+              "targetDamage": 38.8070755,
+              "targetBodyPart": "head",
+              "targetHitPosition": {
+                "x": -709.0091,
+                "y": 96.8055344,
+                "z": 268.951172
+              },
+              "rockHitPosition": {
+                "x": -701.6385,
+                "y": 97.5712662,
+                "z": 289.022919
+              },
+              "firedProjectile": {
+                "firedTime": "2021-02-09T09:56:35.873835+03:00",
+                "projectileVelocity": {
+                  "x": -27.6845436,
+                  "y": -2.20109916,
+                  "z": -75.0248
+                },
+                "projectilePosition": {
+                  "x": -700.938049,
+                  "y": 97.62685,
+                  "z": 290.920654
+                },
+                "playerEyesLookAt": {
+                  "x": -0.378379345,
+                  "y": -0.03653456,
+                  "z": -0.924929559
+                },
+                "playerEyesPosition": {
+                  "x": -700.938049,
+                  "y": 97.62685,
+                  "z": 290.920654
+                },
+                "isChecked": true,
+                "ammoShortName": "arrow.hv",
+                "weaponShortName": "bow.hunting",
+                "weaponUID": 1126762,
+                "isMounted": false,
+                "mountParentName": null,
+                "mountParentPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "mountParentRotation": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "w": 0.0
+                },
+                "hitsData": [],
+                "attachments": [],
+                "NRProbabilityModifier": 0.95
+              },
+              "projectileID": 3,
+              "drag": 0.005,
+              "gravityModifier": 0.5
+            }
+          }
+        }
+      }
+    },
+    "76561199018479040": {
+      "PlayerID": 76561199018479040,
+      "PlayerName": "killSIS",
+      "noRecoilViolations": {},
+      "AIMViolations": {},
+      "inRockViolations": {
+        "2021.2.9.8.34_637484676529261480": {
+          "dateTime": "2021-02-09T11:40:52.926132+03:00",
+          "inRockViolationsData": {
+            "1": {
+              "dateTime": "2021-02-09T11:40:52.926132+03:00",
+              "physicsSteps": 32.0,
+              "targetHitDistance": 22.598547,
+              "targetName": "ft.n1ntendo",
+              "targetID": "76561199106491230",
+              "targetDamage": 38.880127,
+              "targetBodyPart": "head",
+              "targetHitPosition": {
+                "x": -1047.70251,
+                "y": 36.5241776,
+                "z": -210.630356
+              },
+              "rockHitPosition": {
+                "x": -1026.9917,
+                "y": 34.7573662,
+                "z": -218.72699
+              },
+              "firedProjectile": {
+                "firedTime": "2021-02-09T11:40:52.73258+03:00",
+                "projectileVelocity": {
+                  "x": -74.2066,
+                  "y": 6.82143974,
+                  "z": 29.10067
+                },
+                "projectilePosition": {
+                  "x": -1026.729,
+                  "y": 34.7332458,
+                  "z": -218.830154
+                },
+                "playerEyesLookAt": {
+                  "x": -0.9297417,
+                  "y": 0.08707242,
+                  "z": 0.357769
+                },
+                "playerEyesPosition": {
+                  "x": -1026.729,
+                  "y": 34.7332458,
+                  "z": -218.830154
+                },
+                "isChecked": true,
+                "ammoShortName": "arrow.hv",
+                "weaponShortName": "bow.hunting",
+                "weaponUID": 7378124,
+                "isMounted": false,
+                "mountParentName": null,
+                "mountParentPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "mountParentRotation": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "w": 0.0
+                },
+                "hitsData": [],
+                "attachments": [],
+                "NRProbabilityModifier": 0.95
+              },
+              "projectileID": 1,
+              "drag": 0.005,
+              "gravityModifier": 0.5
+            }
+          }
+        }
+      }
+    },
+    "76561198245094338": {
+      "PlayerID": 76561198245094338,
+      "PlayerName": "Головач Лена",
+      "noRecoilViolations": {},
+      "AIMViolations": {
+        "637484726887654200_152": {
+          "projectileID": 152,
+          "violationID": 1,
+          "firedTime": "2021-02-09T13:04:48.762665+03:00",
+          "startProjectilePosition": {
+            "x": -52.1751,
+            "y": 19.5284424,
+            "z": -973.0623
+          },
+          "startProjectileVelocity": {
+            "x": 283.089539,
+            "y": -41.39261,
+            "z": -90.26056
+          },
+          "hitInfoInitiatorPlayerName": "Головач Лена",
+          "hitInfoInitiatorPlayerUserID": "76561198245094338",
+          "hitInfoHitEntityPlayerName": "Strawberry ^-^♥ #JustRust",
+          "hitInfoHitEntityPlayerUserID": "76561199099670412",
+          "hitInfoBoneName": "head",
+          "hitInfoHitPositionWorld": {
+            "x": -25.92975,
+            "y": 15.9861832,
+            "z": -981.1897
+          },
+          "hitInfoProjectileDistance": 27.7074776,
+          "hitInfoPointStart": {
+            "x": -34.67552,
+            "y": 16.960331,
+            "z": -978.641846
+          },
+          "hitInfoPointEnd": {
+            "x": -26.2117786,
+            "y": 15.7042484,
+            "z": -981.340454
+          },
+          "hitInfoProjectilePrefabGravityModifier": 1.0,
+          "hitInfoProjectilePrefabDrag": 0.7,
+          "weaponShortName": "pistol.python",
+          "ammoShortName": "ammo.pistol",
+          "bodyPart": "head",
+          "damage": 49.5804443,
+          "isEqualFiredProjectileData": true,
+          "isPlayerPositionToProjectileStartPositionDistanceViolation": false,
+          "distanceDifferenceViolation": 0.0,
+          "calculatedTravelDistance": 916.261169,
+          "isAttackerMount": false,
+          "isTargetMount": false,
+          "attackerMountParentName": "",
+          "targetMountParentName": "",
+          "firedProjectileFiredTime": 16228.6582,
+          "firedProjectileTravelTime": 0.09440955,
+          "firedProjectilePosition": {
+            "x": -25.9288063,
+            "y": 15.986043,
+            "z": -981.19
+          },
+          "firedProjectileVelocity": {
+            "x": 270.839783,
+            "y": -40.19464,
+            "z": -86.35484
+          },
+          "firedProjectileInitialPosition": {
+            "x": -52.1751,
+            "y": 19.5284424,
+            "z": -973.0623
+          },
+          "firedProjectileInitialVelocity": {
+            "x": 283.0895,
+            "y": -41.3926048,
+            "z": -90.26055
+          },
+          "playerEyesLookAt": {
+            "x": 0.942197561,
+            "y": -0.150241688,
+            "z": -0.299484819
+          },
+          "playerEyesPosition": {
+            "x": -52.22182,
+            "y": 19.55004,
+            "z": -973.21106
+          },
+          "hasFiredProjectile": true,
+          "hitsData": [
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "inVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "outVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              },
+              "startProjectilePosition": {
+                "x": -52.1751,
+                "y": 19.5284424,
+                "z": -973.0623
+              },
+              "startProjectileVelocity": {
+                "x": 283.089539,
+                "y": -41.39261,
+                "z": -90.26056
+              },
+              "hitPositionWorld": {
+                "x": -52.17434,
+                "y": 19.5283318,
+                "z": -973.062561
+              },
+              "hitPointStart": {
+                "x": -52.1751,
+                "y": 19.5284424,
+                "z": -973.0623
+              },
+              "hitPointEnd": {
+                "x": -43.3285522,
+                "y": 18.2349243,
+                "z": -975.882935
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.0,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": -52.17434,
+                "y": 19.5283318,
+                "z": -973.062561
+              },
+              "travelDistance": 0.0,
+              "delta": 1.0,
+              "lastSegmentPointStart": {
+                "x": -52.1751,
+                "y": 19.5284424,
+                "z": -973.0623
+              },
+              "lastSegmentPointEnd": {
+                "x": -43.3285522,
+                "y": 18.2349243,
+                "z": -975.882935
+              },
+              "reverseLastSegmentPointStart": {
+                "x": -43.3285522,
+                "y": 18.2349243,
+                "z": -975.882935
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": -52.1751,
+                "y": 19.5284424,
+                "z": -973.0623
+              }
+            },
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": -52.17434,
+                  "y": 19.5283318,
+                  "z": -973.062561
+                },
+                "inVelocity": {
+                  "x": 283.089478,
+                  "y": -41.39258,
+                  "z": -90.2597656
+                },
+                "outVelocity": {
+                  "x": 283.089478,
+                  "y": -41.39258,
+                  "z": -90.26172
+                }
+              },
+              "startProjectilePosition": {
+                "x": -52.17434,
+                "y": 19.5283318,
+                "z": -973.062561
+              },
+              "startProjectileVelocity": {
+                "x": 283.089478,
+                "y": -41.39258,
+                "z": -90.26172
+              },
+              "hitPositionWorld": {
+                "x": -25.92975,
+                "y": 15.9861832,
+                "z": -981.1897
+              },
+              "hitPointStart": {
+                "x": -34.67552,
+                "y": 16.960331,
+                "z": -978.641846
+              },
+              "hitPointEnd": {
+                "x": -26.2117786,
+                "y": 15.7042484,
+                "z": -981.340454
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": false,
+              "isHitPointOnProjectileTrajectory": false,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.229431152,
+              "side": 1,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 347.133881,
+                "y": 45.2624664,
+                "z": -1100.39331
+              },
+              "travelDistance": 0.0008050548,
+              "delta": 0.9999141,
+              "lastSegmentPointStart": {
+                "x": 359.679657,
+                "y": -130.839249,
+                "z": -1104.38
+              },
+              "lastSegmentPointEnd": {
+                "x": 359.7104,
+                "y": -131.270615,
+                "z": -1104.38977
+              },
+              "reverseLastSegmentPointStart": {
+                "x": -43.3285522,
+                "y": 18.2349243,
+                "z": -975.8829
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": -52.1751,
+                "y": 19.5284424,
+                "z": -973.0622
+              }
+            }
+          ],
+          "gravityModifier": 1.0,
+          "drag": 0.7,
+          "forgivenessModifier": 1.0,
+          "physicsSteps": 32.0,
+          "attachments": []
+        },
+        "637484730191196800_209": {
+          "projectileID": 209,
+          "violationID": 2,
+          "firedTime": "2021-02-09T13:10:18.915605+03:00",
+          "startProjectilePosition": {
+            "x": -84.87627,
+            "y": 26.3420467,
+            "z": -1159.07617
+          },
+          "startProjectileVelocity": {
+            "x": 286.817261,
+            "y": 42.039032,
+            "z": -77.2565842
+          },
+          "hitInfoInitiatorPlayerName": "Головач Лена",
+          "hitInfoInitiatorPlayerUserID": "76561198245094338",
+          "hitInfoHitEntityPlayerName": "[LSD] miwka",
+          "hitInfoHitEntityPlayerUserID": "76561199044279813",
+          "hitInfoBoneName": "head",
+          "hitInfoHitPositionWorld": {
+            "x": -9.06845951,
+            "y": 36.84896,
+            "z": -1178.8999
+          },
+          "hitInfoProjectileDistance": 79.1657,
+          "hitInfoPointStart": {
+            "x": -10.9185829,
+            "y": 36.86141,
+            "z": -1178.99731
+          },
+          "hitInfoPointEnd": {
+            "x": -3.57336617,
+            "y": 37.8606834,
+            "z": -1180.97583
+          },
+          "hitInfoProjectilePrefabGravityModifier": 1.0,
+          "hitInfoProjectilePrefabDrag": 0.7,
+          "weaponShortName": "pistol.semiauto",
+          "ammoShortName": "ammo.pistol",
+          "bodyPart": "head",
+          "damage": 32.0000038,
+          "isEqualFiredProjectileData": true,
+          "isPlayerPositionToProjectileStartPositionDistanceViolation": false,
+          "distanceDifferenceViolation": 0.0,
+          "calculatedTravelDistance": 1850.16089,
+          "isAttackerMount": false,
+          "isTargetMount": false,
+          "attackerMountParentName": "",
+          "targetMountParentName": "",
+          "firedProjectileFiredTime": 16558.81,
+          "firedProjectileTravelTime": 0.2887963,
+          "firedProjectilePosition": {
+            "x": -9.067502,
+            "y": 36.84909,
+            "z": -1178.90015
+          },
+          "firedProjectileVelocity": {
+            "x": 235.046936,
+            "y": 31.9767551,
+            "z": -63.3118248
+          },
+          "firedProjectileInitialPosition": {
+            "x": -84.87627,
+            "y": 26.3420467,
+            "z": -1159.07617
+          },
+          "firedProjectileInitialVelocity": {
+            "x": 286.8173,
+            "y": 42.0390358,
+            "z": -77.2566
+          },
+          "playerEyesLookAt": {
+            "x": 0.9574412,
+            "y": 0.1399111,
+            "z": -0.252450526
+          },
+          "playerEyesPosition": {
+            "x": -84.8893,
+            "y": 26.3486938,
+            "z": -1159.126
+          },
+          "hasFiredProjectile": true,
+          "hitsData": [
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "inVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "outVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              },
+              "startProjectilePosition": {
+                "x": -84.87627,
+                "y": 26.3420467,
+                "z": -1159.07617
+              },
+              "startProjectileVelocity": {
+                "x": 286.817261,
+                "y": 42.039032,
+                "z": -77.2565842
+              },
+              "hitPositionWorld": {
+                "x": -75.91322,
+                "y": 27.6557655,
+                "z": -1161.49048
+              },
+              "hitPointStart": {
+                "x": 323.4388,
+                "y": -3.9582715,
+                "z": -1269.05859
+              },
+              "hitPointEnd": {
+                "x": 323.469971,
+                "y": -4.380584,
+                "z": -1269.067
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": false,
+              "isHitPointOnProjectileTrajectory": false,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": false,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.0,
+              "side": 1,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 318.8012,
+                "y": 58.8984337,
+                "z": -1267.80493
+              },
+              "travelDistance": 0.0,
+              "delta": 1.0,
+              "lastSegmentPointStart": {
+                "x": 323.4388,
+                "y": -3.9582715,
+                "z": -1269.05859
+              },
+              "lastSegmentPointEnd": {
+                "x": 323.469971,
+                "y": -4.380584,
+                "z": -1269.067
+              },
+              "reverseLastSegmentPointStart": {
+                "x": -76.06792,
+                "y": 27.6610756,
+                "z": -1161.06238
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": -85.03445,
+                "y": 26.3474751,
+                "z": -1158.63855
+              }
+            },
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": -75.91322,
+                  "y": 27.6557655,
+                  "z": -1161.49048
+                },
+                "inVelocity": {
+                  "x": 286.817383,
+                  "y": 42.039,
+                  "z": -77.25781
+                },
+                "outVelocity": {
+                  "x": 286.817383,
+                  "y": 42.0391235,
+                  "z": -77.25781
+                }
+              },
+              "startProjectilePosition": {
+                "x": -75.91322,
+                "y": 27.6557655,
+                "z": -1161.49048
+              },
+              "startProjectileVelocity": {
+                "x": 286.817383,
+                "y": 42.0391235,
+                "z": -77.25781
+              },
+              "hitPositionWorld": {
+                "x": -9.06845951,
+                "y": 36.84896,
+                "z": -1178.8999
+              },
+              "hitPointStart": {
+                "x": -10.9185829,
+                "y": 36.86141,
+                "z": -1178.99731
+              },
+              "hitPointEnd": {
+                "x": -3.57336617,
+                "y": 37.8606834,
+                "z": -1180.97583
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": false,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.5755615,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "travelDistance": 876.049255,
+              "delta": -43.2444153,
+              "lastSegmentPointStart": {
+                "x": -55.199398,
+                "y": -59.45558,
+                "z": -1167.06909
+              },
+              "lastSegmentPointEnd": {
+                "x": -55.16825,
+                "y": -59.8778954,
+                "z": -1167.07751
+              },
+              "reverseLastSegmentPointStart": {
+                "x": -67.14626,
+                "y": 28.9313679,
+                "z": -1163.85193
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": -75.91324,
+                "y": 27.6557541,
+                "z": -1161.49048
+              }
+            }
+          ],
+          "gravityModifier": 1.0,
+          "drag": 0.7,
+          "forgivenessModifier": 1.0,
+          "physicsSteps": 32.0,
+          "attachments": []
+        },
+        "637484734627329700_291": {
+          "projectileID": 291,
+          "violationID": 3,
+          "firedTime": "2021-02-09T13:17:42.712654+03:00",
+          "startProjectilePosition": {
+            "x": -62.8041573,
+            "y": 20.3812618,
+            "z": -1018.60242
+          },
+          "startProjectileVelocity": {
+            "x": 197.463211,
+            "y": -11.1952887,
+            "z": -225.572479
+          },
+          "hitInfoInitiatorPlayerName": "Головач Лена",
+          "hitInfoInitiatorPlayerUserID": "76561198245094338",
+          "hitInfoHitEntityPlayerName": "[LOXI] ВКУСНЫЙ ПОНЧИКОВ",
+          "hitInfoHitEntityPlayerUserID": "76561198529769775",
+          "hitInfoBoneName": "chest",
+          "hitInfoHitPositionWorld": {
+            "x": -33.9415,
+            "y": 18.3822155,
+            "z": -1051.28979
+          },
+          "hitInfoProjectileDistance": 43.6593971,
+          "hitInfoPointStart": {
+            "x": -38.9194145,
+            "y": 18.9716949,
+            "z": -1045.88721
+          },
+          "hitInfoPointEnd": {
+            "x": -33.2711678,
+            "y": 18.6151943,
+            "z": -1052.33948
+          },
+          "hitInfoProjectilePrefabGravityModifier": 1.0,
+          "hitInfoProjectilePrefabDrag": 0.7,
+          "weaponShortName": "pistol.semiauto",
+          "ammoShortName": "ammo.pistol",
+          "bodyPart": "chest",
+          "damage": 32.0000038,
+          "isEqualFiredProjectileData": true,
+          "isPlayerPositionToProjectileStartPositionDistanceViolation": false,
+          "distanceDifferenceViolation": 0.0,
+          "calculatedTravelDistance": 1886.91125,
+          "isAttackerMount": false,
+          "isTargetMount": false,
+          "attackerMountParentName": "",
+          "targetMountParentName": "",
+          "firedProjectileFiredTime": 17002.6074,
+          "firedProjectileTravelTime": 0.15183422,
+          "firedProjectilePosition": {
+            "x": -33.94084,
+            "y": 18.3821735,
+            "z": -1051.29053
+          },
+          "firedProjectileVelocity": {
+            "x": 180.743927,
+            "y": -11.4080191,
+            "z": -206.47316
+          },
+          "firedProjectileInitialPosition": {
+            "x": -62.8041573,
+            "y": 20.3812618,
+            "z": -1018.60242
+          },
+          "firedProjectileInitialVelocity": {
+            "x": 197.463242,
+            "y": -11.1952915,
+            "z": -225.572525
+          },
+          "playerEyesLookAt": {
+            "x": 0.6607322,
+            "y": -0.03845691,
+            "z": -0.7496358
+          },
+          "playerEyesPosition": {
+            "x": -62.8041573,
+            "y": 20.3812618,
+            "z": -1018.60242
+          },
+          "hasFiredProjectile": true,
+          "hitsData": [
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "inVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "outVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              },
+              "startProjectilePosition": {
+                "x": -62.8041573,
+                "y": 20.3812618,
+                "z": -1018.60242
+              },
+              "startProjectileVelocity": {
+                "x": 197.463211,
+                "y": -11.1952887,
+                "z": -225.572479
+              },
+              "hitPositionWorld": {
+                "x": -56.63343,
+                "y": 20.0314083,
+                "z": -1025.65161
+              },
+              "hitPointStart": {
+                "x": 218.306046,
+                "y": -85.7037659,
+                "z": -1339.729
+              },
+              "hitPointEnd": {
+                "x": 218.327484,
+                "y": -86.13186,
+                "z": -1339.75354
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": false,
+              "isHitPointOnProjectileTrajectory": false,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": false,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.0,
+              "side": 1,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 211.459534,
+                "y": 51.009552,
+                "z": -1331.89331
+              },
+              "travelDistance": 0.0,
+              "delta": 1.0,
+              "lastSegmentPointStart": {
+                "x": 218.306046,
+                "y": -85.7037659,
+                "z": -1339.729
+              },
+              "lastSegmentPointEnd": {
+                "x": 218.327484,
+                "y": -86.13186,
+                "z": -1339.75354
+              },
+              "reverseLastSegmentPointStart": {
+                "x": -56.57491,
+                "y": 20.0359726,
+                "z": -1025.13147
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": -62.7443352,
+                "y": 20.385931,
+                "z": -1018.07068
+              }
+            },
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": -56.63343,
+                  "y": 20.0314083,
+                  "z": -1025.65161
+                },
+                "inVelocity": {
+                  "x": 197.463257,
+                  "y": -11.1953125,
+                  "z": -225.574219
+                },
+                "outVelocity": {
+                  "x": 197.463257,
+                  "y": -11.1953125,
+                  "z": -225.572266
+                }
+              },
+              "startProjectilePosition": {
+                "x": -56.63343,
+                "y": 20.0314083,
+                "z": -1025.65161
+              },
+              "startProjectileVelocity": {
+                "x": 197.463257,
+                "y": -11.1953125,
+                "z": -225.572266
+              },
+              "hitPositionWorld": {
+                "x": -33.9415,
+                "y": 18.3822155,
+                "z": -1051.28979
+              },
+              "hitPointStart": {
+                "x": -38.9194145,
+                "y": 18.9716949,
+                "z": -1045.88721
+              },
+              "hitPointEnd": {
+                "x": -33.2711678,
+                "y": 18.6151943,
+                "z": -1052.33948
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": false,
+              "isHitPointOnProjectileTrajectory": false,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.187072754,
+              "side": 1,
+              "pointProjectedOnLastSegmentLine": {
+                "x": -57.0871429,
+                "y": 15.7232285,
+                "z": -1025.12439
+              },
+              "travelDistance": 901.571045,
+              "delta": -44.93045,
+              "lastSegmentPointStart": {
+                "x": -52.77666,
+                "y": -70.33462,
+                "z": -1030.05676
+              },
+              "lastSegmentPointEnd": {
+                "x": -52.75522,
+                "y": -70.76271,
+                "z": -1030.0813
+              },
+              "reverseLastSegmentPointStart": {
+                "x": -50.59769,
+                "y": 19.6798382,
+                "z": -1032.54651
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": -56.63343,
+                "y": 20.0314083,
+                "z": -1025.65161
+              }
+            }
+          ],
+          "gravityModifier": 1.0,
+          "drag": 0.7,
+          "forgivenessModifier": 1.0,
+          "physicsSteps": 32.0,
+          "attachments": []
+        },
+        "637484735296763360_322": {
+          "projectileID": 322,
+          "violationID": 4,
+          "firedTime": "2021-02-09T13:18:49.675206+03:00",
+          "startProjectilePosition": {
+            "x": -30.0625324,
+            "y": 18.6640816,
+            "z": -1073.495
+          },
+          "startProjectileVelocity": {
+            "x": -223.304474,
+            "y": 30.9079418,
+            "z": -197.938919
+          },
+          "hitInfoInitiatorPlayerName": "Головач Лена",
+          "hitInfoInitiatorPlayerUserID": "76561198245094338",
+          "hitInfoHitEntityPlayerName": "gangster",
+          "hitInfoHitEntityPlayerUserID": "76561199051579075",
+          "hitInfoBoneName": "head",
+          "hitInfoHitPositionWorld": {
+            "x": -47.0431557,
+            "y": 20.97298,
+            "z": -1088.95642
+          },
+          "hitInfoProjectileDistance": 23.08952,
+          "hitInfoPointStart": {
+            "x": -43.8664131,
+            "y": 20.56533,
+            "z": -1085.73083
+          },
+          "hitInfoPointEnd": {
+            "x": -50.542717,
+            "y": 21.4708729,
+            "z": -1091.6488
+          },
+          "hitInfoProjectilePrefabGravityModifier": 1.0,
+          "hitInfoProjectilePrefabDrag": 0.7,
+          "weaponShortName": "pistol.semiauto",
+          "ammoShortName": "ammo.pistol",
+          "bodyPart": "head",
+          "damage": 34.2113571,
+          "isEqualFiredProjectileData": true,
+          "isPlayerPositionToProjectileStartPositionDistanceViolation": false,
+          "distanceDifferenceViolation": 0.0,
+          "calculatedTravelDistance": 886.614746,
+          "isAttackerMount": false,
+          "isTargetMount": false,
+          "attackerMountParentName": "",
+          "targetMountParentName": "",
+          "firedProjectileFiredTime": 17069.57,
+          "firedProjectileTravelTime": 0.0783404857,
+          "firedProjectilePosition": {
+            "x": -47.0439,
+            "y": 20.9730816,
+            "z": -1088.957
+          },
+          "firedProjectileVelocity": {
+            "x": -213.641785,
+            "y": 28.9773579,
+            "z": -189.37384
+          },
+          "firedProjectileInitialPosition": {
+            "x": -30.0625324,
+            "y": 18.6640816,
+            "z": -1073.495
+          },
+          "firedProjectileInitialVelocity": {
+            "x": -223.304489,
+            "y": 30.9079437,
+            "z": -197.93895
+          },
+          "playerEyesLookAt": {
+            "x": -0.7411128,
+            "y": 0.09534143,
+            "z": -0.6645765
+          },
+          "playerEyesPosition": {
+            "x": -30.0625324,
+            "y": 18.663969,
+            "z": -1073.495
+          },
+          "hasFiredProjectile": true,
+          "hitsData": [
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "inVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "outVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              },
+              "startProjectilePosition": {
+                "x": -30.0625324,
+                "y": 18.6640816,
+                "z": -1073.495
+              },
+              "startProjectileVelocity": {
+                "x": -223.304474,
+                "y": 30.9079418,
+                "z": -197.938919
+              },
+              "hitPositionWorld": {
+                "x": -37.0408,
+                "y": 19.6299553,
+                "z": -1079.68054
+              },
+              "hitPointStart": {
+                "x": -30.0625324,
+                "y": 18.6640816,
+                "z": -1073.495
+              },
+              "hitPointEnd": {
+                "x": -37.0408,
+                "y": 19.6299553,
+                "z": -1079.68054
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 6.10351563E-05,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": -37.0408,
+                "y": 19.6299553,
+                "z": -1079.68054
+              },
+              "travelDistance": 0.0,
+              "delta": 1.0,
+              "lastSegmentPointStart": {
+                "x": -30.0625324,
+                "y": 18.6640816,
+                "z": -1073.495
+              },
+              "lastSegmentPointEnd": {
+                "x": -37.0408,
+                "y": 19.6299553,
+                "z": -1079.68054
+              },
+              "reverseLastSegmentPointStart": {
+                "x": -37.0408,
+                "y": 19.6299553,
+                "z": -1079.68054
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": -30.0625324,
+                "y": 18.6640816,
+                "z": -1073.495
+              }
+            },
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": -37.0408,
+                  "y": 19.6299553,
+                  "z": -1079.68054
+                },
+                "inVelocity": {
+                  "x": -223.3045,
+                  "y": 30.907959,
+                  "z": -197.9375
+                },
+                "outVelocity": {
+                  "x": -223.304443,
+                  "y": 30.907959,
+                  "z": -197.9414
+                }
+              },
+              "startProjectilePosition": {
+                "x": -37.0408,
+                "y": 19.6299553,
+                "z": -1079.68054
+              },
+              "startProjectileVelocity": {
+                "x": -223.304443,
+                "y": 30.907959,
+                "z": -197.9414
+              },
+              "hitPositionWorld": {
+                "x": -47.0431557,
+                "y": 20.97298,
+                "z": -1088.95642
+              },
+              "hitPointStart": {
+                "x": -43.8664131,
+                "y": 20.56533,
+                "z": -1085.73083
+              },
+              "hitPointEnd": {
+                "x": -50.542717,
+                "y": 21.4708729,
+                "z": -1091.6488
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": false,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.306518555,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "travelDistance": 9.374971,
+              "delta": 0.0,
+              "lastSegmentPointStart": {
+                "x": -354.938538,
+                "y": -26.5166,
+                "z": -1361.47058
+              },
+              "lastSegmentPointEnd": {
+                "x": -354.9628,
+                "y": -26.94012,
+                "z": -1361.49207
+              },
+              "reverseLastSegmentPointStart": {
+                "x": -43.8664131,
+                "y": 20.56533,
+                "z": -1085.73083
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": -37.0408,
+                "y": 19.6299553,
+                "z": -1079.68054
+              }
+            }
+          ],
+          "gravityModifier": 1.0,
+          "drag": 0.7,
+          "forgivenessModifier": 1.0,
+          "physicsSteps": 32.0,
+          "attachments": []
+        },
+        "637484737043320990_327": {
+          "projectileID": 327,
+          "violationID": 5,
+          "firedTime": "2021-02-09T13:21:44.271692+03:00",
+          "startProjectilePosition": {
+            "x": -15.7773733,
+            "y": 15.9598293,
+            "z": -1005.03229
+          },
+          "startProjectileVelocity": {
+            "x": 148.013657,
+            "y": 8.880135,
+            "z": -260.7932
+          },
+          "hitInfoInitiatorPlayerName": "Головач Лена",
+          "hitInfoInitiatorPlayerUserID": "76561198245094338",
+          "hitInfoHitEntityPlayerName": "[lk] ♥Mozg♥",
+          "hitInfoHitEntityPlayerUserID": "76561199097399016",
+          "hitInfoBoneName": "head",
+          "hitInfoHitPositionWorld": {
+            "x": 8.31421,
+            "y": 17.3247776,
+            "z": -1048.57715
+          },
+          "hitInfoProjectileDistance": 49.810585,
+          "hitInfoPointStart": {
+            "x": 6.359843,
+            "y": 17.1962814,
+            "z": -1044.037
+          },
+          "hitInfoPointEnd": {
+            "x": 10.5010185,
+            "y": 17.3998852,
+            "z": -1051.3335
+          },
+          "hitInfoProjectilePrefabGravityModifier": 1.0,
+          "hitInfoProjectilePrefabDrag": 0.7,
+          "weaponShortName": "pistol.semiauto",
+          "ammoShortName": "ammo.pistol",
+          "bodyPart": "head",
+          "damage": 32.0000038,
+          "isEqualFiredProjectileData": true,
+          "isPlayerPositionToProjectileStartPositionDistanceViolation": false,
+          "distanceDifferenceViolation": 0.0,
+          "calculatedTravelDistance": 889.6577,
+          "isAttackerMount": false,
+          "isTargetMount": false,
+          "attackerMountParentName": "",
+          "targetMountParentName": "",
+          "firedProjectileFiredTime": 17244.166,
+          "firedProjectileTravelTime": 0.174661845,
+          "firedProjectilePosition": {
+            "x": 8.314703,
+            "y": 17.3248024,
+            "z": -1048.578
+          },
+          "firedProjectileVelocity": {
+            "x": 132.517609,
+            "y": 6.515337,
+            "z": -233.489914
+          },
+          "firedProjectileInitialPosition": {
+            "x": -15.7773733,
+            "y": 15.9598293,
+            "z": -1005.03229
+          },
+          "firedProjectileInitialVelocity": {
+            "x": 148.013672,
+            "y": 8.880136,
+            "z": -260.793243
+          },
+          "playerEyesLookAt": {
+            "x": 0.487230927,
+            "y": 0.0299917217,
+            "z": -0.8727581
+          },
+          "playerEyesPosition": {
+            "x": -15.7773733,
+            "y": 15.9598284,
+            "z": -1005.03229
+          },
+          "hasFiredProjectile": true,
+          "hitsData": [
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "inVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "outVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              },
+              "startProjectilePosition": {
+                "x": -15.7773733,
+                "y": 15.9598293,
+                "z": -1005.03229
+              },
+              "startProjectileVelocity": {
+                "x": 148.013657,
+                "y": 8.880135,
+                "z": -260.7932
+              },
+              "hitPositionWorld": {
+                "x": -11.1495943,
+                "y": 16.2374687,
+                "z": -1013.18622
+              },
+              "hitPointStart": {
+                "x": -11.151947,
+                "y": 16.2373333,
+                "z": -1013.18207
+              },
+              "hitPointEnd": {
+                "x": -6.62770128,
+                "y": 16.4993973,
+                "z": -1021.15356
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.0,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": -11.1495924,
+                "y": 16.23747,
+                "z": -1013.18622
+              },
+              "travelDistance": 0.0,
+              "delta": 1.0,
+              "lastSegmentPointStart": {
+                "x": -11.151947,
+                "y": 16.2373333,
+                "z": -1013.18207
+              },
+              "lastSegmentPointEnd": {
+                "x": -6.62770128,
+                "y": 16.4993973,
+                "z": -1021.15356
+              },
+              "reverseLastSegmentPointStart": {
+                "x": -11.151947,
+                "y": 16.2373333,
+                "z": -1013.18207
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": -15.7773743,
+                "y": 15.9598284,
+                "z": -1005.03229
+              }
+            },
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": -11.1495943,
+                  "y": 16.2374687,
+                  "z": -1013.18622
+                },
+                "inVelocity": {
+                  "x": 144.775864,
+                  "y": 8.386047,
+                  "z": -255.087891
+                },
+                "outVelocity": {
+                  "x": 148.0137,
+                  "y": 8.880127,
+                  "z": -260.791016
+                }
+              },
+              "startProjectilePosition": {
+                "x": -11.1495943,
+                "y": 16.2374687,
+                "z": -1013.18622
+              },
+              "startProjectileVelocity": {
+                "x": 148.0137,
+                "y": 8.880127,
+                "z": -260.791016
+              },
+              "hitPositionWorld": {
+                "x": 8.31421,
+                "y": 17.3247776,
+                "z": -1048.57715
+              },
+              "hitPointStart": {
+                "x": 6.359843,
+                "y": 17.1962814,
+                "z": -1044.037
+              },
+              "hitPointEnd": {
+                "x": 10.5010185,
+                "y": 17.3998852,
+                "z": -1051.3335
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": false,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.541412354,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "travelDistance": 9.379773,
+              "delta": 0.999479532,
+              "lastSegmentPointStart": {
+                "x": 204.186752,
+                "y": -60.99071,
+                "z": -1392.59521
+              },
+              "lastSegmentPointEnd": {
+                "x": 204.20282,
+                "y": -61.416626,
+                "z": -1392.62354
+              },
+              "reverseLastSegmentPointStart": {
+                "x": -6.62770128,
+                "y": 16.4993973,
+                "z": -1021.15375
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": -11.151948,
+                "y": 16.2373352,
+                "z": -1013.18231
+              }
+            }
+          ],
+          "gravityModifier": 1.0,
+          "drag": 0.7,
+          "forgivenessModifier": 1.0,
+          "physicsSteps": 32.0,
+          "attachments": []
+        },
+        "637484747112183190_446": {
+          "projectileID": 446,
+          "violationID": 6,
+          "firedTime": "2021-02-09T13:38:31.075848+03:00",
+          "startProjectilePosition": {
+            "x": 74.14185,
+            "y": 21.2846985,
+            "z": -956.4742
+          },
+          "startProjectileVelocity": {
+            "x": -287.819122,
+            "y": -24.0812721,
+            "z": 81.1187
+          },
+          "hitInfoInitiatorPlayerName": "Головач Лена",
+          "hitInfoInitiatorPlayerUserID": "76561198245094338",
+          "hitInfoHitEntityPlayerName": "[SX] #ЖИРНЫЙ RUST Noble",
+          "hitInfoHitEntityPlayerUserID": "76561198799221333",
+          "hitInfoBoneName": "chest",
+          "hitInfoHitPositionWorld": {
+            "x": 2.33902335,
+            "y": 14.7646914,
+            "z": -937.1434
+          },
+          "hitInfoProjectileDistance": 74.71979,
+          "hitInfoPointStart": {
+            "x": 7.46157074,
+            "y": 15.4544821,
+            "z": -937.681
+          },
+          "hitInfoPointEnd": {
+            "x": -0.07414532,
+            "y": 14.7545137,
+            "z": -935.5572
+          },
+          "hitInfoProjectilePrefabGravityModifier": 1.0,
+          "hitInfoProjectilePrefabDrag": 0.7,
+          "weaponShortName": "pistol.python",
+          "ammoShortName": "ammo.pistol",
+          "bodyPart": "chest",
+          "damage": 44.0000038,
+          "isEqualFiredProjectileData": true,
+          "isPlayerPositionToProjectileStartPositionDistanceViolation": false,
+          "distanceDifferenceViolation": 0.0,
+          "calculatedTravelDistance": 862.3375,
+          "isAttackerMount": false,
+          "isTargetMount": false,
+          "attackerMountParentName": "",
+          "targetMountParentName": "",
+          "firedProjectileFiredTime": 18250.9688,
+          "firedProjectileTravelTime": 0.270659745,
+          "firedProjectilePosition": {
+            "x": 2.33806467,
+            "y": 14.7646027,
+            "z": -937.1431
+          },
+          "firedProjectileVelocity": {
+            "x": -241.1429,
+            "y": -22.39897,
+            "z": 67.96351
+          },
+          "firedProjectileInitialPosition": {
+            "x": 74.14185,
+            "y": 21.2846985,
+            "z": -956.4742
+          },
+          "firedProjectileInitialVelocity": {
+            "x": -287.8191,
+            "y": -24.08127,
+            "z": 81.11869
+          },
+          "playerEyesLookAt": {
+            "x": -0.959922433,
+            "y": -0.07898335,
+            "z": 0.2689063
+          },
+          "playerEyesPosition": {
+            "x": 74.14185,
+            "y": 21.2846985,
+            "z": -956.4742
+          },
+          "hasFiredProjectile": true,
+          "hitsData": [
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "inVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "outVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              },
+              "startProjectilePosition": {
+                "x": 74.14185,
+                "y": 21.2846985,
+                "z": -956.4742
+              },
+              "startProjectileVelocity": {
+                "x": -287.819122,
+                "y": -24.0812721,
+                "z": 81.1187
+              },
+              "hitPositionWorld": {
+                "x": 74.14135,
+                "y": 21.2846565,
+                "z": -956.47406
+              },
+              "hitPointStart": {
+                "x": 74.14185,
+                "y": 21.2846985,
+                "z": -956.4742
+              },
+              "hitPointEnd": {
+                "x": 65.14751,
+                "y": 20.5321579,
+                "z": -953.9392
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.0,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 74.14136,
+                "y": 21.2846565,
+                "z": -956.47406
+              },
+              "travelDistance": 0.0,
+              "delta": 1.0,
+              "lastSegmentPointStart": {
+                "x": 74.14185,
+                "y": 21.2846985,
+                "z": -956.4742
+              },
+              "lastSegmentPointEnd": {
+                "x": 65.14751,
+                "y": 20.5321579,
+                "z": -953.9392
+              },
+              "reverseLastSegmentPointStart": {
+                "x": 65.14751,
+                "y": 20.5321579,
+                "z": -953.9392
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": 74.14185,
+                "y": 21.2846985,
+                "z": -956.4742
+              }
+            },
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 74.14135,
+                  "y": 21.2846565,
+                  "z": -956.47406
+                },
+                "inVelocity": {
+                  "x": -287.8191,
+                  "y": -24.0812988,
+                  "z": 81.11914
+                },
+                "outVelocity": {
+                  "x": -287.819336,
+                  "y": -24.0812988,
+                  "z": 81.11719
+                }
+              },
+              "startProjectilePosition": {
+                "x": 74.14135,
+                "y": 21.2846565,
+                "z": -956.47406
+              },
+              "startProjectileVelocity": {
+                "x": -287.819336,
+                "y": -24.0812988,
+                "z": 81.11719
+              },
+              "hitPositionWorld": {
+                "x": 2.33902335,
+                "y": 14.7646914,
+                "z": -937.1434
+              },
+              "hitPointStart": {
+                "x": 7.46157074,
+                "y": 15.4544821,
+                "z": -937.681
+              },
+              "hitPointEnd": {
+                "x": -0.07414532,
+                "y": 14.7545137,
+                "z": -935.5572
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": false,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.8717041,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "travelDistance": 0.0005198216,
+              "delta": 0.999944568,
+              "lastSegmentPointStart": {
+                "x": -344.594147,
+                "y": -103.897507,
+                "z": -838.4605
+              },
+              "lastSegmentPointEnd": {
+                "x": -344.6254,
+                "y": -104.326996,
+                "z": -838.4517
+              },
+              "reverseLastSegmentPointStart": {
+                "x": 65.14752,
+                "y": 20.5321579,
+                "z": -953.939
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": 74.14188,
+                "y": 21.2846985,
+                "z": -956.473938
+              }
+            }
+          ],
+          "gravityModifier": 1.0,
+          "drag": 0.7,
+          "forgivenessModifier": 1.0,
+          "physicsSteps": 32.0,
+          "attachments": []
+        },
+        "637484750566584340_454": {
+          "projectileID": 454,
+          "violationID": 7,
+          "firedTime": "2021-02-09T13:44:16.386483+03:00",
+          "startProjectilePosition": {
+            "x": 79.6777954,
+            "y": 17.7161961,
+            "z": -696.873169
+          },
+          "startProjectileVelocity": {
+            "x": 173.928009,
+            "y": 4.802663,
+            "z": 244.389
+          },
+          "hitInfoInitiatorPlayerName": "Головач Лена",
+          "hitInfoInitiatorPlayerUserID": "76561198245094338",
+          "hitInfoHitEntityPlayerName": "Ebengard",
+          "hitInfoHitEntityPlayerUserID": "76561198383516543",
+          "hitInfoBoneName": "head",
+          "hitInfoHitPositionWorld": {
+            "x": 138.408417,
+            "y": 18.5803719,
+            "z": -615.1379
+          },
+          "hitInfoProjectileDistance": 100.66655,
+          "hitInfoPointStart": {
+            "x": 133.337173,
+            "y": 18.7148972,
+            "z": -621.4754
+          },
+          "hitInfoPointEnd": {
+            "x": 137.598618,
+            "y": 18.7400589,
+            "z": -615.487549
+          },
+          "hitInfoProjectilePrefabGravityModifier": 1.0,
+          "hitInfoProjectilePrefabDrag": 0.7,
+          "weaponShortName": "pistol.python",
+          "ammoShortName": "ammo.pistol",
+          "bodyPart": "head",
+          "damage": 44.0000038,
+          "isEqualFiredProjectileData": true,
+          "isPlayerPositionToProjectileStartPositionDistanceViolation": false,
+          "distanceDifferenceViolation": 0.0,
+          "calculatedTravelDistance": 842.0313,
+          "isAttackerMount": false,
+          "isTargetMount": false,
+          "attackerMountParentName": "",
+          "targetMountParentName": "",
+          "firedProjectileFiredTime": 18596.28,
+          "firedProjectileTravelTime": 0.378267467,
+          "firedProjectilePosition": {
+            "x": 138.409,
+            "y": 18.5803757,
+            "z": -615.1371
+          },
+          "firedProjectileVelocity": {
+            "x": 136.366425,
+            "y": 0.805150747,
+            "z": 191.610657
+          },
+          "firedProjectileInitialPosition": {
+            "x": 79.6777954,
+            "y": 17.7161961,
+            "z": -696.873169
+          },
+          "firedProjectileInitialVelocity": {
+            "x": 173.928009,
+            "y": 4.802663,
+            "z": 244.389
+          },
+          "playerEyesLookAt": {
+            "x": 0.582154632,
+            "y": 0.0145519041,
+            "z": 0.812947869
+          },
+          "playerEyesPosition": {
+            "x": 79.6777954,
+            "y": 17.7161961,
+            "z": -696.873169
+          },
+          "hasFiredProjectile": true,
+          "hitsData": [
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "inVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "outVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              },
+              "startProjectilePosition": {
+                "x": 79.6777954,
+                "y": 17.7161961,
+                "z": -696.873169
+              },
+              "startProjectileVelocity": {
+                "x": 173.928009,
+                "y": 4.802663,
+                "z": 244.389
+              },
+              "hitPositionWorld": {
+                "x": 85.1181259,
+                "y": 17.8664112,
+                "z": -689.2289
+              },
+              "hitPointStart": {
+                "x": 85.1130447,
+                "y": 17.86628,
+                "z": -689.236
+              },
+              "hitPointEnd": {
+                "x": 90.4294,
+                "y": 18.00371,
+                "z": -681.7659
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 3.05175781E-05,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 85.1181259,
+                "y": 17.8664112,
+                "z": -689.2289
+              },
+              "travelDistance": 0.0,
+              "delta": 1.0,
+              "lastSegmentPointStart": {
+                "x": 85.1130447,
+                "y": 17.86628,
+                "z": -689.236
+              },
+              "lastSegmentPointEnd": {
+                "x": 90.4294,
+                "y": 18.00371,
+                "z": -681.7659
+              },
+              "reverseLastSegmentPointStart": {
+                "x": 85.1130447,
+                "y": 17.86628,
+                "z": -689.236
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": 79.6777954,
+                "y": 17.7161961,
+                "z": -696.873169
+              }
+            },
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 85.1181259,
+                  "y": 17.8664112,
+                  "z": -689.2289
+                },
+                "inVelocity": {
+                  "x": 170.123291,
+                  "y": 4.397766,
+                  "z": 239.042969
+                },
+                "outVelocity": {
+                  "x": 173.927734,
+                  "y": 4.80267334,
+                  "z": 244.390625
+                }
+              },
+              "startProjectilePosition": {
+                "x": 85.1181259,
+                "y": 17.8664112,
+                "z": -689.2289
+              },
+              "startProjectileVelocity": {
+                "x": 173.927734,
+                "y": 4.80267334,
+                "z": 244.390625
+              },
+              "hitPositionWorld": {
+                "x": 138.408417,
+                "y": 18.5803719,
+                "z": -615.1379
+              },
+              "hitPointStart": {
+                "x": 133.337173,
+                "y": 18.7148972,
+                "z": -621.4754
+              },
+              "hitPointEnd": {
+                "x": 137.598618,
+                "y": 18.7400589,
+                "z": -615.487549
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": false,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.4572754,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "travelDistance": 9.383765,
+              "delta": 0.9990441,
+              "lastSegmentPointStart": {
+                "x": 338.152924,
+                "y": -65.29387,
+                "z": -333.6828
+              },
+              "lastSegmentPointEnd": {
+                "x": 338.1718,
+                "y": -65.72022,
+                "z": -333.65625
+              },
+              "reverseLastSegmentPointStart": {
+                "x": 90.42944,
+                "y": 18.0037,
+                "z": -681.766
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": 85.1131,
+                "y": 17.86627,
+                "z": -689.236145
+              }
+            }
+          ],
+          "gravityModifier": 1.0,
+          "drag": 0.7,
+          "forgivenessModifier": 1.0,
+          "physicsSteps": 32.0,
+          "attachments": []
+        },
+        "637484751153499290_463": {
+          "projectileID": 463,
+          "violationID": 8,
+          "firedTime": "2021-02-09T13:45:15.084604+03:00",
+          "startProjectilePosition": {
+            "x": 135.9257,
+            "y": 18.8468685,
+            "z": -607.264648
+          },
+          "startProjectileVelocity": {
+            "x": -105.384422,
+            "y": -1.8877784,
+            "z": -280.874634
+          },
+          "hitInfoInitiatorPlayerName": "Головач Лена",
+          "hitInfoInitiatorPlayerUserID": "76561198245094338",
+          "hitInfoHitEntityPlayerName": "[1312] ஜ۩吸akamc۞sоxx0名詞۩",
+          "hitInfoHitEntityPlayerUserID": "76561198855596193",
+          "hitInfoBoneName": "head",
+          "hitInfoHitPositionWorld": {
+            "x": 98.7190857,
+            "y": 17.7205715,
+            "z": -704.881653
+          },
+          "hitInfoProjectileDistance": 104.506821,
+          "hitInfoPointStart": {
+            "x": 100.830986,
+            "y": 17.6427059,
+            "z": -700.800537
+          },
+          "hitInfoPointEnd": {
+            "x": 98.30542,
+            "y": 17.4976082,
+            "z": -707.5318
+          },
+          "hitInfoProjectilePrefabGravityModifier": 1.0,
+          "hitInfoProjectilePrefabDrag": 0.7,
+          "weaponShortName": "pistol.python",
+          "ammoShortName": "ammo.pistol",
+          "bodyPart": "head",
+          "damage": 44.0000038,
+          "isEqualFiredProjectileData": true,
+          "isPlayerPositionToProjectileStartPositionDistanceViolation": false,
+          "distanceDifferenceViolation": 0.0,
+          "calculatedTravelDistance": 841.551636,
+          "isAttackerMount": false,
+          "isTargetMount": false,
+          "attackerMountParentName": "",
+          "targetMountParentName": "",
+          "firedProjectileFiredTime": 18654.9785,
+          "firedProjectileTravelTime": 0.394972563,
+          "firedProjectilePosition": {
+            "x": 98.7187347,
+            "y": 17.72055,
+            "z": -704.882568
+          },
+          "firedProjectileVelocity": {
+            "x": -80.81815,
+            "y": -4.64314175,
+            "z": -215.399658
+          },
+          "firedProjectileInitialPosition": {
+            "x": 135.9257,
+            "y": 18.8468685,
+            "z": -607.264648
+          },
+          "firedProjectileInitialVelocity": {
+            "x": -105.38446,
+            "y": -1.88777912,
+            "z": -280.874756
+          },
+          "playerEyesLookAt": {
+            "x": -0.355792761,
+            "y": -0.0105719054,
+            "z": -0.9345053
+          },
+          "playerEyesPosition": {
+            "x": 135.9257,
+            "y": 18.8468685,
+            "z": -607.264648
+          },
+          "hasFiredProjectile": true,
+          "hitsData": [
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "inVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "outVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              },
+              "startProjectilePosition": {
+                "x": 135.9257,
+                "y": 18.8468685,
+                "z": -607.264648
+              },
+              "startProjectileVelocity": {
+                "x": -105.384422,
+                "y": -1.8877784,
+                "z": -280.874634
+              },
+              "hitPositionWorld": {
+                "x": 132.629745,
+                "y": 18.78782,
+                "z": -616.0492
+              },
+              "hitPointStart": {
+                "x": 132.632446,
+                "y": 18.7878761,
+                "z": -616.042
+              },
+              "hitPointEnd": {
+                "x": 129.411224,
+                "y": 18.7208023,
+                "z": -624.6273
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.0,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 132.629745,
+                "y": 18.78782,
+                "z": -616.0492
+              },
+              "travelDistance": 0.0,
+              "delta": 1.0,
+              "lastSegmentPointStart": {
+                "x": 132.632446,
+                "y": 18.7878761,
+                "z": -616.042
+              },
+              "lastSegmentPointEnd": {
+                "x": 129.411224,
+                "y": 18.7208023,
+                "z": -624.6273
+              },
+              "reverseLastSegmentPointStart": {
+                "x": 132.632446,
+                "y": 18.7878761,
+                "z": -616.042
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": 135.9257,
+                "y": 18.84687,
+                "z": -607.264648
+              }
+            },
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 132.629745,
+                  "y": 18.78782,
+                  "z": -616.0492
+                },
+                "inVelocity": {
+                  "x": -103.0791,
+                  "y": -2.1463623,
+                  "z": -274.730469
+                },
+                "outVelocity": {
+                  "x": -105.384277,
+                  "y": -1.88775635,
+                  "z": -280.875
+                }
+              },
+              "startProjectilePosition": {
+                "x": 132.629745,
+                "y": 18.78782,
+                "z": -616.0492
+              },
+              "startProjectileVelocity": {
+                "x": -105.384277,
+                "y": -1.88775635,
+                "z": -280.875
+              },
+              "hitPositionWorld": {
+                "x": 98.7190857,
+                "y": 17.7205715,
+                "z": -704.881653
+              },
+              "hitPointStart": {
+                "x": 100.830986,
+                "y": 17.6427059,
+                "z": -700.800537
+              },
+              "hitPointEnd": {
+                "x": 98.30542,
+                "y": 17.4976082,
+                "z": -707.5318
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": false,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.5437012,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "travelDistance": 9.382692,
+              "delta": 0.9991612,
+              "lastSegmentPointStart": {
+                "x": -20.6866055,
+                "y": -74.1059341,
+                "z": -1024.6748
+              },
+              "lastSegmentPointEnd": {
+                "x": -20.69805,
+                "y": -74.53302,
+                "z": -1024.70532
+              },
+              "reverseLastSegmentPointStart": {
+                "x": 129.411209,
+                "y": 18.7207985,
+                "z": -624.6271
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": 132.632431,
+                "y": 18.78787,
+                "z": -616.0417
+              }
+            }
+          ],
+          "gravityModifier": 1.0,
+          "drag": 0.7,
+          "forgivenessModifier": 1.0,
+          "physicsSteps": 32.0,
+          "attachments": []
+        },
+        "637484751865046140_507": {
+          "projectileID": 507,
+          "violationID": 9,
+          "firedTime": "2021-02-09T13:46:26.50344+03:00",
+          "startProjectilePosition": {
+            "x": 112.160652,
+            "y": 17.3136616,
+            "z": -620.2454
+          },
+          "startProjectileVelocity": {
+            "x": 285.251831,
+            "y": 14.08182,
+            "z": 91.83188
+          },
+          "hitInfoInitiatorPlayerName": "Головач Лена",
+          "hitInfoInitiatorPlayerUserID": "76561198245094338",
+          "hitInfoHitEntityPlayerName": "[Siska] phenoill",
+          "hitInfoHitEntityPlayerUserID": "76561198193195818",
+          "hitInfoBoneName": "head",
+          "hitInfoHitPositionWorld": {
+            "x": 131.437042,
+            "y": 18.5043259,
+            "z": -613.8131
+          },
+          "hitInfoProjectileDistance": 20.38282,
+          "hitInfoPointStart": {
+            "x": 129.793884,
+            "y": 18.17478,
+            "z": -614.5687
+          },
+          "hitInfoPointEnd": {
+            "x": 138.322281,
+            "y": 18.57726,
+            "z": -611.8232
+          },
+          "hitInfoProjectilePrefabGravityModifier": 1.0,
+          "hitInfoProjectilePrefabDrag": 0.7,
+          "weaponShortName": "pistol.semiauto",
+          "ammoShortName": "ammo.pistol",
+          "bodyPart": "head",
+          "damage": 35.0774956,
+          "isEqualFiredProjectileData": true,
+          "isPlayerPositionToProjectileStartPositionDistanceViolation": false,
+          "distanceDifferenceViolation": 0.0,
+          "calculatedTravelDistance": 897.5738,
+          "isAttackerMount": false,
+          "isTargetMount": false,
+          "attackerMountParentName": "",
+          "targetMountParentName": "",
+          "firedProjectileFiredTime": 18726.3965,
+          "firedProjectileTravelTime": 0.06890553,
+          "firedProjectilePosition": {
+            "x": 131.437988,
+            "y": 18.5043716,
+            "z": -613.8128
+          },
+          "firedProjectileVelocity": {
+            "x": 272.908539,
+            "y": 12.8793249,
+            "z": 87.85818
+          },
+          "firedProjectileInitialPosition": {
+            "x": 112.160652,
+            "y": 17.3136616,
+            "z": -620.2454
+          },
+          "firedProjectileInitialVelocity": {
+            "x": 285.251831,
+            "y": 14.08182,
+            "z": 91.83188
+          },
+          "playerEyesLookAt": {
+            "x": 0.950798154,
+            "y": 0.0407114141,
+            "z": 0.3071243
+          },
+          "playerEyesPosition": {
+            "x": 112.143768,
+            "y": 17.31366,
+            "z": -620.193359
+          },
+          "hasFiredProjectile": true,
+          "hitsData": [
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "inVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "outVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              },
+              "startProjectilePosition": {
+                "x": 112.160652,
+                "y": 17.3136616,
+                "z": -620.2454
+              },
+              "startProjectileVelocity": {
+                "x": 285.251831,
+                "y": 14.08182,
+                "z": 91.83188
+              },
+              "hitPositionWorld": {
+                "x": 129.793884,
+                "y": 18.17478,
+                "z": -614.5687
+              },
+              "hitPointStart": {
+                "x": 121.074768,
+                "y": 17.75372,
+                "z": -617.3757
+              },
+              "hitPointEnd": {
+                "x": 129.793884,
+                "y": 18.17478,
+                "z": -614.5687
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.0,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 129.793884,
+                "y": 18.17478,
+                "z": -614.5687
+              },
+              "travelDistance": 0.0,
+              "delta": 1.0,
+              "lastSegmentPointStart": {
+                "x": 121.074768,
+                "y": 17.75372,
+                "z": -617.3757
+              },
+              "lastSegmentPointEnd": {
+                "x": 129.793884,
+                "y": 18.17478,
+                "z": -614.5687
+              },
+              "reverseLastSegmentPointStart": {
+                "x": 121.074768,
+                "y": 17.75372,
+                "z": -617.3757
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": 112.160652,
+                "y": 17.3136616,
+                "z": -620.2454
+              }
+            },
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 129.793884,
+                  "y": 18.17478,
+                  "z": -614.5687
+                },
+                "inVelocity": {
+                  "x": 279.011719,
+                  "y": 13.473938,
+                  "z": 89.8222656
+                },
+                "outVelocity": {
+                  "x": 279.0122,
+                  "y": 13.473938,
+                  "z": 89.8222656
+                }
+              },
+              "startProjectilePosition": {
+                "x": 129.793884,
+                "y": 18.17478,
+                "z": -614.5687
+              },
+              "startProjectileVelocity": {
+                "x": 279.0122,
+                "y": 13.473938,
+                "z": 89.8222656
+              },
+              "hitPositionWorld": {
+                "x": 131.437042,
+                "y": 18.5043259,
+                "z": -613.8131
+              },
+              "hitPointStart": {
+                "x": 129.793884,
+                "y": 18.17478,
+                "z": -614.5687
+              },
+              "hitPointEnd": {
+                "x": 138.322281,
+                "y": 18.57726,
+                "z": -611.8232
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": false,
+              "isHitPointOnProjectileTrajectory": false,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.215698242,
+              "side": 1,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 519.753845,
+                "y": 49.0021477,
+                "z": -489.033783
+              },
+              "travelDistance": 18.5444717,
+              "delta": 0.0,
+              "lastSegmentPointStart": {
+                "x": 526.9977,
+                "y": -52.79098,
+                "z": -486.697083
+              },
+              "lastSegmentPointEnd": {
+                "x": 527.027954,
+                "y": -53.2163963,
+                "z": -486.687317
+              },
+              "reverseLastSegmentPointStart": {
+                "x": 138.322281,
+                "y": 18.57726,
+                "z": -611.8232
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": 129.793884,
+                "y": 18.17478,
+                "z": -614.5687
+              }
+            }
+          ],
+          "gravityModifier": 1.0,
+          "drag": 0.7,
+          "forgivenessModifier": 1.0,
+          "physicsSteps": 32.0,
+          "attachments": []
+        },
+        "637484754853182590_517": {
+          "projectileID": 517,
+          "violationID": 10,
+          "firedTime": "2021-02-09T13:51:25.20066+03:00",
+          "startProjectilePosition": {
+            "x": -9.024622,
+            "y": 14.8779392,
+            "z": -946.439453
+          },
+          "startProjectileVelocity": {
+            "x": 169.590286,
+            "y": 3.339191,
+            "z": 247.442886
+          },
+          "hitInfoInitiatorPlayerName": "Головач Лена",
+          "hitInfoInitiatorPlayerUserID": "76561198245094338",
+          "hitInfoHitEntityPlayerName": "✪ ZEPETO EVIL BOY",
+          "hitInfoHitEntityPlayerUserID": "76561198522854023",
+          "hitInfoBoneName": "head",
+          "hitInfoHitPositionWorld": {
+            "x": 26.6086769,
+            "y": 15.4748631,
+            "z": -892.940552
+          },
+          "hitInfoProjectileDistance": 64.40446,
+          "hitInfoPointStart": {
+            "x": 25.7255478,
+            "y": 15.3724,
+            "z": -895.736755
+          },
+          "hitInfoPointEnd": {
+            "x": 30.2650833,
+            "y": 15.40034,
+            "z": -889.1133
+          },
+          "hitInfoProjectilePrefabGravityModifier": 1.0,
+          "hitInfoProjectilePrefabDrag": 0.7,
+          "weaponShortName": "pistol.python",
+          "ammoShortName": "ammo.pistol",
+          "bodyPart": "head",
+          "damage": 44.0000038,
+          "isEqualFiredProjectileData": true,
+          "isPlayerPositionToProjectileStartPositionDistanceViolation": false,
+          "distanceDifferenceViolation": 0.0,
+          "calculatedTravelDistance": 859.688049,
+          "isAttackerMount": false,
+          "isTargetMount": false,
+          "attackerMountParentName": "",
+          "targetMountParentName": "",
+          "firedProjectileFiredTime": 19025.0938,
+          "firedProjectileTravelTime": 0.230168909,
+          "firedProjectilePosition": {
+            "x": 26.6092415,
+            "y": 15.4748669,
+            "z": -892.9397
+          },
+          "firedProjectileVelocity": {
+            "x": 145.265167,
+            "y": 0.894073069,
+            "z": 211.951019
+          },
+          "firedProjectileInitialPosition": {
+            "x": -9.024622,
+            "y": 14.8779392,
+            "z": -946.439453
+          },
+          "firedProjectileInitialVelocity": {
+            "x": 169.590286,
+            "y": 3.339191,
+            "z": 247.442886
+          },
+          "playerEyesLookAt": {
+            "x": 0.562504947,
+            "y": 0.0105205663,
+            "z": 0.826727
+          },
+          "playerEyesPosition": {
+            "x": -9.024622,
+            "y": 14.8779392,
+            "z": -946.439453
+          },
+          "hasFiredProjectile": true,
+          "hitsData": [
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "inVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "outVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              },
+              "startProjectilePosition": {
+                "x": -9.024622,
+                "y": 14.8779392,
+                "z": -946.439453
+              },
+              "startProjectileVelocity": {
+                "x": 169.590286,
+                "y": 3.339191,
+                "z": 247.442886
+              },
+              "hitPositionWorld": {
+                "x": -3.72519374,
+                "y": 14.9822845,
+                "z": -938.7072
+              },
+              "hitPointStart": {
+                "x": -9.024622,
+                "y": 14.8779392,
+                "z": -946.439453
+              },
+              "hitPointEnd": {
+                "x": -3.72492552,
+                "y": 14.9822893,
+                "z": -938.706848
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 6.10351563E-05,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": -3.72518253,
+                "y": 14.9822845,
+                "z": -938.7072
+              },
+              "travelDistance": 0.0,
+              "delta": 1.0,
+              "lastSegmentPointStart": {
+                "x": -9.024622,
+                "y": 14.8779392,
+                "z": -946.439453
+              },
+              "lastSegmentPointEnd": {
+                "x": -3.72492552,
+                "y": 14.9822893,
+                "z": -938.706848
+              },
+              "reverseLastSegmentPointStart": {
+                "x": -3.72492552,
+                "y": 14.9822893,
+                "z": -938.706848
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": -9.024622,
+                "y": 14.8779392,
+                "z": -946.439453
+              }
+            },
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": -3.72519374,
+                  "y": 14.9822845,
+                  "z": -938.7072
+                },
+                "inVelocity": {
+                  "x": 165.8805,
+                  "y": 2.966278,
+                  "z": 242.0293
+                },
+                "outVelocity": {
+                  "x": 169.5903,
+                  "y": 3.339203,
+                  "z": 247.443359
+                }
+              },
+              "startProjectilePosition": {
+                "x": -3.72519374,
+                "y": 14.9822845,
+                "z": -938.7072
+              },
+              "startProjectileVelocity": {
+                "x": 169.5903,
+                "y": 3.339203,
+                "z": 247.443359
+              },
+              "hitPositionWorld": {
+                "x": 26.6086769,
+                "y": 15.4748631,
+                "z": -892.940552
+              },
+              "hitPointStart": {
+                "x": 25.7255478,
+                "y": 15.3724,
+                "z": -895.736755
+              },
+              "hitPointEnd": {
+                "x": 30.2650833,
+                "y": 15.40034,
+                "z": -889.1133
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": false,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.8522339,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "travelDistance": 9.374558,
+              "delta": -0.0223294627,
+              "lastSegmentPointStart": {
+                "x": 237.586487,
+                "y": -70.41368,
+                "z": -586.6183
+              },
+              "lastSegmentPointEnd": {
+                "x": 237.6049,
+                "y": -70.8401947,
+                "z": -586.591431
+              },
+              "reverseLastSegmentPointStart": {
+                "x": 1.4588418,
+                "y": 15.0749855,
+                "z": -931.143433
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": -3.724924,
+                "y": 14.9822893,
+                "z": -938.7069
+              }
+            }
+          ],
+          "gravityModifier": 1.0,
+          "drag": 0.7,
+          "forgivenessModifier": 1.0,
+          "physicsSteps": 32.0,
+          "attachments": []
+        },
+        "637484761489322420_619": {
+          "projectileID": 619,
+          "violationID": 11,
+          "firedTime": "2021-02-09T14:02:28.930213+03:00",
+          "startProjectilePosition": {
+            "x": -13.2418261,
+            "y": 15.4701,
+            "z": -990.1828
+          },
+          "startProjectileVelocity": {
+            "x": 38.41255,
+            "y": 14.7083569,
+            "z": -297.16687
+          },
+          "hitInfoInitiatorPlayerName": "Головач Лена",
+          "hitInfoInitiatorPlayerUserID": "76561198245094338",
+          "hitInfoHitEntityPlayerName": "kotikinarkotiki",
+          "hitInfoHitEntityPlayerUserID": "76561199098880443",
+          "hitInfoBoneName": "chest",
+          "hitInfoHitPositionWorld": {
+            "x": -8.755938,
+            "y": 16.6939621,
+            "z": -1024.99829
+          },
+          "hitInfoProjectileDistance": 35.1356735,
+          "hitInfoPointStart": {
+            "x": -9.718851,
+            "y": 16.7911587,
+            "z": -1017.43719
+          },
+          "hitInfoPointEnd": {
+            "x": -8.595524,
+            "y": 17.1937847,
+            "z": -1026.12744
+          },
+          "hitInfoProjectilePrefabGravityModifier": 1.0,
+          "hitInfoProjectilePrefabDrag": 0.7,
+          "weaponShortName": "pistol.python",
+          "ammoShortName": "ammo.pistol",
+          "bodyPart": "chest",
+          "damage": 47.53769,
+          "isEqualFiredProjectileData": true,
+          "isPlayerPositionToProjectileStartPositionDistanceViolation": false,
+          "distanceDifferenceViolation": 0.0,
+          "calculatedTravelDistance": 901.096,
+          "isAttackerMount": false,
+          "isTargetMount": false,
+          "attackerMountParentName": "",
+          "targetMountParentName": "",
+          "firedProjectileFiredTime": 19688.8223,
+          "firedProjectileTravelTime": 0.120906428,
+          "firedProjectilePosition": {
+            "x": -8.75581,
+            "y": 16.6940079,
+            "z": -1024.99927
+          },
+          "firedProjectileVelocity": {
+            "x": 35.9464722,
+            "y": 12.8840485,
+            "z": -278.0888
+          },
+          "firedProjectileInitialPosition": {
+            "x": -13.2418261,
+            "y": 15.4701,
+            "z": -990.1828
+          },
+          "firedProjectileInitialVelocity": {
+            "x": 38.41255,
+            "y": 14.7083588,
+            "z": -297.1669
+          },
+          "playerEyesLookAt": {
+            "x": 0.115571618,
+            "y": 0.04561302,
+            "z": -0.9922512
+          },
+          "playerEyesPosition": {
+            "x": -13.2418261,
+            "y": 15.4700909,
+            "z": -990.1828
+          },
+          "hasFiredProjectile": true,
+          "hitsData": [
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "inVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "outVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              },
+              "startProjectilePosition": {
+                "x": -13.2418261,
+                "y": 15.4701,
+                "z": -990.1828
+              },
+              "startProjectileVelocity": {
+                "x": 38.41255,
+                "y": 14.7083569,
+                "z": -297.16687
+              },
+              "hitPositionWorld": {
+                "x": -12.0411854,
+                "y": 15.92983,
+                "z": -999.4711
+              },
+              "hitPointStart": {
+                "x": -12.0414333,
+                "y": 15.9297361,
+                "z": -999.469238
+              },
+              "hitPointEnd": {
+                "x": -10.8673,
+                "y": 16.3699474,
+                "z": -1008.55255
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.0,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": -12.0411882,
+                "y": 15.9298277,
+                "z": -999.4711
+              },
+              "travelDistance": 0.0,
+              "delta": 1.0,
+              "lastSegmentPointStart": {
+                "x": -12.0414333,
+                "y": 15.9297361,
+                "z": -999.469238
+              },
+              "lastSegmentPointEnd": {
+                "x": -10.8673,
+                "y": 16.3699474,
+                "z": -1008.55255
+              },
+              "reverseLastSegmentPointStart": {
+                "x": -12.0414333,
+                "y": 15.9297361,
+                "z": -999.469238
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": -13.2418251,
+                "y": 15.4700994,
+                "z": -990.1828
+              }
+            },
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": -12.0411854,
+                  "y": 15.92983,
+                  "z": -999.4711
+                },
+                "inVelocity": {
+                  "x": 37.5722656,
+                  "y": 14.0867615,
+                  "z": -290.666016
+                },
+                "outVelocity": {
+                  "x": 38.4125671,
+                  "y": 14.7083435,
+                  "z": -297.166016
+                }
+              },
+              "startProjectilePosition": {
+                "x": -12.0411854,
+                "y": 15.92983,
+                "z": -999.4711
+              },
+              "startProjectileVelocity": {
+                "x": 38.4125671,
+                "y": 14.7083435,
+                "z": -297.166016
+              },
+              "hitPositionWorld": {
+                "x": -8.755938,
+                "y": 16.6939621,
+                "z": -1024.99829
+              },
+              "hitPointStart": {
+                "x": -9.718851,
+                "y": 16.7911587,
+                "z": -1017.43719
+              },
+              "hitPointEnd": {
+                "x": -8.595524,
+                "y": 17.1937847,
+                "z": -1026.12744
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": false,
+              "isHitPointOnProjectileTrajectory": false,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.0143432617,
+              "side": 1,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 42.859417,
+                "y": 47.4511757,
+                "z": -1424.20532
+              },
+              "travelDistance": 9.37691,
+              "delta": 0.9997916,
+              "lastSegmentPointStart": {
+                "x": 43.84337,
+                "y": -52.8190727,
+                "z": -1431.80347
+              },
+              "lastSegmentPointEnd": {
+                "x": 43.84754,
+                "y": -53.2443542,
+                "z": -1431.83569
+              },
+              "reverseLastSegmentPointStart": {
+                "x": -10.867301,
+                "y": 16.3699474,
+                "z": -1008.55261
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": -12.0414352,
+                "y": 15.9297371,
+                "z": -999.4693
+              }
+            }
+          ],
+          "gravityModifier": 1.0,
+          "drag": 0.7,
+          "forgivenessModifier": 1.0,
+          "physicsSteps": 32.0,
+          "attachments": [
+            "weapon.mod.simplesight"
+          ]
+        },
+        "637484761495525160_620": {
+          "projectileID": 620,
+          "violationID": 12,
+          "firedTime": "2021-02-09T14:02:29.551348+03:00",
+          "startProjectilePosition": {
+            "x": -13.3472185,
+            "y": 15.4700918,
+            "z": -990.1962
+          },
+          "startProjectileVelocity": {
+            "x": 41.44225,
+            "y": 11.6446495,
+            "z": -296.8955
+          },
+          "hitInfoInitiatorPlayerName": "Головач Лена",
+          "hitInfoInitiatorPlayerUserID": "76561198245094338",
+          "hitInfoHitEntityPlayerName": "kotikinarkotiki",
+          "hitInfoHitEntityPlayerUserID": "76561199098880443",
+          "hitInfoBoneName": "head",
+          "hitInfoHitPositionWorld": {
+            "x": -8.629763,
+            "y": 16.03528,
+            "z": -1025.33569
+          },
+          "hitInfoProjectileDistance": 35.4902153,
+          "hitInfoPointStart": {
+            "x": -9.546376,
+            "y": 16.5101643,
+            "z": -1017.42578
+          },
+          "hitInfoPointEnd": {
+            "x": -8.334449,
+            "y": 16.8231964,
+            "z": -1026.10815
+          },
+          "hitInfoProjectilePrefabGravityModifier": 1.0,
+          "hitInfoProjectilePrefabDrag": 0.7,
+          "weaponShortName": "pistol.python",
+          "ammoShortName": "ammo.pistol",
+          "bodyPart": "head",
+          "damage": 47.4401932,
+          "isEqualFiredProjectileData": true,
+          "isPlayerPositionToProjectileStartPositionDistanceViolation": false,
+          "distanceDifferenceViolation": 0.0,
+          "calculatedTravelDistance": 883.652832,
+          "isAttackerMount": false,
+          "isTargetMount": false,
+          "attackerMountParentName": "",
+          "targetMountParentName": "",
+          "firedProjectileFiredTime": 19689.4434,
+          "firedProjectileTravelTime": 0.12216755,
+          "firedProjectilePosition": {
+            "x": -8.629624,
+            "y": 16.0353165,
+            "z": -1025.33667
+          },
+          "firedProjectileVelocity": {
+            "x": 38.78167,
+            "y": 10.0170307,
+            "z": -277.8349
+          },
+          "firedProjectileInitialPosition": {
+            "x": -13.3472185,
+            "y": 15.4700918,
+            "z": -990.1962
+          },
+          "firedProjectileInitialVelocity": {
+            "x": 41.4422569,
+            "y": 11.6446514,
+            "z": -296.895569
+          },
+          "playerEyesLookAt": {
+            "x": 0.131088629,
+            "y": 0.04601457,
+            "z": -0.990302265
+          },
+          "playerEyesPosition": {
+            "x": -13.3472185,
+            "y": 15.4700909,
+            "z": -990.1962
+          },
+          "hasFiredProjectile": true,
+          "hitsData": [
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "inVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "outVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              },
+              "startProjectilePosition": {
+                "x": -13.3472185,
+                "y": 15.4700918,
+                "z": -990.1962
+              },
+              "startProjectileVelocity": {
+                "x": 41.44225,
+                "y": 11.6446495,
+                "z": -296.8955
+              },
+              "hitPositionWorld": {
+                "x": -12.0524416,
+                "y": 15.8339071,
+                "z": -999.472168
+              },
+              "hitPointStart": {
+                "x": -13.3472185,
+                "y": 15.4700918,
+                "z": -990.1962
+              },
+              "hitPointEnd": {
+                "x": -12.0521479,
+                "y": 15.8339872,
+                "z": -999.474243
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 1.52587891E-05,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": -12.0524378,
+                "y": 15.8339062,
+                "z": -999.472168
+              },
+              "travelDistance": 0.0,
+              "delta": 1.0,
+              "lastSegmentPointStart": {
+                "x": -13.3472185,
+                "y": 15.4700918,
+                "z": -990.1962
+              },
+              "lastSegmentPointEnd": {
+                "x": -12.0521479,
+                "y": 15.8339872,
+                "z": -999.474243
+              },
+              "reverseLastSegmentPointStart": {
+                "x": -12.0521479,
+                "y": 15.8339872,
+                "z": -999.474243
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": -13.3472185,
+                "y": 15.4700918,
+                "z": -990.1962
+              }
+            },
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": -12.0524416,
+                  "y": 15.8339071,
+                  "z": -999.472168
+                },
+                "inVelocity": {
+                  "x": 40.5357056,
+                  "y": 11.0900574,
+                  "z": -290.4004
+                },
+                "outVelocity": {
+                  "x": 41.44226,
+                  "y": 11.6446533,
+                  "z": -296.896484
+                }
+              },
+              "startProjectilePosition": {
+                "x": -12.0524416,
+                "y": 15.8339071,
+                "z": -999.472168
+              },
+              "startProjectileVelocity": {
+                "x": 41.44226,
+                "y": 11.6446533,
+                "z": -296.896484
+              },
+              "hitPositionWorld": {
+                "x": -8.629763,
+                "y": 16.03528,
+                "z": -1025.33569
+              },
+              "hitPointStart": {
+                "x": -9.546376,
+                "y": 16.5101643,
+                "z": -1017.42578
+              },
+              "hitPointEnd": {
+                "x": -8.334449,
+                "y": 16.8231964,
+                "z": -1026.10815
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": false,
+              "isHitPointOnProjectileTrajectory": false,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.1856842,
+              "side": 1,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 45.8186836,
+                "y": 46.0454521,
+                "z": -1414.0719
+              },
+              "travelDistance": 9.372932,
+              "delta": -0.0221805237,
+              "lastSegmentPointStart": {
+                "x": 46.9163742,
+                "y": -57.74409,
+                "z": -1421.93066
+              },
+              "lastSegmentPointEnd": {
+                "x": 46.9208755,
+                "y": -58.1697044,
+                "z": -1421.96289
+              },
+              "reverseLastSegmentPointStart": {
+                "x": -10.785408,
+                "y": 16.1805515,
+                "z": -1008.54926
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": -12.0521488,
+                "y": 15.8339872,
+                "z": -999.4742
+              }
+            }
+          ],
+          "gravityModifier": 1.0,
+          "drag": 0.7,
+          "forgivenessModifier": 1.0,
+          "physicsSteps": 32.0,
+          "attachments": [
+            "weapon.mod.simplesight"
+          ]
+        },
+        "637484771688284310_700": {
+          "projectileID": 700,
+          "violationID": 13,
+          "firedTime": "2021-02-09T14:19:28.715766+03:00",
+          "startProjectilePosition": {
+            "x": 1.234176,
+            "y": 17.4748878,
+            "z": -1062.10925
+          },
+          "startProjectileVelocity": {
+            "x": -181.646286,
+            "y": 22.1887,
+            "z": -237.723129
+          },
+          "hitInfoInitiatorPlayerName": "Головач Лена",
+          "hitInfoInitiatorPlayerUserID": "76561198245094338",
+          "hitInfoHitEntityPlayerName": "ПРИЗРАК#EBIRUST",
+          "hitInfoHitEntityPlayerUserID": "76561199003086675",
+          "hitInfoBoneName": "head",
+          "hitInfoHitPositionWorld": {
+            "x": -32.8078728,
+            "y": 21.2398071,
+            "z": -1107.41553
+          },
+          "hitInfoProjectileDistance": 56.8341141,
+          "hitInfoPointStart": {
+            "x": -31.0153561,
+            "y": 21.2777519,
+            "z": -1104.3147
+          },
+          "hitInfoPointEnd": {
+            "x": -35.9863434,
+            "y": 21.8317375,
+            "z": -1110.82031
+          },
+          "hitInfoProjectilePrefabGravityModifier": 1.0,
+          "hitInfoProjectilePrefabDrag": 0.7,
+          "weaponShortName": "pistol.semiauto",
+          "ammoShortName": "ammo.pistol",
+          "bodyPart": "head",
+          "damage": 32.0000038,
+          "isEqualFiredProjectileData": true,
+          "isPlayerPositionToProjectileStartPositionDistanceViolation": false,
+          "distanceDifferenceViolation": 0.0,
+          "calculatedTravelDistance": 857.8909,
+          "isAttackerMount": false,
+          "isTargetMount": false,
+          "attackerMountParentName": "",
+          "targetMountParentName": "",
+          "firedProjectileFiredTime": 20708.6074,
+          "firedProjectileTravelTime": 0.20114021,
+          "firedProjectilePosition": {
+            "x": -32.80848,
+            "y": 21.2398739,
+            "z": -1107.41626
+          },
+          "firedProjectileVelocity": {
+            "x": -159.0716,
+            "y": 17.7275562,
+            "z": -208.1793
+          },
+          "firedProjectileInitialPosition": {
+            "x": 1.234176,
+            "y": 17.4748878,
+            "z": -1062.10925
+          },
+          "firedProjectileInitialVelocity": {
+            "x": -181.646271,
+            "y": 22.1886978,
+            "z": -237.723114
+          },
+          "playerEyesLookAt": {
+            "x": -0.6100151,
+            "y": 0.07079046,
+            "z": -0.7892215
+          },
+          "playerEyesPosition": {
+            "x": 1.23415267,
+            "y": 17.4720745,
+            "z": -1062.10925
+          },
+          "hasFiredProjectile": true,
+          "hitsData": [
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "inVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "outVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              },
+              "startProjectilePosition": {
+                "x": 1.234176,
+                "y": 17.4748878,
+                "z": -1062.10925
+              },
+              "startProjectileVelocity": {
+                "x": -181.646286,
+                "y": 22.1887,
+                "z": -237.723129
+              },
+              "hitPositionWorld": {
+                "x": -4.44227028,
+                "y": 18.1682854,
+                "z": -1069.53809
+              },
+              "hitPointStart": {
+                "x": 1.234176,
+                "y": 17.4748878,
+                "z": -1062.10925
+              },
+              "hitPointEnd": {
+                "x": -4.44227028,
+                "y": 18.1682854,
+                "z": -1069.53809
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.0,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": -4.44227,
+                "y": 18.1682854,
+                "z": -1069.53809
+              },
+              "travelDistance": 0.0,
+              "delta": 1.0,
+              "lastSegmentPointStart": {
+                "x": 1.234176,
+                "y": 17.4748878,
+                "z": -1062.10925
+              },
+              "lastSegmentPointEnd": {
+                "x": -4.44227028,
+                "y": 18.1682854,
+                "z": -1069.53809
+              },
+              "reverseLastSegmentPointStart": {
+                "x": -4.44227028,
+                "y": 18.1682854,
+                "z": -1069.53809
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": 1.23417616,
+                "y": 17.4748878,
+                "z": -1062.10925
+              }
+            },
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": -4.44227028,
+                  "y": 18.1682854,
+                  "z": -1069.53809
+                },
+                "inVelocity": {
+                  "x": -181.646286,
+                  "y": 22.18872,
+                  "z": -237.722656
+                },
+                "outVelocity": {
+                  "x": -181.646317,
+                  "y": 22.18866,
+                  "z": -237.722656
+                }
+              },
+              "startProjectilePosition": {
+                "x": -4.44227028,
+                "y": 18.1682854,
+                "z": -1069.53809
+              },
+              "startProjectileVelocity": {
+                "x": -181.646317,
+                "y": 22.18866,
+                "z": -237.722656
+              },
+              "hitPositionWorld": {
+                "x": -32.8078728,
+                "y": 21.2398071,
+                "z": -1107.41553
+              },
+              "hitPointStart": {
+                "x": -31.0153561,
+                "y": 21.2777519,
+                "z": -1104.3147
+              },
+              "hitPointEnd": {
+                "x": -35.9863434,
+                "y": 21.8317375,
+                "z": -1110.82031
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": false,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.458374023,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "travelDistance": 9.374989,
+              "delta": 1.110223E-16,
+              "lastSegmentPointStart": {
+                "x": -263.035278,
+                "y": -40.39115,
+                "z": -1407.96265
+              },
+              "lastSegmentPointEnd": {
+                "x": -263.055,
+                "y": -40.81562,
+                "z": -1407.9884
+              },
+              "reverseLastSegmentPointStart": {
+                "x": -9.994539,
+                "y": 18.8371468,
+                "z": -1076.80444
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": -4.44226456,
+                "y": 18.16829,
+                "z": -1069.53809
+              }
+            }
+          ],
+          "gravityModifier": 1.0,
+          "drag": 0.7,
+          "forgivenessModifier": 1.0,
+          "physicsSteps": 32.0,
+          "attachments": []
+        },
+        "637484771958563610_711": {
+          "projectileID": 711,
+          "violationID": 14,
+          "firedTime": "2021-02-09T14:19:55.855066+03:00",
+          "startProjectilePosition": {
+            "x": -44.7033157,
+            "y": 22.155674,
+            "z": -1109.28687
+          },
+          "startProjectileVelocity": {
+            "x": -137.667374,
+            "y": 23.1383839,
+            "z": -265.541534
+          },
+          "hitInfoInitiatorPlayerName": "Головач Лена",
+          "hitInfoInitiatorPlayerUserID": "76561198245094338",
+          "hitInfoHitEntityPlayerName": "ПРИЗРАК#EBIRUST",
+          "hitInfoHitEntityPlayerUserID": "76561199003086675",
+          "hitInfoBoneName": "head",
+          "hitInfoHitPositionWorld": {
+            "x": -59.6157951,
+            "y": 24.26034,
+            "z": -1136.95923
+          },
+          "hitInfoProjectileDistance": 31.5420055,
+          "hitInfoPointStart": {
+            "x": -57.3293648,
+            "y": 24.2498856,
+            "z": -1133.64087
+          },
+          "hitInfoPointEnd": {
+            "x": -61.355278,
+            "y": 24.8990383,
+            "z": -1141.40625
+          },
+          "hitInfoProjectilePrefabGravityModifier": 1.0,
+          "hitInfoProjectilePrefabDrag": 0.7,
+          "weaponShortName": "pistol.semiauto",
+          "ammoShortName": "ammo.pistol",
+          "bodyPart": "head",
+          "damage": 32.0000038,
+          "isEqualFiredProjectileData": true,
+          "isPlayerPositionToProjectileStartPositionDistanceViolation": false,
+          "distanceDifferenceViolation": 0.0,
+          "calculatedTravelDistance": 1824.13342,
+          "isAttackerMount": false,
+          "isTargetMount": false,
+          "attackerMountParentName": "",
+          "targetMountParentName": "",
+          "firedProjectileFiredTime": 20735.7461,
+          "firedProjectileTravelTime": 0.108107872,
+          "firedProjectilePosition": {
+            "x": -59.6162529,
+            "y": 24.2604141,
+            "z": -1136.96008
+          },
+          "firedProjectileVelocity": {
+            "x": -128.829147,
+            "y": 20.77287,
+            "z": -248.49382
+          },
+          "firedProjectileInitialPosition": {
+            "x": -44.7033157,
+            "y": 22.155674,
+            "z": -1109.28687
+          },
+          "firedProjectileInitialVelocity": {
+            "x": -137.667389,
+            "y": 23.1383877,
+            "z": -265.541565
+          },
+          "playerEyesLookAt": {
+            "x": -0.451660454,
+            "y": 0.07590265,
+            "z": -0.8889554
+          },
+          "playerEyesPosition": {
+            "x": -44.562233,
+            "y": 22.1471615,
+            "z": -1109.35913
+          },
+          "hasFiredProjectile": true,
+          "hitsData": [
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "inVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "outVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              },
+              "startProjectilePosition": {
+                "x": -44.7033157,
+                "y": 22.155674,
+                "z": -1109.28687
+              },
+              "startProjectileVelocity": {
+                "x": -137.667374,
+                "y": 23.1383839,
+                "z": -265.541534
+              },
+              "hitPositionWorld": {
+                "x": -53.2134171,
+                "y": 23.5766354,
+                "z": -1125.70178
+              },
+              "hitPointStart": {
+                "x": -240.687576,
+                "y": -35.0517273,
+                "z": -1487.3136
+              },
+              "hitPointEnd": {
+                "x": -240.70253,
+                "y": -35.4760933,
+                "z": -1487.34241
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": false,
+              "isHitPointOnProjectileTrajectory": false,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": false,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 3.05175781E-05,
+              "side": 1,
+              "pointProjectedOnLastSegmentLine": {
+                "x": -237.542252,
+                "y": 54.2090149,
+                "z": -1481.254
+              },
+              "travelDistance": 0.0,
+              "delta": 1.0,
+              "lastSegmentPointStart": {
+                "x": -240.687576,
+                "y": -35.0517273,
+                "z": -1487.3136
+              },
+              "lastSegmentPointEnd": {
+                "x": -240.70253,
+                "y": -35.4760933,
+                "z": -1487.34241
+              },
+              "reverseLastSegmentPointStart": {
+                "x": -48.95561,
+                "y": 22.90178,
+                "z": -1117.93579
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": -44.6523781,
+                "y": 22.179224,
+                "z": -1109.64551
+              }
+            },
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": -53.2134171,
+                  "y": 23.5766354,
+                  "z": -1125.70178
+                },
+                "inVelocity": {
+                  "x": -134.655884,
+                  "y": 22.3323975,
+                  "z": -259.734375
+                },
+                "outVelocity": {
+                  "x": -134.656,
+                  "y": 22.3323975,
+                  "z": -259.730469
+                }
+              },
+              "startProjectilePosition": {
+                "x": -53.2134171,
+                "y": 23.5766354,
+                "z": -1125.70178
+              },
+              "startProjectileVelocity": {
+                "x": -134.656,
+                "y": 22.3323975,
+                "z": -259.730469
+              },
+              "hitPositionWorld": {
+                "x": -59.6157951,
+                "y": 24.26034,
+                "z": -1136.95923
+              },
+              "hitPointStart": {
+                "x": -57.3293648,
+                "y": 24.2498856,
+                "z": -1133.64087
+              },
+              "hitPointEnd": {
+                "x": -61.355278,
+                "y": 24.8990383,
+                "z": -1141.40625
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": false,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.502502441,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "travelDistance": 876.2821,
+              "delta": -43.8802261,
+              "lastSegmentPointStart": {
+                "x": -60.26264,
+                "y": -65.40161,
+                "z": -1139.29871
+              },
+              "lastSegmentPointEnd": {
+                "x": -60.2772636,
+                "y": -65.8260651,
+                "z": -1139.3269
+              },
+              "reverseLastSegmentPointStart": {
+                "x": -57.3293648,
+                "y": 24.2498856,
+                "z": -1133.64087
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": -53.2134171,
+                "y": 23.5766354,
+                "z": -1125.70178
+              }
+            }
+          ],
+          "gravityModifier": 1.0,
+          "drag": 0.7,
+          "forgivenessModifier": 1.0,
+          "physicsSteps": 32.0,
+          "attachments": []
+        },
+        "637484774768093880_772": {
+          "projectileID": 772,
+          "violationID": 15,
+          "firedTime": "2021-02-09T14:24:36.664163+03:00",
+          "startProjectilePosition": {
+            "x": -61.7647362,
+            "y": 32.6715736,
+            "z": -959.7408
+          },
+          "startProjectileVelocity": {
+            "x": 234.773834,
+            "y": -66.74499,
+            "z": 174.431534
+          },
+          "hitInfoInitiatorPlayerName": "Головач Лена",
+          "hitInfoInitiatorPlayerUserID": "76561198245094338",
+          "hitInfoHitEntityPlayerName": "RaYz1337",
+          "hitInfoHitEntityPlayerUserID": "76561199096155177",
+          "hitInfoBoneName": "head",
+          "hitInfoHitPositionWorld": {
+            "x": -1.94258726,
+            "y": 15.06328,
+            "z": -914.981934
+          },
+          "hitInfoProjectileDistance": 76.76888,
+          "hitInfoPointStart": {
+            "x": -7.373676,
+            "y": 16.9572716,
+            "z": -919.3295
+          },
+          "hitInfoPointEnd": {
+            "x": -1.226798,
+            "y": 15.1402769,
+            "z": -914.7625
+          },
+          "hitInfoProjectilePrefabGravityModifier": 1.0,
+          "hitInfoProjectilePrefabDrag": 0.7,
+          "weaponShortName": "pistol.python",
+          "ammoShortName": "ammo.pistol",
+          "bodyPart": "head",
+          "damage": 44.0000038,
+          "isEqualFiredProjectileData": true,
+          "isPlayerPositionToProjectileStartPositionDistanceViolation": false,
+          "distanceDifferenceViolation": 0.0,
+          "calculatedTravelDistance": 898.1855,
+          "isAttackerMount": false,
+          "isTargetMount": false,
+          "attackerMountParentName": "",
+          "targetMountParentName": "",
+          "firedProjectileFiredTime": 21016.5547,
+          "firedProjectileTravelTime": 0.27862817,
+          "firedProjectilePosition": {
+            "x": -1.9418062,
+            "y": 15.0630493,
+            "z": -914.9813
+          },
+          "firedProjectileVelocity": {
+            "x": 196.700089,
+            "y": -58.14384,
+            "z": 146.143631
+          },
+          "firedProjectileInitialPosition": {
+            "x": -61.7647362,
+            "y": 32.6715736,
+            "z": -959.7408
+          },
+          "firedProjectileInitialVelocity": {
+            "x": 234.773834,
+            "y": -66.74499,
+            "z": 174.431534
+          },
+          "playerEyesLookAt": {
+            "x": 0.7803574,
+            "y": -0.220532775,
+            "z": 0.585156143
+          },
+          "playerEyesPosition": {
+            "x": -61.7647362,
+            "y": 32.65833,
+            "z": -959.7408
+          },
+          "hasFiredProjectile": true,
+          "hitsData": [
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "inVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "outVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              },
+              "startProjectilePosition": {
+                "x": -61.7647362,
+                "y": 32.6715736,
+                "z": -959.7408
+              },
+              "startProjectileVelocity": {
+                "x": 234.773834,
+                "y": -66.74499,
+                "z": 174.431534
+              },
+              "hitPositionWorld": {
+                "x": -54.40192,
+                "y": 30.57833,
+                "z": -954.2704
+              },
+              "hitPointStart": {
+                "x": -54.4280548,
+                "y": 30.5857925,
+                "z": -954.2898
+              },
+              "hitPointEnd": {
+                "x": -47.25186,
+                "y": 28.5362682,
+                "z": -948.958069
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 6.10351563E-05,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": -54.4019241,
+                "y": 30.57833,
+                "z": -954.2704
+              },
+              "travelDistance": 0.0,
+              "delta": 1.0,
+              "lastSegmentPointStart": {
+                "x": -54.4280548,
+                "y": 30.5857925,
+                "z": -954.2898
+              },
+              "lastSegmentPointEnd": {
+                "x": -47.25186,
+                "y": 28.5362682,
+                "z": -948.958069
+              },
+              "reverseLastSegmentPointStart": {
+                "x": -54.4280548,
+                "y": 30.5857925,
+                "z": -954.2898
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": -61.76474,
+                "y": 32.6715736,
+                "z": -959.7408
+              }
+            },
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": -54.40192,
+                  "y": 30.57833,
+                  "z": -954.2704
+                },
+                "inVelocity": {
+                  "x": 229.638184,
+                  "y": -65.58478,
+                  "z": 170.615234
+                },
+                "outVelocity": {
+                  "x": 234.773926,
+                  "y": -66.7449951,
+                  "z": 174.4336
+                }
+              },
+              "startProjectilePosition": {
+                "x": -54.40192,
+                "y": 30.57833,
+                "z": -954.2704
+              },
+              "startProjectileVelocity": {
+                "x": 234.773926,
+                "y": -66.7449951,
+                "z": 174.4336
+              },
+              "hitPositionWorld": {
+                "x": -1.94258726,
+                "y": 15.06328,
+                "z": -914.981934
+              },
+              "hitPointStart": {
+                "x": -7.373676,
+                "y": 16.9572716,
+                "z": -919.3295
+              },
+              "hitPointEnd": {
+                "x": -1.226798,
+                "y": 15.1402769,
+                "z": -914.7625
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": false,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.2503662,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "travelDistance": 9.408398,
+              "delta": 0.9963587,
+              "lastSegmentPointStart": {
+                "x": 287.133972,
+                "y": -156.666016,
+                "z": -700.5136
+              },
+              "lastSegmentPointEnd": {
+                "x": 287.159454,
+                "y": -157.100143,
+                "z": -700.4947
+              },
+              "reverseLastSegmentPointStart": {
+                "x": -47.2518654,
+                "y": 28.5362682,
+                "z": -948.958252
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": -54.42806,
+                "y": 30.5857925,
+                "z": -954.290039
+              }
+            }
+          ],
+          "gravityModifier": 1.0,
+          "drag": 0.7,
+          "forgivenessModifier": 1.0,
+          "physicsSteps": 32.0,
+          "attachments": [
+            "weapon.mod.simplesight"
+          ]
+        },
+        "637484780339391610_812": {
+          "projectileID": 812,
+          "violationID": 16,
+          "firedTime": "2021-02-09T14:33:53.759535+03:00",
+          "startProjectilePosition": {
+            "x": 585.632568,
+            "y": 105.141182,
+            "z": -739.488
+          },
+          "startProjectileVelocity": {
+            "x": -41.8887825,
+            "y": -4.046969,
+            "z": 297.0336
+          },
+          "hitInfoInitiatorPlayerName": "Головач Лена",
+          "hitInfoInitiatorPlayerUserID": "76561198245094338",
+          "hitInfoHitEntityPlayerName": "[FREAK] #ЖИРНЫЙ RUST !!!ГУСЬ!!",
+          "hitInfoHitEntityPlayerUserID": "76561199096851185",
+          "hitInfoBoneName": "head",
+          "hitInfoHitPositionWorld": {
+            "x": 572.9836,
+            "y": 103.054291,
+            "z": -655.1169
+          },
+          "hitInfoProjectileDistance": 85.39032,
+          "hitInfoPointStart": {
+            "x": 574.831238,
+            "y": 103.77697,
+            "z": -662.896057
+          },
+          "hitInfoPointEnd": {
+            "x": 573.7585,
+            "y": 103.596008,
+            "z": -655.2892
+          },
+          "hitInfoProjectilePrefabGravityModifier": 1.0,
+          "hitInfoProjectilePrefabDrag": 0.7,
+          "weaponShortName": "pistol.python",
+          "ammoShortName": "ammo.pistol",
+          "bodyPart": "head",
+          "damage": 44.0000038,
+          "isEqualFiredProjectileData": true,
+          "isPlayerPositionToProjectileStartPositionDistanceViolation": false,
+          "distanceDifferenceViolation": 0.0,
+          "calculatedTravelDistance": 861.004333,
+          "isAttackerMount": false,
+          "isTargetMount": false,
+          "attackerMountParentName": "",
+          "targetMountParentName": "",
+          "firedProjectileFiredTime": 21573.65,
+          "firedProjectileTravelTime": 0.3138984,
+          "firedProjectilePosition": {
+            "x": 572.983459,
+            "y": 103.054268,
+            "z": -655.1159
+          },
+          "firedProjectileVelocity": {
+            "x": -34.327877,
+            "y": -5.79072857,
+            "z": 243.419144
+          },
+          "firedProjectileInitialPosition": {
+            "x": 585.632568,
+            "y": 105.141182,
+            "z": -739.488
+          },
+          "firedProjectileInitialVelocity": {
+            "x": -41.88878,
+            "y": -4.04696846,
+            "z": 297.033569
+          },
+          "playerEyesLookAt": {
+            "x": -0.1457713,
+            "y": -0.0184970777,
+            "z": 0.9891454
+          },
+          "playerEyesPosition": {
+            "x": 585.632568,
+            "y": 105.141418,
+            "z": -739.488
+          },
+          "hasFiredProjectile": true,
+          "hitsData": [
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "inVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "outVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              },
+              "startProjectilePosition": {
+                "x": 585.632568,
+                "y": 105.141182,
+                "z": -739.488
+              },
+              "startProjectileVelocity": {
+                "x": -41.8887825,
+                "y": -4.046969,
+                "z": 297.0336
+              },
+              "hitPositionWorld": {
+                "x": 584.323,
+                "y": 105.014656,
+                "z": -730.2016
+              },
+              "hitPointStart": {
+                "x": 584.323547,
+                "y": 105.014717,
+                "z": -730.2057
+              },
+              "hitPointEnd": {
+                "x": 583.043152,
+                "y": 104.881645,
+                "z": -721.126465
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 3.05175781E-05,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 584.323,
+                "y": 105.014656,
+                "z": -730.2016
+              },
+              "travelDistance": 0.0,
+              "delta": 1.0,
+              "lastSegmentPointStart": {
+                "x": 584.323547,
+                "y": 105.014717,
+                "z": -730.2057
+              },
+              "lastSegmentPointEnd": {
+                "x": 583.043152,
+                "y": 104.881645,
+                "z": -721.126465
+              },
+              "reverseLastSegmentPointStart": {
+                "x": 584.323547,
+                "y": 105.014717,
+                "z": -730.2057
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": 585.632568,
+                "y": 105.141182,
+                "z": -739.488
+              }
+            },
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 584.323,
+                  "y": 105.014656,
+                  "z": -730.2016
+                },
+                "inVelocity": {
+                  "x": -40.9726563,
+                  "y": -4.258301,
+                  "z": 290.535156
+                },
+                "outVelocity": {
+                  "x": -41.88867,
+                  "y": -4.047119,
+                  "z": 297.035156
+                }
+              },
+              "startProjectilePosition": {
+                "x": 584.323,
+                "y": 105.014656,
+                "z": -730.2016
+              },
+              "startProjectileVelocity": {
+                "x": -41.88867,
+                "y": -4.047119,
+                "z": 297.035156
+              },
+              "hitPositionWorld": {
+                "x": 572.9836,
+                "y": 103.054291,
+                "z": -655.1169
+              },
+              "hitPointStart": {
+                "x": 574.831238,
+                "y": 103.77697,
+                "z": -662.896057
+              },
+              "hitPointEnd": {
+                "x": 573.7585,
+                "y": 103.596008,
+                "z": -655.2892
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": false,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.7434082,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "travelDistance": 9.379127,
+              "delta": 0.99955,
+              "lastSegmentPointStart": {
+                "x": 523.3814,
+                "y": 8.97939,
+                "z": -298.0622
+              },
+              "lastSegmentPointEnd": {
+                "x": 523.376831,
+                "y": 8.552073,
+                "z": -298.029938
+              },
+              "reverseLastSegmentPointStart": {
+                "x": 583.043152,
+                "y": 104.881645,
+                "z": -721.1267
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": 584.323547,
+                "y": 105.014717,
+                "z": -730.206
+              }
+            }
+          ],
+          "gravityModifier": 1.0,
+          "drag": 0.7,
+          "forgivenessModifier": 1.0,
+          "physicsSteps": 32.0,
+          "attachments": [
+            "weapon.mod.simplesight"
+          ]
+        },
+        "637484780523826440_814": {
+          "projectileID": 814,
+          "violationID": 17,
+          "firedTime": "2021-02-09T14:34:11.892267+03:00",
+          "startProjectilePosition": {
+            "x": 575.194336,
+            "y": 104.979706,
+            "z": -741.7403
+          },
+          "startProjectileVelocity": {
+            "x": -218.787323,
+            "y": 1.36801374,
+            "z": 205.256516
+          },
+          "hitInfoInitiatorPlayerName": "Головач Лена",
+          "hitInfoInitiatorPlayerUserID": "76561198245094338",
+          "hitInfoHitEntityPlayerName": "[FREAK] [MERC]Kepchuk realy #NoN",
+          "hitInfoHitEntityPlayerUserID": "76561199022824605",
+          "hitInfoBoneName": "chest",
+          "hitInfoHitPositionWorld": {
+            "x": 466.54248,
+            "y": 103.369873,
+            "z": -640.3058
+          },
+          "hitInfoProjectileDistance": 148.8991,
+          "hitInfoPointStart": {
+            "x": 467.954224,
+            "y": 104.230225,
+            "z": -641.1326
+          },
+          "hitInfoPointEnd": {
+            "x": 463.462982,
+            "y": 104.111328,
+            "z": -636.9192
+          },
+          "hitInfoProjectilePrefabGravityModifier": 1.0,
+          "hitInfoProjectilePrefabDrag": 0.7,
+          "weaponShortName": "pistol.python",
+          "ammoShortName": "ammo.pistol",
+          "bodyPart": "chest",
+          "damage": 44.0000038,
+          "isEqualFiredProjectileData": true,
+          "isPlayerPositionToProjectileStartPositionDistanceViolation": false,
+          "distanceDifferenceViolation": 0.0,
+          "calculatedTravelDistance": 778.525269,
+          "isAttackerMount": false,
+          "isTargetMount": false,
+          "attackerMountParentName": "",
+          "targetMountParentName": "",
+          "firedProjectileFiredTime": 21591.7832,
+          "firedProjectileTravelTime": 0.603127837,
+          "firedProjectilePosition": {
+            "x": 466.541748,
+            "y": 103.36985,
+            "z": -640.3051
+          },
+          "firedProjectileVelocity": {
+            "x": -143.719254,
+            "y": -3.80461812,
+            "z": 134.831
+          },
+          "firedProjectileInitialPosition": {
+            "x": 575.194336,
+            "y": 104.979706,
+            "z": -741.7403
+          },
+          "firedProjectileInitialVelocity": {
+            "x": -218.787323,
+            "y": 1.36801374,
+            "z": 205.256516
+          },
+          "playerEyesLookAt": {
+            "x": -0.7287989,
+            "y": -0.00195073,
+            "z": 0.684725
+          },
+          "playerEyesPosition": {
+            "x": 575.194336,
+            "y": 104.979706,
+            "z": -741.7403
+          },
+          "hasFiredProjectile": true,
+          "hitsData": [
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "inVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "outVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              },
+              "startProjectilePosition": {
+                "x": 575.194336,
+                "y": 104.979706,
+                "z": -741.7403
+              },
+              "startProjectileVelocity": {
+                "x": -218.787323,
+                "y": 1.36801374,
+                "z": 205.256516
+              },
+              "hitPositionWorld": {
+                "x": 568.403748,
+                "y": 105.022224,
+                "z": -735.3697
+              },
+              "hitPointStart": {
+                "x": 575.194336,
+                "y": 104.979706,
+                "z": -741.7403
+              },
+              "hitPointEnd": {
+                "x": 568.357239,
+                "y": 105.022453,
+                "z": -735.32605
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 1.52587891E-05,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 568.403748,
+                "y": 105.022163,
+                "z": -735.3697
+              },
+              "travelDistance": 0.0,
+              "delta": 1.0,
+              "lastSegmentPointStart": {
+                "x": 575.194336,
+                "y": 104.979706,
+                "z": -741.7403
+              },
+              "lastSegmentPointEnd": {
+                "x": 568.357239,
+                "y": 105.022453,
+                "z": -735.32605
+              },
+              "reverseLastSegmentPointStart": {
+                "x": 568.357239,
+                "y": 105.022453,
+                "z": -735.32605
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": 575.194336,
+                "y": 104.979706,
+                "z": -741.7403
+              }
+            },
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 568.403748,
+                  "y": 105.022224,
+                  "z": -735.3697
+                },
+                "inVelocity": {
+                  "x": -214.001953,
+                  "y": 1.03833008,
+                  "z": 200.765625
+                },
+                "outVelocity": {
+                  "x": -218.789063,
+                  "y": 1.36791992,
+                  "z": 205.255859
+                }
+              },
+              "startProjectilePosition": {
+                "x": 568.403748,
+                "y": 105.022224,
+                "z": -735.3697
+              },
+              "startProjectileVelocity": {
+                "x": -218.789063,
+                "y": 1.36791992,
+                "z": 205.255859
+              },
+              "hitPositionWorld": {
+                "x": 466.54248,
+                "y": 103.369873,
+                "z": -640.3058
+              },
+              "hitPointStart": {
+                "x": 467.954224,
+                "y": 104.230225,
+                "z": -641.1326
+              },
+              "hitPointEnd": {
+                "x": 463.462982,
+                "y": 104.111328,
+                "z": -636.9192
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": false,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.3622589,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "travelDistance": 9.311204,
+              "delta": -0.0154119767,
+              "lastSegmentPointStart": {
+                "x": 257.0396,
+                "y": 16.8215828,
+                "z": -443.2648
+              },
+              "lastSegmentPointEnd": {
+                "x": 257.015839,
+                "y": 16.3948536,
+                "z": -443.242523
+              },
+              "reverseLastSegmentPointStart": {
+                "x": 561.67,
+                "y": 105.054955,
+                "z": -729.0517
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": 568.357544,
+                "y": 105.022514,
+                "z": -735.3256
+              }
+            }
+          ],
+          "gravityModifier": 1.0,
+          "drag": 0.7,
+          "forgivenessModifier": 1.0,
+          "physicsSteps": 32.0,
+          "attachments": [
+            "weapon.mod.simplesight"
+          ]
+        },
+        "637484780989757610_833": {
+          "projectileID": 833,
+          "violationID": 18,
+          "firedTime": "2021-02-09T14:34:58.468123+03:00",
+          "startProjectilePosition": {
+            "x": 585.630066,
+            "y": 105.0624,
+            "z": -735.8103
+          },
+          "startProjectileVelocity": {
+            "x": -266.858032,
+            "y": -0.9740356,
+            "z": 137.061417
+          },
+          "hitInfoInitiatorPlayerName": "Головач Лена",
+          "hitInfoInitiatorPlayerUserID": "76561198245094338",
+          "hitInfoHitEntityPlayerName": "[TR] Sorabi.Barbarik#M.A.M.A",
+          "hitInfoHitEntityPlayerUserID": "76561198193127309",
+          "hitInfoBoneName": "head",
+          "hitInfoHitPositionWorld": {
+            "x": 444.050385,
+            "y": 102.808685,
+            "z": -663.3481
+          },
+          "hitInfoProjectileDistance": 159.070953,
+          "hitInfoPointStart": {
+            "x": 449.34967,
+            "y": 102.997955,
+            "z": -665.815
+          },
+          "hitInfoPointEnd": {
+            "x": 443.9915,
+            "y": 102.825264,
+            "z": -663.063
+          },
+          "hitInfoProjectilePrefabGravityModifier": 1.0,
+          "hitInfoProjectilePrefabDrag": 0.7,
+          "weaponShortName": "pistol.python",
+          "ammoShortName": "ammo.pistol",
+          "bodyPart": "head",
+          "damage": 44.0000038,
+          "isEqualFiredProjectileData": true,
+          "isPlayerPositionToProjectileStartPositionDistanceViolation": false,
+          "distanceDifferenceViolation": 0.0,
+          "calculatedTravelDistance": 769.9132,
+          "isAttackerMount": false,
+          "isTargetMount": false,
+          "attackerMountParentName": "",
+          "targetMountParentName": "",
+          "firedProjectileFiredTime": 21638.36,
+          "firedProjectileTravelTime": 0.655329347,
+          "firedProjectilePosition": {
+            "x": 444.0495,
+            "y": 102.808655,
+            "z": -663.347656
+          },
+          "firedProjectileVelocity": {
+            "x": -171.461884,
+            "y": -5.52606344,
+            "z": 88.06482
+          },
+          "firedProjectileInitialPosition": {
+            "x": 585.630066,
+            "y": 105.0624,
+            "z": -735.8103
+          },
+          "firedProjectileInitialVelocity": {
+            "x": -266.858063,
+            "y": -0.9740357,
+            "z": 137.061432
+          },
+          "playerEyesLookAt": {
+            "x": -0.889846861,
+            "y": -0.007044765,
+            "z": 0.456205
+          },
+          "playerEyesPosition": {
+            "x": 585.630066,
+            "y": 105.0624,
+            "z": -735.8103
+          },
+          "hasFiredProjectile": true,
+          "hitsData": [
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "inVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "outVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              },
+              "startProjectilePosition": {
+                "x": 585.630066,
+                "y": 105.0624,
+                "z": -735.8103
+              },
+              "startProjectileVelocity": {
+                "x": -266.858032,
+                "y": -0.9740356,
+                "z": 137.061417
+              },
+              "hitPositionWorld": {
+                "x": 577.310547,
+                "y": 105.032051,
+                "z": -731.5373
+              },
+              "hitPointStart": {
+                "x": 585.630066,
+                "y": 105.0624,
+                "z": -735.8103
+              },
+              "hitPointEnd": {
+                "x": 577.2908,
+                "y": 105.03196,
+                "z": -731.527161
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.0,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 577.310547,
+                "y": 105.032028,
+                "z": -731.5373
+              },
+              "travelDistance": 0.0,
+              "delta": 1.0,
+              "lastSegmentPointStart": {
+                "x": 585.630066,
+                "y": 105.0624,
+                "z": -735.8103
+              },
+              "lastSegmentPointEnd": {
+                "x": 577.2908,
+                "y": 105.03196,
+                "z": -731.527161
+              },
+              "reverseLastSegmentPointStart": {
+                "x": 577.2908,
+                "y": 105.03196,
+                "z": -731.527161
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": 585.630066,
+                "y": 105.0624,
+                "z": -735.8103
+              }
+            },
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 577.310547,
+                  "y": 105.032051,
+                  "z": -731.5373
+                },
+                "inVelocity": {
+                  "x": -261.019531,
+                  "y": -1.25268555,
+                  "z": 134.0625
+                },
+                "outVelocity": {
+                  "x": -266.857422,
+                  "y": -0.9741211,
+                  "z": 137.060547
+                }
+              },
+              "startProjectilePosition": {
+                "x": 577.310547,
+                "y": 105.032051,
+                "z": -731.5373
+              },
+              "startProjectileVelocity": {
+                "x": -266.857422,
+                "y": -0.9741211,
+                "z": 137.060547
+              },
+              "hitPositionWorld": {
+                "x": 444.050385,
+                "y": 102.808685,
+                "z": -663.3481
+              },
+              "hitPointStart": {
+                "x": 449.34967,
+                "y": 102.997955,
+                "z": -665.815
+              },
+              "hitPointEnd": {
+                "x": 443.9915,
+                "y": 102.825264,
+                "z": -663.063
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": false,
+              "isHitPointOnProjectileTrajectory": false,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": true,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.2263794,
+              "side": 1,
+              "pointProjectedOnLastSegmentLine": {
+                "x": 205.029556,
+                "y": 123.319954,
+                "z": -540.3333
+              },
+              "travelDistance": 9.35275,
+              "delta": -0.0199381057,
+              "lastSegmentPointStart": {
+                "x": 197.576736,
+                "y": 13.4985733,
+                "z": -536.5029
+              },
+              "lastSegmentPointEnd": {
+                "x": 197.54776,
+                "y": 13.0715895,
+                "z": -536.488037
+              },
+              "reverseLastSegmentPointStart": {
+                "x": 569.13385,
+                "y": 104.992836,
+                "z": -727.337341
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": 577.2908,
+                "y": 105.031982,
+                "z": -731.5268
+              }
+            }
+          ],
+          "gravityModifier": 1.0,
+          "drag": 0.7,
+          "forgivenessModifier": 1.0,
+          "physicsSteps": 32.0,
+          "attachments": [
+            "weapon.mod.simplesight"
+          ]
+        }
+      },
+      "inRockViolations": {}
+    },
+    "76561198119222821": {
+      "PlayerID": 76561198119222821,
+      "PlayerName": "MALOY",
+      "noRecoilViolations": {},
+      "AIMViolations": {
+        "637484740617537640_245": {
+          "projectileID": 245,
+          "violationID": 1,
+          "firedTime": "2021-02-09T13:27:41.637394+03:00",
+          "startProjectilePosition": {
+            "x": -116.607719,
+            "y": 87.114975,
+            "z": 275.151276
+          },
+          "startProjectileVelocity": {
+            "x": -89.9518661,
+            "y": -89.71886,
+            "z": 271.770477
+          },
+          "hitInfoInitiatorPlayerName": "MALOY",
+          "hitInfoInitiatorPlayerUserID": "76561198119222821",
+          "hitInfoHitEntityPlayerName": "evel1T",
+          "hitInfoHitEntityPlayerUserID": "76561199116096741",
+          "hitInfoBoneName": "head",
+          "hitInfoHitPositionWorld": {
+            "x": -135.708786,
+            "y": 67.84667,
+            "z": 332.937775
+          },
+          "hitInfoProjectileDistance": 63.8394737,
+          "hitInfoPointStart": {
+            "x": -135.658722,
+            "y": 67.9077759,
+            "z": 332.709839
+          },
+          "hitInfoPointEnd": {
+            "x": -135.8376,
+            "y": 67.72479,
+            "z": 333.2503
+          },
+          "hitInfoProjectilePrefabGravityModifier": 1.0,
+          "hitInfoProjectilePrefabDrag": 0.7,
+          "weaponShortName": "pistol.python",
+          "ammoShortName": "ammo.pistol",
+          "bodyPart": "head",
+          "damage": 44.0000038,
+          "isEqualFiredProjectileData": true,
+          "isPlayerPositionToProjectileStartPositionDistanceViolation": false,
+          "distanceDifferenceViolation": 0.0,
+          "calculatedTravelDistance": 63.8391228,
+          "isAttackerMount": false,
+          "isTargetMount": false,
+          "attackerMountParentName": "",
+          "targetMountParentName": "",
+          "firedProjectileFiredTime": 17601.5313,
+          "firedProjectileTravelTime": 0.236149386,
+          "firedProjectilePosition": {
+            "x": -135.709091,
+            "y": 67.84637,
+            "z": 332.9387
+          },
+          "firedProjectileVelocity": {
+            "x": -7.704965,
+            "y": -7.8816247,
+            "z": 23.2789173
+          },
+          "firedProjectileInitialPosition": {
+            "x": -116.607719,
+            "y": 87.114975,
+            "z": 275.151276
+          },
+          "firedProjectileInitialVelocity": {
+            "x": -89.9518661,
+            "y": -89.71886,
+            "z": 271.770477
+          },
+          "playerEyesLookAt": {
+            "x": -0.300377429,
+            "y": -0.300462067,
+            "z": 0.905260146
+          },
+          "playerEyesPosition": {
+            "x": -116.607719,
+            "y": 87.09694,
+            "z": 275.151276
+          },
+          "hasFiredProjectile": true,
+          "hitsData": [
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "inVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "outVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              },
+              "startProjectilePosition": {
+                "x": -116.607719,
+                "y": 87.114975,
+                "z": 275.151276
+              },
+              "startProjectileVelocity": {
+                "x": -89.9518661,
+                "y": -89.71886,
+                "z": 271.770477
+              },
+              "hitPositionWorld": {
+                "x": -135.708786,
+                "y": 67.84667,
+                "z": 332.937775
+              },
+              "hitPointStart": {
+                "x": -135.658722,
+                "y": 67.9077759,
+                "z": 332.709839
+              },
+              "hitPointEnd": {
+                "x": -135.8376,
+                "y": 67.72479,
+                "z": 333.2503
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": false,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.0240936279,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": -135.7288,
+                "y": 67.81826,
+                "z": 332.921539
+              },
+              "travelDistance": 0.0,
+              "delta": 1.0,
+              "lastSegmentPointStart": {
+                "x": -134.789719,
+                "y": 68.77875,
+                "z": 330.0843
+              },
+              "lastSegmentPointEnd": {
+                "x": -136.0768,
+                "y": 67.46234,
+                "z": 333.9729
+              },
+              "reverseLastSegmentPointStart": {
+                "x": 4084.03,
+                "y": -950.614136,
+                "z": -12416.7041
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": 4134.02148,
+                "y": -963.759949,
+                "z": -12567.749
+              }
+            }
+          ],
+          "gravityModifier": 1.0,
+          "drag": 0.7,
+          "forgivenessModifier": 1.0,
+          "physicsSteps": 60.0,
+          "attachments": [
+            "weapon.mod.lasersight",
+            "weapon.mod.small.scope"
+          ]
+        },
+        "637484740634509400_248": {
+          "projectileID": 248,
+          "violationID": 2,
+          "firedTime": "2021-02-09T13:27:43.330298+03:00",
+          "startProjectilePosition": {
+            "x": -116.607719,
+            "y": 87.1146545,
+            "z": 275.151276
+          },
+          "startProjectileVelocity": {
+            "x": -91.05545,
+            "y": -88.29358,
+            "z": 271.86972
+          },
+          "hitInfoInitiatorPlayerName": "MALOY",
+          "hitInfoInitiatorPlayerUserID": "76561198119222821",
+          "hitInfoHitEntityPlayerName": "evel1T",
+          "hitInfoHitEntityPlayerUserID": "76561199116096741",
+          "hitInfoBoneName": "head",
+          "hitInfoHitPositionWorld": {
+            "x": -136.355331,
+            "y": 67.74421,
+            "z": 334.062683
+          },
+          "hitInfoProjectileDistance": 65.08239,
+          "hitInfoPointStart": {
+            "x": -136.195526,
+            "y": 67.90778,
+            "z": 333.6358
+          },
+          "hitInfoPointEnd": {
+            "x": -136.3463,
+            "y": 67.75778,
+            "z": 334.085968
+          },
+          "hitInfoProjectilePrefabGravityModifier": 1.0,
+          "hitInfoProjectilePrefabDrag": 0.7,
+          "weaponShortName": "pistol.python",
+          "ammoShortName": "ammo.pistol",
+          "bodyPart": "head",
+          "damage": 44.0000038,
+          "isEqualFiredProjectileData": true,
+          "isPlayerPositionToProjectileStartPositionDistanceViolation": false,
+          "distanceDifferenceViolation": 0.0,
+          "calculatedTravelDistance": 65.08427,
+          "isAttackerMount": false,
+          "isTargetMount": false,
+          "attackerMountParentName": "",
+          "targetMountParentName": "",
+          "firedProjectileFiredTime": 17603.2246,
+          "firedProjectileTravelTime": 0.249472,
+          "firedProjectilePosition": {
+            "x": -136.355637,
+            "y": 67.74391,
+            "z": 334.0636
+          },
+          "firedProjectileVelocity": {
+            "x": -7.7994957,
+            "y": -7.75954056,
+            "z": 23.28742
+          },
+          "firedProjectileInitialPosition": {
+            "x": -116.607719,
+            "y": 87.1146545,
+            "z": 275.151276
+          },
+          "firedProjectileInitialVelocity": {
+            "x": -91.05545,
+            "y": -88.29358,
+            "z": 271.86972
+          },
+          "playerEyesLookAt": {
+            "x": -0.305209547,
+            "y": -0.2887931,
+            "z": 0.907439053
+          },
+          "playerEyesPosition": {
+            "x": -116.607719,
+            "y": 87.09694,
+            "z": 275.151276
+          },
+          "hasFiredProjectile": true,
+          "hitsData": [
+            {
+              "hitData": {
+                "projectileID": 0,
+                "hitPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "inVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "outVelocity": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                }
+              },
+              "startProjectilePosition": {
+                "x": -116.607719,
+                "y": 87.1146545,
+                "z": 275.151276
+              },
+              "startProjectileVelocity": {
+                "x": -91.05545,
+                "y": -88.29358,
+                "z": 271.86972
+              },
+              "hitPositionWorld": {
+                "x": -136.355331,
+                "y": 67.74421,
+                "z": 334.062683
+              },
+              "hitPointStart": {
+                "x": -136.195526,
+                "y": 67.90778,
+                "z": 333.6358
+              },
+              "hitPointEnd": {
+                "x": -136.3463,
+                "y": 67.75778,
+                "z": 334.085968
+              },
+              "isHitPointNearProjectileTrajectoryLastSegmentEndPoint": true,
+              "isHitPointOnProjectileTrajectory": true,
+              "isProjectileStartPointAtEndReverseProjectileTrajectory": false,
+              "isHitPointNearProjectilePlane": true,
+              "isLastSegmentOnProjectileTrajectoryPlane": true,
+              "distanceFromHitPointToProjectilePlane": 0.0159473419,
+              "side": 0,
+              "pointProjectedOnLastSegmentLine": {
+                "x": -136.340363,
+                "y": 67.74584,
+                "z": 334.068237
+              },
+              "travelDistance": 0.0,
+              "delta": 1.0,
+              "lastSegmentPointStart": {
+                "x": -136.315643,
+                "y": 67.77049,
+                "z": 333.994415
+              },
+              "lastSegmentPointEnd": {
+                "x": -137.6033,
+                "y": 66.48691,
+                "z": 337.839081
+              },
+              "reverseLastSegmentPointStart": {
+                "x": 3420.466,
+                "y": -1728.63867,
+                "z": -10285.59
+              },
+              "reverseLastSegmentPointEnd": {
+                "x": 3462.60254,
+                "y": -1751.002,
+                "z": -10411.3984
+              }
+            }
+          ],
+          "gravityModifier": 1.0,
+          "drag": 0.7,
+          "forgivenessModifier": 1.0,
+          "physicsSteps": 60.0,
+          "attachments": [
+            "weapon.mod.lasersight",
+            "weapon.mod.small.scope"
+          ]
+        }
+      },
+      "inRockViolations": {}
+    },
+    "76561198997428466": {
+      "PlayerID": 76561198997428466,
+      "PlayerName": "[sm0ke] YOUR NEW MAMA",
+      "noRecoilViolations": {},
+      "AIMViolations": {},
+      "inRockViolations": {
+        "2021.2.9.8.34_637484816721925130": {
+          "dateTime": "2021-02-09T15:34:32.192501+03:00",
+          "inRockViolationsData": {
+            "1": {
+              "dateTime": "2021-02-09T15:34:32.192501+03:00",
+              "physicsSteps": 32.0,
+              "targetHitDistance": 21.8264065,
+              "targetName": "[TF] DypKo tradeit.gg",
+              "targetID": "76561198826195433",
+              "targetDamage": 42.8712463,
+              "targetBodyPart": "left knee",
+              "targetHitPosition": {
+                "x": -1052.79224,
+                "y": 36.3311729,
+                "z": -207.701752
+              },
+              "rockHitPosition": {
+                "x": -1034.02014,
+                "y": 36.2913361,
+                "z": -209.306244
+              },
+              "firedProjectile": {
+                "firedTime": "2021-02-09T15:34:32.191379+03:00",
+                "projectileVelocity": {
+                  "x": -298.912231,
+                  "y": 0.9985282,
+                  "z": 25.5046978
+                },
+                "projectilePosition": {
+                  "x": -1031.04517,
+                  "y": 36.2816963,
+                  "z": -209.5601
+                },
+                "playerEyesLookAt": {
+                  "x": -0.9966098,
+                  "y": 0.0063197827,
+                  "z": 0.08203028
+                },
+                "playerEyesPosition": {
+                  "x": -1031.04517,
+                  "y": 36.2816963,
+                  "z": -209.5601
+                },
+                "isChecked": true,
+                "ammoShortName": "ammo.pistol",
+                "weaponShortName": "pistol.m92",
+                "weaponUID": 28786982,
+                "isMounted": false,
+                "mountParentName": null,
+                "mountParentPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "mountParentRotation": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "w": 0.0
+                },
+                "hitsData": [
+                  {
+                    "projectileID": 16,
+                    "hitPosition": {
+                      "x": -1052.79224,
+                      "y": 36.3311729,
+                      "z": -207.701752
+                    },
+                    "inVelocity": {
+                      "x": -285.976563,
+                      "y": 0.362182617,
+                      "z": 24.4008789
+                    },
+                    "outVelocity": {
+                      "x": -285.977844,
+                      "y": 0.362166762,
+                      "z": 24.40107
+                    }
+                  }
+                ],
+                "attachments": [],
+                "NRProbabilityModifier": 0.9
+              },
+              "projectileID": 16,
+              "drag": 0.7,
+              "gravityModifier": 1.0
+            }
+          }
+        },
+        "2021.2.9.8.34_637484816724780460": {
+          "dateTime": "2021-02-09T15:34:32.477959+03:00",
+          "inRockViolationsData": {
+            "1": {
+              "dateTime": "2021-02-09T15:34:32.477959+03:00",
+              "physicsSteps": 32.0,
+              "targetHitDistance": 20.3937016,
+              "targetName": "[TF] DypKo tradeit.gg",
+              "targetID": "76561198826195433",
+              "targetDamage": 43.1291351,
+              "targetBodyPart": "left hand",
+              "targetHitPosition": {
+                "x": -1051.33093,
+                "y": 36.72531,
+                "z": -207.516663
+              },
+              "rockHitPosition": {
+                "x": -1033.83972,
+                "y": 36.3486366,
+                "z": -209.2821
+              },
+              "firedProjectile": {
+                "firedTime": "2021-02-09T15:34:32.475144+03:00",
+                "projectileVelocity": {
+                  "x": -298.441132,
+                  "y": 7.179527,
+                  "z": 29.68755
+                },
+                "projectilePosition": {
+                  "x": -1031.04517,
+                  "y": 36.2816963,
+                  "z": -209.5601
+                },
+                "playerEyesLookAt": {
+                  "x": -0.994536042,
+                  "y": 0.010094773,
+                  "z": 0.103904195
+                },
+                "playerEyesPosition": {
+                  "x": -1031.04517,
+                  "y": 36.2816963,
+                  "z": -209.5601
+                },
+                "isChecked": true,
+                "ammoShortName": "ammo.pistol",
+                "weaponShortName": "pistol.m92",
+                "weaponUID": 28786982,
+                "isMounted": false,
+                "mountParentName": null,
+                "mountParentPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "mountParentRotation": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "w": 0.0
+                },
+                "hitsData": [
+                  {
+                    "projectileID": 18,
+                    "hitPosition": {
+                      "x": -1051.33093,
+                      "y": 36.72531,
+                      "z": -207.516663
+                    },
+                    "inVelocity": {
+                      "x": -285.527344,
+                      "y": 6.275757,
+                      "z": 28.402832
+                    },
+                    "outVelocity": {
+                      "x": -285.5271,
+                      "y": 6.275704,
+                      "z": 28.4029217
+                    }
+                  }
+                ],
+                "attachments": [],
+                "NRProbabilityModifier": 0.9
+              },
+              "projectileID": 18,
+              "drag": 0.7,
+              "gravityModifier": 1.0
+            }
+          }
+        },
+        "2021.2.9.8.34_637484816728227880": {
+          "dateTime": "2021-02-09T15:34:32.822764+03:00",
+          "inRockViolationsData": {
+            "1": {
+              "dateTime": "2021-02-09T15:34:32.822764+03:00",
+              "physicsSteps": 32.0,
+              "targetHitDistance": 18.95928,
+              "targetName": "[TF] DypKo tradeit.gg",
+              "targetID": "76561198826195433",
+              "targetDamage": 43.38733,
+              "targetBodyPart": "hip",
+              "targetHitPosition": {
+                "x": -1049.84766,
+                "y": 36.19617,
+                "z": -207.1369
+              },
+              "rockHitPosition": {
+                "x": -1033.70313,
+                "y": 36.26975,
+                "z": -209.221771
+              },
+              "firedProjectile": {
+                "firedTime": "2021-02-09T15:34:32.821609+03:00",
+                "projectileVelocity": {
+                  "x": -297.595947,
+                  "y": -1.30768907,
+                  "z": 37.88062
+                },
+                "projectilePosition": {
+                  "x": -1031.04517,
+                  "y": 36.2816963,
+                  "z": -209.5601
+                },
+                "playerEyesLookAt": {
+                  "x": -0.9941103,
+                  "y": 0.0379207432,
+                  "z": 0.101522654
+                },
+                "playerEyesPosition": {
+                  "x": -1031.04517,
+                  "y": 36.2816963,
+                  "z": -209.5601
+                },
+                "isChecked": true,
+                "ammoShortName": "ammo.pistol",
+                "weaponShortName": "pistol.m92",
+                "weaponUID": 28786982,
+                "isMounted": false,
+                "mountParentName": null,
+                "mountParentPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "mountParentRotation": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "w": 0.0
+                },
+                "hitsData": [
+                  {
+                    "projectileID": 20,
+                    "hitPosition": {
+                      "x": -1049.84766,
+                      "y": 36.19617,
+                      "z": -207.1369
+                    },
+                    "inVelocity": {
+                      "x": -284.71875,
+                      "y": -1.84423828,
+                      "z": 36.2417
+                    },
+                    "outVelocity": {
+                      "x": -284.718567,
+                      "y": -1.84425724,
+                      "z": 36.24147
+                    }
+                  }
+                ],
+                "attachments": [],
+                "NRProbabilityModifier": 0.9
+              },
+              "projectileID": 20,
+              "drag": 0.7,
+              "gravityModifier": 1.0
+            },
+            "2": {
+              "dateTime": "2021-02-09T15:34:32.96073+03:00",
+              "physicsSteps": 32.0,
+              "targetHitDistance": 17.239418,
+              "targetName": "[TF] DypKo tradeit.gg",
+              "targetID": "76561198826195433",
+              "targetDamage": 43.6969032,
+              "targetBodyPart": "right knee",
+              "targetHitPosition": {
+                "x": -1048.09558,
+                "y": 36.0211563,
+                "z": -207.028015
+              },
+              "rockHitPosition": {
+                "x": -1033.63452,
+                "y": 36.2430153,
+                "z": -209.170563
+              },
+              "firedProjectile": {
+                "firedTime": "2021-02-09T15:34:32.959311+03:00",
+                "projectileVelocity": {
+                  "x": -296.628754,
+                  "y": -4.4552393,
+                  "z": 44.62661
+                },
+                "projectilePosition": {
+                  "x": -1031.04517,
+                  "y": 36.2821465,
+                  "z": -209.5601
+                },
+                "playerEyesLookAt": {
+                  "x": -0.991485059,
+                  "y": 0.00361853465,
+                  "z": 0.130171
+                },
+                "playerEyesPosition": {
+                  "x": -1031.04517,
+                  "y": 36.2816963,
+                  "z": -209.5601
+                },
+                "isChecked": true,
+                "ammoShortName": "ammo.pistol",
+                "weaponShortName": "pistol.m92",
+                "weaponUID": 28786982,
+                "isMounted": false,
+                "mountParentName": null,
+                "mountParentPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "mountParentRotation": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "w": 0.0
+                },
+                "hitsData": [
+                  {
+                    "projectileID": 21,
+                    "hitPosition": {
+                      "x": -1048.09558,
+                      "y": 36.0211563,
+                      "z": -207.028015
+                    },
+                    "inVelocity": {
+                      "x": -290.140625,
+                      "y": -4.657593,
+                      "z": 43.65039
+                    },
+                    "outVelocity": {
+                      "x": -290.14,
+                      "y": -4.657637,
+                      "z": 43.6504021
+                    }
+                  }
+                ],
+                "attachments": [],
+                "NRProbabilityModifier": 0.9
+              },
+              "projectileID": 21,
+              "drag": 0.7,
+              "gravityModifier": 1.0
+            }
+          }
+        },
+        "2021.2.9.8.34_637484816731487570": {
+          "dateTime": "2021-02-09T15:34:33.148732+03:00",
+          "inRockViolationsData": {
+            "1": {
+              "dateTime": "2021-02-09T15:34:33.148732+03:00",
+              "physicsSteps": 32.0,
+              "targetHitDistance": 17.6630974,
+              "targetName": "[TF] DypKo tradeit.gg",
+              "targetID": "76561198826195433",
+              "targetDamage": 43.62064,
+              "targetBodyPart": "right hand",
+              "targetHitPosition": {
+                "x": -1048.55737,
+                "y": 36.4155426,
+                "z": -207.261612
+              },
+              "rockHitPosition": {
+                "x": -1033.685,
+                "y": 36.30882,
+                "z": -209.22287
+              },
+              "firedProjectile": {
+                "firedTime": "2021-02-09T15:34:33.14745+03:00",
+                "projectileVelocity": {
+                  "x": -297.5656,
+                  "y": 3.0775342,
+                  "z": 38.0162
+                },
+                "projectilePosition": {
+                  "x": -1031.04517,
+                  "y": 36.28177,
+                  "z": -209.5601
+                },
+                "playerEyesLookAt": {
+                  "x": -0.9907605,
+                  "y": -0.00815163553,
+                  "z": 0.135378748
+                },
+                "playerEyesPosition": {
+                  "x": -1031.04517,
+                  "y": 36.2816963,
+                  "z": -209.5601
+                },
+                "isChecked": true,
+                "ammoShortName": "ammo.pistol",
+                "weaponShortName": "pistol.m92",
+                "weaponUID": 28786982,
+                "isMounted": false,
+                "mountParentName": null,
+                "mountParentPosition": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0
+                },
+                "mountParentRotation": {
+                  "x": 0.0,
+                  "y": 0.0,
+                  "z": 0.0,
+                  "w": 0.0
+                },
+                "hitsData": [
+                  {
+                    "projectileID": 22,
+                    "hitPosition": {
+                      "x": -1048.55737,
+                      "y": 36.4155426,
+                      "z": -207.261612
+                    },
+                    "inVelocity": {
+                      "x": -291.0547,
+                      "y": 2.71032715,
+                      "z": 37.18457
+                    },
+                    "outVelocity": {
+                      "x": -291.056366,
+                      "y": 2.71035671,
+                      "z": 37.184597
+                    }
+                  }
+                ],
+                "attachments": [],
+                "NRProbabilityModifier": 0.9
+              },
+              "projectileID": 22,
+              "drag": 0.7,
+              "gravityModifier": 1.0
+            }
+          }
+        }
+      }
+    }
+  }
+}

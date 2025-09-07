@@ -1,0 +1,29 @@
+{
+  "Permission -> Settings": {
+    "metabolism.admin": {
+      "Water on respawn": 1000.0,
+      "Calories on respawn": 1000.0,
+      "Health on respawn": 100.0
+    },
+    "metabolism.king": {
+      "Water on respawn": 500.0,
+      "Calories on respawn": 500.0,
+      "Health on respawn": 100.0
+    },
+    "metabolism.lord": {
+      "Water on respawn": 400.0,
+      "Calories on respawn": 400.0,
+      "Health on respawn": 100.0
+    },
+    "metabolism.piligrim": {
+      "Water on respawn": 300.0,
+      "Calories on respawn": 300.0,
+      "Health on respawn": 90.0
+    },
+    "metabolism.default": {
+      "Water on respawn": 150.0,
+      "Calories on respawn": 150.0,
+      "Health on respawn": 75.0
+    }
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "Enabled Plugin": true,
+  "Population Settings": {
+    "loot": {
+      "Enabled": true,
+      "Target Count": 1125
+    },
+    "ores.Barren": {
+      "Enabled": true,
+      "Target Count": 1600
+    },
+    "collectable-food-mushroom": {
+      "Enabled": false,
+      "Target Count": 500
+    },
+    "collectable-resource-hemp": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "collectable-resource-stone": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "plant-corn": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "plant-pumpkin": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "procmap_v3_tundra_forest": {
+      "Enabled": true,
+      "Target Count": 100
+    },
+    "procmap_v3_tundra_forest_small": {
+      "Enabled": true,
+      "Target Count": 100
+    },
+    "procmap_v3_arctic_forest": {
+      "Enabled": true,
+      "Target Count": 100
+    },
+    "procmap_v3_arctic_forest_snow": {
+      "Enabled": true,
+      "Target Count": 100
+    },
+    "procmap_v3_arid_cactus": {
+      "Enabled": true,
+      "Target Count": 100
+    },
+    "procmap_v3_arid_palms_dense": {
+      "Enabled": true,
+      "Target Count": 100
+    },
+    "procmap_v3_arid_palms_light": {
+      "Enabled": true,
+      "Target Count": 100
+    },
+    "procmap_v3_arid_palms_superdense": {
+      "Enabled": true,
+      "Target Count": 100
+    },
+    "junkpiles": {
+      "Enabled": true,
+      "Target Count": 1000
+    },
+    "driftwood": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "RHIB.Population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "Rowboat.Population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "Minicopter.Population": {
+      "Enabled": true,
+      "Target Count": 50
+    },
+    "ModularCar.Population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "ScrapTransportHelicopter.Population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "traincars.population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "HAB.Population": {
+      "Enabled": true,
+      "Target Count": 45
+    },
+    "HalloweenDungeon.population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "XmasDungeon.population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "Murderer.Population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "Scarecrow.Population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "Bear.Population": {
+      "Enabled": true,
+      "Target Count": 40
+    },
+    "PolarBear.Population": {
+      "Enabled": true,
+      "Target Count": 25
+    },
+    "Boar.Population": {
+      "Enabled": true,
+      "Target Count": 70
+    },
+    "Chicken.Population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "Horse.Population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "Stag.Population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "Wolf.Population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "Zombie.Population": {
+      "Enabled": true,
+      "Target Count": 0
+    },
+    "RidableHorse.Population": {
+      "Enabled": true,
+      "Target Count": 30
+    }
+  }
+}

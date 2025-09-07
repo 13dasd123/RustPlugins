@@ -1,0 +1,16 @@
+{
+  "Включить отображение UI защиты у игрока | Enabled UI": true,
+  "Привилегия на использование защиты | Protected permission ": "PlayersProtected.use",
+  "Отключить защиту на постройки игрока (Если он сам атакующий) | Disable player building protection (If he is the initiator)": true,
+  "Задержка отправки сообщений об защите в чат (в секундах) | Delay in sending chat protection messages in seconds": 15,
+  "Время защиты новых игроков или же после вайпа (в секундах) | Time to protect new players or after wipe (in seconds)": 7200.0,
+  "Включить защиту построек у игрока | Enable player building protection": true,
+  "Включить защиту игрока | Enable player protection": true,
+  "Включить автоматический вайп данных при вайпе карты | Enable automatic data wipe with wipe map": true,
+  "Ссылка на изображение UI | Image URL": "https://i.imgur.com/b7PMaQ5.png",
+  "Версия конфигурации | Configuration version": {
+    "Major": 0,
+    "Minor": 0,
+    "Patch": 1
+  }
+}

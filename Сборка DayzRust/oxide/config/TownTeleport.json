@@ -1,0 +1,15 @@
+{
+  "BanditCampTeleportCommand": "btp",
+  "BanditTeleportCooldown": 0,
+  "BanditTeleportCountdown": 30,
+  "BlockTeleportFromCargo": false,
+  "BlockTeleportWhenMounted": false,
+  "CancelTeleportCommand": "ttc",
+  "CancelTpAnyDamage": true,
+  "CancelTpFallDamage": true,
+  "CancelTpPlayerDamage": true,
+  "ForceResetHostileTimer": true,
+  "OutpostTeleportCommand": "otp",
+  "OutpostTeleportCooldown": 0,
+  "OutpostTeleportCountdown": 30
+}

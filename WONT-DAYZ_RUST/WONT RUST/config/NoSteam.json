@@ -1,0 +1,11 @@
+{
+  "Enabled auto update": true,
+  "AppId (480 - SpaceWar, 252490 - Rust)": 252490,
+  "PatronCode": "",
+  "FakePlayers(work only with 480 AppId)": {
+    "Enabled": false,
+    "MinCount": 0,
+    "MaxCount": 0
+  },
+  "Version": "2.2.2"
+}

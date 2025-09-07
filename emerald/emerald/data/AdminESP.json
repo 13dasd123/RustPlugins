@@ -1,0 +1,172 @@
+{
+  "76561199064049565": {
+    "Enabled": true,
+    "UpdateTime": 0.15,
+    "PlayerDistance": 8000,
+    "ShowAdmins": true,
+    "DrawNames": true,
+    "DrawBoxes": false,
+    "DrawEyeLine": true,
+    "EyeLineDistance": 50
+  },
+  "76561199063874990": {
+    "Enabled": true,
+    "UpdateTime": 0.15,
+    "PlayerDistance": 800,
+    "ShowAdmins": false,
+    "DrawNames": true,
+    "DrawBoxes": false,
+    "DrawEyeLine": false,
+    "EyeLineDistance": 50
+  },
+  "76561199036367022": {
+    "Enabled": true,
+    "UpdateTime": 0.15,
+    "PlayerDistance": 900,
+    "ShowAdmins": true,
+    "DrawNames": true,
+    "DrawBoxes": false,
+    "DrawEyeLine": true,
+    "EyeLineDistance": 50
+  },
+  "76561199007789106": {
+    "Enabled": true,
+    "UpdateTime": 0.15,
+    "PlayerDistance": 7000,
+    "ShowAdmins": true,
+    "DrawNames": true,
+    "DrawBoxes": false,
+    "DrawEyeLine": true,
+    "EyeLineDistance": 50
+  },
+  "76561199060327578": {
+    "Enabled": true,
+    "UpdateTime": 0.15,
+    "PlayerDistance": 20000,
+    "ShowAdmins": true,
+    "DrawNames": true,
+    "DrawBoxes": false,
+    "DrawEyeLine": true,
+    "EyeLineDistance": 50
+  },
+  "76561198952674783": {
+    "Enabled": true,
+    "UpdateTime": 0.01,
+    "PlayerDistance": 20000,
+    "ShowAdmins": true,
+    "DrawNames": true,
+    "DrawBoxes": true,
+    "DrawEyeLine": true,
+    "EyeLineDistance": 500
+  },
+  "76561199075659628": {
+    "Enabled": true,
+    "UpdateTime": 0.01,
+    "PlayerDistance": 20000,
+    "ShowAdmins": true,
+    "DrawNames": true,
+    "DrawBoxes": false,
+    "DrawEyeLine": true,
+    "EyeLineDistance": 500
+  },
+  "76561199076352519": {
+    "Enabled": false,
+    "UpdateTime": 0.01,
+    "PlayerDistance": 20000,
+    "ShowAdmins": true,
+    "DrawNames": true,
+    "DrawBoxes": false,
+    "DrawEyeLine": true,
+    "EyeLineDistance": 500
+  },
+  "76561199068749577": {
+    "Enabled": true,
+    "UpdateTime": 0.01,
+    "PlayerDistance": 20000,
+    "ShowAdmins": true,
+    "DrawNames": true,
+    "DrawBoxes": true,
+    "DrawEyeLine": true,
+    "EyeLineDistance": 500
+  },
+  "76561198831953072": {
+    "Enabled": true,
+    "UpdateTime": 0.1,
+    "PlayerDistance": 20000,
+    "ShowAdmins": true,
+    "DrawNames": true,
+    "DrawBoxes": true,
+    "DrawEyeLine": true,
+    "EyeLineDistance": 1000
+  },
+  "76561198052529806": {
+    "Enabled": true,
+    "UpdateTime": 0.01,
+    "PlayerDistance": 20000,
+    "ShowAdmins": true,
+    "DrawNames": true,
+    "DrawBoxes": false,
+    "DrawEyeLine": true,
+    "EyeLineDistance": 500
+  },
+  "76561198082559597": {
+    "Enabled": false,
+    "UpdateTime": 0.01,
+    "PlayerDistance": 20000,
+    "ShowAdmins": true,
+    "DrawNames": true,
+    "DrawBoxes": false,
+    "DrawEyeLine": true,
+    "EyeLineDistance": 500
+  },
+  "76561198360919508": {
+    "Enabled": false,
+    "UpdateTime": 0.01,
+    "PlayerDistance": 20000,
+    "ShowAdmins": true,
+    "DrawNames": true,
+    "DrawBoxes": false,
+    "DrawEyeLine": true,
+    "EyeLineDistance": 500
+  },
+  "76561198344836007": {
+    "Enabled": true,
+    "UpdateTime": 0.01,
+    "PlayerDistance": 20000,
+    "ShowAdmins": true,
+    "DrawNames": true,
+    "DrawBoxes": true,
+    "DrawEyeLine": true,
+    "EyeLineDistance": 500
+  },
+  "76561197960883466": {
+    "Enabled": true,
+    "UpdateTime": 0.01,
+    "PlayerDistance": 20000,
+    "ShowAdmins": true,
+    "DrawNames": true,
+    "DrawBoxes": true,
+    "DrawEyeLine": true,
+    "EyeLineDistance": 500
+  },
+  "76561198964317881": {
+    "Enabled": true,
+    "UpdateTime": 0.01,
+    "PlayerDistance": 20000,
+    "ShowAdmins": true,
+    "DrawNames": true,
+    "DrawBoxes": true,
+    "DrawEyeLine": true,
+    "EyeLineDistance": 500
+  },
+  "76561198139847925": {
+    "Enabled": true,
+    "UpdateTime": 0.01,
+    "PlayerDistance": 20000,
+    "ShowAdmins": true,
+    "DrawNames": true,
+    "DrawBoxes": true,
+    "DrawEyeLine": true,
+    "EyeLineDistance": 500
+  }
+}

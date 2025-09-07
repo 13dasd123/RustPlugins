@@ -1,0 +1,14 @@
+{
+  "Entity Settings": {
+    "Amount To Trigger Entity Message": 1,
+    "Enable Entity Message": true
+  },
+  "GUIAnnouncements Settings": {
+    "Banner Color": "White",
+    "Enable GUI Announcements": false,
+    "Text Color": "White"
+  },
+  "Settings": {
+    "Enable Console Notice": true
+  }
+}

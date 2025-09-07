@@ -1,0 +1,2962 @@
+{
+  "Конструкции": {
+    "CategoryName": "Конструкции",
+    "Items": {
+      "Забор": {
+        "DisplayName": "Забор",
+        "DisplayDescription": "Забор — украсьте эту территорию этим забором",
+        "DisplayImage": "wall.graveyard.fence",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Камни",
+            "ShortName": "stones",
+            "Amount": 250,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "wall.graveyard.fence",
+        "CommandResult": null
+      },
+      "Переработчик": {
+        "DisplayName": "Переработчик",
+        "DisplayDescription": "Переработчик — позволяет переработать ваши вещи в ресурсы",
+        "DisplayImage": "https://i.imgur.com/1PLPQBX.png",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 7500,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Старые микросхемы",
+            "ShortName": "techparts",
+            "Amount": 10,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Малый генератор",
+            "ShortName": "electric.fuelgenerator.small",
+            "Amount": 1,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 1000,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": null,
+        "CommandResult": "recycler.give {0}"
+      },
+      "Дверной доводчик": {
+        "DisplayName": "Дверной доводчик",
+        "DisplayDescription": "Дверной доводчик — Автоматически закрывает дверь, если она оставлена открытой.",
+        "DisplayImage": "door.closer",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлическая пружина",
+            "ShortName": "metalspring",
+            "Amount": 1,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 25,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "door.closer",
+        "CommandResult": null
+      },
+      "Дверной молоток Череп": {
+        "DisplayName": "Дверной молоток Череп",
+        "DisplayDescription": "Дверной молоток Череп — Жуткий дверной молоток в виде черепа",
+        "DisplayImage": "skulldoorknocker",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "skulldoorknocker",
+        "CommandResult": null
+      },
+      "Дверной молоток Дракон": {
+        "DisplayName": "Дверной молоток Дракон",
+        "DisplayDescription": "Дверной молоток Дракон — Тяжелый дверной молоток из латуни",
+        "DisplayImage": "dragondoorknocker",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "dragondoorknocker",
+        "CommandResult": null
+      },
+      "Игровой автомат Chippy": {
+        "DisplayName": "Игровой автомат Chippy",
+        "DisplayDescription": "Игровой автомат Chippy — Специальный игровый автомат!",
+        "DisplayImage": "arcade.machine.chippy",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 250,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Шестерни",
+            "ShortName": "gears",
+            "Amount": 5,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "arcade.machine.chippy",
+        "CommandResult": null
+      },
+	  "Горнорудный карьер": {
+        "DisplayName": "Горнорудный карьер",
+        "DisplayDescription": "Горнорудный карьер — позволяет автоматизировать процесс добычи таких ресурсов, как камень, железная руда, серная руда, металлическая руда высокого качества. Перед использованием карьера рекомендуется произвести разведку полезных ископаемых с помощью геологического заряда. Для работы карьера, его двигателю требуется топливо, для этого подойдёт топливо низкого качества.",
+        "DisplayImage": "mining.quarry",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+		  {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 500,
+            "SkinID": 0
+          },
+		  {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 10000,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 50000,
+            "SkinID": 0
+          },
+		  {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 3000,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "mining.quarry",
+        "CommandResult": null
+      }
+    }
+  },
+  "Предметы": {
+    "CategoryName": "Предметы",
+    "Items": {
+      "Медведь Пуки": {
+        "DisplayName": "Медведь Пуки",
+        "DisplayDescription": "Медведь Пуки — спутник, который напоминает вам о Вашей молодости.",
+        "DisplayImage": "pookie.bear",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 250,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "pookie.bear",
+        "CommandResult": null
+      },
+      "Малый Чулок": {
+        "DisplayName": "Малый Чулок",
+        "DisplayDescription": "Малый Чулок — повесьте этот чулок на стену недалеко от костра, примерно в радиусе действия комфорта. Когда зазвонят колокольчики, в этом носке появится подарок. Количество срабатываний неограниченно.",
+        "DisplayImage": "stocking.small",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 150,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "stocking.small",
+        "CommandResult": null
+      },
+      "СУПЕР Чулок": {
+        "DisplayName": "СУПЕР Чулок",
+        "DisplayDescription": "СУПЕР Чулок — функционирует абсолютно также, как и малый чулок. Повесьте этот чулок на стену недалеко от костра, примерно в радиусе действия комфорта. Когда зазвонят колокольчики, в этом носке появится подарок. Количество срабатываний неограниченно.",
+        "DisplayImage": "stocking.large",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 250,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Кожа",
+            "ShortName": "leather",
+            "Amount": 150,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "stocking.large",
+        "CommandResult": null
+      },
+      "Большой флаг (Настенный)": {
+        "DisplayName": "Большой флаг (Настенный)",
+        "DisplayDescription": "Большой флаг (Настенный) — вертикальный большой флаг. В отличие от большого напольного флага, этот флаг можно повесить на стены.",
+        "DisplayImage": "sign.hanging.banner.large",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 1000,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 1000,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "sign.hanging.banner.large",
+        "CommandResult": null
+      },
+      "Большой флаг (Напольный)": {
+        "DisplayName": "Большой флаг (Напольный)",
+        "DisplayDescription": "Большой флаг (Напольный) — вертикальный стоячий большой флаг. В отличие от настенного флага, этот флаг ставится на пол.",
+        "DisplayImage": "sign.pole.banner.large",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 750,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 750,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "sign.pole.banner.large",
+        "CommandResult": null
+      },
+      "Двухсторонняя вывеска": {
+        "DisplayName": "Двухсторонняя вывеска",
+        "DisplayDescription": "Двухсторонняя вывеска — двусторонняя вывеска, крепится на стены зданий, ориентирована по вертикали. Несёт такие же, чисто декоративные функции, как и двухсторонняя вывеска с орнаментом.",
+        "DisplayImage": "sign.hanging",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 1000,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "sign.hanging",
+        "CommandResult": null
+      },
+      "Двухсторонняя вывеска с орнаментом": {
+        "DisplayName": "Двухсторонняя вывеска с орнаментом",
+        "DisplayDescription": "Двухсторонняя вывеска с орнаментом — двусторонняя вывеска, крепится на стены зданий, ориентирована по горизонтали. Несёт такие же, чисто декоративные функции, как и двухсторонняя вывеска.",
+        "DisplayImage": "sign.hanging.ornate",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 1000,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "sign.hanging.ornate",
+        "CommandResult": null
+      },
+      "Доска объявлений": {
+        "DisplayName": "Доска объявлений",
+        "DisplayDescription": "Доска объявлений — доска для объявлений, которую можно поставить на ландшафте. Носит чисто декоративный характер. На доске игроки могут что-нибудь написать или нарисовать. В отличие от двусторонней доски, данная имеет только одну сторону для вывески объявлений.",
+        "DisplayImage": "sign.post.town",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 250,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 500,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "sign.post.town",
+        "CommandResult": null
+      },
+      "Доска объявлений (Двухсторонняя)": {
+        "DisplayName": "Доска объявлений (Двухсторонняя)",
+        "DisplayDescription": "Доска объявлений (Двухсторонняя) — доска для объявлений, которую можно поставить на ландшафте. Носит чисто декоративный характер. На доске игроки могут что-нибудь написать или нарисовать. В отличие от односторонней доски, данная имеет две стороны для вывески объявлений и крышу.",
+        "DisplayImage": "sign.post.town.roof",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 500,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 500,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "sign.post.town.roof",
+        "CommandResult": null
+      },
+      "Указатель направления": {
+        "DisplayName": "Указатель направления",
+        "DisplayDescription": "Указатель направления — это указатель, который устанавливается на ландшафте. Это деревянный знак дорожного типа, который показывает направление к другому объекту только в одну сторону. В отличие от двойного, данный имеет указатель только в одну сторону.",
+        "DisplayImage": "sign.post.single",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 200,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "sign.post.single",
+        "CommandResult": null
+      },
+      "Указатель направления (Двойной)": {
+        "DisplayName": "Указатель направления (Двойной)",
+        "DisplayDescription": "Указатель направления (Двойной) (Double Sign Post) — это указатель, который устанавливается на ландшафте. Это деревянный знак дорожного типа с двумя указателями, которые показывают направления к другим объектам в две противоположные стороны, в отличие от одиночного указателя, который показывает только в одну сторону.",
+        "DisplayImage": "sign.post.double",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 225,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "sign.post.double",
+        "CommandResult": null
+      },
+      "Пугало": {
+        "DisplayName": "Пугало",
+        "DisplayDescription": "Пугало — Проникнитесь духом Хэллоуина с этим декоративным предметом",
+        "DisplayImage": "scarecrow",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 250,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 250,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "scarecrow",
+        "CommandResult": null
+      },
+      "Костер из черепов": {
+        "DisplayName": "Костер из черепов",
+        "DisplayDescription": "Костер из черепов — Насладитесь сжиганием останков ваших неприятелей в прах с этим эксклюзивным предметом",
+        "DisplayImage": "skull_fire_pit",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 50,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Череп человека",
+            "ShortName": "skull.human",
+            "Amount": 3,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "skull_fire_pit",
+        "CommandResult": null
+      },
+      "Гроб": {
+        "DisplayName": "Гроб",
+        "DisplayDescription": "Гроб — кому-же взбредет в голову хранить снаряжение в гробах",
+        "DisplayImage": "coffin.storage",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 1000,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "coffin.storage",
+        "CommandResult": null
+      },
+      "Котелок": {
+        "DisplayName": "Котелок",
+        "DisplayDescription": "Котелок — приготовьте себе на ужин неприятеля, теперь можно и сварить",
+        "DisplayImage": "cursedcauldron",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 50,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 10,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "cursedcauldron",
+        "CommandResult": null
+      },
+      "Маленькие свечи": {
+        "DisplayName": "Маленькие свечи",
+        "DisplayDescription": "Маленькие свечи — еще один способ сделать атмосферное освещение в доме",
+        "DisplayImage": "smallcandles",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Топливо низкого качества",
+            "ShortName": "lowgradefuel",
+            "Amount": 15,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "smallcandles",
+        "CommandResult": null
+      },
+      "Большие свечи": {
+        "DisplayName": "Большие свечи",
+        "DisplayDescription": "Большие свечи — еще один способ сделать атмосферное освещение в доме",
+        "DisplayImage": "largecandles",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Топливо низкого качества",
+            "ShortName": "lowgradefuel",
+            "Amount": 30,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "largecandles",
+        "CommandResult": null
+      },
+      "Каменный гроб": {
+        "DisplayName": "Каменный гроб",
+        "DisplayDescription": "Каменный гроб — украсьте свой дом этим изящным гробом, а лучше дом своего неприятеля",
+        "DisplayImage": "gravestone",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 500,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Камни",
+            "ShortName": "stones",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "gravestone",
+        "CommandResult": null
+      },
+      "Жуткий громкоговоритель": {
+        "DisplayName": "Жуткий громкоговоритель",
+        "DisplayDescription": "Жуткий громкоговоритель — Напугайте своих гостей очень страшными звуками!",
+        "DisplayImage": "spookyspeaker",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 400,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 100,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 20,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "spookyspeaker",
+        "CommandResult": null
+      },
+      "Стробоскопическая лампа": {
+        "DisplayName": "Стробоскопическая лампа",
+        "DisplayDescription": "Стробоскопическая лампа —  Мигающий свет с тремя вариантами скорости. Вызывает припадки",
+        "DisplayImage": "strobelight",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 300,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "strobelight",
+        "CommandResult": null
+      },
+      "Фоггер-3000": {
+        "DisplayName": "Фоггер-3000",
+        "DisplayDescription": "Фоггер-3000 — Генератор тумана, который работает на топливе низкого качества. Может быть настроен на заполнение пространства плотным облаком тумана",
+        "DisplayImage": "fogmachine",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 125,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Топливо низкого качества",
+            "ShortName": "lowgradefuel",
+            "Amount": 30,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлическая труба",
+            "ShortName": "metalpipe",
+            "Amount": 1,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "fogmachine",
+        "CommandResult": null
+      },
+      "Генератор снега": {
+        "DisplayName": "Генератор снега",
+        "DisplayDescription": "Генератор снега — накрывает ближайшую область небольшим слоем снега. Для работы генератора требуется топливо низкого качества.",
+        "DisplayImage": "snowmachine",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 125,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Топливо низкого качества",
+            "ShortName": "lowgradefuel",
+            "Amount": 30,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлическая труба",
+            "ShortName": "metalpipe",
+            "Amount": 1,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "snowmachine",
+        "CommandResult": null
+      },
+	  "Неоновая табличка анимированная": {
+        "DisplayName": "Неоновая табличка анимированная",
+        "DisplayDescription": "Большая, анимированная неоновая табличка!",
+        "DisplayImage": "sign.neon.xl.animated",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 300,
+            "SkinID": 0
+          },
+		  {
+            "DisplayName": "Маленький аккумулятор",
+            "ShortName": "electric.battery.rechargable.small",
+            "Amount": 5,
+            "SkinID": 0
+          },
+        ],
+        "ItemResult": "sign.neon.xl.animated",
+        "CommandResult": null
+      },
+	  "Паутина": {
+        "DisplayName": "Паутина",
+        "DisplayDescription": "Паутина — крепится на стену и при виде её появляются судороги! Любопытные игроки в панике начинают убегать.",
+        "DisplayImage": "spiderweb",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 20,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "spiderweb",
+        "CommandResult": null
+      }
+    }
+  },
+  "Одежда": {
+    "CategoryName": "Одежда",
+    "Items": {
+	  "Костюм хазмат": {
+        "DisplayName": "Костюм хазмат",
+        "DisplayDescription": "Антирадиационный костюм (Hazmat Suit). Hazmat Костюм представляет собой деталь одежды, которая обеспечивает хорошую защиту от радиации.",
+        "DisplayImage": "hazmatsuit",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Брезент",
+            "ShortName": "tarp",
+            "Amount": 10,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Набор для шитья",
+            "ShortName": "sewingkit",
+            "Amount": 2,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 300,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "hazmatsuit",
+        "CommandResult": null
+      },
+      "Костюм учёного (Синий)": {
+        "DisplayName": "Костюм ученого (Синий)",
+        "DisplayDescription": "Костюм ученого — Средство индивидуальной защиты, сделанное из радиационно-стойкой резины и предназначенное для защиты человека от отравляющих веществ.",
+        "DisplayImage": "hazmatsuit_scientist",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Брезент",
+            "ShortName": "tarp",
+            "Amount": 10,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Набор для шитья",
+            "ShortName": "sewingkit",
+            "Amount": 2,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 15,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "hazmatsuit_scientist",
+        "CommandResult": null
+      },
+      "Костюм учёного (Зелёный)": {
+        "DisplayName": "Костюм ученого (Зелёный)",
+        "DisplayDescription": "Костюм ученого — Средство индивидуальной защиты, сделанное из радиационно-стойкой резины и предназначенное для защиты человека от отравляющих веществ.",
+        "DisplayImage": "https://i.imgur.com/2aCURYJ.png",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Брезент",
+            "ShortName": "tarp",
+            "Amount": 10,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Набор для шитья",
+            "ShortName": "sewingkit",
+            "Amount": 2,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 15,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": null,
+        "CommandResult": "inventory.giveto {0} hazmatsuit_scientist_peacekeeper 1"
+      },
+	  "Бронированный костюм учёного": {
+        "DisplayName": "Бронированный костюм учёного",
+        "DisplayDescription": "Бронированный костюм учёного — Средство индивидуальной защиты, сделанное из радиационно-стойкой резины и предназначенное для защиты человека от отравляющих веществ. Превосходит защиту хазмата в три с половиной раза! Идеален для ближного и дальнего боя и имеет хорошую незаметность!",
+        "DisplayImage": "https://i.imgur.com/8P8HVW2.png",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 100,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Набор для шитья",
+            "ShortName": "sewingkit",
+            "Amount": 10,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Костюм - ХАЗМАТ",
+            "ShortName": "hazmatsuit",
+            "Amount": 3,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": null,
+        "CommandResult": "inventory.giveto {0} scientistsuit_heavy 1"
+      },
+	  "Костюм хирурга": {
+        "DisplayName": "Костюм хирурга",
+        "DisplayDescription": "Костюм хирурга — Спецодежда хирурга.",
+        "DisplayImage": "halloween.surgeonsuit",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 150,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Набор для шитья",
+            "ShortName": "sewingkit",
+            "Amount": 6,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "halloween.surgeonsuit",
+        "CommandResult": null
+      },
+      "Костюм мумии": {
+        "DisplayName": "Костюм мумии (В работе)",
+        "DisplayDescription": "Костюм мумии",
+        "DisplayImage": "halloween.mummysuit",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 150,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "halloween.mummysuit",
+        "CommandResult": null
+      },
+      "Костюм чучела": {
+        "DisplayName": "Костюм чучела",
+        "DisplayDescription": "Пугливый костюм чучела",
+        "DisplayImage": "scarecrow.suit",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 150,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "scarecrow.suit",
+        "CommandResult": null
+      },
+      "Повязка чучела": {
+        "DisplayName": "Повязка чучела",
+        "DisplayDescription": "Повязка костюм чучела",
+        "DisplayImage": "scarecrowhead",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 25,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "scarecrowhead",
+        "CommandResult": null
+      },
+      "Шлем Clatter": {
+        "DisplayName": "Шлем Clatter",
+        "DisplayDescription": "Специальный шлем, для тех кто приобрел Clatter!",
+        "DisplayImage": "clatter.helmet",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 120,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "clatter.helmet",
+        "CommandResult": null
+      },
+      "Маска дракона": {
+        "DisplayName": "Маска дракона",
+        "DisplayDescription": "Маска дракона, предназначенная для празднования китайского Нового года",
+        "DisplayImage": "hat.dragonmask",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 20,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "hat.dragonmask",
+        "CommandResult": null
+      },
+	  "Маска крысы": {
+        "DisplayName": "Маска крысы",
+        "DisplayDescription": "Маска крысы - бронзово-золотая, сделана чтобы отпраздновать Лунный Новый год 2020 года!",
+        "DisplayImage": "hat.ratmask",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 20,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "hat.ratmask",
+        "CommandResult": null
+      },
+      "Гидрокостюм": {
+        "DisplayName": "Гидрокостюм",
+        "DisplayDescription": "Гидрокостюм — обеспечивает защиту от холода и влаги.",
+        "DisplayImage": "diving.wetsuit",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Брезент",
+            "ShortName": "tarp",
+            "Amount": 10,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Набор для шитья",
+            "ShortName": "sewingkit",
+            "Amount": 4,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 2,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "diving.wetsuit",
+        "CommandResult": null
+      },
+      "Балон с воздухом": {
+        "DisplayName": "Балон с воздухом",
+        "DisplayDescription": "Балон с воздухом — позволяет дышать под водой определенное время. Может быть пополнен на верстаке.",
+        "DisplayImage": "diving.tank",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Брезент",
+            "ShortName": "tarp",
+            "Amount": 2,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 150,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Пропановый баллон",
+            "ShortName": "propanetank",
+            "Amount": 2,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 5,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "diving.tank",
+        "CommandResult": null
+      },
+      "Подводная маска": {
+        "DisplayName": "Подводная маска",
+        "DisplayDescription": "Подводная маска — Обеспечивает четкое виденье под водой.",
+        "DisplayImage": "diving.mask",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Брезент",
+            "ShortName": "tarp",
+            "Amount": 2,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Набор для шитья",
+            "ShortName": "sewingkit",
+            "Amount": 1,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 5,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "diving.mask",
+        "CommandResult": null
+      },
+	  "Ласты для дайвинга": {
+        "DisplayName": "Ласты для дайвинга",
+        "DisplayDescription": "Ласты для дайвинга — обеспечивают значительный прирост скорости передвижения под водой.",
+        "DisplayImage": "diving.fins",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Брезент",
+            "ShortName": "tarp",
+            "Amount": 5,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Набор для шитья",
+            "ShortName": "sewingkit",
+            "Amount": 2,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 2,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "diving.fins",
+        "CommandResult": null
+      },
+      "Костюм кролика": {
+        "DisplayName": "Костюм кролика",
+        "DisplayDescription": "Костюм кролика — Обеспечивает дополнительную видимость яиц во время ивента",
+        "DisplayImage": "attire.bunny.onesie",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "attire.bunny.onesie",
+        "CommandResult": null
+      },
+      "Кроличьи ушки": {
+        "DisplayName": "Кроличьи ушки",
+        "DisplayDescription": "Кроличьи ушки — Обеспечивает дополнительную видимость яиц во время ивента",
+        "DisplayImage": "attire.bunnyears",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 50,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "attire.bunnyears",
+        "CommandResult": null
+      },
+      "Костюм Ящик": {
+        "DisplayName": "Костюм Ящик",
+        "DisplayDescription": "Одев этот костюм вы превратитесь в ящик.",
+        "DisplayImage": "cratecostume",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 1000,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "cratecostume",
+        "CommandResult": null
+      },
+      "Костюм Бочка": {
+        "DisplayName": "Костюм Бочка",
+        "DisplayDescription": "Одев этот костюм вы превратитесь в бочку.",
+        "DisplayImage": "barrelcostume",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Брезент",
+            "ShortName": "tarp",
+            "Amount": 10,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "barrelcostume",
+        "CommandResult": null
+      },
+      "Тактические перчатки": {
+        "DisplayName": "Тактические перчатки",
+        "DisplayDescription": "Тактические перчатки - дополнительная защита и стабилизация прицела.",
+        "DisplayImage": "tactical.gloves",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 100,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Кожа",
+            "ShortName": "leather",
+            "Amount": 500,
+            "SkinID": 0
+          },
+		  {
+            "DisplayName": "Набор для шитья",
+            "ShortName": "sewingkit",
+            "Amount": 5,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "tactical.gloves",
+        "CommandResult": null
+      },
+    }
+  },
+  "Инструменты": {
+    "CategoryName": "Инструменты",
+    "Items": {
+	  "Инструмент Garry’s Mod": {
+        "DisplayName": "Инструмент Garry’s Mod",
+        "DisplayDescription": "Инструмент Garry’s Mod — замена для киянки, которая позволит вам простым способом ремонтировать и модернизировать постройки.",
+        "DisplayImage": "toolgun",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 300,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "toolgun",
+        "CommandResult": null
+      },
+	  "Дымовая граната": {
+        "DisplayName": "Дымовая граната",
+        "DisplayDescription": "Дымовая граната — предназначенная в качестве индивидуального средства для создания зон задымления с целью маскировки отдельных огневых точек.",
+        "DisplayImage": "grenade.smoke",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлическая пружина",
+            "ShortName": "metalspring",
+            "Amount": 10,
+            "SkinID": 0
+          },
+		  {
+            "DisplayName": "Порох",
+            "ShortName": "gunpowder",
+            "Amount": 50,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "grenade.smoke",
+        "CommandResult": null
+      },
+	  "Фотоаппарат": {
+        "DisplayName": "Фотоаппарат",
+        "DisplayDescription": "Фотоаппарат — Для того, чтобы приблизить или отдалить кадр (Zoom), зажмите правую кнопку мыши и двигайте мышь вперёд и назад соответственно. Снимок попадает сразу в стим!",
+        "DisplayImage": "tool.camera",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "tool.camera",
+        "CommandResult": null
+      },
+      "Отбойный молоток": {
+        "DisplayName": "Отбойный молоток",
+        "DisplayDescription": "Отбойный молоток — пневматический отбойный молоток, пробивающий руду. За счет мощности данного устройства вам не потребуется наводиться на слабые участки",
+        "DisplayImage": "jackhammer",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 500,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлическая труба",
+            "ShortName": "metalpipe",
+            "Amount": 40,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлическая пружина",
+            "ShortName": "metalspring",
+            "Amount": 10,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 1000,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "jackhammer",
+        "CommandResult": null
+      }
+    }
+  },
+  "Оружие": {
+    "CategoryName": "Оружие",
+    "Items": {
+      "LR-300 штурмовая винтовка": {
+        "DisplayName": "LR-300 штурмовая винтовка",
+        "DisplayDescription": "LR-300 штурмовая винтовка — автоматическое стрелковое оружие калибра 5.56. В отличии от штурмовой винтовки имеет более низкую отдачу, но с большим разбросом.",
+        "DisplayImage": "rifle.lr300",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 5000,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Корпус винтовки",
+            "ShortName": "riflebody",
+            "Amount": 10,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлическая пружина",
+            "ShortName": "metalspring",
+            "Amount": 80,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 1000,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "rifle.lr300",
+        "CommandResult": null
+      },
+      "M39 Rifle": {
+        "DisplayName": "M39 Rifle",
+        "DisplayDescription": "M39 Rifle — полуавтоматическое стрелковое оружие калибра 5.56.",
+        "DisplayImage": "rifle.m39",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 2500,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлическая пружина",
+            "ShortName": "metalspring",
+            "Amount": 80,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 1000,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "rifle.m39",
+        "CommandResult": null
+      },
+      "Снайперка L96": {
+        "DisplayName": "Accuracy International L96",
+        "DisplayDescription": "Accuracy International L96 — Снайперская винтовка калибра 5.56.",
+        "DisplayImage": "rifle.l96",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 5000,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлическая пружина",
+            "ShortName": "metalspring",
+            "Amount": 100,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 1000,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "rifle.l96",
+        "CommandResult": null
+      },
+	  "Пулемёт М249": {
+        "DisplayName": "Пулемёт М249",
+        "DisplayDescription": "Вариант ручного пулемёта FN Minimi для армии США калибра 5,56×45 мм американского производства, серийное производство началось в 1980-х годах.",
+        "DisplayImage": "lmg.m249",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 20000,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Корпус винтовки",
+            "ShortName": "riflebody",
+            "Amount": 200,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлическая пружина",
+            "ShortName": "metalspring",
+            "Amount": 150,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 5000,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "lmg.m249",
+        "CommandResult": null
+      },
+	  "Дробовик SPAS-12": {
+        "DisplayName": "Дробовик SPAS-12",
+        "DisplayDescription": "Дробовик SPAS-12 — (Полное название Franchi SPAS-12) полуавтоматический дробовик итальянского производства, считающийся одним из лучших оружий для ведения ближних боев в мире.",
+        "DisplayImage": "shotgun.spas12",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 3500,
+            "SkinID": 0
+          },
+		  {
+            "DisplayName": "Металлическая труба",
+            "ShortName": "metalpipe",
+            "Amount": 40,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлическая пружина",
+            "ShortName": "metalspring",
+            "Amount": 120,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 800,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "shotgun.spas12",
+        "CommandResult": null
+      },
+	  "Беретта М92": {
+        "DisplayName": "Беретта М92",
+        "DisplayDescription": "Беретта М92 — скорострельный и точный полуавтоматический пистолет военного образца.",
+        "DisplayImage": "pistol.m92",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 1500,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлическая пружина",
+            "ShortName": "metalspring",
+            "Amount": 80,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 750,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "pistol.m92",
+        "CommandResult": null
+      },
+	  "Фугасная граната 40-мм": {
+        "DisplayName": "Фугасная граната 40-мм",
+        "DisplayDescription": "Фугасная граната — боекомплект для 40-мм гранатомета.\nДамаг - 120 HP.\nРадиус осколков - 5 метров",
+        "DisplayImage": "ammo.grenadelauncher.he",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Порох",
+            "ShortName": "gunpowder",
+            "Amount": 300,
+            "SkinID": 0
+          },
+		  {
+            "DisplayName": "Металлическая труба",
+            "ShortName": "metalpipe",
+            "Amount": 30,
+            "SkinID": 0
+          },
+		  {
+            "DisplayName": "Взрывчатое вещество",
+            "ShortName": "explosives",
+            "Amount": 80,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "ammo.grenadelauncher.he",
+        "CommandResult": null
+      },
+	  "Прицел Х16": {
+        "DisplayName": "Прицел Х16",
+        "DisplayDescription": "Прицел Х16 - Настоящий оптический зум, круче только у бинокля!",
+        "DisplayImage": "weapon.mod.8x.scope",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 500,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Старые микросхемы",
+            "ShortName": "techparts",
+            "Amount": 200,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "weapon.mod.8x.scope",
+        "CommandResult": null
+      },
+	  "Butchers Knife": {
+        "DisplayName": "Butchers Knife",
+        "DisplayDescription": "Butchers Knife — нож мясника",
+        "DisplayImage": "knife.butcher",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 50,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 250,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "knife.butcher",
+        "CommandResult": null
+      },
+      "Sickle": {
+        "DisplayName": "Sickle",
+        "DisplayDescription": "Sickle — серп, не хватает только молота",
+        "DisplayImage": "sickle",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 10,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "sickle",
+        "CommandResult": null
+      },
+      "PitchFork": {
+        "DisplayName": "PitchFork",
+        "DisplayDescription": "PitchFork — вилы, теперь можно кого-нибудь заколоть",
+        "DisplayImage": "pitchfork",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 100,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 50,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "pitchfork",
+        "CommandResult": null
+      }
+    }
+  },
+  "Разное": {
+    "CategoryName": "Разное",
+    "Items": {
+      "Синее яйцо Фаберже": {
+        "DisplayName": "Синее яйцо фаберже",
+        "DisplayDescription": "Синее яйцо фаберже — Красивое рукотворное яйцо, сделанное из золота со вкраплениями сапфиров с миниатурным монументом внутри",
+        "DisplayImage": "rustige_egg_b",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 10,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "rustige_egg_b",
+        "CommandResult": null
+      },
+      "Красное яйцо Фаберже": {
+        "DisplayName": "Красное яйцо фаберже",
+        "DisplayDescription": "Красное яйцо фаберже — Изысканное рукотворное яйцо, сделанное из золота и бриллиантов. Когда открыто, то проигрывает особенную мелодию",
+        "DisplayImage": "rustige_egg_a",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 10,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "rustige_egg_a",
+        "CommandResult": null
+      },
+	  "Гигантские декоративные леденцы": {
+        "DisplayName": "Гигантские декоративные леденцы",
+        "DisplayDescription": "Гигантские декоративные леденцы — Проникнитесь духом рождества с этими декоративными огромными леденцами на палочке",
+        "DisplayImage": "giantlollipops",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 5,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "giantlollipops",
+        "CommandResult": null
+      },
+      "Огромный декоративный леденец": {
+        "DisplayName": "Огромный декоративный леденец",
+        "DisplayDescription": "Огромный декоративный леденец — Проникнитесь духом рождества с этим декоративным огромным леденцом",
+        "DisplayImage": "giantcandycanedecor",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 5,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "giantcandycanedecor",
+        "CommandResult": null
+      },
+      "Новогодние игрушки": {
+        "DisplayName": "Новогодние игрушки",
+        "DisplayDescription": "Новогодние игрушки — украсьте свою елку новогодними игрушками",
+        "DisplayImage": "xmas.decoration.tinsel",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 5,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "xmas.decoration.tinsel",
+        "CommandResult": null
+      },
+      "Новогодние игрушки*": {
+        "DisplayName": "Новогодние игрушки*",
+        "DisplayDescription": "Новогодние игрушки — украсьте свою елку новогодними игрушками",
+        "DisplayImage": "xmas.decoration.baubels",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 5,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "xmas.decoration.baubels",
+        "CommandResult": null
+      },
+      "Новогодние игрушки**": {
+        "DisplayName": "Новогодние игрушки**",
+        "DisplayDescription": "Новогодние игрушки — украсьте свою елку новогодними игрушками",
+        "DisplayImage": "xmas.decoration.gingerbreadmen",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 5,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "xmas.decoration.gingerbreadmen",
+        "CommandResult": null
+      },
+      "Новогодние игрушки***": {
+        "DisplayName": "Новогодние игрушки***",
+        "DisplayDescription": "Новогодние игрушки — украсьте свою елку новогодними игрушками",
+        "DisplayImage": "xmas.decoration.pinecone",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 5,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "xmas.decoration.pinecone",
+        "CommandResult": null
+      },
+      "Новогодние игрушки****": {
+        "DisplayName": "Новогодние игрушки****",
+        "DisplayDescription": "Новогодние игрушки — украсьте свою елку новогодними игрушками",
+        "DisplayImage": "xmas.decoration.candycanes",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 5,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "xmas.decoration.candycanes",
+        "CommandResult": null
+      },
+      "Новогодние игрушки*****": {
+        "DisplayName": "Новогодние игрушки*****",
+        "DisplayDescription": "Новогодние игрушки — украсьте свою елку новогодними игрушками",
+        "DisplayImage": "xmas.decoration.star",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 5,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "xmas.decoration.star",
+        "CommandResult": null
+      },
+      "Новогодняя елка": {
+        "DisplayName": "Новогодняя елка",
+        "DisplayDescription": "Новогодняя елка — Проникнитесь духом рождества с этой декоративной рождественской ёлкой",
+        "DisplayImage": "xmas.tree",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 500,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 30,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "xmas.tree",
+        "CommandResult": null
+      },
+      "Новогодний венок": {
+        "DisplayName": "Новогодний венок",
+        "DisplayDescription": "Новогодний венок — Проникнитесь духом рождества с этим праздничным венком",
+        "DisplayImage": "xmasdoorwreath",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 30,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "xmasdoorwreath",
+        "CommandResult": null
+      },
+      "Праздничная дверная гирлянда": {
+        "DisplayName": "Праздничная дверная гирлянда",
+        "DisplayDescription": "Праздничная дверная гирлянда — Праздничное украшение, чтобы украсить ваш дверной проем во время праздников!",
+        "DisplayImage": "xmas.door.garland",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 50,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "xmas.door.garland",
+        "CommandResult": null
+      },
+      "Праздничная оконная гирлянда": {
+        "DisplayName": "Праздничная оконная гирлянда",
+        "DisplayDescription": "Праздничная оконная гирлянда — Праздничное украшение, чтобы украсить ваши окна во время праздников!",
+        "DisplayImage": "xmas.window.garland",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 50,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "xmas.window.garland",
+        "CommandResult": null
+      },
+      "Новогодняя гирлянда": {
+        "DisplayName": "Новогодняя гирлянда",
+        "DisplayDescription": "Новогодняя гирлянда — Нить светящихся огней для украшения дома",
+        "DisplayImage": "xmas.lightstring",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Топливо низкого качества",
+            "ShortName": "lowgradefuel",
+            "Amount": 25,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 50,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "xmas.lightstring",
+        "CommandResult": null
+      },
+      "Новогодние игрушки******": {
+        "DisplayName": "Новогодние игрушки******",
+        "DisplayDescription": "Новогодние игрушки — украсьте свою елку новогодними игрушками",
+        "DisplayImage": "xmas.decoration.lights",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 50,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 250,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "xmas.decoration.lights",
+        "CommandResult": null
+      },
+      "Снеговик": {
+        "DisplayName": "Снеговик",
+        "DisplayDescription": "Снеговик — Проникнитесь духом рождества с этим декоративным снеговиком",
+        "DisplayImage": "snowman",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Уголь",
+            "ShortName": "charcoal",
+            "Amount": 50,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 20,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 20,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "snowman",
+        "CommandResult": null
+      },
+	  "Болотное дерево": {
+        "DisplayName": "Болотное дерево",
+        "DisplayDescription": "Болотные деревья растут, как ни странно, на болоте. При добыче дается гораздо меньше древесины чем с других деревьев.",
+        "DisplayImage": "https://i.imgur.com/l7jiKdQ.png",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 800000,
+            "SkinID": 0
+          },
+		  {
+            "DisplayName": "Удобрение",
+            "ShortName": "fertilizer",
+            "Amount": 10,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": null,
+        "CommandResult": "derevogive {0} болотное_дерево"
+      },
+	  "Берёза": {
+        "DisplayName": "Берёза",
+        "DisplayDescription": "Береза - это небольшое дерево по сравнению с другими деревьями. Несмотря на низкую высоту, количество древесины одинаковое, что делает ее идеальным деревом для скрытой добычи древесины, поскольку любой, кто ищет сражения, как правило, ищет анимацию падения деревьев. Хотя у березы действительно есть падающая анимация, но она более незаметна. В Березе нет ничего особенного, поскольку она довольно распространена.",
+        "DisplayImage": "https://i.imgur.com/kiy1AIs.png",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 850000,
+            "SkinID": 0
+          },
+		  {
+            "DisplayName": "Удобрение",
+            "ShortName": "fertilizer",
+            "Amount": 5,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": null,
+        "CommandResult": "derevogive {0} берёза"
+      },
+	  "Пальма": {
+        "DisplayName": "Пальма",
+        "DisplayDescription": "Распространенный тип дерева, встречающийся в пустынных областях карты. Можно собирать как обычное дерево, при сборе дает древесину.",
+        "DisplayImage": "https://i.imgur.com/LqpyqXv.png",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 800000,
+            "SkinID": 0
+          },
+		  {
+            "DisplayName": "Удобрение",
+            "ShortName": "fertilizer",
+            "Amount": 5,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": null,
+        "CommandResult": "derevogive {0} пальма"
+      },
+	  "Ель": {
+        "DisplayName": "Ель",
+        "DisplayDescription": "Ель - это дерево, которое обычно растет в густых лесных районах, при сборе они дают древесину немного больше чем другие. Единственное, что примечательно, это то, что дерево довольно высокое, что делает его не оптимальным для скрытной добычи и привлечет внимание других игроков поблизости.",
+        "DisplayImage": "https://i.imgur.com/Wpu8t99.png",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 950000,
+            "SkinID": 0
+          },
+		  {
+            "DisplayName": "Удобрение",
+            "ShortName": "fertilizer",
+            "Amount": 8,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": null,
+        "CommandResult": "derevogive {0} ель"
+      },
+	  "Сосна": {
+        "DisplayName": "Сосна",
+        "DisplayDescription": "Сосна - обычное дерево, высокая густота в лесах. Ничего особенного. Сосны в реальной жизни на самом деле довольно сильны. Древесина более темного оттенка, чем обычная древесина. Эти деревья скучны и многочисленны.",
+        "DisplayImage": "https://i.imgur.com/J5jfl8h.png",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 950000,
+            "SkinID": 0
+          },
+		  {
+            "DisplayName": "Удобрение",
+            "ShortName": "fertilizer",
+            "Amount": 8,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": null,
+        "CommandResult": "derevogive {0} сосна"
+      },
+	  "Дуб": {
+        "DisplayName": "Дуб",
+        "DisplayDescription": "Дуб — род деревьев и кустарников семейства Буковые. Громосткие и легко защитят вашу постройку от видимости врага.",
+        "DisplayImage": "https://i.imgur.com/p8b7VKE.png",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 1000000,
+            "SkinID": 0
+          },
+		  {
+            "DisplayName": "Удобрение",
+            "ShortName": "fertilizer",
+            "Amount": 10,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": null,
+        "CommandResult": "derevogive {0} дуб"
+      }
+    }
+  },
+  "Транспорт": {
+    "CategoryName": "Транспорт",
+    "Items": {
+      "Миникоптер": {
+        "DisplayName": "Миникоптер",
+        "DisplayDescription": "Миникоптер — на нем можно летать, но без образования пилота лучше не садиться",
+        "DisplayImage": "https://i.imgur.com/WDR9ZPt.png",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 10000,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 500,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Листовой металл",
+            "ShortName": "sheetmetal",
+            "Amount": 30,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 5000,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": null,
+        "CommandResult": "vehicle.give {0} minicopter"
+      },
+      "Транспортный вертолет": {
+        "DisplayName": "Транспортный вертолет",
+        "DisplayDescription": "Транспортный вертолет — большой, трудноуправляемые вертолет позволит перевезти целую толпу",
+        "DisplayImage": "https://i.imgur.com/mkWvgXF.png",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 12000,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металл высокого качества",
+            "ShortName": "metal.refined",
+            "Amount": 750,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Листовой металл",
+            "ShortName": "sheetmetal",
+            "Amount": 35,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 7500,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": null,
+        "CommandResult": "vehicle.give {0} scraptransportheli"
+      },
+	  //"Чинук": {
+      //  "DisplayName": "Чинук",
+      //  "DisplayDescription": "Чинук — большой, трудноуправляемые вертолет немного полегче в управлении чем транспортный скрап вертолёт",
+      //  "DisplayImage": "https://i.imgur.com/5Zjup9M.png",
+      //  "WorkbenchLevel": 0,
+      //  "Ingredients": [
+      //    {
+      //      "DisplayName": "Фрагменты металла",
+      //      "ShortName": "metal.fragments",
+      //      "Amount": 10000,
+      //      "SkinID": 0
+      //    },
+      //    {
+      //      "DisplayName": "Металл высокого качества",
+      //      "ShortName": "metal.refined",
+      //      "Amount": 1500,
+      //      "SkinID": 0
+      //    },
+      //    {
+      //      "DisplayName": "Листовой металл",
+      //      "ShortName": "sheetmetal",
+      //      "Amount": 100,
+      //      "SkinID": 0
+      //    },
+      //    {
+      //      "DisplayName": "Металлолом",
+      //      "ShortName": "scrap",
+      //      "Amount": 1500,
+      //      "SkinID": 0
+      //    }
+      //  ],
+      //  "ItemResult": null,
+      //  "CommandResult": "vehicle.give {0} ch47"
+      //},
+	  "Военная лодка": {
+        "DisplayName": "Военная лодка",
+        "DisplayDescription": "Военная лодка — ну если можно её так назвать, а так намного лучше деревянной!",
+        "DisplayImage": "https://i.imgur.com/E9MGLfI.png",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Фрагменты металла",
+            "ShortName": "metal.fragments",
+            "Amount": 2000,
+            "SkinID": 0
+          },
+		  {
+            "DisplayName": "Дерево",
+            "ShortName": "wood",
+            "Amount": 3000,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Листовой металл",
+            "ShortName": "sheetmetal",
+            "Amount": 20,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 200,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": null,
+        "CommandResult": "vehicle.give {0} rhib"
+      },
+      "Лошадь": {
+        "DisplayName": "Лошадь",
+        "DisplayDescription": "Лошадь — 1 лошадиная сила к успешному рейду!",
+        "DisplayImage": "https://i.imgur.com/SsIIhpL.png",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Набор для шитья",
+            "ShortName": "sewingkit",
+            "Amount": 10,
+            "SkinID": 0
+          },
+	      {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 3000,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Кожа",
+            "ShortName": "leather",
+            "Amount": 1000,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 1000,
+           "SkinID": 0
+          }
+        ],
+        "ItemResult": null,
+        "CommandResult": "vehicle.give {0} horse"
+      },
+      //"Машина": {
+      //  "DisplayName": "Машина",
+      //  "DisplayDescription": "Машина — двигун собран в Украине, ходовую нашли где-то на мусорке в Белоруссии!",
+      //  "DisplayImage": "https://i.imgur.com/fx4mt1R.png",
+      //  "WorkbenchLevel": 0,
+      //  "Ingredients": [
+      //    {
+      //      "DisplayName": "Фрагменты металла",
+      //      "ShortName": "metal.fragments",
+      //      "Amount": 1000,
+      //      "SkinID": 0
+      //    },
+	  //	{
+      //      "DisplayName": "Дерево",
+      //      "ShortName": "wood",
+      //      "Amount": 2000,
+      //      "SkinID": 0
+      //    },
+      //    {
+      //      "DisplayName": "Листовой металл",
+      //      "ShortName": "sheetmetal",
+      //      "Amount": 10,
+      //      "SkinID": 0
+      //    },
+      //    {
+      //      "DisplayName": "Металлолом",
+      //      "ShortName": "scrap",
+      //      "Amount": 100,
+      //      "SkinID": 0
+      //    }
+      //  ],
+      //  "ItemResult": null,
+      //  "CommandResult": "vehicle.give {0} sedan"
+      //},
+      "Воздушный шар": {
+        "DisplayName": "Воздушный шар",
+        "DisplayDescription": "Воздушный шар — можно летать высоко-высоко!",
+        "DisplayImage": "https://i.imgur.com/K1WMsce.png",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Набор для шитья",
+            "ShortName": "sewingkit",
+            "Amount": 100,
+            "SkinID": 0
+          },
+		  {
+            "DisplayName": "Ткань",
+            "ShortName": "cloth",
+            "Amount": 5000,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 1000,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": null,
+        "CommandResult": "vehicle.give {0} balloon"
+      }
+    }
+  },
+  "Салюты": {
+    "CategoryName": "Салюты",
+    "Items": {
+      "Фейерверк римская свеча (зеленый)": {
+        "DisplayName": "Фейерверк римская свеча (зеленый)",
+        "DisplayDescription": "Фейерверк римская свеча — зажигается ударом факела!",
+        "DisplayImage": "firework.romancandle.green",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Порох",
+            "ShortName": "gunpowder",
+            "Amount": 30,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "firework.romancandle.green",
+        "CommandResult": null
+      },
+      "Фейерверк римская свеча (красный)": {
+        "DisplayName": "Фейерверк римская свеча (красный)",
+        "DisplayDescription": "Фейерверк римская свеча — зажигается ударом факела!",
+        "DisplayImage": "firework.romancandle.red",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Порох",
+            "ShortName": "gunpowder",
+            "Amount": 30,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "firework.romancandle.red",
+        "CommandResult": null
+      },
+      "Фейерверк римская свеча (фиолетовый)": {
+        "DisplayName": "Фейерверк римская свеча (фиолетовый)",
+        "DisplayDescription": "Фейерверк римская свеча — зажигается ударом факела!",
+        "DisplayImage": "firework.romancandle.violet",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Порох",
+            "ShortName": "gunpowder",
+            "Amount": 30,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "firework.romancandle.violet",
+        "CommandResult": null
+      },
+	  "Фейерверк римская свеча (синый)": {
+        "DisplayName": "Фейерверк римская свеча (синий)",
+        "DisplayDescription": "Фейерверк римская свеча — зажигается ударом факела!",
+        "DisplayImage": "firework.romancandle.blue",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Порох",
+            "ShortName": "gunpowder",
+            "Amount": 30,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "firework.romancandle.blue",
+        "CommandResult": null
+      },
+      "Фейерверк вулкан (красный)": {
+        "DisplayName": "Фейерверк вулкан (красный)",
+        "DisplayDescription": "Фейерверк вулкан — зажигается ударом факела!",
+        "DisplayImage": "firework.volcano.red",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Порох",
+            "ShortName": "gunpowder",
+            "Amount": 30,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "firework.volcano.red",
+        "CommandResult": null
+      },
+      "Фейерверк вулкан (фиолетовый)": {
+        "DisplayName": "Фейерверк вулкан (фиолетовый)",
+        "DisplayDescription": "Фейерверк вулкан — зажигается ударом факела!",
+        "DisplayImage": "firework.volcano.violet",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Порох",
+            "ShortName": "gunpowder",
+            "Amount": 30,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "firework.volcano.violet",
+        "CommandResult": null
+      },
+      "Фейерверк вулкан (желтый)": {
+        "DisplayName": "Фейерверк вулкан (желтый)",
+        "DisplayDescription": "Фейерверк вулкан — зажигается ударом факела!",
+        "DisplayImage": "firework.volcano",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Порох",
+            "ShortName": "gunpowder",
+            "Amount": 30,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "firework.volcano",
+        "CommandResult": null
+      },
+      "Петарды": {
+        "DisplayName": "Петарды",
+        "DisplayDescription": "Петарды — хороший способ напугать! Имитирует стрельбу из пулемёта!",
+        "DisplayImage": "lunar.firecrackers",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Порох",
+            "ShortName": "gunpowder",
+            "Amount": 30,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "lunar.firecrackers",
+        "CommandResult": null
+      },
+      "Фейерверк бумер": {
+        "DisplayName": "Фейерверк бумер (большой)",
+        "DisplayDescription": "Фейерверк бумер — зажигается ударом факела!",
+        "DisplayImage": "firework.boomer.champagne",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Порох",
+            "ShortName": "gunpowder",
+            "Amount": 100,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 500,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "firework.boomer.champagne",
+        "CommandResult": null
+      },
+      "Фейерверк бумер (зелёный)": {
+        "DisplayName": "Фейерверк бумер (зелёный)",
+        "DisplayDescription": "Фейерверк бумер — зажигается ударом факела!",
+        "DisplayImage": "firework.boomer.green",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Порох",
+            "ShortName": "gunpowder",
+            "Amount": 100,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 400,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "firework.boomer.green",
+        "CommandResult": null
+      },
+      "Фейерверк бумер (красный)": {
+        "DisplayName": "Фейерверк бумер (красный)",
+        "DisplayDescription": "Фейерверк бумер — зажигается ударом факела!",
+        "DisplayImage": "firework.boomer.red",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Порох",
+            "ShortName": "gunpowder",
+            "Amount": 100,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 400,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "firework.boomer.red",
+        "CommandResult": null
+      },
+      "Фейерверк бумер (синый)": {
+        "DisplayName": "Фейерверк бумер (синий)",
+        "DisplayDescription": "Фейерверк бумер — зажигается ударом факела!",
+        "DisplayImage": "firework.boomer.blue",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Порох",
+            "ShortName": "gunpowder",
+            "Amount": 100,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 400,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "firework.boomer.blue",
+        "CommandResult": null
+      },
+      "Фейерверк бумер (фиолетовый)": {
+        "DisplayName": "Фейерверк бумер (фиолетовый)",
+        "DisplayDescription": "Фейерверк бумер — зажигается ударом факела!",
+        "DisplayImage": "firework.boomer.violet",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Порох",
+            "ShortName": "gunpowder",
+            "Amount": 100,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 400,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "firework.boomer.violet",
+        "CommandResult": null
+      },
+      "Фейерверк бумер (оранжевый)": {
+        "DisplayName": "Фейерверк бумер (оранжевый)",
+        "DisplayDescription": "Фейерверк бумер — зажигается ударом факела!",
+        "DisplayImage": "firework.boomer.orange",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Порох",
+            "ShortName": "gunpowder",
+            "Amount": 100,
+            "SkinID": 0
+          },
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 400,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "firework.boomer.orange",
+        "CommandResult": null
+      }
+    }
+  },
+  "Музыка": {
+    "CategoryName": "Музыка",
+    "Items": {
+      "Ксилобон": {
+        "DisplayName": "Ксилобон",
+        "DisplayDescription": "Игральный инструмент",
+        "DisplayImage": "xylophone",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "xylophone",
+        "CommandResult": null
+      },
+      "Флейта": {
+        "DisplayName": "Флейта",
+        "DisplayDescription": "Игральный инструмент",
+        "DisplayImage": "fun.flute",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "fun.flute",
+        "CommandResult": null
+      },
+      "Пианино": {
+        "DisplayName": "Пианино",
+        "DisplayDescription": "Игральный инструмент",
+        "DisplayImage": "piano",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "piano",
+        "CommandResult": null
+      },
+	  "Весёлая труба": {
+        "DisplayName": "Весёлая труба",
+        "DisplayDescription": "Игральный инструмент",
+        "DisplayImage": "fun.tuba",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "fun.tuba",
+        "CommandResult": null
+      },
+      "Труба сантехника": {
+        "DisplayName": "Труба сантехника",
+        "DisplayDescription": "Игральный инструмент",
+        "DisplayImage": "fun.trumpet",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "fun.trumpet",
+        "CommandResult": null
+      },
+      "Гонг": {
+        "DisplayName": "Гонг",
+        "DisplayDescription": "Игральный инструмент",
+        "DisplayImage": "newyeargong",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "newyeargong",
+        "CommandResult": null
+      },
+      "Бубен": {
+        "DisplayName": "Бубен",
+        "DisplayDescription": "Игральный инструмент",
+        "DisplayImage": "fun.tambourine",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "fun.tambourine",
+        "CommandResult": null
+      },
+      "Барабаны": {
+        "DisplayName": "Барабаны",
+        "DisplayDescription": "Игральный инструмент",
+        "DisplayImage": "drumkit",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "drumkit",
+        "CommandResult": null
+      },
+      "Колокольчик": {
+        "DisplayName": "Колокольчик",
+        "DisplayDescription": "Игральный инструмент",
+        "DisplayImage": "fun.cowbell",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "fun.cowbell",
+        "CommandResult": null
+      },
+      "Канистра гитара": {
+        "DisplayName": "Канистра гитара",
+        "DisplayDescription": "Игральный инструмент",
+        "DisplayImage": "fun.jerrycanguitar",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "fun.jerrycanguitar",
+        "CommandResult": null
+      },
+      "Бас-гитара": {
+        "DisplayName": "Бас-гитара",
+        "DisplayDescription": "Игральный инструмент",
+        "DisplayImage": "fun.bass",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "fun.bass",
+        "CommandResult": null
+      }
+    }
+  },
+  "Летнее_DLC": {
+    "CategoryName": "Летнее DLC",
+    "Items": {
+      "Доска буги-вуги": {
+        "DisplayName": "Доска буги-вуги",
+        "DisplayDescription": "Доска буги-вуги - позволяют вам отправиться в океан в стиле. Бросьте его в любой водоем, и вы можете грести вокруг, сколько душе угодно.",
+        "DisplayImage": "boogieboard",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 300,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "boogieboard",
+        "CommandResult": null
+      },
+      "Пляжное кресло": {
+        "DisplayName": "Пляжное кресло",
+        "DisplayDescription": "Пляжное кресло - большое кресло, в котором вы можете откинуться назад и расслабиться!",
+        "DisplayImage": "beachchair",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "beachchair",
+        "CommandResult": null
+      },
+	  "Надземный бассейн": {
+        "DisplayName": "Надземный бассейн",
+        "DisplayDescription": "Надземный бассейн - это огромный бассейн с большим количеством места для водных развлечений. Помимо большого бассейна, он также включает в себя палубу, где вы можете разместить другие реквизиты, такие как стулья, инструменты и башенки.",
+        "DisplayImage": "abovegroundpool",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 1000,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "abovegroundpool",
+        "CommandResult": null
+      },
+      "Надувной круг": {
+        "DisplayName": "Надувной круг",
+        "DisplayDescription": "Надувной круг немного медленнее чем доска Буги, но может легко поворачиваться, в то время как доска Буги построена для скорости, но не может поворачиваться так хорошо как надувной круг.",
+        "DisplayImage": "innertube",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 200,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "innertube",
+        "CommandResult": null
+      },
+      "Пляжный столик": {
+        "DisplayName": "Пляжный столик",
+        "DisplayDescription": "Этот мебельный гарнитур включает в себя три отдельных реквизита для оформления вашего наземного бассейна.",
+        "DisplayImage": "beachtable",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "beachtable",
+        "CommandResult": null
+      },
+      "Пляжный зонтик": {
+        "DisplayName": "Пляжный зонтик",
+        "DisplayDescription": "Большой зонтик, который снижает температуру для всех игроков под ним!",
+        "DisplayImage": "beachparasol",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "beachparasol",
+        "CommandResult": null
+      },
+      "Пляжное полотенце": {
+        "DisplayName": "Пляжное полотенце",
+        "DisplayDescription": "Пляжное полотенце - это новый предмет, который действует как точка возрождения. Хотя он действительно хорошо работает на пляже и у бассейна, он будет работать везде, где вы можете использовать спальный мешок.",
+        "DisplayImage": "beachtowel",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 300,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "beachtowel",
+        "CommandResult": null
+      },
+      "Солнцезащитные очки": {
+        "DisplayName": "Солнцезащитные очки",
+        "DisplayDescription": "Защитите свои глаза от жаркого солнца с помощью новых оснащаемых солнцезащитных очков. Не обеспечивает никакой защиты, но они выглядят действительно круто.",
+        "DisplayImage": "sunglasses",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 100,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "sunglasses",
+        "CommandResult": null
+      },
+      "Водяной пистолет": {
+        "DisplayName": "Водяной пистолет",
+        "DisplayDescription": "Замочите своих товарищей или врагов (если у них тоже есть водяной пистолет) достаточно, и они начнут получать урон от воды. Водяной пистолет имеет низкую мощность и дальность действия,но не требует перекачки.",
+        "DisplayImage": "pistol.water",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 150,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "pistol.water",
+        "CommandResult": null
+      },
+      "Водяное ружьё": {
+        "DisplayName": "Водяное ружьё",
+        "DisplayDescription": "Более крупная водяная пушка имеет увеличенную дальность действия и производительность, но для поддержания ее расширенного диапазона потребуется прокачка.",
+        "DisplayImage": "gun.water",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 300,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "gun.water",
+        "CommandResult": null
+      },
+	  "Камера-полароид": {
+        "DisplayName": "Камера-полароид",
+        "DisplayDescription": "Фотоаппарат с мгновенным фото, которое можно поместить в фоторамку! Так же может делать до 30 фотографий! Камера имеет функцию масштабирования, которую можно регулировать перетаскиванием с помощью нажатой правой кнопки мыши. Он также может переключаться между бесконечной, автоматической или ручной фокусировкой с помощью кнопки перезагрузки. Ручная фокусировка может быть отрегулирована с помощью shift + правая кнопка мыши!",
+        "DisplayImage": "tool.instant_camera",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 750,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "tool.instant_camera",
+        "CommandResult": null
+      },
+	  "Фоторамка портретная": {
+        "DisplayName": "Фоторамка портретная",
+        "DisplayDescription": "Поместите в неё сделанное вами фотографию и вы сделаете портрет!",
+        "DisplayImage": "photoframe.portrait",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 200,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "photoframe.portrait",
+        "CommandResult": null
+      },
+	  "Фоторамка горизонтальная": {
+        "DisplayName": "Фоторамка горизонтальная",
+        "DisplayDescription": "Поместите в неё сделанное вами фотографию и вы сделаете портрет!",
+        "DisplayImage": "photoframe.landscape",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 300,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "photoframe.landscape",
+        "CommandResult": null
+      },
+	  "Огромная фоторамка": {
+        "DisplayName": "Огромная фоторамка",
+        "DisplayDescription": "Поместите в неё сделанное вами фотографию и вы сделаете портрет!",
+        "DisplayImage": "photoframe.large",
+        "WorkbenchLevel": 0,
+        "Ingredients": [
+          {
+            "DisplayName": "Металлолом",
+            "ShortName": "scrap",
+            "Amount": 500,
+            "SkinID": 0
+          }
+        ],
+        "ItemResult": "photoframe.large",
+        "CommandResult": null
+      }
+    }
+  }
+}

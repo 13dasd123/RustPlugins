@@ -1,0 +1,74 @@
+{
+  "Автоматически удалять DATA файл при вайпе? [Automatically delete DATA file when wipe?]": true,
+  "Использовать плагин друзей? [Use friends plugin?]": false,
+  "Использовать плагин кланов? [Use clans plugin?]": true,
+  "Использовать систему друзей игры? [Use rust teams system?]": false,
+  "Настройки дома[SETTINGS HOME]": {
+    "Время на телепортацию ('Пермишен': Секунд) [Teleportation Time('Permission': seconds)]": {
+      "teleportation.default": 10.0
+    },
+    "Учитывать дистанцию при телепортации? [Take into account the distance?]": false,
+    "КД на телепортацию('Пермишен': Секунд) [Cooldown Teleportation('Permission': seconds)]": {
+      "teleportation.default": 30.0
+    },
+    "Количество домов['Пермишен': Количество] [Count Home ('Permission': seconds)]": {
+      "teleportation.default": 3
+    },
+    "Множитель телепортации(для дистанции) [Multiplier teleportation for distance]": 10.0,
+    "Проверять фундамент на владельца? [Check foundation for owner?]": true,
+    "Список разрешенных для установки дома блоков [Valid building blocks for home]": [
+      "assets/prefabs/building core/foundation/foundation.prefab",
+      "assets/prefabs/building core/foundation.triangle/foundation.triangle.prefab"
+    ],
+    "Включить систему спальников? [Enable sleeping bag system?]": false
+  },
+  "Настройки монументов[SETTINGS MONUMENTs]": {
+    "Список доступных монументов [Available monument to teleport]": [
+      {
+        "Оффсет позиция относительно центра РТ [Position offset from center of RT]": {
+          "x": -30.2480469,
+          "y": 2.18783569,
+          "z": 14.8937988
+        },
+        "Краткое имя монумента НЕ МЕНЯТЬ [Short name of the monument DO NOT EDIT]": "compound",
+        "Отображаемое имя монумента [Display name of the monument]": "compound",
+        "Краткая команда телепорта (можно оставить пустым) [Short version of command (can be empty)]": "compound",
+        "Откат для телепорта отдельный [Individual teleport cooldown]": 300.0,
+        "Общий откат на телепорт [Common teleport cooldown]": 30.0,
+        "Время телепорта [Teleport time]": 30.0
+      }
+    ],
+    "Включить систему спальников? [Enable sleeping bag system?]": false
+  },
+  "Настройки телепортации[SETTINGS TELEPORT]": {
+    "Время на телепортацию ('Пермишен': Секунд) [Teleportation Time('Permission': seconds)]": {
+      "teleportation.default": 10.0
+    },
+    "Учитывать дистанцию при телепортации? [Take into account the distance?]": false,
+    "КД на телепортацию('Пермишен': Секунд) [Cooldown Teleportation('Permission': seconds)]": {
+      "teleportation.default": 30.0
+    },
+    "Множитель телепортации(для дистанции) [Multiplier teleportation for distance]": 10.0
+  },
+  "Настройки запретов[SETTINGS RESOLUTION]": {
+    "Запретить телепортацию в воде? [Prohibit teleportation in water?]": false,
+    "Запретить телепортацию, если упал? [Prohibit teleportation if dropped?]": true,
+    "Запретить телепортацию, если ползает? [Prohibit teleportation if crawling?]": true,
+    "Запретить телепортацию, если человек находится в билдинг зоне [Prohibit teleportation if a person is in the building zone]": false,
+    "Запретить телепортацию, если человек сидит на обьекте [Prohibit teleportation if a person is mounted]": false,
+    "Запретить телепортацию, если человек находиться на движущемся обьекте [Prohibit teleportation if a person is on moving object]": true,
+    "Запретить телепортацию, если человек находиться в воде [Prohibit teleportation if a person is in water]": false,
+    "Настройки радиации [Settings Radiation]": {
+      "Кол-во радиации, при которой будет вызываться запрет на телепортацию [Amount of radiation that will cause a ban on teleportation]": 5.0,
+      "Запретить телепортацию при радиации? [Prohibit teleportation during radiation?]": false
+    },
+    "Настройки кровотечения [Settings Bleeding]": {
+      "Кол-во кровотечение, при котором будет вызываться запрет на телепортацию [The amount of bleeding that will trigger a ban on teleportation]": 5.0,
+      "Запретить телепортацию при кровотечении? [Prohibit teleportation during bleeding?]": true
+    },
+    "Настройки температуры [Settings Temperature]": {
+      "Минимальное кол-во температуры, для отмены тп [Minimum temperature, for canceling TP]": 3.0,
+      "Запретить телепортацию при низкой температуре? [Prohibit teleportation at low temperatures?]": false
+    }
+  }
+}

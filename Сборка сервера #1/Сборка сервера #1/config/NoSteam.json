@@ -1,0 +1,10 @@
+{
+  "No Steam Game IDs": [
+    480
+  ],
+  "Allow Steam Players": true,
+  "Prevent Already Connected": false,
+  "Allow Whitelisted Only": false,
+  "Exclude No Steam Players From Slots": true,
+  "Debug": false
+}

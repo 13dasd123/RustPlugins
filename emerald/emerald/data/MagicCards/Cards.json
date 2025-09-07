@@ -1,0 +1,242 @@
+[
+  {
+    "CardID": 1,
+    "ImageUrl": "file:///home/rustserver/serverfiles/oxide/data/MagicCards/card/armor2.png",
+    "ImageName": "armor",
+    "DispayName": "Металлическая маска",
+    "DisplayDescription": "Защита от огнестрельного оружия равна 10, режущего оружия ближнего боя 14 и тупого 14. От метательного оружия 14. С недавнего времени маска не защищает от холода и наоборот стала давать отрицательный эффект -3 пункта.",
+    "CardType": 0,
+    "Money": 10,
+    "CardsForUse": 3,
+    "Items": {
+      "metal.facemask": 1
+    },
+    "GrantCommands": [
+	  ""
+    ]
+  },
+  {
+    "CardID": 2,
+    "ImageUrl": "file:///home/rustserver/serverfiles/oxide/data/MagicCards/card/armor.png",
+    "ImageName": "armor2",
+    "DispayName": "Металлический нагрудник",
+    "DisplayDescription": "2 больших металлических пластины покрывающие грудь и спину. Имеет высокую защиту от огнестрельного - 12 единиц, от режущего, метательного, тупого имеет защиту в 10 единиц. Нагрудник снижает защиту от холода на -10 единиц.",
+    "CardType": 0,
+    "Money": 10,
+    "CardsForUse": 3,
+    "Items": {
+      "metal.plate.torso": 1
+    },
+    "GrantCommands": [
+	  ""
+    ]
+  },
+  {
+    "CardID": 10,
+    "ImageUrl": "file:///home/rustserver/serverfiles/oxide/data/MagicCards/card/explouse.png",
+    "ImageName": "explouse",
+    "DispayName": "Взрывчатка с таймером",
+    "DisplayDescription": "Бомба с таймером или C4. Основной инструмент рейда баз. Автоматически активируется и взрывается с паузой в 10 секунд. С4 намного эффективней ракет, хотя, в некоторых ситуациях может быть и наоборот.",
+    "CardType": 0,
+    "Money": 10,
+    "CardsForUse": 10,
+    "Items": {
+      "explosive.timed": 1
+    },
+    "GrantCommands": [
+	  ""
+    ]
+  },
+  {
+    "CardID": 11,
+    "ImageUrl": "file:///home/rustserver/serverfiles/oxide/data/MagicCards/card/explouse2.png",
+    "ImageName": "explouse2",
+    "DispayName": "Сигнальная граната",
+    "DisplayDescription": "Через небольшое время после использования шашки, пролетит самолёт и сбросит в обозначенную дымом местность высокий ящик на парашюте (так называемый Airdrop)",
+    "CardType": 0,
+    "Money": 10,
+    "CardsForUse": 10,
+    "Items": {
+      "supply.signal": 1
+    },
+    "GrantCommands": [
+	  ""
+    ]
+  },
+  {
+    "CardID": 12,
+    "ImageUrl": "file:///home/rustserver/serverfiles/oxide/data/MagicCards/card/explouse3.png",
+    "ImageName": "explouse3",
+    "DispayName": "Геологический заряд",
+    "DisplayDescription": " Заряд используется для того что бы определить количество ресурсов которое находится в земле. Это помогает определить куда лучше разместить горнорудный карьер или станок-качалку",
+    "CardType": 0,
+    "Money": 10,
+    "CardsForUse": 10,
+    "Items": {
+      "supply.signal": 1
+    },
+    "GrantCommands": [
+	  ""
+    ]
+  },
+    {
+    "CardID": 21,
+    "ImageUrl": "file:///home/rustserver/serverfiles/oxide/data/MagicCards/card/weapon.png",
+    "ImageName": "weapon",
+    "DispayName": "Полуавтоматическая винтовка",
+    "DisplayDescription": "Эта винтовка призвана усреднить разрыв между беспощадной силой калаша и скорострельностью Томпсона. Винтовка имеет обойму в 16 патронов и стреляет всеми видами боеприпасов калибром 5.56мм.",
+    "CardType": 0,
+    "Money": 10,
+    "CardsForUse": 5,
+    "Items": {
+      "rifle.semiauto": 1
+    },
+    "GrantCommands": [
+	  ""
+    ]
+  },
+  {
+    "CardID": 22,
+    "ImageUrl": "file:///home/rustserver/serverfiles/oxide/data/MagicCards/card/weapon2.png",
+    "ImageName": "weapon2",
+    "DispayName": "Штурмовая винтовка",
+    "DisplayDescription": "в народе АК-47 или Калаш. Один из самых популярных видов огнестрельного оружия в Rust. Автомат использует боеприпасы калибра 5.56мм. Имеет сильную отдачу, но это компенсируется хорошей убойной силой.", 
+    "CardType": 0,
+    "Money": 10,
+    "CardsForUse": 5,
+    "Items": {
+      "rifle.ak": 1
+    },
+    "GrantCommands": [
+	  ""
+    ]
+  },
+  {
+    "CardID": 23,
+    "ImageUrl": "file:///home/rustserver/serverfiles/oxide/data/MagicCards/card/weapon3.png",
+    "ImageName": "weapon3",
+    "DispayName": "LR-300 штурмовая винтовка",
+    "DisplayDescription": "Автоматическое стрелковое оружие калибра 5.56. В отличии от штурмовой винтовки имеет более низкую отдачу, но с большим разбросом. Это можно изменить используя оружейные моды.", 
+    "CardType": 0,
+    "Money": 10,
+    "CardsForUse": 5,
+    "Items": {
+      "rifle.lr300": 1
+    },
+    "GrantCommands": [
+	  ""
+    ]
+  },
+  {
+    "CardID": 24,
+    "ImageUrl": "file:///home/rustserver/serverfiles/oxide/data/MagicCards/card/weapon4.png",
+    "ImageName": "weapon4",
+    "DispayName": "Пулемёт M249",
+    "DisplayDescription": "Оружие огневой поддержки. В сравнении с Штурмвой винтовкой имеет более низкую скорострельность, но повышенную на 25% огневую мощь. На пулемёт можно установить коллиматорный прицел и глушитель.", 
+    "CardType": 0,
+    "Money": 10,
+    "CardsForUse": 5,
+    "Items": {
+      "lmg.m249": 1
+    },
+    "GrantCommands": [
+	  ""
+    ]
+  }, 
+  {
+    "CardID": 30,
+    "ImageUrl": "file:///home/rustserver/serverfiles/oxide/data/MagicCards/card/resource3.png",
+    "ImageName": "resource3",
+    "DispayName": "Камни",
+    "DisplayDescription": "Это основной строительный материал в игре. Камень обширно используют в строительстве и улучшении строений. Большинство строений созданы именно из камня.", 
+    "CardType": 0,
+    "Money": 10,
+    "CardsForUse": 1,
+    "Items": {
+      "stones": 5000
+    },
+    "GrantCommands": [
+	  ""
+    ]
+  },   
+  {
+    "CardID": 31,
+    "ImageUrl": "file:///home/rustserver/serverfiles/oxide/data/MagicCards/card/resource2.png",
+    "ImageName": "resource2",
+    "DispayName": "Сера",
+    "DisplayDescription": "Стратегически важный ресурс. Серу используют для производства пороха, который в свою очередь используется для создания боеприпасов и взрывчатых.", 
+    "CardType": 0,
+    "Money": 10,
+    "CardsForUse": 1,
+    "Items": {
+      "sulfur": 1000
+    },
+    "GrantCommands": [
+	  ""
+    ]
+  },   
+  {
+    "CardID": 32,
+    "ImageUrl": "file:///home/rustserver/serverfiles/oxide/data/MagicCards/card/resource.png",
+    "ImageName": "resource",
+    "DispayName": "Металл высокого качества",
+    "DisplayDescription": "Стратегически важный ресурс, довольно дорого обходится в производстве. Металл высокого качества чаще всего используется в крафте редких видов оружия и брони, таких как металлическая маска или штурмовая винтовка Калашников.", 
+    "CardType": 0,
+    "Money": 10,
+    "CardsForUse": 1,
+    "Items": {
+      "stones": 200
+    },
+    "GrantCommands": [
+	  ""
+    ]
+  },
+  {
+    "CardID": 41,
+    "ImageUrl": "file:///home/rustserver/serverfiles/oxide/data/MagicCards/card/medical.png",
+    "ImageName": "medical",
+    "DispayName": "Медицинский шприц",
+    "DisplayDescription": "Препарат, который восстанавливает 35 единиц здоровья, из них 15 моментально и остальное в течении некоторого времени. Медицинские шприцы хороши для экстренного восстановления здоровья, например, в боевых условиях.", 
+    "CardType": 0,
+    "Money": 10,
+    "CardsForUse": 2,
+    "Items": {
+      "	syringe.medical": 15
+    },
+    "GrantCommands": [
+	  ""
+    ]
+  }, 
+  {
+    "CardID": 42,
+    "ImageUrl": "file:///home/rustserver/serverfiles/oxide/data/MagicCards/card/medical2.png",
+    "ImageName": "medical2",
+    "DispayName": "Противорадиационные таблетки",
+    "DisplayDescription": "Используются для уменьшения уровня заражения радиацией, здоровье таблетки не восстанавливают.", 
+    "CardType": 0,
+    "Money": 10,
+    "CardsForUse": 2,
+    "Items": {
+      "antiradpills": 10
+    },
+    "GrantCommands": [
+	  ""
+    ]
+  }, 
+  {
+    "CardID": 43,
+    "ImageUrl": "file:///home/rustserver/serverfiles/oxide/data/MagicCards/card/medical3.png",
+    "ImageName": "medical3",
+    "DispayName": "Большая аптечка",
+    "DisplayDescription": "Аптечка останавливает кровотечение и восстанавливает 100 единиц здоровья. Здоровье восстанавливается не моментально, а в течении некоторого времени. Помимо этого, она снимает -10 единиц отравления.", 
+    "CardType": 0,
+    "Money": 10,
+    "CardsForUse": 1,
+    "Items": {
+      "stones": 2
+    },
+    "GrantCommands": [
+	  ""
+    ]
+  },   
+]

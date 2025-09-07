@@ -1,0 +1,641 @@
+{
+  "default": {
+    "position": {
+      "x": "287.6753",
+      "y": "32.95903",
+      "z": "638.6794"
+    },
+    "rotationdiff": "4.610521",
+    "rotationy": "278.0765"
+  },
+  "entities": [
+    {
+      "flags": {
+        "On": true,
+        "Reserved1": true
+      },
+      "IOEntity": {
+        "inputs": [],
+        "oldID": 1430,
+        "outputs": []
+      },
+      "items": [],
+      "ownerid": 0,
+      "pos": {
+        "x": "87.35215",
+        "y": "-3.553703",
+        "z": "-7.242372"
+      },
+      "prefabname": "assets/content/props/sentry_scientists/sentry.scientist.static.prefab",
+      "rot": {
+        "x": "8.520519E-10",
+        "y": "-1.398026",
+        "z": "4.370309E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "On": true,
+        "Reserved1": true
+      },
+      "IOEntity": {
+        "inputs": [],
+        "oldID": 1384,
+        "outputs": []
+      },
+      "items": [],
+      "ownerid": 0,
+      "pos": {
+        "x": "78.75849",
+        "y": "-12.5727",
+        "z": "23.2088"
+      },
+      "prefabname": "assets/content/props/sentry_scientists/sentry.scientist.static.prefab",
+      "rot": {
+        "x": "0",
+        "y": "-2.949328",
+        "z": "0"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "On": true,
+        "Reserved1": true
+      },
+      "IOEntity": {
+        "inputs": [],
+        "oldID": 1406,
+        "outputs": []
+      },
+      "items": [],
+      "ownerid": 0,
+      "pos": {
+        "x": "42.31998",
+        "y": "-0.7487068",
+        "z": "-7.464617"
+      },
+      "prefabname": "assets/content/props/sentry_scientists/sentry.scientist.static.prefab",
+      "rot": {
+        "x": "-4.370628E-08",
+        "y": "0.2075887",
+        "z": "-6.698393E-10"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "On": true,
+        "Reserved1": true
+      },
+      "IOEntity": {
+        "inputs": [],
+        "oldID": 1388,
+        "outputs": []
+      },
+      "items": [],
+      "ownerid": 0,
+      "pos": {
+        "x": "47.87674",
+        "y": "-2.002934",
+        "z": "44.23266"
+      },
+      "prefabname": "assets/content/props/sentry_scientists/sentry.scientist.static.prefab",
+      "rot": {
+        "x": "0",
+        "y": "-3.247735",
+        "z": "0"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "On": true,
+        "Reserved1": true
+      },
+      "IOEntity": {
+        "inputs": [],
+        "oldID": 1408,
+        "outputs": []
+      },
+      "items": [],
+      "ownerid": 0,
+      "pos": {
+        "x": "38.88853",
+        "y": "-1.182705",
+        "z": "21.94598"
+      },
+      "prefabname": "assets/content/props/sentry_scientists/sentry.scientist.static.prefab",
+      "rot": {
+        "x": "-4.367633E-08",
+        "y": "0.1521997",
+        "z": "1.750823E-09"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "On": true,
+        "Reserved1": true
+      },
+      "IOEntity": {
+        "inputs": [],
+        "oldID": 1438,
+        "outputs": []
+      },
+      "items": [],
+      "ownerid": 0,
+      "pos": {
+        "x": "88.70561",
+        "y": "4.633297",
+        "z": "48.21282"
+      },
+      "prefabname": "assets/content/props/sentry_scientists/sentry.scientist.static.prefab",
+      "rot": {
+        "x": "-3.43667E-08",
+        "y": "-0.4738684",
+        "z": "2.701145E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "On": true,
+        "Reserved1": true
+      },
+      "IOEntity": {
+        "inputs": [],
+        "oldID": 1434,
+        "outputs": []
+      },
+      "items": [],
+      "ownerid": 0,
+      "pos": {
+        "x": "67.55139",
+        "y": "-1.628933",
+        "z": "48.9012"
+      },
+      "prefabname": "assets/content/props/sentry_scientists/sentry.scientist.static.prefab",
+      "rot": {
+        "x": "3.436664E-08",
+        "y": "-3.615462",
+        "z": "-2.701149E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "On": true,
+        "Reserved1": true
+      },
+      "IOEntity": {
+        "inputs": [],
+        "oldID": 1432,
+        "outputs": []
+      },
+      "items": [],
+      "ownerid": 0,
+      "pos": {
+        "x": "36.49253",
+        "y": "2.499065",
+        "z": "62.52604"
+      },
+      "prefabname": "assets/content/props/sentry_scientists/sentry.scientist.static.prefab",
+      "rot": {
+        "x": "-3.163648E-08",
+        "y": "0.9538279",
+        "z": "-3.01632E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "On": true,
+        "Reserved1": true
+      },
+      "IOEntity": {
+        "inputs": [],
+        "oldID": 1428,
+        "outputs": []
+      },
+      "items": [],
+      "ownerid": 0,
+      "pos": {
+        "x": "44.01002",
+        "y": "-0.8017044",
+        "z": "92.76934"
+      },
+      "prefabname": "assets/content/props/sentry_scientists/sentry.scientist.static.prefab",
+      "rot": {
+        "x": "1.566135E-08",
+        "y": "-4.153689",
+        "z": "-4.080943E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "On": true,
+        "Reserved1": true
+      },
+      "IOEntity": {
+        "inputs": [],
+        "oldID": 1398,
+        "outputs": []
+      },
+      "items": [],
+      "ownerid": 0,
+      "pos": {
+        "x": "-0.1648322",
+        "y": "-2.249014",
+        "z": "0.6316394"
+      },
+      "prefabname": "assets/content/props/sentry_scientists/sentry.scientist.static.prefab",
+      "rot": {
+        "x": "0",
+        "y": "0.2428293",
+        "z": "0"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "On": true,
+        "Reserved1": true
+      },
+      "IOEntity": {
+        "inputs": [],
+        "oldID": 1392,
+        "outputs": []
+      },
+      "items": [],
+      "ownerid": 0,
+      "pos": {
+        "x": "11.59502",
+        "y": "-0.7929535",
+        "z": "85.24939"
+      },
+      "prefabname": "assets/content/props/sentry_scientists/sentry.scientist.static.prefab",
+      "rot": {
+        "x": "0",
+        "y": "-2.949328",
+        "z": "0"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "On": true,
+        "Reserved1": true
+      },
+      "IOEntity": {
+        "inputs": [],
+        "oldID": 1362,
+        "outputs": []
+      },
+      "items": [],
+      "ownerid": 0,
+      "pos": {
+        "x": "99.55691",
+        "y": "4.512665",
+        "z": "42.65199"
+      },
+      "prefabname": "assets/content/props/sentry_scientists/sentry.scientist.static.prefab",
+      "rot": {
+        "x": "-1.08343E-09",
+        "y": "-2.405857",
+        "z": "-4.369799E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "On": true,
+        "Reserved1": true
+      },
+      "IOEntity": {
+        "inputs": [],
+        "oldID": 1404,
+        "outputs": []
+      },
+      "items": [],
+      "ownerid": 0,
+      "pos": {
+        "x": "106.9271",
+        "y": "-0.09970474",
+        "z": "69.71523"
+      },
+      "prefabname": "assets/content/props/sentry_scientists/sentry.scientist.static.prefab",
+      "rot": {
+        "x": "-4.196188E-08",
+        "y": "-0.09161711",
+        "z": "1.224284E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "On": true,
+        "Reserved1": true
+      },
+      "IOEntity": {
+        "inputs": [],
+        "oldID": 1400,
+        "outputs": []
+      },
+      "items": [],
+      "ownerid": 0,
+      "pos": {
+        "x": "101.0118",
+        "y": "11.8833",
+        "z": "65.77289"
+      },
+      "prefabname": "assets/content/props/sentry_scientists/sentry.scientist.static.prefab",
+      "rot": {
+        "x": "-1.083432E-09",
+        "y": "-4.544914",
+        "z": "-4.369797E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "On": true,
+        "Reserved1": true
+      },
+      "IOEntity": {
+        "inputs": [],
+        "oldID": 1390,
+        "outputs": []
+      },
+      "items": [],
+      "ownerid": 0,
+      "pos": {
+        "x": "78.45892",
+        "y": "8.903294",
+        "z": "77.99657"
+      },
+      "prefabname": "assets/content/props/sentry_scientists/sentry.scientist.static.prefab",
+      "rot": {
+        "x": "-1.298137E-09",
+        "y": "-4.549827",
+        "z": "-4.369211E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "On": true,
+        "Reserved1": true
+      },
+      "IOEntity": {
+        "inputs": [],
+        "oldID": 1436,
+        "outputs": []
+      },
+      "items": [],
+      "ownerid": 0,
+      "pos": {
+        "x": "82.52903",
+        "y": "4.372074",
+        "z": "86.39153"
+      },
+      "prefabname": "assets/content/props/sentry_scientists/sentry.scientist.static.prefab",
+      "rot": {
+        "x": "-3.388158E-08",
+        "y": "0.8761554",
+        "z": "-2.761746E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "On": true,
+        "Reserved1": true
+      },
+      "IOEntity": {
+        "inputs": [],
+        "oldID": 1396,
+        "outputs": []
+      },
+      "items": [],
+      "ownerid": 0,
+      "pos": {
+        "x": "75.88863",
+        "y": "4.126659",
+        "z": "129.5598"
+      },
+      "prefabname": "assets/content/props/sentry_scientists/sentry.scientist.static.prefab",
+      "rot": {
+        "x": "0",
+        "y": "-2.949328",
+        "z": "0"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "On": true,
+        "Reserved1": true
+      },
+      "IOEntity": {
+        "inputs": [],
+        "oldID": 1394,
+        "outputs": []
+      },
+      "items": [],
+      "ownerid": 0,
+      "pos": {
+        "x": "129.6841",
+        "y": "-6.128956",
+        "z": "110.525"
+      },
+      "prefabname": "assets/content/props/sentry_scientists/sentry.scientist.static.prefab",
+      "rot": {
+        "x": "0",
+        "y": "-1.591617",
+        "z": "0"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "On": true,
+        "Reserved1": true
+      },
+      "IOEntity": {
+        "inputs": [],
+        "oldID": 1402,
+        "outputs": []
+      },
+      "items": [],
+      "ownerid": 0,
+      "pos": {
+        "x": "111.8819",
+        "y": "4.024296",
+        "z": "6.033051"
+      },
+      "prefabname": "assets/content/props/sentry_scientists/sentry.scientist.static.prefab",
+      "rot": {
+        "x": "8.520519E-10",
+        "y": "-1.398026",
+        "z": "4.370309E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "Reserved4": true
+      },
+      "items": [
+        {
+          "amount": 10,
+          "blueprintTarget": 0,
+          "condition": "100",
+          "id": 1177596584,
+          "position": 0,
+          "skinid": 0
+        },
+        {
+          "amount": 10,
+          "blueprintTarget": 0,
+          "condition": "100",
+          "id": -695978112,
+          "position": 1,
+          "skinid": 0
+        },
+        {
+          "amount": 10,
+          "blueprintTarget": 0,
+          "condition": "100",
+          "id": 988652725,
+          "position": 2,
+          "skinid": 0
+        },
+        {
+          "amount": 10,
+          "blueprintTarget": 0,
+          "condition": "100",
+          "id": -1778897469,
+          "position": 3,
+          "skinid": 0
+        },
+        {
+          "amount": 10,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "id": 1373240771,
+          "position": 4,
+          "skinid": 0
+        },
+        {
+          "amount": 10,
+          "blueprintTarget": 0,
+          "condition": "100",
+          "id": 1149964039,
+          "position": 5,
+          "skinid": 0
+        },
+        {
+          "amount": 10,
+          "blueprintTarget": 0,
+          "condition": "100",
+          "id": 1234878710,
+          "position": 6,
+          "skinid": 0
+        }
+      ],
+      "ownerid": 0,
+      "pos": {
+        "x": "37.61549",
+        "y": "-6.003704",
+        "z": "22.45052"
+      },
+      "prefabname": "assets/prefabs/deployable/vendingmachine/npcvendingmachines/npcvendingmachine_extra.prefab",
+      "rot": {
+        "x": "0",
+        "y": "0.1922641",
+        "z": "0"
+      },
+      "skinid": 861142659,
+      "vendingmachine": {
+        "isBroadcasting": true,
+        "sellOrders": [
+          {
+            "currencyAmountPerItem": 250,
+            "currencyID": -932201673,
+            "currencyIsBP": false,
+            "inStock": 10,
+            "itemToSellAmount": 1,
+            "itemToSellID": 1177596584,
+            "itemToSellIsBP": false
+          },
+          {
+            "currencyAmountPerItem": 75,
+            "currencyID": -932201673,
+            "currencyIsBP": false,
+            "inStock": 10,
+            "itemToSellAmount": 1,
+            "itemToSellID": -695978112,
+            "itemToSellIsBP": false
+          },
+          {
+            "currencyAmountPerItem": 75,
+            "currencyID": -932201673,
+            "currencyIsBP": false,
+            "inStock": 10,
+            "itemToSellAmount": 1,
+            "itemToSellID": 988652725,
+            "itemToSellIsBP": false
+          },
+          {
+            "currencyAmountPerItem": 30,
+            "currencyID": -932201673,
+            "currencyIsBP": false,
+            "inStock": 10,
+            "itemToSellAmount": 1,
+            "itemToSellID": -1778897469,
+            "itemToSellIsBP": false
+          },
+          {
+            "currencyAmountPerItem": 75,
+            "currencyID": -932201673,
+            "currencyIsBP": false,
+            "inStock": 10,
+            "itemToSellAmount": 1,
+            "itemToSellID": 1373240771,
+            "itemToSellIsBP": false
+          },
+          {
+            "currencyAmountPerItem": 75,
+            "currencyID": -932201673,
+            "currencyIsBP": false,
+            "inStock": 10,
+            "itemToSellAmount": 1,
+            "itemToSellID": 1149964039,
+            "itemToSellIsBP": false
+          },
+          {
+            "currencyAmountPerItem": 50,
+            "currencyID": -932201673,
+            "currencyIsBP": false,
+            "inStock": 10,
+            "itemToSellAmount": 1,
+            "itemToSellID": 1234878710,
+            "itemToSellIsBP": false
+          }
+        ],
+        "shopName": "General"
+      }
+    }
+  ],
+  "protocol": {
+    "items": 2,
+    "version": {
+      "Major": 4,
+      "Minor": 1,
+      "Patch": 26
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "LootContainerUpdate": "Все LootContainer данного типа обновлены!",
+  "LootContainerNotRates": "Для данного LootContainer не заданы кастомные рейты!",
+  "SuccessCopyItemsToInventory": "Все предметы успешно скопированы вам в инвентарь!",
+  "UI_REFILL": "ПЕРЕНАПОЛНИТЬ",
+  "UI_RESTORE": "ВОССТАНОВИТЬ",
+  "UI_REMOVE": "УДАЛИТЬ",
+  "UI_MAXIMUM": "МАКСИМУМ",
+  "UI_MINIMUM": "МИНИМУМ",
+  "UI_COPY_TO_INVENTORY": "СКОПИРОВАТЬ <b>В</b> ИНВЕНТАРЬ",
+  "UI_COPY_FROM_INVENTORY": "СКОПИРОВАТЬ <b>ИЗ</b> ИНВЕНТАРЯ",
+  "UI_ADD_FROM_INVENTORY": "ДОБАВИТЬ <b>ИЗ</b> ИНВЕНТАРЯ"
+}

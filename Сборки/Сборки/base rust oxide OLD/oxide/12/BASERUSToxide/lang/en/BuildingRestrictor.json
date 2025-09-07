@@ -1,0 +1,11 @@
+{
+  "DestroyMessage": "You have built {0} entities on this base. Restriction is set to {1}",
+  "WarningMessage": "This base is nearing the block limit. You can only place {0} more blocks",
+  "HitLimit": "You have reached the maximum amount of building blocks allowed per base!",
+  "SpamBlocked": "You have spammed to many failed blocks and have been banned from placing more for {0} seconds",
+  "SpamRemaining": "You are restricted from placing any blocks for another {0} seconds!",
+  "SpamWarning": "If you continue to spam blocks past the limit you will be temporarily restricted from placing any more!",
+  "NoBlock": "You must look at a building block!",
+  "NoPrivilege": "You need building privilege to count blocks!",
+  "BlockCount": "This base has {0} building blocks"
+}

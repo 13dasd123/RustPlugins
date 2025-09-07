@@ -1,0 +1,32 @@
+{
+  "AdditionalKickMessage": "",
+  "ApiKey": "",
+  "BroadcastKick": false,
+  "CacheDeniedPlayers": false,
+  "CachePassedPlayers": true,
+  "CheckPlayersOnRespawn": false,
+  "DiscordRolesToMention": [],
+  "discordWebHookUrl": "",
+  "Kicking": {
+    "CommunityBan": false,
+    "TradeBan": false,
+    "PrivateProfile": true,
+    "LimitedAccount": false,
+    "NoProfile": true,
+    "FamilyShare": false,
+    "ForceHoursPlayedKick": false
+  },
+  "LogInsteadofKick": false,
+  "Thresholds": {
+    "MaxVACBans": 1,
+    "MinDaysSinceLastBan": -1,
+    "MaxGameBans": 1,
+    "MinSteamLevel": 0,
+    "MinAccountCreationTime (days)": 7,
+    "MinGameCount": 0,
+    "MinRustHoursPlayed": 10,
+    "MaxRustHoursPlayed": -1,
+    "MinOtherGamesPlayed": 2,
+    "MinAllGamesHoursPlayed": -1
+  }
+}

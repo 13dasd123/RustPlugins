@@ -1,0 +1,18 @@
+{
+  "Chaos Drop - Countdown time from this, (will annouce start, 75%, 50% and 25% time left) ": 10.0,
+  "Cooldown - After using a Skyfall pack, time player must wait to use another : ": 600.0,
+  "Cooldown - Use Skyfall pack cooldown ? ": false,
+  "Flightdeck - Altitude at which Skyfall Plane flys at : ": 1000.0,
+  "Global - Map size Offset when finding global drop position (higher number means closer to center of map, less chance over water) ": 500.0,
+  "Logo - Skin ID for Back wall Skyfall plane : ": 1320948157,
+  "Parachute - Downward speed when using parachute : ": 15.0,
+  "Parachute - Forward speed when using parachute and forward button : ": 15.0,
+  "Parachute : Allow players to open there own Parachutes and allow freefalling (if false, chutes auto open and players cannot remove them till they land)? ": true,
+  "Plane - Enable force dismount of players after a certain time ? ": true,
+  "Plane - Players will be force dismounted after this many seconds while seated in Skyfall plane (if enabled) ": 60.0,
+  "Plane - Skyfall plane will despawn if no players are on board after this long : ": 100.0,
+  "Respawn - Enable Button on respawn screen.(Will do random TP in air with Chute attached) ? ": true,
+  "Respawn - Local Skyfall Respawn - Enable Skyfall respawn to only drop you within a local radius of corpse ?": true,
+  "Respawn - Local Skyfall Respawn - Max Distance from corpse ": 60.0,
+  "Respawn - Use Random Respawn location when pressing Skyfall respawn button ? ": true
+}

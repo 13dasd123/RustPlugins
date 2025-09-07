@@ -1,0 +1,65 @@
+{
+  "PrefixEnabled": true,
+  "PrefixText": "<color=orange>Homes: </color>",
+  "DefaultTimeUntilTeleport": 15,
+  "TimeUntilTeleport": {
+    "homesgui.vip": 10,
+    "homesgui.elite": 5,
+    "homesgui.god": 3,
+    "homesgui.none": 0
+  },
+  "HomeCommandAliases": [],
+  "DefaultCooldown": 180,
+  "Cooldowns": {
+    "homesgui.vip": 60,
+    "homesgui.elite": 30,
+    "homesgui.god": 15,
+    "homesgui.none": 0
+  },
+  "DefaultMaxHomes": 3,
+  "MaxHomes": {
+    "homesgui.vip": 4,
+    "homesgui.elite": 6,
+    "homesgui.god": 10,
+    "homesgui.unlimited": 0
+  },
+  "DefaultMaxUses": 5,
+  "MaxUses": {
+    "homesgui.vip": 10,
+    "homesgui.elite": 20,
+    "homesgui.god": 30,
+    "homesgui.unlimited": 0
+  },
+  "AllowTeleportWhilstBleeding": false,
+  "AllowTeleportFromBuildBlock": false,
+  "AllowTeleportToBuildBlock": false,
+  "AllowTeleportFromCargoShip": false,
+  "AllowTeleportFromHotAirBalloon": false,
+  "AllowTeleportFromOilRig": false,
+  "AllowTeleportFromMounted": false,
+  "UseEconomicsPlugin": false,
+  "EconomicsPrice": 100.0,
+  "UseServerRewardsPlugin": false,
+  "ServerRewardsPrice": 100.0,
+  "PayAfterUsingDailyLimits": false,
+  "BlockTPCrafting": true,
+  "AdminInstaTP": false,
+  "AllowSetHomeInBuildBlocked": false,
+  "MustSetHomeOnBuilding": true,
+  "CanSetHomeOnFloor": false,
+  "CheckForBuildingOnHomeTP": true,
+  "ShouldCancelOnDamage": true,
+  "MinimumHomeRadiusEnabled": false,
+  "MinimumHomeRadiusDistance": 20.0,
+  "CanTeleportFromMonuments": true,
+  "CanTeleportFromSafeZones": true,
+  "WipeHomesOnNewServerSave": false,
+  "ForceWakeOnTp": false,
+  "ChatIconID": 0,
+  "SleepingBags": {
+    "Create Home On Bag Placement": false,
+    "Create Home On Bed Placement": false,
+    "Remove Home On Bag/Bed Removal": false,
+    "Disable SetHome Command": false
+  }
+}

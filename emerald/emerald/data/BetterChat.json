@@ -1,0 +1,301 @@
+[
+  {
+    "GroupName": "server",
+    "Priority": 0,
+    "Title": {
+      "Text": "SERVER OWNER",
+      "Color": "#ffffff",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "000000",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "yellow",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "owner",
+    "Priority": 0,
+    "Title": {
+      "Text": "",
+      "Color": "#000000",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "000000",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "administrator",
+    "Priority": 0,
+    "Title": {
+      "Text": "АДМИНИСТРАТОР",
+      "Color": "#000000",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "990000",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "red",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "moder",
+    "Priority": 0,
+    "Title": {
+      "Text": "",
+      "Color": "#000000",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "000000",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "moderchat",
+    "Priority": 0,
+    "Title": {
+      "Text": "МОДЕРАТОР ЧАТА",
+      "Color": "#ffb600",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "00ffff",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "youtuber",
+    "Priority": 0,
+    "Title": {
+      "Text": "YouTuber",
+      "Color": "#ff0000",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "#FFb600",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "elite",
+    "Priority": 0,
+    "Title": {
+      "Text": "NICE",
+      "Color": "#0000b6",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "00FFFF",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "prem",
+    "Priority": 0,
+    "Title": {
+      "Text": "PREMIUM",
+      "Color": "#FFB600",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "00FFFF",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "vip",
+    "Priority": 0,
+    "Title": {
+      "Text": "VIP",
+      "Color": "#FFB600",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "00FFFF",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "top",
+    "Priority": 0,
+    "Title": {
+      "Text": "TOP",
+      "Color": "#FFB600",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "00b600",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "chet",
+    "Priority": 0,
+    "Title": {
+      "Text": ">>> ЛЕГАЛЬНЫЙ ЧИТЕР <<<",
+      "Color": "#FFB600",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "00b600",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "tech",
+    "Priority": 0,
+    "Title": {
+      "Text": "[Технический администратор NICE]",
+      "Color": "#0000FF",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "00FFFF",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  },
+  {
+    "GroupName": "default",
+    "Priority": 0,
+    "Title": {
+      "Text": "",
+      "Color": "#00FF00",
+      "Size": 15,
+      "Hidden": false,
+      "HiddenIfNotPrimary": false
+    },
+    "Username": {
+      "Color": "00FFFF",
+      "Size": 15
+    },
+    "Message": {
+      "Color": "white",
+      "Size": 15
+    },
+    "Format": {
+      "Chat": "{Title} {Username}: {Message}",
+      "Console": "{Title} {Username}: {Message}"
+    }
+  }
+]

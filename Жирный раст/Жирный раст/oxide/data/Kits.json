@@ -1,0 +1,2744 @@
+[
+  {
+    "Name": "autokit",
+    "Image": "rust.png",
+    "Permission": "",
+    "Amount": 0,
+    "Cooldown": 30.0,
+    "Items": [
+      {
+        "Name": "bone.club",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 80.0,
+        "Weapon": null
+      }
+    ]
+  },
+  {
+    "Name": "Респавн",
+    "Image": "respawn.png",
+    "Permission": "",
+    "Amount": 0,
+    "Cooldown": 600.0,
+    "Items": [
+      {
+        "Name": "pickaxe",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 400.0,
+        "Weapon": null
+      },
+      {
+        "Name": "hatchet",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 400.0,
+        "Weapon": null
+      }
+    ]
+  },
+  {
+    "Name": "Медик",
+    "Image": "Med.png",
+    "Permission": "",
+    "Amount": 0,
+    "Cooldown": 1200.0,
+    "Items": [
+      {
+        "Name": "bandage",
+        "Container": "main",
+        "Amount": 10,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "syringe.medical",
+        "Container": "main",
+        "Amount": 5,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "largemedkit",
+        "Container": "main",
+        "Amount": 3,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "apple",
+        "Container": "main",
+        "Amount": 30,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      }
+    ]
+  },
+  {
+    "Name": "Охотник",
+    "Image": "Hunter.png",
+    "Permission": "",
+    "Amount": 0,
+    "Cooldown": 2400.0,
+    "Items": [
+      {
+        "Name": "bow.hunting",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 50.0,
+        "Weapon": {
+          "Amount": 1,
+          "AmmoName": "arrow.hv",
+          "Content": null
+        }
+      },
+      {
+        "Name": "spear.stone",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 80.0,
+        "Weapon": null
+      },
+      {
+        "Name": "knife.combat",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "arrow.hv",
+        "Container": "main",
+        "Amount": 30,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "arrow.wooden",
+        "Container": "main",
+        "Amount": 40,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "hat.wolf",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "bone.armor.suit",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      }
+    ]
+  },
+  {
+    "Name": "Фонарик",
+    "Image": "fonaric.png",
+    "Permission": "",
+    "Amount": 0,
+    "Cooldown": 1200.0,
+    "Items": [
+      {
+        "Name": "flashlight.held",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 50.0,
+        "Weapon": null
+      }
+    ]
+  },
+  {
+    "Name": "Ловушка",
+    "Image": "lovushka.png",
+    "Permission": "",
+    "Amount": 5,
+    "Cooldown": 2400.0,
+    "Items": [
+      {
+        "Name": "trap.landmine",
+        "Container": "main",
+        "Amount": 5,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "trap.bear",
+        "Container": "main",
+        "Amount": 5,
+        "SkinID": 0,
+        "Condition": 200.0,
+        "Weapon": null
+      },
+      {
+        "Name": "guntrap",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 200.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.handmade.shell",
+        "Container": "main",
+        "Amount": 30,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      }
+    ]
+  },
+  {
+    "Name": "Пилот",
+    "Image": "Copter.png",
+    "Permission": "",
+    "Amount": 0,
+    "Cooldown": 7200.0,
+    "Items": [
+      {
+        "Name": "box.wooden.large",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 2189176096,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "lowgradefuel",
+        "Container": "main",
+        "Amount": 100,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      }
+    ]
+  },
+  {
+    "Name": "Строитель",
+    "Image": "home.png",
+    "Permission": "",
+    "Amount": 3,
+    "Cooldown": 3600.0,
+    "Items": [
+      {
+        "Name": "building.planner",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "hammer",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "wood",
+        "Container": "main",
+        "Amount": 30000,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "metal.fragments",
+        "Container": "main",
+        "Amount": 10000,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "stones",
+        "Container": "main",
+        "Amount": 30000,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "lowgradefuel",
+        "Container": "main",
+        "Amount": 300,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "tunalight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "furnace",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "sleepingbag",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.handmade.shell",
+        "Container": "main",
+        "Amount": 150,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "guntrap",
+        "Container": "main",
+        "Amount": 3,
+        "SkinID": 0,
+        "Condition": 200.0,
+        "Weapon": null
+      },
+      {
+        "Name": "box.wooden.large",
+        "Container": "main",
+        "Amount": 3,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "campfire",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "cupboard.tool",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "door.hinged.metal",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "door.hinged.metal",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "door.hinged.metal",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      }
+    ]
+  },
+  {
+    "Name": "Бонусный",
+    "Image": "bonusniy.png",
+    "Permission": "kits.bonus",
+    "Amount": 1,
+    "Cooldown": 100000.0,
+    "Items": [
+      {
+        "Name": "icepick.salvaged",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 500.0,
+        "Weapon": null
+      },
+      {
+        "Name": "axe.salvaged",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 500.0,
+        "Weapon": null
+      },
+      {
+        "Name": "box.wooden.large",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 2189176096,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "lowgradefuel",
+        "Container": "main",
+        "Amount": 500,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "easter.bronzeegg",
+        "Container": "main",
+        "Amount": 3,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "easter.silveregg",
+        "Container": "main",
+        "Amount": 2,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "easter.goldegg",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "supply.signal",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      }
+    ]
+  },
+  {
+    "Name": "ПРЕМИУМ7",
+    "Image": "prem7.png",
+    "Permission": "kits.premium7",
+    "Amount": 0,
+    "Cooldown": 7200.0,
+    "Items": [
+      {
+        "Name": "smg.thompson",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": {
+          "Amount": 20,
+          "AmmoName": "ammo.pistol.fire",
+          "Content": null
+        }
+      },
+      {
+        "Name": "shotgun.pump",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": {
+          "Amount": 6,
+          "AmmoName": "ammo.shotgun.fire",
+          "Content": null
+        }
+      },
+      {
+        "Name": "largemedkit",
+        "Container": "belt",
+        "Amount": 5,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "syringe.medical",
+        "Container": "belt",
+        "Amount": 10,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "pistol.m92",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": {
+          "Amount": 15,
+          "AmmoName": "ammo.pistol.hv",
+          "Content": null
+        }
+      },
+      {
+        "Name": "ammo.pistol",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol.hv",
+        "Container": "main",
+        "Amount": 100,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol.fire",
+        "Container": "main",
+        "Amount": 100,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.shotgun.fire",
+        "Container": "main",
+        "Amount": 50,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "grenade.f1",
+        "Container": "main",
+        "Amount": 3,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.shotgun.slug",
+        "Container": "main",
+        "Amount": 50,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "grenade.beancan",
+        "Container": "main",
+        "Amount": 20,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "explosive.satchel",
+        "Container": "main",
+        "Amount": 5,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.holosight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.simplesight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.muzzlebrake",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 200.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.muzzleboost",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.silencer",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.lasersight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.flashlight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "pants",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "tshirt.long",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "shoes.boots",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "roadsign.kilt",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": null
+      },
+      {
+        "Name": "roadsign.jacket",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": null
+      },
+      {
+        "Name": "coffeecan.helmet",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 200.0,
+        "Weapon": null
+      },
+      {
+        "Name": "burlap.gloves",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      }
+    ]
+  },
+  {
+    "Name": "ПРЕМИУМ15",
+    "Image": "prem15.png",
+    "Permission": "kits.premium15",
+    "Amount": 0,
+    "Cooldown": 7200.0,
+    "Items": [
+      {
+        "Name": "smg.thompson",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": {
+          "Amount": 20,
+          "AmmoName": "ammo.pistol.fire",
+          "Content": null
+        }
+      },
+      {
+        "Name": "shotgun.pump",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": {
+          "Amount": 6,
+          "AmmoName": "ammo.shotgun.fire",
+          "Content": null
+        }
+      },
+      {
+        "Name": "largemedkit",
+        "Container": "belt",
+        "Amount": 5,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "syringe.medical",
+        "Container": "belt",
+        "Amount": 10,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "pistol.m92",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": {
+          "Amount": 15,
+          "AmmoName": "ammo.pistol.hv",
+          "Content": null
+        }
+      },
+      {
+        "Name": "ammo.pistol",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol.hv",
+        "Container": "main",
+        "Amount": 100,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol.fire",
+        "Container": "main",
+        "Amount": 100,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.shotgun.fire",
+        "Container": "main",
+        "Amount": 50,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "grenade.f1",
+        "Container": "main",
+        "Amount": 3,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.shotgun.slug",
+        "Container": "main",
+        "Amount": 50,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "grenade.beancan",
+        "Container": "main",
+        "Amount": 20,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "explosive.satchel",
+        "Container": "main",
+        "Amount": 5,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.holosight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.simplesight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.muzzlebrake",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 200.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.muzzleboost",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.silencer",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.lasersight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.flashlight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "pants",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "tshirt.long",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "shoes.boots",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "roadsign.kilt",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": null
+      },
+      {
+        "Name": "roadsign.jacket",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": null
+      },
+      {
+        "Name": "coffeecan.helmet",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 200.0,
+        "Weapon": null
+      },
+      {
+        "Name": "burlap.gloves",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      }
+    ]
+  },
+  {
+    "Name": "ПРЕМИУМ30",
+    "Image": "prem30.png",
+    "Permission": "kits.premium30",
+    "Amount": 0,
+    "Cooldown": 7200.0,
+    "Items": [
+      {
+        "Name": "smg.thompson",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": {
+          "Amount": 20,
+          "AmmoName": "ammo.pistol.fire",
+          "Content": null
+        }
+      },
+      {
+        "Name": "shotgun.pump",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": {
+          "Amount": 6,
+          "AmmoName": "ammo.shotgun.fire",
+          "Content": null
+        }
+      },
+      {
+        "Name": "largemedkit",
+        "Container": "belt",
+        "Amount": 5,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "syringe.medical",
+        "Container": "belt",
+        "Amount": 10,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "pistol.m92",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": {
+          "Amount": 15,
+          "AmmoName": "ammo.pistol.hv",
+          "Content": null
+        }
+      },
+      {
+        "Name": "ammo.pistol",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol.hv",
+        "Container": "main",
+        "Amount": 100,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol.fire",
+        "Container": "main",
+        "Amount": 100,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.shotgun.fire",
+        "Container": "main",
+        "Amount": 50,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "grenade.f1",
+        "Container": "main",
+        "Amount": 3,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.shotgun.slug",
+        "Container": "main",
+        "Amount": 50,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "grenade.beancan",
+        "Container": "main",
+        "Amount": 20,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "explosive.satchel",
+        "Container": "main",
+        "Amount": 5,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.holosight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.simplesight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.muzzlebrake",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 200.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.muzzleboost",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.silencer",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.lasersight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.flashlight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "pants",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "tshirt.long",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "shoes.boots",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "roadsign.kilt",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": null
+      },
+      {
+        "Name": "roadsign.jacket",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": null
+      },
+      {
+        "Name": "coffeecan.helmet",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 200.0,
+        "Weapon": null
+      },
+      {
+        "Name": "burlap.gloves",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      }
+    ]
+  },
+  {
+    "Name": "ВИП7",
+    "Image": "vip7.png",
+    "Permission": "kits.vip7",
+    "Amount": 0,
+    "Cooldown": 7200.0,
+    "Items": [
+      {
+        "Name": "rifle.ak",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": {
+          "Amount": 30,
+          "AmmoName": "ammo.rifle.hv",
+          "Content": null
+        }
+      },
+      {
+        "Name": "rifle.bolt",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": {
+          "Amount": 4,
+          "AmmoName": "ammo.rifle.hv",
+          "Content": null
+        }
+      },
+      {
+        "Name": "shotgun.spas12",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": {
+          "Amount": 6,
+          "AmmoName": "ammo.shotgun.fire",
+          "Content": null
+        }
+      },
+      {
+        "Name": "largemedkit",
+        "Container": "belt",
+        "Amount": 20,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "syringe.medical",
+        "Container": "belt",
+        "Amount": 40,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle.explosive",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle.incendiary",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle.hv",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol.hv",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol.fire",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.shotgun.slug",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.shotgun.fire",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.muzzlebrake",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 200.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.muzzleboost",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.lasersight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.flashlight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.small.scope",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.silencer",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.simplesight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "explosive.satchel",
+        "Container": "main",
+        "Amount": 40,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "grenade.beancan",
+        "Container": "main",
+        "Amount": 10,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "pants",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "tshirt.long",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "shoes.boots",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "metal.facemask",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 320.0,
+        "Weapon": null
+      },
+      {
+        "Name": "roadsign.kilt",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": null
+      },
+      {
+        "Name": "roadsign.jacket",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": null
+      },
+      {
+        "Name": "roadsign.gloves",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      }
+    ]
+  },
+  {
+    "Name": "ВИП15",
+    "Image": "vip15.png",
+    "Permission": "kits.vip15",
+    "Amount": 0,
+    "Cooldown": 7200.0,
+    "Items": [
+      {
+        "Name": "rifle.ak",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": {
+          "Amount": 30,
+          "AmmoName": "ammo.rifle.hv",
+          "Content": null
+        }
+      },
+      {
+        "Name": "rifle.bolt",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": {
+          "Amount": 4,
+          "AmmoName": "ammo.rifle.hv",
+          "Content": null
+        }
+      },
+      {
+        "Name": "shotgun.spas12",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": {
+          "Amount": 6,
+          "AmmoName": "ammo.shotgun.fire",
+          "Content": null
+        }
+      },
+      {
+        "Name": "largemedkit",
+        "Container": "belt",
+        "Amount": 20,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "syringe.medical",
+        "Container": "belt",
+        "Amount": 40,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle.explosive",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle.incendiary",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle.hv",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol.hv",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol.fire",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.shotgun.slug",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.shotgun.fire",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.muzzlebrake",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 200.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.muzzleboost",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.lasersight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.flashlight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.small.scope",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.silencer",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.simplesight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "explosive.satchel",
+        "Container": "main",
+        "Amount": 40,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "grenade.beancan",
+        "Container": "main",
+        "Amount": 10,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "pants",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "tshirt.long",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "shoes.boots",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "metal.facemask",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 320.0,
+        "Weapon": null
+      },
+      {
+        "Name": "roadsign.kilt",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": null
+      },
+      {
+        "Name": "roadsign.jacket",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": null
+      },
+      {
+        "Name": "roadsign.gloves",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      }
+    ]
+  },
+  {
+    "Name": "ВИП30",
+    "Image": "vip30.png",
+    "Permission": "kits.vip30",
+    "Amount": 0,
+    "Cooldown": 7200.0,
+    "Items": [
+      {
+        "Name": "rifle.ak",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": {
+          "Amount": 30,
+          "AmmoName": "ammo.rifle.hv",
+          "Content": null
+        }
+      },
+      {
+        "Name": "rifle.bolt",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": {
+          "Amount": 4,
+          "AmmoName": "ammo.rifle.hv",
+          "Content": null
+        }
+      },
+      {
+        "Name": "shotgun.spas12",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": {
+          "Amount": 6,
+          "AmmoName": "ammo.shotgun.fire",
+          "Content": null
+        }
+      },
+      {
+        "Name": "largemedkit",
+        "Container": "belt",
+        "Amount": 20,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "syringe.medical",
+        "Container": "belt",
+        "Amount": 40,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle.explosive",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle.incendiary",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle.hv",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol.hv",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol.fire",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.shotgun.slug",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.shotgun.fire",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.muzzlebrake",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 200.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.muzzleboost",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.lasersight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.flashlight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.small.scope",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.silencer",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.simplesight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "explosive.satchel",
+        "Container": "main",
+        "Amount": 40,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "grenade.beancan",
+        "Container": "main",
+        "Amount": 10,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "pants",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "tshirt.long",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "shoes.boots",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "metal.facemask",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 320.0,
+        "Weapon": null
+      },
+      {
+        "Name": "roadsign.kilt",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": null
+      },
+      {
+        "Name": "roadsign.jacket",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": null
+      },
+      {
+        "Name": "roadsign.gloves",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      }
+    ]
+  },
+  {
+    "Name": "ЭЛИТ7",
+    "Image": "e7.png",
+    "Permission": "kits.elite7",
+    "Amount": 0,
+    "Cooldown": 7200.0,
+    "Items": [
+      {
+        "Name": "rifle.ak",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": {
+          "Amount": 30,
+          "AmmoName": "ammo.rifle.hv",
+          "Content": null
+        }
+      },
+      {
+        "Name": "rifle.lr300",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": {
+          "Amount": 30,
+          "AmmoName": "ammo.rifle.hv",
+          "Content": null
+        }
+      },
+      {
+        "Name": "rifle.l96",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 60.0,
+        "Weapon": {
+          "Amount": 5,
+          "AmmoName": "ammo.rifle.hv",
+          "Content": null
+        }
+      },
+      {
+        "Name": "rocket.launcher",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 200.0,
+        "Weapon": {
+          "Amount": 1,
+          "AmmoName": "ammo.rocket.basic",
+          "Content": null
+        }
+      },
+      {
+        "Name": "largemedkit",
+        "Container": "belt",
+        "Amount": 30,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "syringe.medical",
+        "Container": "belt",
+        "Amount": 50,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle",
+        "Container": "main",
+        "Amount": 400,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle.incendiary",
+        "Container": "main",
+        "Amount": 400,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle.explosive",
+        "Container": "main",
+        "Amount": 400,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle.hv",
+        "Container": "main",
+        "Amount": 400,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol.fire",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol.hv",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rocket.basic",
+        "Container": "main",
+        "Amount": 10,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "explosive.timed",
+        "Container": "main",
+        "Amount": 10,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.8x.scope",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.small.scope",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.simplesight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.muzzlebrake",
+        "Container": "main",
+        "Amount": 2,
+        "SkinID": 0,
+        "Condition": 200.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.lasersight",
+        "Container": "main",
+        "Amount": 2,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.silencer",
+        "Container": "main",
+        "Amount": 2,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.flashlight",
+        "Container": "main",
+        "Amount": 2,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.muzzleboost",
+        "Container": "main",
+        "Amount": 2,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "shoes.boots",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "shirt.collared",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "pants",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "tactical.gloves",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "metal.facemask",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 320.0,
+        "Weapon": null
+      },
+      {
+        "Name": "roadsign.kilt",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": null
+      },
+      {
+        "Name": "metal.plate.torso",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 360.0,
+        "Weapon": null
+      }
+    ]
+  },
+  {
+    "Name": "ЭЛИТ15",
+    "Image": "e15.png",
+    "Permission": "kits.elite15",
+    "Amount": 0,
+    "Cooldown": 7200.0,
+    "Items": [
+      {
+        "Name": "rifle.ak",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": {
+          "Amount": 30,
+          "AmmoName": "ammo.rifle.hv",
+          "Content": null
+        }
+      },
+      {
+        "Name": "rifle.lr300",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": {
+          "Amount": 30,
+          "AmmoName": "ammo.rifle.hv",
+          "Content": null
+        }
+      },
+      {
+        "Name": "rifle.l96",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 60.0,
+        "Weapon": {
+          "Amount": 5,
+          "AmmoName": "ammo.rifle.hv",
+          "Content": null
+        }
+      },
+      {
+        "Name": "rocket.launcher",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 200.0,
+        "Weapon": {
+          "Amount": 1,
+          "AmmoName": "ammo.rocket.basic",
+          "Content": null
+        }
+      },
+      {
+        "Name": "largemedkit",
+        "Container": "belt",
+        "Amount": 30,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "syringe.medical",
+        "Container": "belt",
+        "Amount": 50,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle",
+        "Container": "main",
+        "Amount": 400,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle.incendiary",
+        "Container": "main",
+        "Amount": 400,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle.explosive",
+        "Container": "main",
+        "Amount": 400,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle.hv",
+        "Container": "main",
+        "Amount": 400,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol.fire",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol.hv",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rocket.basic",
+        "Container": "main",
+        "Amount": 10,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "explosive.timed",
+        "Container": "main",
+        "Amount": 10,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.8x.scope",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.small.scope",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.simplesight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.muzzlebrake",
+        "Container": "main",
+        "Amount": 2,
+        "SkinID": 0,
+        "Condition": 200.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.lasersight",
+        "Container": "main",
+        "Amount": 2,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.silencer",
+        "Container": "main",
+        "Amount": 2,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.flashlight",
+        "Container": "main",
+        "Amount": 2,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.muzzleboost",
+        "Container": "main",
+        "Amount": 2,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "shoes.boots",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "shirt.collared",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "pants",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "tactical.gloves",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "metal.facemask",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 320.0,
+        "Weapon": null
+      },
+      {
+        "Name": "roadsign.kilt",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": null
+      },
+      {
+        "Name": "metal.plate.torso",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 360.0,
+        "Weapon": null
+      }
+    ]
+  },
+  {
+    "Name": "ЭЛИТ30",
+    "Image": "e30.png",
+    "Permission": "kits.elite30",
+    "Amount": 0,
+    "Cooldown": 7200.0,
+    "Items": [
+      {
+        "Name": "rifle.ak",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": {
+          "Amount": 30,
+          "AmmoName": "ammo.rifle.hv",
+          "Content": null
+        }
+      },
+      {
+        "Name": "rifle.lr300",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": {
+          "Amount": 30,
+          "AmmoName": "ammo.rifle.hv",
+          "Content": null
+        }
+      },
+      {
+        "Name": "rifle.l96",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 60.0,
+        "Weapon": {
+          "Amount": 5,
+          "AmmoName": "ammo.rifle.hv",
+          "Content": null
+        }
+      },
+      {
+        "Name": "rocket.launcher",
+        "Container": "belt",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 200.0,
+        "Weapon": {
+          "Amount": 1,
+          "AmmoName": "ammo.rocket.basic",
+          "Content": null
+        }
+      },
+      {
+        "Name": "largemedkit",
+        "Container": "belt",
+        "Amount": 30,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "syringe.medical",
+        "Container": "belt",
+        "Amount": 50,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle",
+        "Container": "main",
+        "Amount": 400,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle.incendiary",
+        "Container": "main",
+        "Amount": 400,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle.explosive",
+        "Container": "main",
+        "Amount": 400,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rifle.hv",
+        "Container": "main",
+        "Amount": 400,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol.fire",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol.hv",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.rocket.basic",
+        "Container": "main",
+        "Amount": 10,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "explosive.timed",
+        "Container": "main",
+        "Amount": 10,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.8x.scope",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.small.scope",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.simplesight",
+        "Container": "main",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.muzzlebrake",
+        "Container": "main",
+        "Amount": 2,
+        "SkinID": 0,
+        "Condition": 200.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.lasersight",
+        "Container": "main",
+        "Amount": 2,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.silencer",
+        "Container": "main",
+        "Amount": 2,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.flashlight",
+        "Container": "main",
+        "Amount": 2,
+        "SkinID": 0,
+        "Condition": 300.0,
+        "Weapon": null
+      },
+      {
+        "Name": "weapon.mod.muzzleboost",
+        "Container": "main",
+        "Amount": 2,
+        "SkinID": 0,
+        "Condition": 100.0,
+        "Weapon": null
+      },
+      {
+        "Name": "ammo.pistol",
+        "Container": "main",
+        "Amount": 200,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "shoes.boots",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "shirt.collared",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "pants",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "tactical.gloves",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 0.0,
+        "Weapon": null
+      },
+      {
+        "Name": "metal.facemask",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 320.0,
+        "Weapon": null
+      },
+      {
+        "Name": "roadsign.kilt",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 150.0,
+        "Weapon": null
+      },
+      {
+        "Name": "metal.plate.torso",
+        "Container": "wear",
+        "Amount": 1,
+        "SkinID": 0,
+        "Condition": 360.0,
+        "Weapon": null
+      }
+    ]
+  }
+]

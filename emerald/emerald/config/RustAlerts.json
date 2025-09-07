@@ -1,0 +1,8 @@
+{
+  "adminsCanSendAlerts": true,
+  "alertDispatchDelaySeconds": 0,
+  "alertDispatchDelaySecondsPriority": 0,
+  "reminderRate": 7200,
+  "sendClanAlerts": true,
+  "sendUnregisteredReminders": true
+}

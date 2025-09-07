@@ -1,0 +1,42 @@
+{
+  "76561198329476129": {
+    "Enabled": false,
+    "UpdateTime": 0.15,
+    "PlayerDistance": 200,
+    "ShowAdmins": true,
+    "DrawNames": true,
+    "DrawBoxes": true,
+    "DrawEyeLine": true,
+    "EyeLineDistance": 50
+  },
+  "76561198331350127": {
+    "Enabled": true,
+    "UpdateTime": 0.15,
+    "PlayerDistance": 500,
+    "ShowAdmins": true,
+    "DrawNames": true,
+    "DrawBoxes": false,
+    "DrawEyeLine": true,
+    "EyeLineDistance": 50
+  },
+  "76561198094273346": {
+    "Enabled": false,
+    "UpdateTime": 0.15,
+    "PlayerDistance": 200,
+    "ShowAdmins": true,
+    "DrawNames": true,
+    "DrawBoxes": false,
+    "DrawEyeLine": true,
+    "EyeLineDistance": 50
+  },
+  "76561199216007171": {
+    "Enabled": false,
+    "UpdateTime": 0.15,
+    "PlayerDistance": 50,
+    "ShowAdmins": true,
+    "DrawNames": true,
+    "DrawBoxes": false,
+    "DrawEyeLine": true,
+    "EyeLineDistance": 50
+  }
+}

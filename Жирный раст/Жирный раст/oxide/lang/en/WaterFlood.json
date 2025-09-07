@@ -1,0 +1,6 @@
+{
+  "EventInc": "ATTENTION!!!\nScientists have recorded abnormal activity of the moon!\nThe water level will rise by {0} m!",
+  "EventDec": "Recorded a decrease in the activity of the moon!\nThe water is receding!\nThe water level will drop by {1} m.",
+  "EventEnd": "The sea level is set at {2} m!",
+  "EveryDayInfo": "The sea level reached {2} m!\nBe vigilant, have time to save your property from inundation!"
+}

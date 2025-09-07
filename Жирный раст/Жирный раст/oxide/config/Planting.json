@@ -1,0 +1,58 @@
+{
+  "Семена": {
+    "2338705333": {
+      "Название": "Серная жила",
+      "Скорость выращивания (секунд)": 600,
+      "Урожай (prefab)": "assets/bundled/prefabs/autospawn/resource/ores/sulfur-ore.prefab"
+    },
+    "2338686948": {
+      "Название": "Железная жила",
+      "Скорость выращивания (секунд)": 480,
+      "Урожай (prefab)": "assets/bundled/prefabs/autospawn/resource/ores/metal-ore.prefab"
+    },
+	"2338699684": {
+      "Название": "Каменная жила",
+      "Скорость выращивания (секунд)": 360,
+      "Урожай (prefab)": "assets/bundled/prefabs/autospawn/resource/ores/stone-ore.prefab"
+    },
+	"2338717011": {
+      "Название": "Пальма",
+      "Скорость выращивания (секунд)": 660,
+      "Урожай (prefab)": "assets/bundled/prefabs/autospawn/resource/v2_arid_forest/palm_tree_tall_a_entity.prefab"
+    },
+	"2338740201": {
+      "Название": "Кактус",
+      "Скорость выращивания (секунд)": 600,
+      "Урожай (prefab)": "assets/bundled/prefabs/autospawn/resource/v2_arid_cactus/cactus-1.prefab"
+    },
+	"2338724782": {
+      "Название": "Пихта",
+      "Скорость выращивания (секунд)": 780,
+      "Урожай (prefab)": "assets/bundled/prefabs/autospawn/resource/v2_temp_beachforest_small/douglas_fir_d.prefab"
+    },
+	"2338724782": {
+      "Название": "Cосна",
+      "Скорость выращивания (секунд)": 720,
+      "Урожай (prefab)": "assets/bundled/prefabs/autospawn/resource/v2_temp_beachforest_small/pine_d.prefab"
+    },
+	"2338734462": {
+      "Название": "Болотное дерево",
+      "Скорость выращивания (секунд)": 840,
+      "Урожай (prefab)": "assets/bundled/prefabs/autospawn/resource/v2_temp_field_large/american_beech_d.prefab"
+    },
+	"2338726685": {
+      "Название": "Дуб",
+      "Скорость выращивания (секунд)": 900,
+      "Урожай (prefab)": "assets/bundled/prefabs/autospawn/resource/v2_temp_field_large/oak_b.prefab"
+    },
+	"2338736627": {
+      "Название": "Береза",
+      "Скорость выращивания (секунд)": 840,
+      "Урожай (prefab)": "assets/bundled/prefabs/autospawn/resource/v2_temp_forest_deciduous_large/birch_large_temp.prefab"
+    }
+  },
+  "Сообщения": {
+    "SEED.PLANTED": "Вы посадили <color=#ADFF2F>{name}</color>, вырастет через <color=#ADFF2F>{time}</color>",
+    "SEED.CHECK": "<color=#ADFF2F>{name}</color> вырастет через <color=#ADFF2F>{time}</color>"
+  }
+}

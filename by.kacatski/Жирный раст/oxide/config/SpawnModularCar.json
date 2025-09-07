@@ -1,0 +1,19 @@
+{
+  "CanSpawnWhileBuildingBlocked": false,
+  "CanFetchWhileBuildingBlocked": false,
+  "CanFetchWhileOccupied": false,
+  "CanDespawnWhileOccupied": false,
+  "DismountPlayersOnFetch": true,
+  "DeleteMatchingKeysFromPlayerInventoryOnDespawn": true,
+  "FuelAmount": 500,
+  "FreshWaterAmount": -1,
+  "MaxPresetsPerPlayer": 10,
+  "EnableEffects": true,
+  "Cooldowns": {
+    "SpawnCarSeconds": 3600,
+    "FetchCarSeconds": 600,
+    "LoadPresetSeconds": 3600,
+    "FixCarSeconds": 3600
+  },
+  "Presets": []
+}

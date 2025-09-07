@@ -1,0 +1,36 @@
+{
+  "WipeNumber": 233,
+  "Items": [
+    {
+      "ID": 1931713481,
+      "Position": 0,
+      "Amount": 33
+    },
+    {
+      "ID": 254522515,
+      "Position": 1,
+      "Amount": 20
+    },
+    {
+      "ID": 1079279582,
+      "Position": 2,
+      "Amount": 10
+    },
+    {
+      "ID": 1079279582,
+      "Position": 3,
+      "Amount": 10
+    },
+    {
+      "ID": 1079279582,
+      "Position": 4,
+      "Amount": 5
+    },
+    {
+      "ID": 51984655,
+      "Position": 5,
+      "Amount": 322
+    }
+  ],
+  "OwnerID": 76561199265978592
+}

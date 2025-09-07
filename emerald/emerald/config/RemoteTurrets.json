@@ -1,0 +1,24 @@
+{
+  "Remote Settings": {
+    "Allow players to cycle through all linked turrets": true,
+    "Can players toggle turret automation": true,
+    "Can players control the turret remotely": true,
+    "Can players access the turret inventory": true,
+    "Require power to access the turret": true,
+    "Display camera overlay UI": true,
+    "Camera overlay image URL": "http://www.rustedit.io/images/RustNET/turretoverlay.png",
+    "Turret icon URL for RustNET menu": "http://www.rustedit.io/images/RustNET/turreticon.png"
+  },
+  "Options": {
+    "Maximum distance a turret controller can be set away from the terminal": 50.0,
+    "Max placeable turrets using permission": {
+      "remoteturrets.set": 4,
+      "remoteturrets.pro": 10
+    }
+  },
+  "Version": {
+    "Major": 0,
+    "Minor": 2,
+    "Patch": 44
+  }
+}

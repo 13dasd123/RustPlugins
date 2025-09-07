@@ -1,0 +1,20 @@
+{
+  "TEAM_FOUND": "Player not found",
+  "TEAM_SENDINVITETILE": "FRIENDS SYSTEM",
+  "TEAM_SENDINVITE": "Player <color=#89f5bf>{0}</color>, sent you invitations to the team",
+  "TEAM_NULL": "You have not created a command.\nTo create it, click (<color=#3eb2f0>TAB</color>)",
+  "TEAM_NULLNICKNAME": "You have not entered a player's nickname!",
+  "TEAM_NULLNICKNAMENULL": "You cannot add yourself",
+  "TEAM_ISCOMMAND": "Player <color=#89f5bf>{0}</color> already a member of the team",
+  "TEAM_MAXTEAMSIZE": "There are no more places in the team",
+  "TEAM_TIMENULL": "Your invitation has been canceled, the time has passed to accept the request",
+  "TEAM_TIMENULS": "Invitation from <color=#89f5bf>{0}</color> to join the team is canceled, the time has passed to accept the request",
+  "TEAM_IVITE": "You have successfully sent invitations to the player <color=#89f5bf>{0}</color>",
+  "TEAM_INVITETARGET": "Player <color=#89f5bf>{0}</color>, sent you invitations to the team.\nTo accept or reject, click (<color=#3eb2f0>TAB</color>)",
+  "TEAM_CUPBOARCLEAR": "You kicked the time.\nHe was automatically discharged from the closets!",
+  "TEAM_CUPBOARADD": "Your new friend (<color=#89f5bf>{0}</color>) successfully authorized in cabinets!",
+  "TEAM_FFON": "You <color=#64f578>included</color> damage by friends",
+  "TEAM_FFOFF": "You <color=#f03e3e>disconnected</color> damage by friends",
+  "TEAM_FFATTACK": "Player: <color=#89f5bf>{0}</color> your friend!\nYou can't him <color=#ff9696>to kill</color>\nTo include damage on friends write / team ff",
+  "TEAM_INFO": "In order to create a team, click (<color=#3eb2f0>TAB</color>)\nAnd click on the button (Create team)\nYou can invite a player to the team through (<color=#3eb2f0>TAB</color>)\n1. <color=#46bec2>/Team add nick</color> - Invite to the team at a distance\n2. <color=#46bec2>/team ff</color> - Turns fire on and off for friends\nWhen a player is added to the team, he will be automatically authorized in <color=#89f5af>Turrets</color>,<color=#89f5af>cabinets</color>,<color=#89f5af>doorway</color>.\nAlso, when deleting from friends, the player will <color=#ff9696>unauthorize</color>"
+}

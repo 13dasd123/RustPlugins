@@ -1,0 +1,1368 @@
+{
+  "CanBeAttackedByNPCs": true,
+  "CanBeAttackedByTurrets": true,
+  "CanBeAttackedByHeli": true,
+  "CanBeAttackedByBradley": true,
+  "CanBeAttackedByAnimals": true,
+  "LootUpdatedByThirdPartyPlugins": true,
+  "respawnPeriodSeconds": 900,
+  "maxNpcs": 170,
+  "scaleNpcFromRulesToMaxCount": true,
+  "aidropZombiesRemoveDelaySeconds": 240,
+  "npcPresets": [
+    {
+      "name": "Гопник",
+      "type": "Scarecrow",
+      "displayName": "Гопник",
+      "accuracy": 0.2,
+      "receivingDamageMultiplier": 1.0,
+      "dealingDamageMultiplier": 1.0,
+      "roamingRange": 50.0,
+      "wear": [
+        {
+          "shortname": "burlap.shoes",
+          "skin": [
+            820952520,
+            1227551150,
+            1683820885
+          ]
+        },
+        {
+          "shortname": "burlap.shirt",
+          "skin": [
+            1177719024,
+            691797658,
+            1447687753,
+            850584894,
+            891071955,
+            849244543,
+            1295229875
+          ]
+        },
+        {
+          "shortname": "burlap.trousers",
+          "skin": [
+            1177788927,
+            914163762,
+            833157791,
+            849241464,
+            1237995975,
+            927763995,
+            1253580374,
+            870831822,
+            1295703329,
+            1537017233
+          ]
+        },
+        {
+          "shortname": "burlap.headwrap",
+          "skin": [
+            811534810,
+            1694253807,
+            814196910,
+            1082607067,
+            861216108,
+            1438136788,
+            1303558507,
+            917294070
+          ]
+        }
+      ],
+      "belt": [
+        {
+          "amount": 1,
+          "shortname": "rifle.ak",
+          "skin": [
+            0
+          ]
+        }
+      ],
+      "loot": {
+        "lootCrates": [
+          "crate_normal_2",
+          "crate_elite"
+        ],
+        "crateItemsMin": 2,
+        "crateItemsMax": 2,
+        "extra": null,
+        "excludeList": null
+      }
+    },
+    {
+      "name": "Работяга",
+      "type": "Scarecrow",
+      "displayName": "Работяга",
+      "accuracy": 0.2,
+      "receivingDamageMultiplier": 1.0,
+      "dealingDamageMultiplier": 1.0,
+      "roamingRange": 50.0,
+      "wear": [
+        {
+          "shortname": "burlap.shoes",
+          "skin": [
+            796733696
+          ]
+        },
+        {
+          "shortname": "burlap.shirt",
+          "skin": [
+            1600537297
+          ]
+        },
+        {
+          "shortname": "burlap.trousers",
+          "skin": [
+            827973787
+          ]
+        },
+        {
+          "shortname": "burlap.headwrap",
+          "skin": [
+            828847985
+          ]
+        },
+        {
+          "shortname": "wood.armor.jacket",
+          "skin": [
+            0
+          ]
+        },
+        {
+          "shortname": "wood.armor.pants",
+          "skin": [
+            0
+          ]
+        }
+      ],
+      "belt": [
+        {
+          "amount": 1,
+          "shortname": "pistol.m92",
+          "skin": [
+            0
+          ]
+        }
+      ],
+      "loot": {
+        "lootCrates": [
+          "crate_normal_2",
+          "crate_elite"
+        ],
+        "crateItemsMin": 2,
+        "crateItemsMax": 2,
+        "extra": null,
+        "excludeList": null
+      }
+    },
+    {
+      "name": "Мясник",
+      "type": "Scarecrow",
+      "displayName": "Мясник",
+      "accuracy": 0.2,
+      "receivingDamageMultiplier": 1.0,
+      "dealingDamageMultiplier": 1.0,
+      "roamingRange": 50.0,
+      "wear": [
+        {
+          "shortname": "shoes.boots",
+          "skin": [
+            1134280832
+          ]
+        },
+        {
+          "shortname": "pants",
+          "skin": [
+            1320611965
+          ]
+        },
+        {
+          "shortname": "coffeecan.helmet",
+          "skin": [
+            950529572
+          ]
+        },
+        {
+          "shortname": "tshirt.long",
+          "skin": [
+            804382442
+          ]
+        },
+        {
+          "shortname": "roadsign.kilt",
+          "skin": [
+            930825119
+          ]
+        }
+      ],
+      "belt": [
+        {
+          "amount": 1,
+          "shortname": "rifle.semiauto",
+          "skin": [
+            0
+          ]
+        }
+      ],
+      "loot": {
+        "lootCrates": [
+          "crate_normal_2",
+          "crate_elite"
+        ],
+        "crateItemsMin": 3,
+        "crateItemsMax": 4,
+        "extra": null,
+        "excludeList": null
+      }
+    },
+    {
+      "name": "Лесник",
+      "type": "Scarecrow",
+      "displayName": "Лесник",
+      "accuracy": 0.2,
+      "receivingDamageMultiplier": 1.0,
+      "dealingDamageMultiplier": 1.0,
+      "roamingRange": 50.0,
+      "wear": [
+        {
+          "shortname": "shoes.boots",
+          "skin": [
+            1604564609
+          ]
+        },
+        {
+          "shortname": "pants",
+          "skin": [
+            1604555549
+          ]
+        },
+        {
+          "shortname": "hat.boonie",
+          "skin": [
+            899215588
+          ]
+        },
+        {
+          "shortname": "burlap.gloves",
+          "skin": [
+            1604557933
+          ]
+        },
+        {
+          "shortname": "mask.bandana",
+          "skin": [
+            1604568866
+          ]
+        },
+        {
+          "shortname": "jacket.snow",
+          "skin": [
+            1432424140
+          ]
+        }
+      ],
+      "belt": [
+        {
+          "amount": 1,
+          "shortname": "lmg.m249",
+          "skin": [
+            1740639585
+          ]
+        }
+      ],
+      "loot": {
+        "lootCrates": [
+          "crate_elite"
+        ],
+        "crateItemsMin": 3,
+        "crateItemsMax": 5,
+        "extra": {
+          "items": [
+            {
+              "shortname": "blueberries",
+              "skinId": 0,
+              "minAmount": 10,
+              "maxAmount": 20,
+              "probability": 0.5
+            },
+            {
+              "shortname": "black.raspberries",
+              "skinId": 0,
+              "minAmount": 10,
+              "maxAmount": 20,
+              "probability": 0.5
+            }
+          ]
+        },
+        "excludeList": [
+          "scrap"
+        ]
+      }
+    },
+    {
+      "name": "Северянин",
+      "type": "Scarecrow",
+      "displayName": "Северянин",
+      "accuracy": 0.2,
+      "receivingDamageMultiplier": 1.0,
+      "dealingDamageMultiplier": 1.0,
+      "roamingRange": 50.0,
+      "wear": [
+        {
+          "shortname": "shoes.boots",
+          "skin": [
+            1089615717
+          ]
+        },
+        {
+          "shortname": "riot.helmet",
+          "skin": [
+            860855730
+          ]
+        },
+        {
+          "shortname": "burlap.gloves",
+          "skin": [
+            815172051
+          ]
+        },
+        {
+          "shortname": "pants",
+          "skin": [
+            1113860126
+          ]
+        },
+        {
+          "shortname": "jacket.snow",
+          "skin": [
+            1648569376
+          ]
+        },
+        {
+          "shortname": "mask.bandana",
+          "skin": [
+            1618019187
+          ]
+        }
+      ],
+      "belt": [
+        {
+          "amount": 1,
+          "shortname": "shotgun.spas12",
+          "skin": [
+            1618014128
+          ]
+        }
+      ],
+      "loot": {
+        "lootCrates": [
+          "crate_normal_2",
+          "crate_elite"
+        ],
+        "crateItemsMin": 3,
+        "crateItemsMax": 5,
+        "extra": {
+          "items": [
+            {
+              "shortname": "easter.silveregg",
+              "skinId": 0,
+              "minAmount": 1,
+              "maxAmount": 2,
+              "probability": 0.5
+            },
+            {
+              "shortname": "snowball",
+              "skinId": 0,
+              "minAmount": 5,
+              "maxAmount": 10,
+              "probability": 0.5
+            },
+            {
+              "shortname": "snowman",
+              "skinId": 0,
+              "minAmount": 1,
+              "maxAmount": 1,
+              "probability": 0.5
+            }
+          ]
+        },
+        "excludeList": [
+          "scrap"
+        ]
+      }
+    },
+    {
+      "name": "Крестьянин",
+      "type": "Scarecrow",
+      "displayName": "Крестьянин",
+      "accuracy": 0.2,
+      "receivingDamageMultiplier": 1.0,
+      "dealingDamageMultiplier": 1.0,
+      "roamingRange": 50.0,
+      "wear": [
+        {
+          "shortname": "burlap.shoes",
+          "skin": [
+            927399785
+          ]
+        },
+        {
+          "shortname": "pants.shorts",
+          "skin": [
+            1582409625
+          ]
+        },
+        {
+          "shortname": "tshirt.long",
+          "skin": [
+            804157508
+          ]
+        },
+        {
+          "shortname": "bucket.helmet",
+          "skin": [
+            1626286557
+          ]
+        },
+        {
+          "shortname": "metal.plate.torso",
+          "skin": [
+            1631237246
+          ]
+        },
+        {
+          "shortname": "tactical.gloves",
+          "skin": [
+            0
+          ]
+        }
+      ],
+      "belt": [
+        {
+          "amount": 1,
+          "shortname": "rifle.lr300",
+          "skin": [
+            0
+          ]
+        },
+        {
+          "amount": 100,
+          "shortname": "grenade.f1",
+          "skin": [
+            0
+          ]
+        }
+      ],
+      "loot": {
+        "lootCrates": [
+          "crate_normal_2",
+          "crate_elite"
+        ],
+        "crateItemsMin": 4,
+        "crateItemsMax": 6,
+        "extra": null,
+        "excludeList": null
+      }
+    },
+    {
+      "name": "Чувак",
+      "type": "Scarecrow",
+      "displayName": "Чувак",
+      "accuracy": 0.2,
+      "receivingDamageMultiplier": 1.0,
+      "dealingDamageMultiplier": 1.0,
+      "roamingRange": 50.0,
+      "wear": [
+        {
+          "shortname": "shoes.boots",
+          "skin": [
+            1196740980
+          ]
+        },
+        {
+          "shortname": "pants",
+          "skin": [
+            1291661357
+          ]
+        },
+        {
+          "shortname": "metal.facemask",
+          "skin": [
+            1599508819,
+            789464407,
+            795872045,
+            1335631081,
+            1338484467,
+            1262018960,
+            1477102411,
+            1546540416,
+            1658894467,
+            1746767528,
+            1658660029
+          ]
+        },
+        {
+          "shortname": "hoodie",
+          "skin": [
+            963521116,
+            1106453704,
+            920529282
+          ]
+        },
+        {
+          "shortname": "metal.plate.torso",
+          "skin": [
+            1262015492
+          ]
+        },
+        {
+          "shortname": "tactical.gloves",
+          "skin": [
+            0
+          ]
+        }
+      ],
+      "belt": [
+        {
+          "amount": 1,
+          "shortname": "rifle.m39",
+          "skin": [
+            0
+          ]
+        }
+      ],
+      "loot": {
+        "lootCrates": [
+          "crate_normal_2",
+          "crate_elite"
+        ],
+        "crateItemsMin": 4,
+        "crateItemsMax": 6,
+        "extra": null,
+        "excludeList": null
+      }
+    },
+    {
+      "name": "Бомж",
+      "type": "Scarecrow",
+      "displayName": "Бомж",
+      "accuracy": 0.2,
+      "receivingDamageMultiplier": 1.0,
+      "dealingDamageMultiplier": 1.0,
+      "roamingRange": 50.0,
+      "wear": [
+        {
+          "shortname": "burlap.shoes",
+          "skin": [
+            937506959
+          ]
+        },
+        {
+          "shortname": "burlap.shirt",
+          "skin": [
+            1673687009
+          ]
+        },
+        {
+          "shortname": "burlap.trousers",
+          "skin": [
+            1237995975
+          ]
+        },
+        {
+          "shortname": "burlap.headwrap",
+          "skin": [
+            953962401
+          ]
+        }
+      ],
+      "belt": [
+        {
+          "amount": 1,
+          "shortname": "chainsaw",
+          "skin": [
+            0
+          ]
+        },
+        {
+          "amount": 100,
+          "shortname": "grenade.smoke",
+          "skin": [
+            0
+          ]
+        }
+      ],
+      "loot": {
+        "lootCrates": [
+          "crate_normal_2",
+          "crate_elite"
+        ],
+        "crateItemsMin": 2,
+        "crateItemsMax": 4,
+        "extra": null,
+        "excludeList": null
+      }
+    },
+    {
+      "name": "Охранник",
+      "type": "Scarecrow",
+      "displayName": "Охранник",
+      "accuracy": 0.2,
+      "receivingDamageMultiplier": 1.0,
+      "dealingDamageMultiplier": 1.0,
+      "roamingRange": 50.0,
+      "wear": [
+        {
+          "shortname": "hazmatsuit",
+          "skin": [
+            0
+          ]
+        }
+      ],
+      "belt": [
+        {
+          "amount": 1,
+          "shortname": "rifle.lr300",
+          "skin": [
+            0
+          ]
+        }
+      ],
+      "loot": {
+        "lootCrates": [
+          "crate_normal_2",
+          "crate_elite"
+        ],
+        "crateItemsMin": 3,
+        "crateItemsMax": 3,
+        "extra": null,
+        "excludeList": null
+      }
+    },
+    {
+      "name": "Ученый",
+      "type": "Scarecrow",
+      "displayName": "Ученый",
+      "accuracy": 0.2,
+      "receivingDamageMultiplier": 1.0,
+      "dealingDamageMultiplier": 1.0,
+      "roamingRange": 50.0,
+      "wear": [
+        {
+          "shortname": "hazmatsuit_scientist",
+          "skin": [
+            0
+          ]
+        }
+      ],
+      "belt": [
+        {
+          "amount": 1,
+          "shortname": "rifle.ak",
+          "skin": [
+            872458298
+          ]
+        }
+      ],
+      "loot": {
+        "lootCrates": [
+          "crate_elite"
+        ],
+        "crateItemsMin": 3,
+        "crateItemsMax": 3,
+        "extra": null,
+        "excludeList": null
+      }
+    }
+  ],
+  "spawnRules": [
+    {
+      "monumentName": "lighthouse",
+      "npcPresetName": "Охранник",
+      "minSpread": 10.0,
+      "maxSpread": 50.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "lighthouse",
+      "npcPresetName": "Ученый",
+      "minSpread": 10.0,
+      "maxSpread": 50.0,
+      "minCount": 1,
+      "maxCount": 2
+    },
+    {
+      "monumentName": "powerplant_1",
+      "npcPresetName": "Гопник",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "harbor_1",
+      "npcPresetName": "Гопник",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "harbor_2",
+      "npcPresetName": "Гопник",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "airfield_1",
+      "npcPresetName": "Гопник",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "trainyard_1",
+      "npcPresetName": "Гопник",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "water_treatment_plant_1",
+      "npcPresetName": "Гопник",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "warehouse",
+      "npcPresetName": "Гопник",
+      "minSpread": 10.0,
+      "maxSpread": 70.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "satellite_dish",
+      "npcPresetName": "Гопник",
+      "minSpread": 10.0,
+      "maxSpread": 70.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "radtown_small_3",
+      "npcPresetName": "Гопник",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "mining_quarry_c",
+      "npcPresetName": "Гопник",
+      "minSpread": 10.0,
+      "maxSpread": 70.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "mining_quarry_a",
+      "npcPresetName": "Гопник",
+      "minSpread": 10.0,
+      "maxSpread": 70.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "mining_quarry_b",
+      "npcPresetName": "Гопник",
+      "minSpread": 10.0,
+      "maxSpread": 70.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "junkyard_1",
+      "npcPresetName": "Гопник",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "powerplant_1",
+      "npcPresetName": "Работяга",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "harbor_1",
+      "npcPresetName": "Работяга",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "harbor_2",
+      "npcPresetName": "Работяга",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "airfield_1",
+      "npcPresetName": "Работяга",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "trainyard_1",
+      "npcPresetName": "Работяга",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "water_treatment_plant_1",
+      "npcPresetName": "Работяга",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "warehouse",
+      "npcPresetName": "Работяга",
+      "minSpread": 10.0,
+      "maxSpread": 70.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "satellite_dish",
+      "npcPresetName": "Работяга",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "radtown_small_3",
+      "npcPresetName": "Работяга",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "mining_quarry_c",
+      "npcPresetName": "Работяга",
+      "minSpread": 10.0,
+      "maxSpread": 70.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "mining_quarry_a",
+      "npcPresetName": "Работяга",
+      "minSpread": 10.0,
+      "maxSpread": 70.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "mining_quarry_b",
+      "npcPresetName": "Работяга",
+      "minSpread": 10.0,
+      "maxSpread": 70.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "junkyard_1",
+      "npcPresetName": "Работяга",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "powerplant_1",
+      "npcPresetName": "Мясник",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "harbor_1",
+      "npcPresetName": "Мясник",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "harbor_2",
+      "npcPresetName": "Мясник",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "airfield_1",
+      "npcPresetName": "Мясник",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "trainyard_1",
+      "npcPresetName": "Мясник",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "water_treatment_plant_1",
+      "npcPresetName": "Мясник",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "warehouse",
+      "npcPresetName": "Мясник",
+      "minSpread": 10.0,
+      "maxSpread": 50.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "satellite_dish",
+      "npcPresetName": "Мясник",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "radtown_small_3",
+      "npcPresetName": "Мясник",
+      "minSpread": 10.0,
+      "maxSpread": 50.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "gas_station_1",
+      "npcPresetName": "Мясник",
+      "minSpread": 10.0,
+      "maxSpread": 50.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "mining_quarry_c",
+      "npcPresetName": "Мясник",
+      "minSpread": 10.0,
+      "maxSpread": 70.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "mining_quarry_a",
+      "npcPresetName": "Мясник",
+      "minSpread": 10.0,
+      "maxSpread": 70.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "mining_quarry_b",
+      "npcPresetName": "Мясник",
+      "minSpread": 10.0,
+      "maxSpread": 70.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "junkyard_1",
+      "npcPresetName": "Мясник",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "powerplant_1",
+      "npcPresetName": "Чувак",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "harbor_1",
+      "npcPresetName": "Чувак",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "harbor_2",
+      "npcPresetName": "Чувак",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "airfield_1",
+      "npcPresetName": "Чувак",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "trainyard_1",
+      "npcPresetName": "Чувак",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "water_treatment_plant_1",
+      "npcPresetName": "Чувак",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "junkyard_1",
+      "npcPresetName": "Чувак",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 3
+    },
+    {
+      "monumentName": "powerplant_1",
+      "npcPresetName": "Бомж",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "harbor_1",
+      "npcPresetName": "Бомж",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "harbor_2",
+      "npcPresetName": "Бомж",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "trainyard_1",
+      "npcPresetName": "Бомж",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "radtown_small_3",
+      "npcPresetName": "Бомж",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "mining_quarry_c",
+      "npcPresetName": "Бомж",
+      "minSpread": 10.0,
+      "maxSpread": 70.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "mining_quarry_a",
+      "npcPresetName": "Бомж",
+      "minSpread": 10.0,
+      "maxSpread": 70.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "mining_quarry_b",
+      "npcPresetName": "Бомж",
+      "minSpread": 10.0,
+      "maxSpread": 70.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "junkyard_1",
+      "npcPresetName": "Бомж",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "powerplant_1",
+      "npcPresetName": "Ученый",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "harbor_1",
+      "npcPresetName": "Ученый",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "harbor_2",
+      "npcPresetName": "Ученый",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "trainyard_1",
+      "npcPresetName": "Ученый",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "radtown_small_3",
+      "npcPresetName": "Ученый",
+      "minSpread": 10.0,
+      "maxSpread": 50.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "mining_quarry_c",
+      "npcPresetName": "Ученый",
+      "minSpread": 10.0,
+      "maxSpread": 70.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "mining_quarry_a",
+      "npcPresetName": "Ученый",
+      "minSpread": 10.0,
+      "maxSpread": 70.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "mining_quarry_b",
+      "npcPresetName": "Ученый",
+      "minSpread": 10.0,
+      "maxSpread": 70.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "junkyard_1",
+      "npcPresetName": "Ученый",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "powerplant_1",
+      "npcPresetName": "Крестьянин",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "harbor_1",
+      "npcPresetName": "Крестьянин",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "harbor_2",
+      "npcPresetName": "Крестьянин",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "trainyard_1",
+      "npcPresetName": "Крестьянин",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "radtown_small_3",
+      "npcPresetName": "Крестьянин",
+      "minSpread": 10.0,
+      "maxSpread": 70.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "mining_quarry_c",
+      "npcPresetName": "Крестьянин",
+      "minSpread": 10.0,
+      "maxSpread": 70.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "mining_quarry_a",
+      "npcPresetName": "Крестьянин",
+      "minSpread": 10.0,
+      "maxSpread": 70.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "mining_quarry_b",
+      "npcPresetName": "Крестьянин",
+      "minSpread": 10.0,
+      "maxSpread": 70.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "junkyard_1",
+      "npcPresetName": "Крестьянин",
+      "minSpread": 10.0,
+      "maxSpread": 100.0,
+      "minCount": 1,
+      "maxCount": 1
+    },
+    {
+      "monumentName": "supermarket_1",
+      "npcPresetName": "Крестьянин",
+      "minSpread": 10.0,
+      "maxSpread": 50.0,
+      "minCount": 1,
+      "maxCount": 3
+    }
+  ],
+  "biomeSpawnRules": [
+    {
+      "biomeName": "Temperate",
+      "npcPresetName": "Ученый",
+      "minCount": 2,
+      "maxCount": 10
+    },
+    {
+      "biomeName": "Arctic",
+      "npcPresetName": "Северянин",
+      "minCount": 2,
+      "maxCount": 5
+    },
+    {
+      "biomeName": "Arid",
+      "npcPresetName": "Лесник",
+      "minCount": 2,
+      "maxCount": 8
+    }
+  ],
+  "airdropSpawnRules": [
+    {
+      "npcPresetName": "Ученый",
+      "minSpread": 5.0,
+      "maxSpread": 40.0,
+      "minCount": 1,
+      "maxCount": 4
+    }
+  ],
+  "monumentNamesReadonly": [
+    "lighthouse",
+    "powerplant_1",
+    "military_tunnel_1",
+    "harbor_1",
+    "harbor_2",
+    "airfield_1",
+    "trainyard_1",
+    "water_treatment_plant_1",
+    "warehouse",
+    "satellite_dish",
+    "sphere_tank",
+    "radtown_small_3",
+    "launch_site_1",
+    "gas_station_1",
+    "supermarket_1",
+    "mining_quarry_c",
+    "mining_quarry_a",
+    "mining_quarry_b",
+    "junkyard_1"
+  ],
+  "biomeNamesReadonly": [
+    "Arctic",
+    "Arid",
+    "Temperate",
+    "Tundra"
+  ],
+  "crateNamesReadonly": [
+    "crate_elite",
+    "crate_normal",
+    "crate_normal_2",
+    "crate_basic",
+    "crate_tools",
+    "supply_drop",
+    "bradley_crate",
+    "heli_crate",
+    "loot_component_test",
+    "presentdrop"
+  ],
+  "npcTypesReadonly": [
+    "Murderer",
+    "Scarecrow",
+    "Scientist"
+  ]
+}

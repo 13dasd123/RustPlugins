@@ -1,0 +1,38 @@
+{
+  "Use permissions": false,
+  "Global settings": {
+    "Allows automatic closing of unowned doors": false,
+    "Exclude door controller": true,
+    "Cancel on player dead": false,
+    "Default enabled": true,
+    "Default delay": 5.0,
+    "Maximum delay": 10.0,
+    "Minimum delay": 5.0
+  },
+  "Chat settings": {
+    "Chat command": [
+      "ad",
+      "autodoor"
+    ],
+    "Chat prefix": "",
+    "Chat prefix color": "#D04425",
+    "Chat steamID icon": 0
+  },
+  "Door display names": {
+    "Sheet Metal Double Door": "Sheet Metal Double Door",
+    "Armored Double Door": "Armored Double Door",
+    "Wood Double Door": "Wood Double Door",
+    "Sheet Metal Door": "Sheet Metal Door",
+    "Armored Door": "Armored Door",
+    "Wooden Door": "Wooden Door",
+    "Ladder Hatch": "Ladder Hatch",
+    "High External Stone Gate": "High External Stone Gate",
+    "High External Wooden Gate": "High External Wooden Gate",
+    "Prison Cell Gate": "Prison Cell Gate",
+    "Chainlink Fence Gate": "Chainlink Fence Gate",
+    "Garage Door": "Garage Door",
+    "Shop Front": "Shop Front",
+    "Wood Shutters": "Wood Shutters",
+    "Triangle Ladder Hatch": "Triangle Ladder Hatch"
+  }
+}

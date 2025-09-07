@@ -1,0 +1,42 @@
+{
+  "Название кнопки": [
+    "ЕЖЕДНЕВНЫЕ КЕЙСЫ",
+    "Задание сидоривича",
+    "прокачка навыков",
+    "обмен монет",
+    "разблок предметов",
+    "клановое меню",
+    "рейтинг кланнов",
+    "Рейтинг игроков",
+    "телепорт в город",
+    "ропорт на игрока",
+    "инвентарь с ящиками"
+  ],
+  "Иконки для кнопок": [
+    "https://imgur.com/URWzSmc",
+    "https://imgur.com/SbWBZad",
+    "https://imgur.com/RgfKCo8",
+    "https://imgur.com/qmR3NAn",
+    "https://imgur.com/fD23tV0",
+    "https://imgur.com/4EC4bWv",
+    "https://imgur.com/zZxfWg6",
+    "https://imgur.com/zZxfWg6",
+    "https://imgur.com/lQYsoNq",
+    "https://imgur.com/DXPylwK",
+    "https://imgur.com/LsNIkBF"
+  ],
+  "Команды для кнопок": [
+    "/top",
+    "/info",
+    "/fg",
+    "/craft",
+    "/gey",
+    "/pop",
+    "/ui",
+    "/yt",
+    "/ui",
+    "/io",
+    "/rt"
+  ],
+  "Название сервера": "TEST RUST #1 CLANS"
+}

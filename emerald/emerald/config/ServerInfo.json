@@ -1,0 +1,240 @@
+{
+  "settings": {
+    "Tabs": [
+      {
+        "ButtonText": "<color=#000000>Введение</color>",
+        "HeaderText": "<size=24><color=#FFFFFF>Добро пожаловать на сервер <color=red>NICE Rust</color> !</color></size>",
+        "Pages": [
+          {
+            "TextLines": [
+              "",
+              "<color=#FF7F50>______________________________________________________</color>",
+              "<color=white>Магазин сервера:</color> <color=orange>https://boom_rust.gamestores.ru/</color>",
+              "<color=#FF7F50>______________________________________________________</color>",
+              "<color=white>Наша группа:</color> <color=orange>(временно закрыта)</color>",
+              "<color=#FF7F50>______________________________________________________</color>",
+              "<color=white>Вайп раз в <color=orange>7 дней </color>неделю </color>.",
+              "<color=#FF7F50>______________________________________________________</color>",
+              "<color=white>Глобал раз в </color><color=orange>14</color> дней.",
+              "<color=#FF7F50>______________________________________________________</color>",
+              "<color=white>Последний вайп:</color> <color=orange>17.12.2020</color>",
+              "<color=#FF7F50>______________________________________________________</color>",
+              "<color=white>Проект основан:</color> <color=orange>26.07.2020</color>",
+              "<color=#FF7F50>______________________________________________________</color>"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "<color=#000000>Правила сервера</color>",
+        "HeaderText": "<color=#00FFFF>Правила сервера</color>",
+        "Pages": [
+          {
+            "TextLines": [
+              "<color=#FF7F50>______________________________________________________</color>",
+              "<color=#FFE4B5>1. Администрация не несет ответственности за обмены на сервере.</color>",
+              "<color=#FFE4B5>2. Администрация сервера имеет право в любой момент изменить правила.</color>",
+              "<color=#FFE4B5>3. Запрещена критика деятельности администрации в открытой форме.</color>",
+              "<color=#FFE4B5>4. Запрещена ненормативная лексика и оскорбления других игроков.</color>",
+              "<color=#FFE4B5>5. Запрещено оскорбление проекта в целом.</color>",
+              "<color=#FFE4B5>6. Запрещено использовать флуд и капс в чате.</color>",
+              "<color=#FFE4B5>7. Запрещена реклама сторонних проектов в любой форме.</color>",
+              "<color=#FFE4B5>8. Запрещено играть в команде более 3-х человек!</color>",
+              "<color=#FFE4B5>9. Запрещено строить дома в текстурах и других объектов!</color>",
+              "<color=#FFE4B5>10. Запрещено строить большие строения</color>",
+              "<color=#FF4500>Наказание: блокировка от 3 до 365 дней, возможна и пожизненная блокировка.</color>",
+              "<color=#FF8C00>P.S. Играйте честно и уважайте других игроков!!!</color>",
+              "<color=#FF7F50>______________________________________________________</color>"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "<color=#000000>Телепорт</color>",
+        "HeaderText": "<color=#00FFFF>Телепортации и точки дома</color>",
+        "Pages": [
+          {
+            "TextLines": [
+              "<color=#FF7F50>______________________________________________________</color>",
+              "<color=#FF8C00>Телепорт к игроку:</color>",
+              "<color=#FFE4B5>/tpr <Ник игрока></color> - отправить запрос",
+              "<color=#FFE4B5>/tpa</color> - принять входящий запрос",
+              "<color=#FFE4B5>/tpc</color> - отклонить входящий запрос",
+              "<color=#FFE4B5>/tpb</color> - телепортирует вас обратно",
+              "<color=#FFE4B5>/tpc</color> - отменить телепортацию",
+              "<color=#FF7F50>______________________________________________________</color>",
+              "<color=#FF8C00>Телепорт домой:</color>",
+              "<color=#FFE4B5>/sethome <имя дома></color> - создает новый дом в вашей позиции",
+              "<color=#FFE4B5>/home</color> - открывает графическое меню выбора домов",
+              "Или напиши в консоли <color=#FFE4B5>bind h chat.say /home</color> и используй клавишу <color=#FFE4B5>H</color>",
+              "<color=#FFE4B5>/home <имя дома></color> - переносит вас в указанный дом",
+              "<color=#FFE4B5>/home list</color> - список всех ваших сохраненных домов",
+              "<color=#FFE4B5>/home remove <имя дома></color> - удаляет указанный дом",
+              "<color=#FF7F50>______________________________________________________</color>"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "<color=#000000>Чат(пока недоступно)</color>",
+        "HeaderText": "<color=#00FFFF>Чат в игре(пока недоступно)</color>",
+        "Pages": [
+          {
+            "TextLines": [
+              "<color=#FF7F50>______________________________________________________</color>",
+              "<color=#FFE4B5>/chat censor</color> - цензура в чате (вкл/откл)",
+              "<color=#FFE4B5>/chat sound</color> - звук при получении ЛС (вкл/откл)",
+              "<color=#FFE4B5>/chat ignore</color> - добавить игрока в черный список",
+              "<color=#FFE4B5>/chat name</color> - доступные цвета имени (при покупке привилегий)",
+              "<color=#FFE4B5>/chat prefix</color> - доступные префиксы (при покупке привилегий вкл/откл префикс)",
+              "<color=#FF7F50>______________________________________________________</color>",
+              "<color=#FF8C00>Приватный чат:</color>",
+              "<color=#FFE4B5>/pm <Ник игрока> <сообщение> </color>- послать приватное сообщение",
+              "<color=#FFE4B5>/r <сообщение> </color>- ответить на последнее сообщение",
+              "<color=#FF7F50>______________________________________________________</color>"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "<color=#000000>Комфортная игра</color>",
+        "HeaderText": "<color=#00FFFF>Это полезно знать</color>",
+        "Pages": [
+          {
+            "TextLines": [
+              "<color=#FF7F50>______________________________________________________</color>",
+              "<color=#FFE4B5>/friend</color> - меню друзей",
+              "<color=#FFE4B5>/friend add <Ник игрока></color> - добавить игрока в команду (для лидера)",
+              "<color=#FFE4B5>/friend accept</color> -  принять запрос от игрока",
+              "<color=#FFE4B5>/friend remove <Ник игрока></color> - убрать из команды (для лидера)",
+              "<color=#FFE4B5>/friend ff</color> - включить урон по союзникам",
+              "<color=#FFE4B5>/friend ff</color> - выключить урон по союзникам",
+              "<color=#FFE4B5>/friend</color> - вкл/откл автоматическую авторизацию друзей в шкафах, замках и турелях",
+              "<color=#FF7F50>______________________________________________________</color>",
+              "<color=#FFE4B5>/trade <Ник игрока></color> - отправить запрос на торговлю",
+              "<color=#FFE4B5>/trade accept</color> - принять запрос на торговлю",
+              "<color=#FFE4B5>/top</color> - статистика игроков сервера",
+              "<color=#FFE4B5>/craftrecycler</color> - скрафтить переработчик ",
+              "<color=#FF7F50>______________________________________________________</color>"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "<color=#000000>Остальные команды</color>",
+        "HeaderText": "<color=#00FFFF>Это полезно знать</color>",
+        "Pages": [
+          {
+            "TextLines": [
+              "<color=#FF7F50>______________________________________________________</color>",
+              "<color=#FF8C00>Режим удаления:</color>",
+              "<color=#FFE4B5>/remove</color> - включить/отключить режим удаления построек",
+              "Или напиши в консоли <color=#FFE4B5>bind z chat.say /remove</color> и используй клавишу <color=#FFE4B5>Z</color>",
+              "<color=#FF4500>Внимание! Удалять можно только свои постройки!!!</color>",
+              "<color=#FF7F50>______________________________________________________</color>",
+              "<color=#FF8C00>Наборы:</color>",
+              "<color=#FFE4B5>/kit</color> или напиши в консоли <color=#FFE4B5>bind k chat.say /kit</color> и используй клавишу <color=#FFE4B5>k</color> - открыть/закрыть меню выбора наборов",
+              "<color=#FF7F50>______________________________________________________</color>",
+              "<color=#FFE4B5>/report </color> - отправить репорт на игрока",
+              "<color=#FFE4B5>/skin</color> - смена скина предмета",
+              "<color=#FF7F50>______________________________________________________</color>",
+              "<color=#FFE4B5>/turret </color> - турели без электричества",
+              "<color=#FF7F50>______________________________________________________</color>",
+              "<color=#FF8C00>Картинки на табличках: (при покупки привелегий)</color>",
+              "<color=#FFE4B5>/sil <url картинки></color> - позволяет вставлять картинки в таблички",
+              "<color=#FF4500>(Формат картинки только png или jpg)</color>",
+              "<color=#FF7F50>______________________________________________________</color>"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      }
+    ],
+    "ShowInfoOnPlayerInit": true,
+    "ShowInfoOnlyOncePerRuntime": true,
+    "TabToOpenByDefault": 0,
+    "Position": {
+      "MinX": 0.15,
+      "MaxX": 0.9,
+      "MinY": 0.2,
+      "MaxY": 0.9
+    },
+    "BackgroundImage": {
+      "Enabled": false,
+      "Position": {
+        "MinX": 0.0,
+        "MaxX": 1.0,
+        "MinY": 0.0,
+        "MaxY": 1.0
+      },
+      "Url": "http://breaking-rust.fr/wp-content/uploads/2015/08/fondddd12484822-1024x466.png",
+      "TransparencyInPercent": 100
+    },
+    "ActiveButtonColor": "#F4A460",
+    "InactiveButtonColor": "#CD853F",
+    "CloseButtonColor": "#ff0000",
+    "NextPageButtonColor": "#127127127255",
+    "PrevPageButtonColor": "#0255255255",
+    "BackgroundColor": "#000000E6",
+    "HelpButton": {
+      "IsEnabled": false,
+      "Text": "",
+      "Position": {
+        "MinX": 0.5,
+        "MaxX": 0.5,
+        "MinY": 0.0,
+        "MaxY": 0.0
+      },
+      "Color": "#696969",
+      "FontSize": 12
+    },
+    "UpgradedConfig": false
+  }
+}

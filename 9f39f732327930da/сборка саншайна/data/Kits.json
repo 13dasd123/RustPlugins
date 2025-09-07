@@ -1,0 +1,1357 @@
+[
+  {
+    "Name": "home",
+    "DisplayName": "home",
+    "Amount": 0,
+    "Cooldown": 86400.0,
+    "Hide": false,
+    "Inside": null,
+    "Permission": "kits.default",
+    "Items": [
+      {
+        "ShortName": "metal.fragments",
+        "Amount": 30000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.refined",
+        "Amount": 500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "wood",
+        "Amount": 30000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "box.wooden.large",
+        "Amount": 4,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "bed",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "arcade.machine.chippy",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "furnace",
+        "Amount": 3,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "workbench2",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 1.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "door.double.hinged.metal",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 100.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "cupboard.tool",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "lock.code",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "https://cdn.discordapp.com/attachments/964197283157659658/999332504769142814/unknown.png"
+  },
+  {
+    "Name": "hunter",
+    "DisplayName": "hunter",
+    "Amount": 0,
+    "Cooldown": 600.0,
+    "Hide": false,
+    "Inside": null,
+    "Permission": "kits.default",
+    "Items": [
+      {
+        "ShortName": "jacket",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "shoes.boots",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "tactical.gloves",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "hoodie",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "pants",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "wood.armor.pants",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 100.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "hat.oxmask",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "arrow.wooden",
+        "Amount": 50,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "blueberries",
+        "Amount": 15,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 5,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "jackhammer",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "bow.hunting",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 50.0,
+        "Weapon": {
+          "ammoType": "arrow.wooden",
+          "ammoAmount": 1
+        },
+        "Content": null
+      }
+    ],
+    "Png": "https://media.discordapp.net/attachments/964197283157659658/999332539602833458/unknown.png"
+  },
+  {
+    "Name": "medik",
+    "DisplayName": "medik",
+    "Amount": 0,
+    "Cooldown": 900.0,
+    "Hide": false,
+    "Inside": null,
+    "Permission": "kits.default",
+    "Items": [
+      {
+        "ShortName": "blueberries",
+        "Amount": 25,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 10,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 20,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "https://media.discordapp.net/attachments/964197283157659658/999332588932046958/unknown.png"
+  },
+  {
+    "Name": "metal",
+    "DisplayName": "metal",
+    "Amount": 0,
+    "Cooldown": 600.0,
+    "Hide": true,
+    "Inside": null,
+    "Permission": "kits.default",
+    "Items": [
+      {
+        "ShortName": "metal.fragments",
+        "Amount": 120000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": ""
+  },
+  {
+    "Name": "vip",
+    "DisplayName": "vip",
+    "Amount": 0,
+    "Cooldown": 86400.0,
+    "Hide": false,
+    "Inside": null,
+    "Permission": "Vip",
+    "Items": [
+      {
+        "ShortName": "lowgradefuel",
+        "Amount": 3000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "stones",
+        "Amount": 80000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "cloth",
+        "Amount": 5000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "leather",
+        "Amount": 5000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "gunpowder",
+        "Amount": 30000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sulfur",
+        "Amount": 60000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "wood",
+        "Amount": 60000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.fragments",
+        "Amount": 60000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.refined",
+        "Amount": 2500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "scrap",
+        "Amount": 3000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalblade",
+        "Amount": 125,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "smgbody",
+        "Amount": 30,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "riflebody",
+        "Amount": 30,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "targeting.computer",
+        "Amount": 16,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "techparts",
+        "Amount": 125,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sheetmetal",
+        "Amount": 125,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalspring",
+        "Amount": 60,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalpipe",
+        "Amount": 60,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sewingkit",
+        "Amount": 125,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "semibody",
+        "Amount": 30,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "rope",
+        "Amount": 125,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "cctv.camera",
+        "Amount": 16,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "https://cdn.discordapp.com/attachments/964197283157659658/999349788740952094/imgonline-com-ua-Transparent-backgr-Kjdcg4jpsU.png"
+  },
+  {
+    "Name": "premium",
+    "DisplayName": "premium",
+    "Amount": 0,
+    "Cooldown": 86400.0,
+    "Hide": false,
+    "Inside": null,
+    "Permission": "Premium",
+    "Items": [
+      {
+        "ShortName": "lowgradefuel",
+        "Amount": 6000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "stones",
+        "Amount": 160000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "leather",
+        "Amount": 5000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "cloth",
+        "Amount": 5000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "gunpowder",
+        "Amount": 60000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sulfur",
+        "Amount": 120000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "wood",
+        "Amount": 120000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.refined",
+        "Amount": 5000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.fragments",
+        "Amount": 120000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "scrap",
+        "Amount": 6000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sheetmetal",
+        "Amount": 250,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sewingkit",
+        "Amount": 500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "targeting.computer",
+        "Amount": 32,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "techparts",
+        "Amount": 250,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalblade",
+        "Amount": 250,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalpipe",
+        "Amount": 120,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "smgbody",
+        "Amount": 60,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "semibody",
+        "Amount": 60,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "riflebody",
+        "Amount": 60,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "cctv.camera",
+        "Amount": 32,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalspring",
+        "Amount": 120,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "roadsigns",
+        "Amount": 250,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "https://cdn.discordapp.com/attachments/964197283157659658/999349787952414830/imgonline-com-ua-Transparent-backgr-KOFBY0NPIWbEZa.png"
+  },
+  {
+    "Name": "deluxe",
+    "DisplayName": "deluxe",
+    "Amount": 0,
+    "Cooldown": 86400.0,
+    "Hide": false,
+    "Inside": null,
+    "Permission": "Deluxe",
+    "Items": [
+      {
+        "ShortName": "lowgradefuel",
+        "Amount": 9000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "stones",
+        "Amount": 320000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "leather",
+        "Amount": 10000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.refined",
+        "Amount": 10000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.fragments",
+        "Amount": 250000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "gunpowder",
+        "Amount": 120000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sulfur",
+        "Amount": 240000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "scrap",
+        "Amount": 12000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "cloth",
+        "Amount": 10000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "techparts",
+        "Amount": 500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "riflebody",
+        "Amount": 250,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "rope",
+        "Amount": 250,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sewingkit",
+        "Amount": 375,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "smgbody",
+        "Amount": 60,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "roadsigns",
+        "Amount": 500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalspring",
+        "Amount": 375,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalblade",
+        "Amount": 375,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sheetmetal",
+        "Amount": 500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalpipe",
+        "Amount": 375,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "https://cdn.discordapp.com/attachments/964197283157659658/999349788321525900/imgonline-com-ua-Transparent-backgr-Z2FOp8F6IaokKFz.png"
+  },
+  {
+    "Name": "extra",
+    "DisplayName": "extra",
+    "Amount": 0,
+    "Cooldown": 86400.0,
+    "Hide": false,
+    "Inside": null,
+    "Permission": "Extra",
+    "Items": [
+      {
+        "ShortName": "lowgradefuel",
+        "Amount": 18000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "stones",
+        "Amount": 500000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "cloth",
+        "Amount": 10000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.refined",
+        "Amount": 20000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.fragments",
+        "Amount": 500000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sulfur",
+        "Amount": 400000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "gunpowder",
+        "Amount": 200000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "scrap",
+        "Amount": 24000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "leather",
+        "Amount": 10000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "smgbody",
+        "Amount": 250,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "rope",
+        "Amount": 750,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "techparts",
+        "Amount": 500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "riflebody",
+        "Amount": 250,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "semibody",
+        "Amount": 250,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sewingkit",
+        "Amount": 500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "sheetmetal",
+        "Amount": 500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalspring",
+        "Amount": 500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metalpipe",
+        "Amount": 500,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "https://cdn.discordapp.com/attachments/964197283157659658/999255005372612718/aEhVcMQ.png"
+  },
+  {
+    "Name": "autokit",
+    "DisplayName": "autokit",
+    "Amount": 0,
+    "Cooldown": 600.0,
+    "Hide": true,
+    "Inside": null,
+    "Permission": "kits.default",
+    "Items": [
+      {
+        "ShortName": "metal.facemask",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 320.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "metal.plate.torso",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 360.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "roadsign.kilt",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 150.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "pants",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "hoodie",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "tactical.gloves",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "shoes.boots",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "wear",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "weapon.mod.small.scope",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 300.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle",
+        "Amount": 970,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "ammo.rifle.incendiary",
+        "Amount": 1000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "main",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "rifle.ak",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 150.0,
+        "Weapon": {
+          "ammoType": "ammo.rifle",
+          "ammoAmount": 30
+        },
+        "Content": [
+          {
+            "ShortName": "weapon.mod.lasersight",
+            "Condition": 300.0,
+            "Amount": 1
+          },
+          {
+            "ShortName": "weapon.mod.holosight",
+            "Condition": 300.0,
+            "Amount": 1
+          }
+        ]
+      },
+      {
+        "ShortName": "syringe.medical",
+        "Amount": 1000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "largemedkit",
+        "Amount": 1000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "black.raspberries",
+        "Amount": 1000,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 0.0,
+        "Weapon": null,
+        "Content": null
+      }
+    ],
+    "Png": "file:///home/container/oxide/data/Kits/home.png"
+  }
+]

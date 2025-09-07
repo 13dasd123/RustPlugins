@@ -1,0 +1,28 @@
+{
+  "Награда игроков": {
+    "Награда для ТОП-1 в добыче ресурсов": [
+      "usergroup add {player} gather",
+      "usergroup add {player} gather"
+    ],
+    "Награда для ТОП-1 в количестве использованых взрывных материалов (ТОП Рейдер)": [
+      "usergroup add {player} raider",
+      "usergroup add {player} raider"
+    ],
+    "Награда для ТОП-1 в убийствах": [
+      "usergroup add {player} kills",
+      "usergroup add {player} kills"
+    ],
+    "Награда для ТОП-1 по онлайну": [
+      "usergroup add {player} online",
+      "usergroup add {player} online"
+    ],
+    "Награда игрока занявшего четыре раза подряд один и тот же ТОП": [
+      "usergroup add {player} topformonths",
+      "usergroup add {player} topformonths"
+    ]
+  },
+  "Основные настройки": {
+    "Включить автоматическую выдачу призов после вайпа?": false,
+    "Чатовая команда открытия статистики": "stat"
+  }
+}

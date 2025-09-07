@@ -1,0 +1,46 @@
+{
+  "Commands": [
+    {
+      "Arg": "{playerName}",
+      "Command": "/tpr",
+      "Name": "TPR"
+    },
+    {
+      "Arg": "{playerName}",
+      "Command": "/trade",
+      "Name": "TRADE"
+    }
+  ],
+  "MenuActivation": {
+    "CommandToOpen": "fmenu",
+    "KeyToBind": ""
+  },
+  "UIColors": {
+    "Background": {
+      "HexColor": "#00001F",
+      "Opacity": 0.7
+    },
+    "ButtonColor": {
+      "HexColor": "#00006A",
+      "Opacity": 0.7
+    },
+    "CloseButton": {
+      "HexColor": "#ce422b",
+      "Opacity": 0.7
+    },
+    "TextPanel": {
+      "HexColor": "#00006A",
+      "Opacity": 0.7
+    },
+    "TitlePanel": {
+      "HexColor": "#0000B2",
+      "Opacity": 0.7
+    }
+  },
+  "UISize": {
+    "X_Dimension": 0.4,
+    "X_Position": 0.31,
+    "Y_Dimension": 0.7,
+    "Y_Position": 0.2
+  }
+}

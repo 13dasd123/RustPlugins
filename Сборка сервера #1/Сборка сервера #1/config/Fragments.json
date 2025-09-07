@@ -1,0 +1,58 @@
+{
+  "Фрагменты": [
+    {
+      "Name": "Vip",
+      "Key": "frag",
+      "Parts": 14,
+      "Url": "https://gspics.org/images/2022/06/14/0nj4qn.png",
+      "Command": "addgroup userid s 1d0h0m",
+      "Description": "Test descriprition",
+      "SkinId": 1358334521
+    },
+    {
+      "Name": "Gold",
+      "Key": "fragone",
+      "Parts": 12,
+      "Url": "https://gspics.org/images/2022/06/14/0njAhu.png",
+      "Command": "addgroup userid keksik 1d0h0m",
+      "Description": "Test descriprition",
+      "SkinId": 1358334522
+    },
+    {
+      "Name": "Premium",
+      "Key": "fragtwo",
+      "Parts": 6,
+      "Url": "https://gspics.org/images/2022/06/14/0nj62E.png",
+      "Command": "grantperm userid backpack.size8 1d0h0m",
+      "Description": "Test descriprition",
+      "SkinId": 1358334523
+    },
+    {
+      "Name": "God",
+      "Key": "fragthree",
+      "Parts": 8,
+      "Url": "https://gspics.org/images/2022/06/14/0njgSJ.png",
+      "Command": "card.give userid",
+      "Description": "Test descriprition",
+      "SkinId": 1358334524
+    },
+    {
+      "Name": "Blood",
+      "Key": "fragblood",
+      "Parts": 8,
+      "Url": "https://gspics.org/images/2022/06/14/0njX9m.png",
+      "Command": "flask_give userid",
+      "Description": "Test descriprition",
+      "SkinId": 1358334525
+    },
+    {
+      "Name": "Blueprint",
+      "Key": "fragprint",
+      "Parts": 5,
+      "Url": "https://gspics.org/images/2022/06/14/0nj33R.png",
+      "Command": "ebalanceservadd userid 500",
+      "Description": "Test descriprition",
+      "SkinId": 1358334526
+    }
+  ]
+}

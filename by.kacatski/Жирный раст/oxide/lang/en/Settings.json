@@ -1,0 +1,58 @@
+{
+  "colorConfig": {
+    "gradientColor": "#00000099",
+    "menuContentHighlighting": "#0000007f",
+    "menuContentHighlightingalternative": "#FFFFFF10"
+  },
+  "pluginSettings": {
+	"0": {
+      "command": "friend codelock",
+      "commandDescription": "Автоматическая авторизация друзей в шкафу/замках",
+      "isChecked": false,
+      "subSettings": {
+      }
+    },
+	"1": {
+      "command": "friend turret",
+      "commandDescription": "Автоматическая авторизация друзей в туррелях",
+      "isChecked": false,
+      "subSettings": {
+      }
+    },
+	"2": {
+      "command": "friend ff",
+      "commandDescription": "Включить нанесение урона по союзникам",
+      "isChecked": false,
+      "subSettings": {
+      }
+    },
+	"3": {
+      "command": "chat.say ",
+      "commandDescription": "Включить отображение нанесенного вами урона",
+      "isChecked": true,
+      "subSettings": {
+      }
+    },
+	"4": {
+      "command": "set chat %STEAMID% iqchat.blue",
+      "commandDescription": "Изменить цвет ника на <color=#AADDFF>синий</color> (в разработке)",
+      "isChecked": false,
+      "subSettings": {
+      }
+    },
+	"5": {
+      "command": "set chat %STEAMID% iqchat.yellow",
+      "commandDescription": "Изменить цвет ника на <color=#FFF7AD>желтый</color> (в разработке)",
+      "isChecked": false,
+      "subSettings": {
+      }
+    },
+	"6": {
+      "command": "set chat %STEAMID% iqchat.default",
+      "commandDescription": "Изменить цвет ника на <color=#F24525>красный</color> (в разработке)",
+      "isChecked": false,
+      "subSettings": {
+      }
+    }
+  }
+}

@@ -1,0 +1,1844 @@
+{
+  "seed": 54,
+  "mapSize": 3000,
+  "serverTimeStamp": "2021.1.22.2.20",
+  "lastSaveTime": "2021-01-22T13:08:41.05637+03:00",
+  "lastChangeTime": "2021-01-22T13:08:03.943715+03:00",
+  "Players": {
+    "76561199131865879": {
+      "PlayerID": 76561199131865879,
+      "PlayerName": "garikson123aa",
+      "noRecoilViolations": {
+        "2021.1.22.2.20_637468805220315480_58.65": {
+          "ShotsCnt": 8,
+          "NRViolationsCnt": 7,
+          "violationProbability": 85.0,
+          "isMounted": false,
+          "mountParentPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mountParentRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "attachments": [
+            "weapon.mod.flashlight",
+            "weapon.mod.silencer",
+            "weapon.mod.holosight"
+          ],
+          "ammoShortName": "ammo.rifle",
+          "weaponShortName": "rifle.ak",
+          "suspiciousNoRecoilShots": {
+            "1": {
+              "timeStamp": "2021-01-22T02:48:38.501539+03:00",
+              "projectile1ID": 58,
+              "projectile2ID": 58,
+              "timeInterval": 0.0,
+              "projectile1Position": {
+                "x": 58.5685,
+                "y": 44.3064041,
+                "z": 629.7863
+              },
+              "projectile2Position": {
+                "x": 58.5685,
+                "y": 44.3064041,
+                "z": 629.7863
+              },
+              "projectile1Velocity": {
+                "x": -103.416054,
+                "y": -9.85529,
+                "z": -261.360962
+              },
+              "projectile2Velocity": {
+                "x": -103.416054,
+                "y": -9.85529,
+                "z": -261.360962
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.0,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "2": {
+              "timeStamp": "2021-01-22T02:48:38.64703+03:00",
+              "projectile1ID": 58,
+              "projectile2ID": 59,
+              "timeInterval": 0.145491,
+              "projectile1Position": {
+                "x": 58.5685,
+                "y": 44.3064041,
+                "z": 629.7863
+              },
+              "projectile2Position": {
+                "x": 58.5685,
+                "y": 44.3063431,
+                "z": 629.7863
+              },
+              "projectile1Velocity": {
+                "x": -103.416054,
+                "y": -9.85529,
+                "z": -261.360962
+              },
+              "projectile2Velocity": {
+                "x": -103.598671,
+                "y": -9.752423,
+                "z": -261.2925
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.04423466,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "3": {
+              "timeStamp": "2021-01-22T02:48:38.776472+03:00",
+              "projectile1ID": 59,
+              "projectile2ID": 60,
+              "timeInterval": 0.129442,
+              "projectile1Position": {
+                "x": 58.5685,
+                "y": 44.3063431,
+                "z": 629.7863
+              },
+              "projectile2Position": {
+                "x": 58.5685,
+                "y": 44.30633,
+                "z": 629.7863
+              },
+              "projectile1Velocity": {
+                "x": -103.598671,
+                "y": -9.752423,
+                "z": -261.2925
+              },
+              "projectile2Velocity": {
+                "x": -103.25573,
+                "y": -9.429662,
+                "z": -261.440063
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.102792077,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "4": {
+              "timeStamp": "2021-01-22T02:48:38.903687+03:00",
+              "projectile1ID": 60,
+              "projectile2ID": 61,
+              "timeInterval": 0.127215,
+              "projectile1Position": {
+                "x": 58.5685,
+                "y": 44.30633,
+                "z": 629.7863
+              },
+              "projectile2Position": {
+                "x": 58.5685,
+                "y": 44.3063278,
+                "z": 629.7863
+              },
+              "projectile1Velocity": {
+                "x": -103.25573,
+                "y": -9.429662,
+                "z": -261.440063
+              },
+              "projectile2Velocity": {
+                "x": -103.656967,
+                "y": -9.350878,
+                "z": -261.284058
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.08846933,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "5": {
+              "timeStamp": "2021-01-22T02:48:39.049833+03:00",
+              "projectile1ID": 61,
+              "projectile2ID": 62,
+              "timeInterval": 0.146146,
+              "projectile1Position": {
+                "x": 58.5685,
+                "y": 44.3063278,
+                "z": 629.7863
+              },
+              "projectile2Position": {
+                "x": 58.5685,
+                "y": 44.3063278,
+                "z": 629.7863
+              },
+              "projectile1Velocity": {
+                "x": -103.656967,
+                "y": -9.350878,
+                "z": -261.284058
+              },
+              "projectile2Velocity": {
+                "x": -103.444725,
+                "y": -9.509628,
+                "z": -261.362427
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.05595291,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "6": {
+              "timeStamp": "2021-01-22T02:48:39.180529+03:00",
+              "projectile1ID": 62,
+              "projectile2ID": 63,
+              "timeInterval": 0.130696,
+              "projectile1Position": {
+                "x": 58.5685,
+                "y": 44.3063278,
+                "z": 629.7863
+              },
+              "projectile2Position": {
+                "x": 58.5685,
+                "y": 44.30627,
+                "z": 629.7863
+              },
+              "projectile1Velocity": {
+                "x": -103.444725,
+                "y": -9.509628,
+                "z": -261.362427
+              },
+              "projectile2Velocity": {
+                "x": -103.065468,
+                "y": -10.4196539,
+                "z": -261.477539
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.201741189,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "7": {
+              "timeStamp": "2021-01-22T02:48:39.30799+03:00",
+              "projectile1ID": 63,
+              "projectile2ID": 64,
+              "timeInterval": 0.127461,
+              "projectile1Position": {
+                "x": 58.5685,
+                "y": 44.30627,
+                "z": 629.7863
+              },
+              "projectile2Position": {
+                "x": 58.5685,
+                "y": 44.30627,
+                "z": 629.7863
+              },
+              "projectile1Velocity": {
+                "x": -103.065468,
+                "y": -10.4196539,
+                "z": -261.477539
+              },
+              "projectile2Velocity": {
+                "x": -102.526566,
+                "y": -10.2742023,
+                "z": -261.695068
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.1203313,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "8": {
+              "timeStamp": "2021-01-22T02:48:39.438163+03:00",
+              "projectile1ID": 64,
+              "projectile2ID": 65,
+              "timeInterval": 0.130173,
+              "projectile1Position": {
+                "x": 58.5685,
+                "y": 44.30627,
+                "z": 629.7863
+              },
+              "projectile2Position": {
+                "x": 58.5685,
+                "y": 44.30627,
+                "z": 629.7863
+              },
+              "projectile1Velocity": {
+                "x": -102.526566,
+                "y": -10.2742023,
+                "z": -261.695068
+              },
+              "projectile2Velocity": {
+                "x": -103.448875,
+                "y": -9.424116,
+                "z": -261.3639
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.263929576,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            }
+          }
+        },
+        "2021.1.22.2.20_637468811705047130_307.312": {
+          "ShotsCnt": 6,
+          "NRViolationsCnt": 5,
+          "violationProbability": 70.83333,
+          "isMounted": false,
+          "mountParentPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mountParentRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "attachments": [
+            "weapon.mod.flashlight",
+            "weapon.mod.silencer",
+            "weapon.mod.holosight"
+          ],
+          "ammoShortName": "ammo.rifle",
+          "weaponShortName": "rifle.ak",
+          "suspiciousNoRecoilShots": {
+            "1": {
+              "timeStamp": "2021-01-22T02:59:26.908828+03:00",
+              "projectile1ID": 307,
+              "projectile2ID": 307,
+              "timeInterval": 0.0,
+              "projectile1Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile2Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile1Velocity": {
+                "x": -241.236252,
+                "y": 9.841288,
+                "z": 144.255936
+              },
+              "projectile2Velocity": {
+                "x": -241.236252,
+                "y": 9.841288,
+                "z": 144.255936
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.0,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": false,
+              "isShootedInMotion": false
+            },
+            "2": {
+              "timeStamp": "2021-01-22T02:59:27.041301+03:00",
+              "projectile1ID": 307,
+              "projectile2ID": 308,
+              "timeInterval": 0.132473,
+              "projectile1Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile2Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile1Velocity": {
+                "x": -241.236252,
+                "y": 9.841288,
+                "z": 144.255936
+              },
+              "projectile2Velocity": {
+                "x": -242.418137,
+                "y": 10.3192978,
+                "z": 142.227
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.0,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "3": {
+              "timeStamp": "2021-01-22T02:59:27.158251+03:00",
+              "projectile1ID": 308,
+              "projectile2ID": 309,
+              "timeInterval": 0.11695,
+              "projectile1Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile2Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile1Velocity": {
+                "x": -242.418137,
+                "y": 10.3192978,
+                "z": 142.227
+              },
+              "projectile2Velocity": {
+                "x": -242.32309,
+                "y": 10.2860947,
+                "z": 142.391281
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.03956468,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "4": {
+              "timeStamp": "2021-01-22T02:59:27.310218+03:00",
+              "projectile1ID": 309,
+              "projectile2ID": 310,
+              "timeInterval": 0.151967,
+              "projectile1Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile2Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile1Velocity": {
+                "x": -242.32309,
+                "y": 10.2860947,
+                "z": 142.391281
+              },
+              "projectile2Velocity": {
+                "x": -242.276077,
+                "y": 10.2403431,
+                "z": 142.474548
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.01978234,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "5": {
+              "timeStamp": "2021-01-22T02:59:27.439142+03:00",
+              "projectile1ID": 310,
+              "projectile2ID": 311,
+              "timeInterval": 0.128924,
+              "projectile1Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile2Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile1Velocity": {
+                "x": -242.276077,
+                "y": 10.2403431,
+                "z": 142.474548
+              },
+              "projectile2Velocity": {
+                "x": -242.256363,
+                "y": 10.2667208,
+                "z": 142.5062
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.0,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "6": {
+              "timeStamp": "2021-01-22T02:59:27.564348+03:00",
+              "projectile1ID": 311,
+              "projectile2ID": 312,
+              "timeInterval": 0.125206,
+              "projectile1Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile2Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile1Velocity": {
+                "x": -242.256363,
+                "y": 10.2667208,
+                "z": 142.5062
+              },
+              "projectile2Velocity": {
+                "x": -242.37384,
+                "y": 10.62659,
+                "z": 142.279861
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.08846933,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            }
+          }
+        },
+        "2021.1.22.2.20_637468811705111280_313.319": {
+          "ShotsCnt": 7,
+          "NRViolationsCnt": 6,
+          "violationProbability": 72.85714,
+          "isMounted": false,
+          "mountParentPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mountParentRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "attachments": [
+            "weapon.mod.flashlight",
+            "weapon.mod.silencer",
+            "weapon.mod.holosight"
+          ],
+          "ammoShortName": "ammo.rifle",
+          "weaponShortName": "rifle.ak",
+          "suspiciousNoRecoilShots": {
+            "1": {
+              "timeStamp": "2021-01-22T02:59:27.722406+03:00",
+              "projectile1ID": 313,
+              "projectile2ID": 313,
+              "timeInterval": 0.0,
+              "projectile1Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile2Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile1Velocity": {
+                "x": -242.570923,
+                "y": 9.641637,
+                "z": 142.013931
+              },
+              "projectile2Velocity": {
+                "x": -242.570923,
+                "y": 9.641637,
+                "z": 142.013931
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.0,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": false,
+              "isShootedInMotion": false
+            },
+            "2": {
+              "timeStamp": "2021-01-22T02:59:27.829682+03:00",
+              "projectile1ID": 313,
+              "projectile2ID": 314,
+              "timeInterval": 0.107276,
+              "projectile1Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile2Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile1Velocity": {
+                "x": -242.570923,
+                "y": 9.641637,
+                "z": 142.013931
+              },
+              "projectile2Velocity": {
+                "x": -243.2351,
+                "y": 8.6373,
+                "z": 140.938446
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.0,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "3": {
+              "timeStamp": "2021-01-22T02:59:27.97355+03:00",
+              "projectile1ID": 314,
+              "projectile2ID": 315,
+              "timeInterval": 0.143868,
+              "projectile1Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile2Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile1Velocity": {
+                "x": -243.2351,
+                "y": 8.6373,
+                "z": 140.938446
+              },
+              "projectile2Velocity": {
+                "x": -243.12149,
+                "y": 8.942538,
+                "z": 141.115356
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.07401875,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "4": {
+              "timeStamp": "2021-01-22T02:59:28.113672+03:00",
+              "projectile1ID": 315,
+              "projectile2ID": 316,
+              "timeInterval": 0.140122,
+              "projectile1Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile2Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile1Velocity": {
+                "x": -243.12149,
+                "y": 8.942538,
+                "z": 141.115356
+              },
+              "projectile2Velocity": {
+                "x": -243.433,
+                "y": 8.536471,
+                "z": 140.602539
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.148037523,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "5": {
+              "timeStamp": "2021-01-22T02:59:28.227979+03:00",
+              "projectile1ID": 316,
+              "projectile2ID": 317,
+              "timeInterval": 0.114307,
+              "projectile1Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile2Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile1Velocity": {
+                "x": -243.433,
+                "y": 8.536471,
+                "z": 140.602539
+              },
+              "projectile2Velocity": {
+                "x": -243.354462,
+                "y": 8.512552,
+                "z": 140.739822
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.03426402,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "6": {
+              "timeStamp": "2021-01-22T02:59:28.380843+03:00",
+              "projectile1ID": 317,
+              "projectile2ID": 318,
+              "timeInterval": 0.152864,
+              "projectile1Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile2Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile1Velocity": {
+                "x": -243.354462,
+                "y": 8.512552,
+                "z": 140.739822
+              },
+              "projectile2Velocity": {
+                "x": -243.621674,
+                "y": 9.797001,
+                "z": 140.192932
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.289391,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "7": {
+              "timeStamp": "2021-01-22T02:59:28.493207+03:00",
+              "projectile1ID": 318,
+              "projectile2ID": 319,
+              "timeInterval": 0.112364,
+              "projectile1Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile2Position": {
+                "x": -1021.12061,
+                "y": 4.86215258,
+                "z": -69.00281
+              },
+              "projectile1Velocity": {
+                "x": -243.621674,
+                "y": 9.797001,
+                "z": 140.192932
+              },
+              "projectile2Velocity": {
+                "x": -243.524811,
+                "y": 8.909063,
+                "z": 140.4203
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.187671855,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            }
+          }
+        },
+        "2021.1.22.2.20_637469113114876930_109.113": {
+          "ShotsCnt": 5,
+          "NRViolationsCnt": 4,
+          "violationProbability": 90.0,
+          "isMounted": false,
+          "mountParentPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mountParentRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "attachments": [
+            "weapon.mod.lasersight",
+            "weapon.mod.silencer",
+            "weapon.mod.small.scope"
+          ],
+          "ammoShortName": "ammo.rifle",
+          "weaponShortName": "rifle.ak",
+          "suspiciousNoRecoilShots": {
+            "1": {
+              "timeStamp": "2021-01-22T11:21:47.489762+03:00",
+              "projectile1ID": 109,
+              "projectile2ID": 109,
+              "timeInterval": 0.0,
+              "projectile1Position": {
+                "x": 81.74424,
+                "y": 37.8335381,
+                "z": 132.8808
+              },
+              "projectile2Position": {
+                "x": 81.74424,
+                "y": 37.8335381,
+                "z": 132.8808
+              },
+              "projectile1Velocity": {
+                "x": 212.642517,
+                "y": 161.222885,
+                "z": 88.83634
+              },
+              "projectile2Velocity": {
+                "x": 212.642517,
+                "y": 161.222885,
+                "z": 88.83634
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.0,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "2": {
+              "timeStamp": "2021-01-22T11:21:47.631957+03:00",
+              "projectile1ID": 109,
+              "projectile2ID": 110,
+              "timeInterval": 0.142195,
+              "projectile1Position": {
+                "x": 81.74424,
+                "y": 37.8335381,
+                "z": 132.8808
+              },
+              "projectile2Position": {
+                "x": 81.74424,
+                "y": 37.8335838,
+                "z": 132.8808
+              },
+              "projectile1Velocity": {
+                "x": 212.642517,
+                "y": 161.222885,
+                "z": 88.83634
+              },
+              "projectile2Velocity": {
+                "x": 212.595642,
+                "y": 160.764771,
+                "z": 89.77388
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.2121421,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "3": {
+              "timeStamp": "2021-01-22T11:21:47.76314+03:00",
+              "projectile1ID": 110,
+              "projectile2ID": 111,
+              "timeInterval": 0.131183,
+              "projectile1Position": {
+                "x": 81.74424,
+                "y": 37.8335838,
+                "z": 132.8808
+              },
+              "projectile2Position": {
+                "x": 81.74424,
+                "y": 37.8335838,
+                "z": 132.8808
+              },
+              "projectile1Velocity": {
+                "x": 212.595642,
+                "y": 160.764771,
+                "z": 89.77388
+              },
+              "projectile2Velocity": {
+                "x": 213.39032,
+                "y": 159.74794,
+                "z": 89.7036057
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.262442619,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "4": {
+              "timeStamp": "2021-01-22T11:21:47.882522+03:00",
+              "projectile1ID": 111,
+              "projectile2ID": 112,
+              "timeInterval": 0.119382,
+              "projectile1Position": {
+                "x": 81.74424,
+                "y": 37.8335838,
+                "z": 132.8808
+              },
+              "projectile2Position": {
+                "x": 81.74424,
+                "y": 37.8335838,
+                "z": 132.8808
+              },
+              "projectile1Velocity": {
+                "x": 213.39032,
+                "y": 159.74794,
+                "z": 89.7036057
+              },
+              "projectile2Velocity": {
+                "x": 212.8759,
+                "y": 160.572067,
+                "z": 89.45405
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.203671768,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "5": {
+              "timeStamp": "2021-01-22T11:21:48.028641+03:00",
+              "projectile1ID": 112,
+              "projectile2ID": 113,
+              "timeInterval": 0.146119,
+              "projectile1Position": {
+                "x": 81.74424,
+                "y": 37.8335838,
+                "z": 132.8808
+              },
+              "projectile2Position": {
+                "x": 81.74424,
+                "y": 37.8335838,
+                "z": 132.8808
+              },
+              "projectile1Velocity": {
+                "x": 212.8759,
+                "y": 160.572067,
+                "z": 89.45405
+              },
+              "projectile2Velocity": {
+                "x": 212.808929,
+                "y": 160.593277,
+                "z": 89.57523
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.0279764552,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            }
+          }
+        },
+        "2021.1.22.2.20_637469176839407700_128.132": {
+          "ShotsCnt": 5,
+          "NRViolationsCnt": 4,
+          "violationProbability": 85.0,
+          "isMounted": false,
+          "mountParentPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mountParentRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "attachments": [
+            "weapon.mod.lasersight",
+            "weapon.mod.silencer",
+            "weapon.mod.small.scope"
+          ],
+          "ammoShortName": "ammo.rifle",
+          "weaponShortName": "rifle.ak",
+          "suspiciousNoRecoilShots": {
+            "1": {
+              "timeStamp": "2021-01-22T13:08:01.280252+03:00",
+              "projectile1ID": 128,
+              "projectile2ID": 128,
+              "timeInterval": 0.0,
+              "projectile1Position": {
+                "x": 317.7256,
+                "y": 21.712513,
+                "z": 1194.92883
+              },
+              "projectile2Position": {
+                "x": 317.7256,
+                "y": 21.712513,
+                "z": 1194.92883
+              },
+              "projectile1Velocity": {
+                "x": 146.904419,
+                "y": -93.74162,
+                "z": 220.75589
+              },
+              "projectile2Velocity": {
+                "x": 146.904419,
+                "y": -93.74162,
+                "z": 220.75589
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.0,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "2": {
+              "timeStamp": "2021-01-22T13:08:01.402473+03:00",
+              "projectile1ID": 128,
+              "projectile2ID": 129,
+              "timeInterval": 0.122221,
+              "projectile1Position": {
+                "x": 317.7256,
+                "y": 21.712513,
+                "z": 1194.92883
+              },
+              "projectile2Position": {
+                "x": 317.7256,
+                "y": 21.7124271,
+                "z": 1194.92883
+              },
+              "projectile1Velocity": {
+                "x": 146.904419,
+                "y": -93.74162,
+                "z": 220.75589
+              },
+              "projectile2Velocity": {
+                "x": 146.443527,
+                "y": -93.2000961,
+                "z": 221.290741
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.180225775,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "3": {
+              "timeStamp": "2021-01-22T13:08:01.538521+03:00",
+              "projectile1ID": 129,
+              "projectile2ID": 130,
+              "timeInterval": 0.136048,
+              "projectile1Position": {
+                "x": 317.7256,
+                "y": 21.7124271,
+                "z": 1194.92883
+              },
+              "projectile2Position": {
+                "x": 317.7256,
+                "y": 21.7124252,
+                "z": 1194.92883
+              },
+              "projectile1Velocity": {
+                "x": 146.443527,
+                "y": -93.2000961,
+                "z": 221.290741
+              },
+              "projectile2Velocity": {
+                "x": 147.1933,
+                "y": -93.32533,
+                "z": 220.739853
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.189745635,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "4": {
+              "timeStamp": "2021-01-22T13:08:01.686536+03:00",
+              "projectile1ID": 130,
+              "projectile2ID": 131,
+              "timeInterval": 0.148015,
+              "projectile1Position": {
+                "x": 317.7256,
+                "y": 21.7124252,
+                "z": 1194.92883
+              },
+              "projectile2Position": {
+                "x": 317.7256,
+                "y": 21.7124252,
+                "z": 1194.92883
+              },
+              "projectile1Velocity": {
+                "x": 147.1933,
+                "y": -93.32533,
+                "z": 220.739853
+              },
+              "projectile2Velocity": {
+                "x": 146.625824,
+                "y": -93.35753,
+                "z": 221.1036
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.137056112,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "5": {
+              "timeStamp": "2021-01-22T13:08:01.816431+03:00",
+              "projectile1ID": 131,
+              "projectile2ID": 132,
+              "timeInterval": 0.129895,
+              "projectile1Position": {
+                "x": 317.7256,
+                "y": 21.7124252,
+                "z": 1194.92883
+              },
+              "projectile2Position": {
+                "x": 317.7256,
+                "y": 21.7124252,
+                "z": 1194.92883
+              },
+              "projectile1Velocity": {
+                "x": 146.625824,
+                "y": -93.35753,
+                "z": 221.1036
+              },
+              "projectile2Velocity": {
+                "x": 147.654556,
+                "y": -93.4964752,
+                "z": 220.359039
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.2594432,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            }
+          }
+        }
+      },
+      "AIMViolations": {},
+      "inRockViolations": {}
+    },
+    "76561199111991462": {
+      "PlayerID": 76561199111991462,
+      "PlayerName": "Markys",
+      "noRecoilViolations": {
+        "2021.1.22.2.20_637469136280038500_200.205": {
+          "ShotsCnt": 6,
+          "NRViolationsCnt": 5,
+          "violationProbability": 81.42857,
+          "isMounted": false,
+          "mountParentPosition": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "mountParentRotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.0
+          },
+          "attachments": [
+            "weapon.mod.small.scope"
+          ],
+          "ammoShortName": "ammo.rifle",
+          "weaponShortName": "rifle.ak",
+          "suspiciousNoRecoilShots": {
+            "1": {
+              "timeStamp": "2021-01-22T12:00:24.004094+03:00",
+              "projectile1ID": 200,
+              "projectile2ID": 200,
+              "timeInterval": 0.0,
+              "projectile1Position": {
+                "x": -273.4523,
+                "y": 33.7631569,
+                "z": 819.6523
+              },
+              "projectile2Position": {
+                "x": -273.4523,
+                "y": 33.7631569,
+                "z": 819.6523
+              },
+              "projectile1Velocity": {
+                "x": -264.293243,
+                "y": 47.826458,
+                "z": -261.699646
+              },
+              "projectile2Velocity": {
+                "x": -264.293243,
+                "y": 47.826458,
+                "z": -261.699646
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.0,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "2": {
+              "timeStamp": "2021-01-22T12:00:24.14981+03:00",
+              "projectile1ID": 200,
+              "projectile2ID": 201,
+              "timeInterval": 0.145716,
+              "projectile1Position": {
+                "x": -273.4523,
+                "y": 33.7631569,
+                "z": 819.6523
+              },
+              "projectile2Position": {
+                "x": -273.4523,
+                "y": 33.7631569,
+                "z": 819.6523
+              },
+              "projectile1Velocity": {
+                "x": -264.293243,
+                "y": 47.826458,
+                "z": -261.699646
+              },
+              "projectile2Velocity": {
+                "x": -265.000824,
+                "y": 47.12759,
+                "z": -261.11026
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.176938713,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "3": {
+              "timeStamp": "2021-01-22T12:00:24.28942+03:00",
+              "projectile1ID": 201,
+              "projectile2ID": 202,
+              "timeInterval": 0.13961,
+              "projectile1Position": {
+                "x": -273.4523,
+                "y": 33.7631569,
+                "z": 819.6523
+              },
+              "projectile2Position": {
+                "x": -273.4523,
+                "y": 33.7631569,
+                "z": 819.6523
+              },
+              "projectile1Velocity": {
+                "x": -265.000824,
+                "y": 47.12759,
+                "z": -261.11026
+              },
+              "projectile2Velocity": {
+                "x": -264.815277,
+                "y": 48.723568,
+                "z": -261.005524
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.245492578,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "4": {
+              "timeStamp": "2021-01-22T12:00:24.419031+03:00",
+              "projectile1ID": 202,
+              "projectile2ID": 203,
+              "timeInterval": 0.129611,
+              "projectile1Position": {
+                "x": -273.4523,
+                "y": 33.7631569,
+                "z": 819.6523
+              },
+              "projectile2Position": {
+                "x": -273.4523,
+                "y": 33.7631569,
+                "z": 819.6523
+              },
+              "projectile1Velocity": {
+                "x": -264.815277,
+                "y": 48.723568,
+                "z": -261.005524
+              },
+              "projectile2Velocity": {
+                "x": -264.3706,
+                "y": 46.79503,
+                "z": -261.807953
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.0,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "5": {
+              "timeStamp": "2021-01-22T12:00:24.550043+03:00",
+              "projectile1ID": 203,
+              "projectile2ID": 204,
+              "timeInterval": 0.131012,
+              "projectile1Position": {
+                "x": -273.4523,
+                "y": 33.7631569,
+                "z": 819.6523
+              },
+              "projectile2Position": {
+                "x": -273.4523,
+                "y": 33.7631569,
+                "z": 819.6523
+              },
+              "projectile1Velocity": {
+                "x": -264.3706,
+                "y": 46.79503,
+                "z": -261.807953
+              },
+              "projectile2Velocity": {
+                "x": -264.75647,
+                "y": 46.55626,
+                "z": -261.460358
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.0862292349,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            },
+            "6": {
+              "timeStamp": "2021-01-22T12:00:24.676472+03:00",
+              "projectile1ID": 204,
+              "projectile2ID": 205,
+              "timeInterval": 0.126429,
+              "projectile1Position": {
+                "x": -273.4523,
+                "y": 33.7631569,
+                "z": 819.6523
+              },
+              "projectile2Position": {
+                "x": -273.4523,
+                "y": 33.7631569,
+                "z": 819.6523
+              },
+              "projectile1Velocity": {
+                "x": -264.75647,
+                "y": 46.55626,
+                "z": -261.460358
+              },
+              "projectile2Velocity": {
+                "x": -264.4854,
+                "y": 46.4453545,
+                "z": -261.754272
+              },
+              "closestPointLine1": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "closestPointLine2": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "prevIntersectionPoint": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+              },
+              "recoilAngle": 0.06255726,
+              "recoilScreenDistance": 0.0,
+              "isNoRecoil": true,
+              "isShootedInMotion": false
+            }
+          }
+        }
+      },
+      "AIMViolations": {},
+      "inRockViolations": {}
+    }
+  }
+}

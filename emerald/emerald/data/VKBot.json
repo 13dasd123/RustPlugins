@@ -1,0 +1,20 @@
+{
+  "WoodGath": 53310,
+  "SulfureGath": 50890,
+  "Rockets": 348,
+  "Blueprints": 22,
+  "Explosive": 4,
+  "Reports": 1,
+  "Gifts": [
+    {
+      "shortname": "supply.signal",
+      "skinid": 0,
+      "count": 1
+    },
+    {
+      "shortname": "pookie.bear",
+      "skinid": 0,
+      "count": 2
+    }
+  ]
+}

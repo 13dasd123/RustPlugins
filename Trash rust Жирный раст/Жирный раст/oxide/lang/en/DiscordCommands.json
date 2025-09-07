@@ -1,0 +1,5 @@
+{
+  "CommandInfoText": "To execute a command on the server",
+  "RanCommand": "Ran Command",
+  "CommandHelpTextV1": "Send commands to the rust server:\nType /{0} {command} - to execute that command on the server\nExample: /{0} o.reload DiscordCommand"
+}

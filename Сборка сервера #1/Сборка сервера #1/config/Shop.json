@@ -1,0 +1,1756 @@
+{
+  "Items": [
+    {
+      "Name": "lmg.m249",
+      "Amount of item": 1,
+      "Price": 1000,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "rifle.l96",
+      "Amount of item": 1,
+      "Price": 700,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "rifle.lr300",
+      "Amount of item": 1,
+      "Price": 500,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "rifle.ak",
+      "Amount of item": 1,
+      "Price": 500,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "rifle.ak.ice",
+      "Amount of item": 1,
+      "Price": 500,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "rifle.bolt",
+      "Amount of item": 1,
+      "Price": 400,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "shotgun.spas12",
+      "Amount of item": 1,
+      "Price": 180,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "rifle.m39",
+      "Amount of item": 1,
+      "Price": 250,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "smg.mp5",
+      "Amount of item": 1,
+      "Price": 300,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "smg.2",
+      "Amount of item": 1,
+      "Price": 270,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "smg.thompson",
+      "Amount of item": 1,
+      "Price": 290,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "rifle.semiauto",
+      "Amount of item": 1,
+      "Price": 240,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "pistol.m92",
+      "Amount of item": 1,
+      "Price": 220,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "pistol.semiauto",
+      "Amount of item": 1,
+      "Price": 200,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "pistol.python",
+      "Amount of item": 1,
+      "Price": 150,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "pistol.revolver",
+      "Amount of item": 1,
+      "Price": 120,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "shotgun.pump",
+      "Amount of item": 1,
+      "Price": 190,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "shotgun.double",
+      "Amount of item": 1,
+      "Price": 150,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "pistol.nailgun",
+      "Amount of item": 1,
+      "Price": 90,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "crossbow",
+      "Amount of item": 1,
+      "Price": 70,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "bow.compound",
+      "Amount of item": 1,
+      "Price": 70,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "bow.hunting",
+      "Amount of item": 1,
+      "Price": 50,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "weapon.mod.small.scope",
+      "Amount of item": 1,
+      "Price": 200,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "weapon.mod.8x.scope",
+      "Amount of item": 1,
+      "Price": 150,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "weapon.mod.holosight",
+      "Amount of item": 1,
+      "Price": 80,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "weapon.mod.silencer",
+      "Amount of item": 1,
+      "Price": 80,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "weapon.mod.flashlight",
+      "Amount of item": 1,
+      "Price": 30,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "weapon.mod.lasersight",
+      "Amount of item": 1,
+      "Price": 50,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "weapon.mod.simplesight",
+      "Amount of item": 1,
+      "Price": 30,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "longsword",
+      "Amount of item": 1,
+      "Price": 100,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "knife.combat",
+      "Amount of item": 1,
+      "Price": 70,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "shotgun.waterpipe",
+      "Amount of item": 1,
+      "Price": 70,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "snowballgun",
+      "Amount of item": 1,
+      "Price": 100,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "salvaged.sword",
+      "Amount of item": 1,
+      "Price": 60,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "machete",
+      "Amount of item": 1,
+      "Price": 50,
+      "Category": "Weapons"
+    },
+    {
+      "Name": "ammo.grenadelauncher.he",
+      "Amount of item": 12,
+      "Price": 900,
+      "Category": "Ammunition"
+    },
+    {
+      "Name": "ammo.grenadelauncher.buckshot",
+      "Amount of item": 12,
+      "Price": 600,
+      "Category": "Ammunition"
+    },
+    {
+      "Name": "ammo.grenadelauncher.smoke",
+      "Amount of item": 12,
+      "Price": 500,
+      "Category": "Ammunition"
+    },
+    {
+      "Name": "ammo.rifle",
+      "Amount of item": 100,
+      "Price": 190,
+      "Category": "Ammunition"
+    },
+    {
+      "Name": "ammo.rifle.incendiary",
+      "Amount of item": 100,
+      "Price": 260,
+      "Category": "Ammunition"
+    },
+    {
+      "Name": "ammo.rifle.explosive",
+      "Amount of item": 300,
+      "Price": 800,
+      "Category": "Ammunition"
+    },
+    {
+      "Name": "ammo.rifle.hv",
+      "Amount of item": 100,
+      "Price": 240,
+      "Category": "Ammunition"
+    },
+    {
+      "Name": "ammo.pistol",
+      "Amount of item": 100,
+      "Price": 140,
+      "Category": "Ammunition"
+    },
+    {
+      "Name": "ammo.pistol.fire",
+      "Amount of item": 100,
+      "Price": 160,
+      "Category": "Ammunition"
+    },
+    {
+      "Name": "ammo.pistol.hv",
+      "Amount of item": 100,
+      "Price": 140,
+      "Category": "Ammunition"
+    },
+    {
+      "Name": "ammo.shotgun",
+      "Amount of item": 40,
+      "Price": 70,
+      "Category": "Ammunition"
+    },
+    {
+      "Name": "ammo.shotgun.fire",
+      "Amount of item": 40,
+      "Price": 100,
+      "Category": "Ammunition"
+    },
+    {
+      "Name": "ammo.shotgun.slug",
+      "Amount of item": 20,
+      "Price": 90,
+      "Category": "Ammunition"
+    },
+    {
+      "Name": "ammo.rocket.basic",
+      "Amount of item": 6,
+      "Price": 1200,
+      "Category": "Ammunition"
+    },
+    {
+      "Name": "ammo.rocket.fire",
+      "Amount of item": 6,
+      "Price": 800,
+      "Category": "Ammunition"
+    },
+    {
+      "Name": "ammo.rocket.hv",
+      "Amount of item": 6,
+      "Price": 700,
+      "Category": "Ammunition"
+    },
+    {
+      "Name": "ammo.rocket.mlrs",
+      "Amount of item": 12,
+      "Price": 3000,
+      "Category": "Ammunition"
+    },
+    {
+      "Name": "submarine.torpedo.straight",
+      "Amount of item": 1,
+      "Price": 50,
+      "Category": "Ammunition"
+    },
+    {
+      "Name": "ammo.rocket.sam",
+      "Amount of item": 50,
+      "Price": 300,
+      "Category": "Ammunition"
+    },
+    {
+      "Name": "speargun.spear",
+      "Amount of item": 100,
+      "Price": 50,
+      "Category": "Ammunition"
+    },
+    {
+      "Name": "arrow.hv",
+      "Amount of item": 100,
+      "Price": 40,
+      "Category": "Ammunition"
+    },
+    {
+      "Name": "arrow.wooden",
+      "Amount of item": 100,
+      "Price": 30,
+      "Category": "Ammunition"
+    },
+    {
+      "Name": "arrow.fire",
+      "Amount of item": 100,
+      "Price": 55,
+      "Category": "Ammunition"
+    },
+    {
+      "Name": "explosive.timed",
+      "Amount of item": 3,
+      "Price": 1400,
+      "Category": "Tools"
+    },
+    {
+      "Name": "explosive.satchel",
+      "Amount of item": 8,
+      "Price": 800,
+      "Category": "Tools"
+    },
+    {
+      "Name": "supply.signal",
+      "Amount of item": 1,
+      "Price": 800,
+      "Category": "Tools"
+    },
+    {
+      "Name": "surveycharge",
+      "Amount of item": 1,
+      "Price": 30,
+      "Category": "Tools"
+    },
+    {
+      "Name": "grenade.f1",
+      "Amount of item": 5,
+      "Price": 320,
+      "Category": "Tools"
+    },
+    {
+      "Name": "grenade.beancan",
+      "Amount of item": 5,
+      "Price": 200,
+      "Category": "Tools"
+    },
+    {
+      "Name": "jackhammer",
+      "Amount of item": 1,
+      "Price": 300,
+      "Category": "Tools"
+    },
+    {
+      "Name": "chainsaw",
+      "Amount of item": 1,
+      "Price": 240,
+      "Category": "Tools"
+    },
+    {
+      "Name": "axe.salvaged",
+      "Amount of item": 1,
+      "Price": 120,
+      "Category": "Tools"
+    },
+    {
+      "Name": "icepick.salvaged",
+      "Amount of item": 1,
+      "Price": 120,
+      "Category": "Tools"
+    },
+    {
+      "Name": "hammer.salvaged",
+      "Amount of item": 1,
+      "Price": 160,
+      "Category": "Tools"
+    },
+    {
+      "Name": "pickaxe",
+      "Amount of item": 1,
+      "Price": 80,
+      "Category": "Tools"
+    },
+    {
+      "Name": "hatchet",
+      "Amount of item": 1,
+      "Price": 60,
+      "Category": "Tools"
+    },
+    {
+      "Name": "flashlight.held",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Tools"
+    },
+    {
+      "Name": "tool.binoculars",
+      "Amount of item": 1,
+      "Price": 40,
+      "Category": "Tools"
+    },
+    {
+      "Name": "spraycan",
+      "Amount of item": 1,
+      "Price": 20,
+      "Category": "Tools"
+    },
+    {
+      "Name": "tool.camera",
+      "Amount of item": 1,
+      "Price": 20,
+      "Category": "Tools"
+    },
+    {
+      "Name": "tool.instant_camera",
+      "Amount of item": 1,
+      "Price": 20,
+      "Category": "Tools"
+    },
+    {
+      "Name": "rf.detonator",
+      "Amount of item": 1,
+      "Price": 5,
+      "Category": "Tools"
+    },
+    {
+      "Name": "fishingrod.handmade",
+      "Amount of item": 1,
+      "Price": 30,
+      "Category": "Tools"
+    },
+    {
+      "Name": "fishing.tackle",
+      "Amount of item": 1,
+      "Price": 20,
+      "Category": "Tools"
+    },
+    {
+      "Name": "cakefiveyear",
+      "Amount of item": 1,
+      "Price": 50,
+      "Category": "Tools"
+    },
+    {
+      "Name": "wood",
+      "Amount of item": 2500,
+      "Price": 70,
+      "Category": "Resources"
+    },
+    {
+      "Name": "stones",
+      "Amount of item": 2500,
+      "Price": 100,
+      "Category": "Resources"
+    },
+    {
+      "Name": "metal.fragments",
+      "Amount of item": 800,
+      "Price": 120,
+      "Category": "Resources"
+    },
+    {
+      "Name": "metal.refined",
+      "Amount of item": 100,
+      "Price": 210,
+      "Category": "Resources"
+    },
+    {
+      "Name": "scrap",
+      "Amount of item": 300,
+      "Price": 300,
+      "Category": "Resources"
+    },
+    {
+      "Name": "sulfur",
+      "Amount of item": 2500,
+      "Price": 400,
+      "Category": "Resources"
+    },
+    {
+      "Name": "fat.animal",
+      "Amount of item": 250,
+      "Price": 120,
+      "Category": "Resources"
+    },
+    {
+      "Name": "lowgradefuel",
+      "Amount of item": 250,
+      "Price": 200,
+      "Category": "Resources"
+    },
+    {
+      "Name": "crude.oil",
+      "Amount of item": 10,
+      "Price": 150,
+      "Category": "Resources"
+    },
+    {
+      "Name": "diesel_barrel",
+      "Amount of item": 5,
+      "Price": 290,
+      "Category": "Resources"
+    },
+    {
+      "Name": "cloth",
+      "Amount of item": 300,
+      "Price": 160,
+      "Category": "Resources"
+    },
+    {
+      "Name": "leather",
+      "Amount of item": 300,
+      "Price": 300,
+      "Category": "Resources"
+    },
+    {
+      "Name": "charcoal",
+      "Amount of item": 2500,
+      "Price": 100,
+      "Category": "Resources"
+    },
+    {
+      "Name": "gunpowder",
+      "Amount of item": 1000,
+      "Price": 250,
+      "Category": "Resources"
+    },
+    {
+      "Name": "explosives",
+      "Amount of item": 10,
+      "Price": 350,
+      "Category": "Resources"
+    },
+    {
+      "Name": "fertilizer",
+      "Amount of item": 10,
+      "Price": 100,
+      "Category": "Resources"
+    },
+    {
+      "Name": "targeting.computer",
+      "Amount of item": 1,
+      "Price": 100,
+      "Category": "Resources"
+    },
+    {
+      "Name": "cctv.camera",
+      "Amount of item": 1,
+      "Price": 130,
+      "Category": "Resources"
+    },
+    {
+      "Name": "riflebody",
+      "Amount of item": 3,
+      "Price": 290,
+      "Category": "Resources"
+    },
+    {
+      "Name": "smgbody",
+      "Amount of item": 3,
+      "Price": 160,
+      "Category": "Resources"
+    },
+    {
+      "Name": "semibody",
+      "Amount of item": 3,
+      "Price": 195,
+      "Category": "Resources"
+    },
+    {
+      "Name": "metalpipe",
+      "Amount of item": 20,
+      "Price": 250,
+      "Category": "Resources"
+    },
+    {
+      "Name": "metalblade",
+      "Amount of item": 10,
+      "Price": 120,
+      "Category": "Resources"
+    },
+    {
+      "Name": "metalspring",
+      "Amount of item": 5,
+      "Price": 170,
+      "Category": "Resources"
+    },
+    {
+      "Name": "techparts",
+      "Amount of item": 5,
+      "Price": 220,
+      "Category": "Resources"
+    },
+    {
+      "Name": "gears",
+      "Amount of item": 10,
+      "Price": 280,
+      "Category": "Resources"
+    },
+    {
+      "Name": "roadsigns",
+      "Amount of item": 10,
+      "Price": 150,
+      "Category": "Resources"
+    },
+    {
+      "Name": "sheetmetal",
+      "Amount of item": 5,
+      "Price": 180,
+      "Category": "Resources"
+    },
+    {
+      "Name": "sewingkit",
+      "Amount of item": 20,
+      "Price": 170,
+      "Category": "Resources"
+    },
+    {
+      "Name": "propanetank",
+      "Amount of item": 10,
+      "Price": 90,
+      "Category": "Resources"
+    },
+    {
+      "Name": "tarp",
+      "Amount of item": 5,
+      "Price": 90,
+      "Category": "Resources"
+    },
+    {
+      "Name": "rope",
+      "Amount of item": 10,
+      "Price": 90,
+      "Category": "Resources"
+    },
+    {
+      "Name": "aiming.module.mlrs",
+      "Amount of item": 1,
+      "Price": 500,
+      "Category": "Resources"
+    },
+    {
+      "Name": "fuse",
+      "Amount of item": 1,
+      "Price": 90,
+      "Category": "Resources"
+    },
+    {
+      "Name": "computerstation",
+      "Amount of item": 1,
+      "Price": 150,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "electric.solarpanel.large",
+      "Amount of item": 3,
+      "Price": 190,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "generator.wind.scrap",
+      "Amount of item": 1,
+      "Price": 200,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "electric.battery.rechargable.large",
+      "Amount of item": 1,
+      "Price": 150,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "electric.battery.rechargable.medium",
+      "Amount of item": 1,
+      "Price": 100,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "electric.fuelgenerator.small",
+      "Amount of item": 1,
+      "Price": 50,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "electric.battery.rechargable.small",
+      "Amount of item": 1,
+      "Price": 30,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "waterpump",
+      "Amount of item": 1,
+      "Price": 50,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "searchlight",
+      "Amount of item": 1,
+      "Price": 20,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "ceilinglight",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "electric.heater",
+      "Amount of item": 1,
+      "Price": 20,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "powered.water.purifier",
+      "Amount of item": 1,
+      "Price": 100,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "fluid.switch",
+      "Amount of item": 1,
+      "Price": 50,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "hosetool",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "wiretool",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "smart.switch",
+      "Amount of item": 1,
+      "Price": 30,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "target.reactive",
+      "Amount of item": 1,
+      "Price": 20,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "smart.alarm",
+      "Amount of item": 1,
+      "Price": 20,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "elevator",
+      "Amount of item": 1,
+      "Price": 100,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "electric.teslacoil",
+      "Amount of item": 1,
+      "Price": 70,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "electric.button",
+      "Amount of item": 1,
+      "Price": 20,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "electric.audioalarm",
+      "Amount of item": 1,
+      "Price": 20,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "telephone",
+      "Amount of item": 1,
+      "Price": 5,
+      "Category": "Food"
+    },
+    {
+      "Name": "mobilephone",
+      "Amount of item": 1,
+      "Price": 5,
+      "Category": "Food"
+    },
+    {
+      "Name": "fun.boomboxportable",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "fun.casetterecorder",
+      "Amount of item": 1,
+      "Price": 5,
+      "Category": "Food"
+    },
+    {
+      "Name": "cassette.medium",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "cassette.short",
+      "Amount of item": 1,
+      "Price": 5,
+      "Category": "Food"
+    },
+    {
+      "Name": "cassette",
+      "Amount of item": 1,
+      "Price": 15,
+      "Category": "Food"
+    },
+    {
+      "Name": "megaphone",
+      "Amount of item": 1,
+      "Price": 20,
+      "Category": "Food"
+    },
+    {
+      "Name": "microphonestand",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "soundlight",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "boombox",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "connected.speaker",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "laserlight",
+      "Amount of item": 1,
+      "Price": 15,
+      "Category": "Food"
+    },
+    {
+      "Name": "discoball",
+      "Amount of item": 1,
+      "Price": 20,
+      "Category": "Food"
+    },
+    {
+      "Name": "discofloor",
+      "Amount of item": 1,
+      "Price": 20,
+      "Category": "Food"
+    },
+    {
+      "Name": "beachparasol",
+      "Amount of item": 1,
+      "Price": 5,
+      "Category": "Food"
+    },
+    {
+      "Name": "abovegroundpool",
+      "Amount of item": 1,
+      "Price": 30,
+      "Category": "Food"
+    },
+    {
+      "Name": "beachtable",
+      "Amount of item": 1,
+      "Price": 5,
+      "Category": "Food"
+    },
+    {
+      "Name": "beachtowel",
+      "Amount of item": 1,
+      "Price": 5,
+      "Category": "Food"
+    },
+    {
+      "Name": "paddlingpool",
+      "Amount of item": 1,
+      "Price": 15,
+      "Category": "Food"
+    },
+    {
+      "Name": "beachchair",
+      "Amount of item": 1,
+      "Price": 5,
+      "Category": "Food"
+    },
+    {
+      "Name": "boogieboard",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "hazmatsuit.nomadsuit",
+      "Amount of item": 1,
+      "Price": 190,
+      "Category": "Attire"
+    },
+    {
+      "Name": "hazmatsuit.arcticsuit",
+      "Amount of item": 1,
+      "Price": 190,
+      "Category": "Attire"
+    },
+    {
+      "Name": "scientistsuit_heavy",
+      "Amount of item": 1,
+      "Price": 230,
+      "Category": "Attire"
+    },
+    {
+      "Name": "attire.ninja.suit",
+      "Amount of item": 1,
+      "Price": 140,
+      "Category": "Attire"
+    },
+    {
+      "Name": "metal.facemask",
+      "Amount of item": 1,
+      "Price": 390,
+      "Category": "Attire"
+    },
+    {
+      "Name": "metal.plate.torso",
+      "Amount of item": 1,
+      "Price": 390,
+      "Category": "Attire"
+    },
+    {
+      "Name": "heavy.plate.helmet",
+      "Amount of item": 1,
+      "Price": 260,
+      "Category": "Attire"
+    },
+    {
+      "Name": "heavy.plate.jacket",
+      "Amount of item": 1,
+      "Price": 220,
+      "Category": "Attire"
+    },
+    {
+      "Name": "heavy.plate.pants",
+      "Amount of item": 1,
+      "Price": 220,
+      "Category": "Attire"
+    },
+    {
+      "Name": "roadsign.jacket",
+      "Amount of item": 1,
+      "Price": 190,
+      "Category": "Attire"
+    },
+    {
+      "Name": "roadsign.kilt",
+      "Amount of item": 1,
+      "Price": 190,
+      "Category": "Attire"
+    },
+    {
+      "Name": "nightvisiongoggles",
+      "Amount of item": 1,
+      "Price": 100,
+      "Category": "Attire"
+    },
+    {
+      "Name": "hoodie",
+      "Amount of item": 1,
+      "Price": 70,
+      "Category": "Attire"
+    },
+    {
+      "Name": "lumberjack hoodie",
+      "Amount of item": 1,
+      "Price": 70,
+      "Category": "Attire"
+    },
+    {
+      "Name": "tactical.gloves",
+      "Amount of item": 1,
+      "Price": 120,
+      "Category": "Attire"
+    },
+    {
+      "Name": "roadsign.gloves",
+      "Amount of item": 1,
+      "Price": 140,
+      "Category": "Attire"
+    },
+    {
+      "Name": "pants",
+      "Amount of item": 1,
+      "Price": 70,
+      "Category": "Attire"
+    },
+    {
+      "Name": "shoes.boots",
+      "Amount of item": 1,
+      "Price": 60,
+      "Category": "Attire"
+    },
+    {
+      "Name": "diving.mask",
+      "Amount of item": 1,
+      "Price": 90,
+      "Category": "Attire"
+    },
+    {
+      "Name": "diving.wetsuit",
+      "Amount of item": 1,
+      "Price": 90,
+      "Category": "Attire"
+    },
+    {
+      "Name": "diving.tank",
+      "Amount of item": 1,
+      "Price": 190,
+      "Category": "Attire"
+    },
+    {
+      "Name": "diving.fins",
+      "Amount of item": 1,
+      "Price": 90,
+      "Category": "Attire"
+    },
+    {
+      "Name": "clatter.helmet",
+      "Amount of item": 1,
+      "Price": 100,
+      "Category": "Attire"
+    },
+    {
+      "Name": "attire.snowman.helmet",
+      "Amount of item": 1,
+      "Price": 20,
+      "Category": "Attire"
+    },
+    {
+      "Name": "attire.nesthat",
+      "Amount of item": 1,
+      "Price": 100,
+      "Category": "Attire"
+    },
+    {
+      "Name": "movembermoustache",
+      "Amount of item": 1,
+      "Price": 5,
+      "Category": "Attire"
+    },
+    {
+      "Name": "autoturret",
+      "Amount of item": 1,
+      "Price": 520,
+      "Category": "Traps"
+    },
+    {
+      "Name": "samsite",
+      "Amount of item": 1,
+      "Price": 650,
+      "Category": "Traps"
+    },
+    {
+      "Name": "flameturret",
+      "Amount of item": 1,
+      "Price": 190,
+      "Category": "Traps"
+    },
+    {
+      "Name": "guntrap",
+      "Amount of item": 1,
+      "Price": 190,
+      "Category": "Traps"
+    },
+    {
+      "Name": "trap.landmine",
+      "Amount of item": 5,
+      "Price": 70,
+      "Category": "Traps"
+    },
+    {
+      "Name": "trap.bear",
+      "Amount of item": 5,
+      "Price": 70,
+      "Category": "Traps"
+    },
+    {
+      "Name": "spikes.floor",
+      "Amount of item": 5,
+      "Price": 30,
+      "Category": "Traps"
+    },
+    {
+      "Name": "rf_pager",
+      "Amount of item": 1,
+      "Price": 50,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "sign.neon.xl.animated",
+      "Amount of item": 1,
+      "Price": 30,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "sign.neon.xl",
+      "Amount of item": 1,
+      "Price": 25,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "sign.neon.125x215",
+      "Amount of item": 1,
+      "Price": 25,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "sign.neon.125x125",
+      "Amount of item": 1,
+      "Price": 20,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "sign.neon.125x215.animated",
+      "Amount of item": 1,
+      "Price": 25,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "waterpump",
+      "Amount of item": 1,
+      "Price": 50,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "electric.sprinkler",
+      "Amount of item": 1,
+      "Price": 80,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "electric.switch",
+      "Amount of item": 1,
+      "Price": 50,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "electric.splitter",
+      "Amount of item": 1,
+      "Price": 50,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "xmas.lightstring.advanced",
+      "Amount of item": 10,
+      "Price": 10,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "electric.igniter",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "storage.monitor",
+      "Amount of item": 1,
+      "Price": 20,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "electric.counter",
+      "Amount of item": 1,
+      "Price": 20,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "electric.timer",
+      "Amount of item": 1,
+      "Price": 20,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "electric.xorswitch",
+      "Amount of item": 1,
+      "Price": 15,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "electric.sirenlight",
+      "Amount of item": 1,
+      "Price": 20,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "fluid.combiner",
+      "Amount of item": 1,
+      "Price": 20,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "electric.doorcontroller",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Electrical"
+    },
+    {
+      "Name": "largemedkit",
+      "Amount of item": 5,
+      "Price": 100,
+      "Category": "Meds"
+    },
+    {
+      "Name": "syringe.medical",
+      "Amount of item": 5,
+      "Price": 120,
+      "Category": "Meds"
+    },
+    {
+      "Name": "antiradpills",
+      "Amount of item": 3,
+      "Price": 100,
+      "Category": "Meds"
+    },
+    {
+      "Name": "bottle.vodka",
+      "Amount of item": 1,
+      "Price": 50,
+      "Category": "Meds"
+    },
+    {
+      "Name": "bandage",
+      "Amount of item": 10,
+      "Price": 20,
+      "Category": "Meds"
+    },
+    {
+      "Name": "blueberries",
+      "Amount of item": 5,
+      "Price": 90,
+      "Category": "Meds"
+    },
+    {
+      "Name": "black.raspberries",
+      "Amount of item": 5,
+      "Price": 90,
+      "Category": "Meds"
+    },
+    {
+      "Name": "healingtea.pure",
+      "Amount of item": 1,
+      "Price": 50,
+      "Category": "Meds"
+    },
+    {
+      "Name": "maxhealthtea.pure",
+      "Amount of item": 1,
+      "Price": 100,
+      "Category": "Meds"
+    },
+    {
+      "Name": "radiationresisttea.pure",
+      "Amount of item": 1,
+      "Price": 100,
+      "Category": "Meds"
+    },
+    {
+      "Name": "radiationremovetea.pure",
+      "Amount of item": 1,
+      "Price": 50,
+      "Category": "Meds"
+    },
+    {
+      "Name": "woodtea.pure",
+      "Amount of item": 1,
+      "Price": 200,
+      "Category": "Meds"
+    },
+    {
+      "Name": "oretea.pure",
+      "Amount of item": 1,
+      "Price": 200,
+      "Category": "Meds"
+    },
+    {
+      "Name": "scraptea.pure",
+      "Amount of item": 1,
+      "Price": 200,
+      "Category": "Meds"
+    },
+    {
+      "Name": "door.closer",
+      "Amount of item": 5,
+      "Price": 30,
+      "Category": "Construction"
+    },
+    {
+      "Name": "ladder.wooden.wall",
+      "Amount of item": 5,
+      "Price": 190,
+      "Category": "Construction"
+    },
+    {
+      "Name": "door.hinged.toptier",
+      "Amount of item": 1,
+      "Price": 700,
+      "Category": "Construction"
+    },
+    {
+      "Name": "door.double.hinged.toptier",
+      "Amount of item": 1,
+      "Price": 700,
+      "Category": "Construction"
+    },
+    {
+      "Name": "wall.frame.garagedoor",
+      "Amount of item": 1,
+      "Price": 290,
+      "Category": "Construction"
+    },
+    {
+      "Name": "door.hinged.metal",
+      "Amount of item": 1,
+      "Price": 200,
+      "Category": "Construction"
+    },
+    {
+      "Name": "door.double.hinged.metal",
+      "Amount of item": 1,
+      "Price": 200,
+      "Category": "Construction"
+    },
+    {
+      "Name": "workbench1",
+      "Amount of item": 1,
+      "Price": 90,
+      "Category": "Construction"
+    },
+    {
+      "Name": "workbench2",
+      "Amount of item": 1,
+      "Price": 900,
+      "Category": "Construction"
+    },
+    {
+      "Name": "workbench3",
+      "Amount of item": 1,
+      "Price": 1500,
+      "Category": "Construction"
+    },
+    {
+      "Name": "gates.external.high.stone",
+      "Amount of item": 1,
+      "Price": 290,
+      "Category": "Construction"
+    },
+    {
+      "Name": "wall.external.high.stone",
+      "Amount of item": 1,
+      "Price": 190,
+      "Category": "Construction"
+    },
+    {
+      "Name": "gates.external.high.wood",
+      "Amount of item": 1,
+      "Price": 150,
+      "Category": "Construction"
+    },
+    {
+      "Name": "wall.external.high",
+      "Amount of item": 1,
+      "Price": 120,
+      "Category": "Construction"
+    },
+    {
+      "Name": "wall.frame.shopfront.metal",
+      "Amount of item": 5,
+      "Price": 250,
+      "Category": "Construction"
+    },
+    {
+      "Name": "shutter.metal.embrasure.b",
+      "Amount of item": 5,
+      "Price": 150,
+      "Category": "Construction"
+    },
+    {
+      "Name": "shutter.metal.embrasure.a",
+      "Amount of item": 5,
+      "Price": 150,
+      "Category": "Construction"
+    },
+    {
+      "Name": "wall.window.bars.toptier",
+      "Amount of item": 5,
+      "Price": 190,
+      "Category": "Construction"
+    },
+    {
+      "Name": "wall.window.glass.reinforced",
+      "Amount of item": 5,
+      "Price": 160,
+      "Category": "Construction"
+    },
+    {
+      "Name": "wall.window.bars.metal",
+      "Amount of item": 5,
+      "Price": 120,
+      "Category": "Construction"
+    },
+    {
+      "Name": "shutter.wood.a",
+      "Amount of item": 5,
+      "Price": 50,
+      "Category": "Construction"
+    },
+    {
+      "Name": "wall.frame.cell.gate",
+      "Amount of item": 1,
+      "Price": 90,
+      "Category": "Construction"
+    },
+    {
+      "Name": "wall.frame.cell",
+      "Amount of item": 1,
+      "Price": 90,
+      "Category": "Construction"
+    },
+    {
+      "Name": "floor.grill",
+      "Amount of item": 1,
+      "Price": 90,
+      "Category": "Construction"
+    },
+    {
+      "Name": "wall.external.high.stone",
+      "Amount of item": 1,
+      "Price": 190,
+      "Category": "Construction"
+    },
+    {
+      "Name": "wall.frame.fence.gate",
+      "Amount of item": 1,
+      "Price": 40,
+      "Category": "Construction"
+    },
+    {
+      "Name": "wall.frame.fence",
+      "Amount of item": 1,
+      "Price": 40,
+      "Category": "Construction"
+    },
+    {
+      "Name": "cardtable",
+      "Amount of item": 1,
+      "Price": 200,
+      "Category": "Construction"
+    },
+    {
+      "Name": "fireplace.stone",
+      "Amount of item": 1,
+      "Price": 50,
+      "Category": "Construction"
+    },
+    {
+      "Name": "furnace.large",
+      "Amount of item": 1,
+      "Price": 220,
+      "Category": "Construction"
+    },
+    {
+      "Name": "furnace",
+      "Amount of item": 3,
+      "Price": 220,
+      "Category": "Construction"
+    },
+    {
+      "Name": "hobobarrel",
+      "Amount of item": 1,
+      "Price": 40,
+      "Category": "Construction"
+    },
+    {
+      "Name": "sofa",
+      "Amount of item": 1,
+      "Price": 30,
+      "Category": "Construction"
+    },
+    {
+      "Name": "chair",
+      "Amount of item": 1,
+      "Price": 30,
+      "Category": "Construction"
+    },
+    {
+      "Name": "bed",
+      "Amount of item": 1,
+      "Price": 100,
+      "Category": "Construction"
+    },
+    {
+      "Name": "dropbox",
+      "Amount of item": 1,
+      "Price": 160,
+      "Category": "Construction"
+    },
+    {
+      "Name": "locker",
+      "Amount of item": 1,
+      "Price": 90,
+      "Category": "Construction"
+    },
+    {
+      "Name": "shelves",
+      "Amount of item": 1,
+      "Price": 50,
+      "Category": "Construction"
+    },
+    {
+      "Name": "vending.machine",
+      "Amount of item": 1,
+      "Price": 150,
+      "Category": "Construction"
+    },
+    {
+      "Name": "chair",
+      "Amount of item": 1,
+      "Price": 30,
+      "Category": "Construction"
+    },
+    {
+      "Name": "fridge",
+      "Amount of item": 1,
+      "Price": 100,
+      "Category": "Construction"
+    },
+    {
+      "Name": "piano",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "fun.trumpet",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "xylophone",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "skylantern.skylantern.red",
+      "Amount of item": 1,
+      "Price": 5,
+      "Category": "Food"
+    },
+    {
+      "Name": "skylantern.skylantern.green",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "skylantern.skylantern.purple",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "skylantern.skylantern.orange",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "drumkit",
+      "Amount of item": 1,
+      "Price": 15,
+      "Category": "Food"
+    },
+    {
+      "Name": "fun.jerrycanguitar",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "fun.guitar",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "innertube",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "rustige_egg_b",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "rustige_egg_d",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "cursedcauldron",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "largecandles",
+      "Amount of item": 1,
+      "Price": 5,
+      "Category": "Food"
+    },
+    {
+      "Name": "smallcandles",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "woodcross",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "spookyspeaker",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "skull.trophy",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "gravestone",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "giantlollipops",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "snowmachine",
+      "Amount of item": 1,
+      "Price": 50,
+      "Category": "Food"
+    },
+    {
+      "Name": "giantcandycanedecor",
+      "Amount of item": 1,
+      "Price": 10,
+      "Category": "Food"
+    },
+    {
+      "Name": "spiderweb",
+      "Amount of item": 1,
+      "Price": 3,
+      "Category": "Food"
+    },
+    {
+      "Name": "xmas.decoration.gingerbreadmen",
+      "Amount of item": 1,
+      "Price": 3,
+      "Category": "Food"
+    },
+    {
+      "Name": "attire.ninja.suit",
+      "Amount of item": 0,
+      "Price": 0,
+      "Category": "Attire"
+    },
+    {
+      "Name": null,
+      "Amount of item": 0,
+      "Price": 0,
+      "Category": null
+    }
+  ]
+}

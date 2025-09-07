@@ -1,0 +1,6 @@
+{
+  "noPerm": "You don't have access to this command.",
+  "players": "Players list: ({0}): \n{1}",
+  "PlayerAlone": "You are alone on server! Your name: {0}, SteamID {1}",
+  "onlineInfo": "Online: {0} player, {1} moderators, {2} admins."
+}

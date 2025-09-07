@@ -1,0 +1,38 @@
+{
+  "Время роста дерева в секундах": 10,
+  "Количество вещей в ящике": 2,
+  "Кол-во ящиков на дереве": 4,
+  "Список префабов этапов дерева": [
+    "assets/prefabs/plants/hemp/hemp.entity.prefab",
+    "assets/bundled/prefabs/autospawn/resource/v2_tundra_forest_small/american_beech_e_dead.prefab",
+    "assets/bundled/prefabs/autospawn/resource/v2_tundra_forest_small/american_beech_d_dead.prefab",
+    "assets/bundled/prefabs/autospawn/resource/v2_tundra_forest_small/oak_a_tundra.prefab",
+    "assets/bundled/prefabs/autospawn/resource/v2_tundra_forest/oak_b_tundra.prefab"
+  ],
+  "Права на выдачу": "MagicTree.perm",
+  "Тип ящика": "assets/bundled/prefabs/radtown/crate_underwater_basic.prefab",
+  "Шанс выпадения зерна с дерева (макс-100)": 5,
+  "Настройка лута в ящиках": [
+    {
+      "Shortname предмета": "stones",
+      "Минимальное количество": 300,
+      "Максимальное количество": 1000,
+      "Шанс что предмет будет добавлен (максимально 100%)": 100,
+      "SkinID предмета": 0,
+      "Имя предмета при создании (Оставьте поле пустым чтобы использовать стандартное название итема)": "",
+      "Это чертеж": false
+    }
+  ],
+  "Ссылка на удачный эффект": "assets/prefabs/misc/xmas/candy cane club/effects/hit.prefab",
+  "Ссылка на эффект ошибки": "assets/prefabs/locks/keypad/effects/lock.code.denied.prefab",
+  "Настройка зерна": {
+    "shortname": "seed.hemp",
+    "name": "Семена магического дерева",
+    "skinId": 1787823357
+  },
+  "Версия конфигурации": {
+    "Major": 1,
+    "Minor": 0,
+    "Patch": 1
+  }
+}

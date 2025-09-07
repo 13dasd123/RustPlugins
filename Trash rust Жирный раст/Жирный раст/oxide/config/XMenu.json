@@ -1,0 +1,14 @@
+{
+  "colorConfig": {
+    "backgroundColor": "#595A21FF",
+    "gradientColor": "#000000E6",
+    "menuContentHighlighting": "#00000073",
+    "menuContentHighlightingalternative": "#00000040",
+    "menuItemsColor": "#FFFFFAD9",
+    "outlineColor": "#2C2E29D9",
+    "subMenuItemsColor": "#00000000",
+    "subMenuItemsTextColor": "#FFFFFF99",
+    "subMenuSelectedItemsColor": "#FF4C00AA"
+  },
+  "welcomeMsg": ""
+}

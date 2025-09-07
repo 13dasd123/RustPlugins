@@ -1,0 +1,1184 @@
+{
+  "PlayersData": {
+    "76561198844174408": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 392.7832,
+            "y": 13.9192371,
+            "z": 814.4544
+          },
+          "HomeName": "1'",
+          "SleepingBagId": 0
+        },
+        {
+          "HomePos": {
+            "x": -155.045853,
+            "y": 21.85749,
+            "z": -451.309937
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811620577.888237,
+      "CooldownTeleport": 63811141716.282509,
+      "AutoAccept": false,
+      "MonumentsCooldown": {}
+    },
+    "76561198331350127": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 72.32974,
+            "y": 44.9718742,
+            "z": -577.975342
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811141634.466324,
+      "CooldownTeleport": 63811141750.336922,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198118593301": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -790.3403,
+            "y": 18.70259,
+            "z": 352.379639
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811635906.87529,
+      "CooldownTeleport": 63811637187.176651,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199117052312": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -794.4002,
+            "y": 18.70365,
+            "z": 353.8824
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811638963.5959,
+      "CooldownTeleport": 63811638511.714058,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198425658113": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -817.3466,
+            "y": 5.48341751,
+            "z": 835.7706
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811636700.803673,
+      "CooldownTeleport": 63811636714.556351,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198984405280": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -833.284363,
+            "y": 10.4523478,
+            "z": 417.478546
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        },
+        {
+          "HomePos": {
+            "x": -817.3963,
+            "y": 5.48341846,
+            "z": 838.277954
+          },
+          "HomeName": "main",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811638264.901207,
+      "CooldownTeleport": 63811638936.651123,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199002597805": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 569.0954,
+            "y": 22.6458759,
+            "z": 876.609
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811633276.377136,
+      "CooldownTeleport": 63811633042.541786,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199362203627": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 570.6263,
+            "y": 22.651371,
+            "z": 878.4534
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 0.0,
+      "CooldownTeleport": 63811633364.635262,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198866514399": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 568.5864,
+            "y": 22.6458931,
+            "z": 875.9177
+          },
+          "HomeName": "2",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811634542.88279,
+      "CooldownTeleport": 63811633550.484314,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198892387857": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -791.141357,
+            "y": 18.7018719,
+            "z": 351.6403
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811637082.75531,
+      "CooldownTeleport": 63811637106.861153,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199006214483": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 573.7003,
+            "y": 22.643177,
+            "z": 880.730347
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811633711.404633,
+      "CooldownTeleport": 63811634532.944382,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199071505812": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 573.7655,
+            "y": 22.6547184,
+            "z": 880.519531
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811635557.30793,
+      "CooldownTeleport": 63811633473.352,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198962589440": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 781.549255,
+            "y": 22.2134819,
+            "z": 789.7648
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        },
+        {
+          "HomePos": {
+            "x": -613.119751,
+            "y": 9.644234,
+            "z": 427.617828
+          },
+          "HomeName": "2",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811636122.684448,
+      "CooldownTeleport": 63811636561.744751,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198404491251": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 778.867432,
+            "y": 22.2117329,
+            "z": 787.5586
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        },
+        {
+          "HomePos": {
+            "x": 582.3126,
+            "y": 37.023407,
+            "z": -179.45282
+          },
+          "HomeName": "2",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811636725.179924,
+      "CooldownTeleport": 63811636785.991257,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199004569893": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -793.575134,
+            "y": 18.6855888,
+            "z": 352.8692
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811638233.337318,
+      "CooldownTeleport": 63811638546.399162,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198310666803": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -860.066162,
+            "y": 13.0112333,
+            "z": 403.765747
+          },
+          "HomeName": "k",
+          "SleepingBagId": 0
+        },
+        {
+          "HomePos": {
+            "x": -795.8229,
+            "y": 18.6855545,
+            "z": 352.559967
+          },
+          "HomeName": "m",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811638820.840263,
+      "CooldownTeleport": 63811637606.552521,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199195879373": {
+      "HomesList": [],
+      "CooldownHome": 0.0,
+      "CooldownTeleport": 63811631283.714432,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198393216809": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -818.2988,
+            "y": 5.483398,
+            "z": 836.170532
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811638942.090393,
+      "CooldownTeleport": 63811638967.530418,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199109943018": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -819.263733,
+            "y": 5.49799061,
+            "z": 832.605957
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811638255.712547,
+      "CooldownTeleport": 63811637967.423744,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199184276867": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -819.4286,
+            "y": 5.484775,
+            "z": 830.7514
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811637954.863052,
+      "CooldownTeleport": 63811638607.2727,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198815166005": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -196.838547,
+            "y": 24.7461967,
+            "z": -456.417
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811637242.863129,
+      "CooldownTeleport": 63811638710.840149,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198220951192": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 574.6833,
+            "y": 22.6371536,
+            "z": 880.818237
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811633184.291748,
+      "CooldownTeleport": 63811633446.41629,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198136603134": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 775.602661,
+            "y": 22.2227726,
+            "z": 788.168
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811636380.433891,
+      "CooldownTeleport": 63811636352.0597,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198272782875": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 775.442139,
+            "y": 22.2039776,
+            "z": 792.9641
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        },
+        {
+          "HomePos": {
+            "x": 582.915955,
+            "y": 37.0223961,
+            "z": -179.979492
+          },
+          "HomeName": "2",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811637284.301537,
+      "CooldownTeleport": 63811637068.591354,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198845943496": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -187.675354,
+            "y": 24.74617,
+            "z": -455.394
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811638769.025261,
+      "CooldownTeleport": 63811638807.835968,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198983285973": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -196.71994,
+            "y": 24.7461967,
+            "z": -454.764862
+          },
+          "HomeName": "h",
+          "SleepingBagId": 0
+        },
+        {
+          "HomePos": {
+            "x": 513.700256,
+            "y": 4.14111567,
+            "z": 680.175049
+          },
+          "HomeName": "h2",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811636021.871078,
+      "CooldownTeleport": 63811638725.960625,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198366065523": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -819.214539,
+            "y": 5.483439,
+            "z": 835.6142
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811638936.657379,
+      "CooldownTeleport": 63811638969.717171,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198085932851": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -196.9188,
+            "y": 24.7461529,
+            "z": -457.460083
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811638178.300308,
+      "CooldownTeleport": 63811636810.61998,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199323325783": {
+      "HomesList": [],
+      "CooldownHome": 0.0,
+      "CooldownTeleport": 0.0,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198360496184": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -817.3244,
+            "y": 5.49823666,
+            "z": 835.864258
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811638944.901627,
+      "CooldownTeleport": 63811639051.841995,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199227141480": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 624.2011,
+            "y": 36.8409958,
+            "z": -223.663834
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811635539.619606,
+      "CooldownTeleport": 63811635024.3483,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199032581382": {
+      "HomesList": [],
+      "CooldownHome": 0.0,
+      "CooldownTeleport": 63811635305.245079,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199210296693": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 619.7274,
+            "y": 36.0386238,
+            "z": -221.413818
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811636662.555069,
+      "CooldownTeleport": 63811635083.296852,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198980159939": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 570.9937,
+            "y": 22.63717,
+            "z": 879.6542
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 0.0,
+      "CooldownTeleport": 63811634528.8205,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199161705705": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 573.486145,
+            "y": 22.6564388,
+            "z": 880.519836
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811634857.046753,
+      "CooldownTeleport": 63811633605.841568,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199265978592": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -817.625366,
+            "y": 5.495481,
+            "z": 829.161438
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811635522.309486,
+      "CooldownTeleport": 63811638699.40097,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198439872605": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 572.7975,
+            "y": 22.64829,
+            "z": 879.869568
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 0.0,
+      "CooldownTeleport": 63811632211.415329,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199258130333": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 697.8432,
+            "y": 0.732192755,
+            "z": -618.9786
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        },
+        {
+          "HomePos": {
+            "x": 727.053162,
+            "y": 0.819010258,
+            "z": -645.1493
+          },
+          "HomeName": "2",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811635650.122406,
+      "CooldownTeleport": 63811635581.93399,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198367533806": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 726.961731,
+            "y": 0.809496164,
+            "z": -644.6524
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        },
+        {
+          "HomePos": {
+            "x": -657.8551,
+            "y": 2.72491384,
+            "z": -533.845642
+          },
+          "HomeName": "2",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811635094.041519,
+      "CooldownTeleport": 63811634557.630989,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199114128935": {
+      "HomesList": [],
+      "CooldownHome": 0.0,
+      "CooldownTeleport": 0.0,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199031890098": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -273.36792,
+            "y": 43.0835228,
+            "z": -45.2075157
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811632122.98761,
+      "CooldownTeleport": 0.0,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198444236429": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 782.4223,
+            "y": 22.2064953,
+            "z": 790.2317
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        },
+        {
+          "HomePos": {
+            "x": 389.133026,
+            "y": 25.3208618,
+            "z": 98.44208
+          },
+          "HomeName": "2",
+          "SleepingBagId": 0
+        },
+        {
+          "HomePos": {
+            "x": 445.1976,
+            "y": 13.1319284,
+            "z": 53.0694656
+          },
+          "HomeName": "3",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811638919.902626,
+      "CooldownTeleport": 63811637251.2386,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199017135673": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 30.9137154,
+            "y": 28.0646038,
+            "z": 722.6302
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811634875.793343,
+      "CooldownTeleport": 63811632278.667213,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199087520818": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 41.1060562,
+            "y": 28.0646572,
+            "z": 720.3378
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 0.0,
+      "CooldownTeleport": 63811634260.318626,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199216007171": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 786.226257,
+            "y": 56.67039,
+            "z": -317.2885
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811638912.770073,
+      "CooldownTeleport": 63811637639.736664,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198094273346": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 787.380859,
+            "y": 56.67043,
+            "z": -320.5328
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811638921.025063,
+      "CooldownTeleport": 63811638831.961327,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199098355767": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 621.2046,
+            "y": 36.0046844,
+            "z": -224.7037
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811634113.342293,
+      "CooldownTeleport": 63811634175.157181,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198207111616": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -321.2377,
+            "y": 48.03174,
+            "z": 78.24034
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811634152.282272,
+      "CooldownTeleport": 0.0,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199111161733": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -387.5676,
+            "y": 0.6801919,
+            "z": 757.6048
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        },
+        {
+          "HomePos": {
+            "x": 910.203369,
+            "y": 40.76545,
+            "z": -390.839142
+          },
+          "HomeName": "2",
+          "SleepingBagId": 0
+        },
+        {
+          "HomePos": {
+            "x": 682.8249,
+            "y": 29.1506233,
+            "z": 414.999023
+          },
+          "HomeName": "3",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811636517.98941,
+      "CooldownTeleport": 0.0,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199184466178": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 761.8782,
+            "y": 35.44866,
+            "z": -223.716019
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811633305.12793,
+      "CooldownTeleport": 0.0,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198846739564": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 35.39791,
+            "y": 28.0646019,
+            "z": 717.9007
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811633791.588287,
+      "CooldownTeleport": 63811632807.916695,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199105331818": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -786.1685,
+            "y": 18.6855545,
+            "z": 353.5419
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811635688.306389,
+      "CooldownTeleport": 63811636624.6197,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198847044695": {
+      "HomesList": [],
+      "CooldownHome": 0.0,
+      "CooldownTeleport": 63811633436.978592,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561197970658835": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -197.48111,
+            "y": 24.7462349,
+            "z": -454.87442
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811638648.460594,
+      "CooldownTeleport": 63811638687.088966,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198360791707": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -793.166748,
+            "y": 18.6956177,
+            "z": 353.287872
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811634489.257713,
+      "CooldownTeleport": 63811636767.429024,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198129951358": {
+      "HomesList": [],
+      "CooldownHome": 0.0,
+      "CooldownTeleport": 0.0,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199008360109": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 621.6425,
+            "y": 36.0080681,
+            "z": -225.19339
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811635898.93161,
+      "CooldownTeleport": 63811633487.040154,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199349310065": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -817.4966,
+            "y": 5.48340559,
+            "z": 837.895264
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811636644.682007,
+      "CooldownTeleport": 63811636342.184982,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199091785584": {
+      "HomesList": [],
+      "CooldownHome": 0.0,
+      "CooldownTeleport": 63811633512.22963,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198954193811": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -795.8808,
+            "y": 18.6978455,
+            "z": 353.845245
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811637447.9271,
+      "CooldownTeleport": 63811637477.548859,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198996113639": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 567.716858,
+            "y": 22.6371536,
+            "z": 878.8451
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811635689.869415,
+      "CooldownTeleport": 63811634143.528557,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199055295844": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -816.8778,
+            "y": 5.4834013,
+            "z": 832.070068
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811638269.151932,
+      "CooldownTeleport": 63811638614.463562,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199096994758": {
+      "HomesList": [],
+      "CooldownHome": 0.0,
+      "CooldownTeleport": 63811635981.124283,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199047594211": {
+      "HomesList": [],
+      "CooldownHome": 0.0,
+      "CooldownTeleport": 63811635508.935806,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199230819466": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": -126.977684,
+            "y": 74.29635,
+            "z": -68.0232239
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 0.0,
+      "CooldownTeleport": 0.0,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561199022272280": {
+      "HomesList": [],
+      "CooldownHome": 0.0,
+      "CooldownTeleport": 63811637702.299324,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198813619112": {
+      "HomesList": [],
+      "CooldownHome": 0.0,
+      "CooldownTeleport": 0.0,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198853832534": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 439.476,
+            "y": 13.116169,
+            "z": 50.500843
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 63811638789.840218,
+      "CooldownTeleport": 63811638495.397896,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    },
+    "76561198044001645": {
+      "HomesList": [
+        {
+          "HomePos": {
+            "x": 610.948669,
+            "y": 0.3762014,
+            "z": -5.329288
+          },
+          "HomeName": "1",
+          "SleepingBagId": 0
+        }
+      ],
+      "CooldownHome": 0.0,
+      "CooldownTeleport": 0.0,
+      "AutoAccept": true,
+      "MonumentsCooldown": {}
+    }
+  }
+}

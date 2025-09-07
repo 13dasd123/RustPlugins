@@ -1,0 +1,108 @@
+{
+  "Префиксы": [
+    {
+      "Привилегия": "chatmanager.default",
+      "Аргумент": "default",
+      "Формат": "<color=red>[<color=white>Игрок ExilleS<color=red>]</color>"
+    },
+    {
+      "Привилегия": "chatmanager.craizy",
+      "Аргумент": "craizy",
+      "Формат": "<color=red>[<color=green>✇безумец✇<color=red>]</color>"
+    },
+    {
+      "Привилегия": "chatmanager.girl",
+      "Аргумент": "girl",
+      "Формат": "<color=orange>[<color=red>✇Девушка ExilleS✇<color=orange>]</color>"
+    },
+    {
+      "Привилегия": "chatmanager.выживший",
+      "Аргумент": "выживший",
+      "Формат": "<color=red>[<color=green>✇ВЫЖИВШИЙ✇<color=red>]</color>"
+    },
+    {
+      "Привилегия": "chatmanager.исследователь",
+      "Аргумент": "исследователь",
+      "Формат": "<color=red>[<color=green>✇ИССЛЕДОВАТЕЛЬ✇<color=red>]</color>"
+    },
+    {
+      "Привилегия": "chatmanager.сталкер",
+      "Аргумент": "сталкер",
+      "Формат": "<color=red>[<color=green>✇СТАЛКЕР✇<color=red>]</color>"
+    },
+    {
+      "Привилегия": "chatmanager.заражонный",
+      "Аргумент": "сталкер",
+      "Формат": "<color=red>[<color=green>✇ЗАРАЖЕННЫЙ✇<color=red>]</color>"
+    },
+    {
+      "Привилегия": "chatmanager.admin",
+      "Аргумент": "admin",
+      "Формат": "<color=red>[<color=yellow>АДМИНИСТРАТОР ExilleS<color=red>]</color>"
+    },
+    {
+      "Привилегия": "chatmanager.следящий",
+      "Аргумент": "следящий",
+      "Формат": "<color=red>[<color=black>✇СЛЕДЯЩИЙ✇<color=red>]</color>"
+    },
+    {
+      "Привилегия": "chatmanager.owner",
+      "Аргумент": "owner",
+      "Формат": "<color=red>[<color=black>✇✇✇АдМиНиСтРтОр<✇✇✇color=red>]</color>"
+    },
+    {
+      "Привилегия": "chatmanager.тех",
+      "Аргумент": "тех",
+      "Формат": "<color=red>[<color=purple>✇✇✇ТехАдминистратор<✇✇✇color=red>]</color>"
+    }
+  ],
+  "Имена": [
+    {
+      "Привилегия": "chatmanager.default",
+      "Аргумент": "default",
+      "Формат": "<color=red>(<color=white> {0} <color=red>)</color>"
+    },
+    {
+      "Привилегия": "chatmanager.admin",
+      "Аргумент": "admin",
+      "Формат": "<color=black>{0}</color>"
+    },
+    {
+      "Привилегия": "chatmanager.owner",
+      "Аргумент": "owner",
+      "Формат": "<color=black>{0}</color>"
+    },
+    {
+      "Привилегия": "chatmanager.выживший",
+      "Аргумент": "выживший",
+      "Формат": "<color=blue>{0}</color>"
+    },
+    {
+      "Привилегия": "chatmanager.purple",
+      "Аргумент": "purple",
+      "Формат": "<color=#a5e664>{0}</color>"
+    }
+  ],
+  "Сообщения": [
+    {
+      "Привилегия": "chatmanager.default",
+      "Аргумент": "default",
+      "Формат": "<color=white>{0}</color>"
+    },
+    {
+      "Привилегия": "chatmanager.admin",
+      "Аргумент": "admin",
+      "Формат": "<color=yellow>{0}</color>"
+    },
+    {
+      "Привилегия": "chatmanager.owner",
+      "Аргумент": "owner",
+      "Формат": "<color=green>$<color=orange>{0}<color=green>$</color>"
+    }
+  ],
+  "Список начальных букв нецензурных слов или слова целиком | список исключений": {
+    "ебля": [],
+    "сука": [],
+    "пидор": []
+  }
+}

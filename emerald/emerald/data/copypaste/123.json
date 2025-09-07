@@ -1,0 +1,99 @@
+{
+  "default": {
+    "position": {
+      "x": "-986.2722",
+      "y": "22.23823",
+      "z": "-262.4576"
+    },
+    "rotationdiff": "4.746953",
+    "rotationy": "274.8154"
+  },
+  "entities": [
+    {
+      "flags": {
+        "Reserved1": true,
+        "Reserved2": true
+      },
+      "grade": 0,
+      "ownerid": 76561198952674783,
+      "pos": {
+        "x": "2.88975",
+        "y": "-0.1000004",
+        "z": "1.265716"
+      },
+      "prefabname": "assets/prefabs/building core/wall/wall.prefab",
+      "rot": {
+        "x": "9.3084E-08",
+        "y": "-1.521316",
+        "z": "-8.557208E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 0,
+      "ownerid": 76561198952674783,
+      "pos": {
+        "x": "2.815561",
+        "y": "-0.1000004",
+        "z": "-0.2324323"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "8.742278E-08",
+        "y": "-4.662909",
+        "z": "-8.742277E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "Reserved1": true,
+        "Reserved2": true
+      },
+      "grade": 0,
+      "ownerid": 76561198952674783,
+      "pos": {
+        "x": "-0.1066082",
+        "y": "-0.1000004",
+        "z": "1.414092"
+      },
+      "prefabname": "assets/prefabs/building core/wall/wall.prefab",
+      "rot": {
+        "x": "0",
+        "y": "-1.521315",
+        "z": "0"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 0,
+      "ownerid": 76561198952674783,
+      "pos": {
+        "x": "-0.180797",
+        "y": "-0.1000004",
+        "z": "-0.08405674"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "0",
+        "y": "0.04948044",
+        "z": "0"
+      },
+      "skinid": 0
+    }
+  ],
+  "protocol": {
+    "items": 2,
+    "version": {
+      "Major": 4,
+      "Minor": 1,
+      "Patch": 22
+    }
+  }
+}

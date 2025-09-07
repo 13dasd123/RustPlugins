@@ -1,0 +1,146 @@
+{
+  "76561198844174408": {
+    "TurnMarker": true,
+    "HitAnimal": true,
+    "HitPlayer": true,
+    "HitBuilding": true,
+    "HitEntity": true,
+    "HitTransport": true,
+    "HitNPC": true,
+    "HexMarker": "#ff33cc",
+    "typeSize": 1,
+    "markerType": 0,
+    "HealthBarMore": {
+      "TurnDamageText": false,
+      "TurnWounded": false
+    },
+    "DamageTextMore": {
+      "TurnWounded": false
+    },
+    "IconMore": {
+      "TurnDamageText": false,
+      "TurnWounded": false,
+      "IndexMarker": 0
+    }
+  },
+  "76561198813619112": {
+    "TurnMarker": true,
+    "HitAnimal": true,
+    "HitPlayer": true,
+    "HitBuilding": true,
+    "HitEntity": true,
+    "HitTransport": true,
+    "HitNPC": true,
+    "HexMarker": "#05bec5",
+    "typeSize": 1,
+    "markerType": 2,
+    "HealthBarMore": {
+      "TurnDamageText": false,
+      "TurnWounded": false
+    },
+    "DamageTextMore": {
+      "TurnWounded": false
+    },
+    "IconMore": {
+      "TurnDamageText": false,
+      "TurnWounded": false,
+      "IndexMarker": 3
+    }
+  },
+  "76561199123421399": {
+    "TurnMarker": true,
+    "HitAnimal": true,
+    "HitPlayer": true,
+    "HitBuilding": true,
+    "HitEntity": true,
+    "HitTransport": true,
+    "HitNPC": true,
+    "HexMarker": "#05bec5",
+    "typeSize": 1,
+    "markerType": 2,
+    "HealthBarMore": {
+      "TurnDamageText": false,
+      "TurnWounded": false
+    },
+    "DamageTextMore": {
+      "TurnWounded": false
+    },
+    "IconMore": {
+      "TurnDamageText": false,
+      "TurnWounded": false,
+      "IndexMarker": 0
+    }
+  },
+  "76561198453979400": {
+    "TurnMarker": true,
+    "HitAnimal": true,
+    "HitPlayer": true,
+    "HitBuilding": true,
+    "HitEntity": true,
+    "HitTransport": true,
+    "HitNPC": true,
+    "HexMarker": "#05bec5",
+    "typeSize": 1,
+    "markerType": 2,
+    "HealthBarMore": {
+      "TurnDamageText": false,
+      "TurnWounded": false
+    },
+    "DamageTextMore": {
+      "TurnWounded": false
+    },
+    "IconMore": {
+      "TurnDamageText": false,
+      "TurnWounded": false,
+      "IndexMarker": 0
+    }
+  },
+  "76561198331350127": {
+    "TurnMarker": true,
+    "HitAnimal": true,
+    "HitPlayer": true,
+    "HitBuilding": true,
+    "HitEntity": true,
+    "HitTransport": true,
+    "HitNPC": true,
+    "HexMarker": "#05bec5",
+    "typeSize": 1,
+    "markerType": 1,
+    "HealthBarMore": {
+      "TurnDamageText": false,
+      "TurnWounded": false
+    },
+    "DamageTextMore": {
+      "TurnWounded": false
+    },
+    "IconMore": {
+      "TurnDamageText": true,
+      "TurnWounded": true,
+      "IndexMarker": 0
+    }
+  },
+  "76561198329476129": {
+    "TurnMarker": true,
+    "HitAnimal": true,
+    "HitPlayer": true,
+    "HitBuilding": true,
+    "HitEntity": true,
+    "HitTransport": true,
+    "HitNPC": true,
+    "HexMarker": "#05bec5",
+    "typeSize": 1,
+    "markerType": 2,
+    "HealthBarMore": {
+      "TurnDamageText": false,
+      "TurnWounded": false
+    },
+    "DamageTextMore": {
+      "TurnWounded": false
+    },
+    "IconMore": {
+      "TurnDamageText": true,
+      "TurnWounded": true,
+      "IndexMarker": 0
+    }
+  }
+}

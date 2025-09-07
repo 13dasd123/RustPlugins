@@ -1,0 +1,14 @@
+{
+  "Time in seconds between download requests (0 to disable)": 0,
+  "Maximum concurrent downloads": 5,
+  "Maximum distance from the sign": 3,
+  "Maximum filesize in MB": 5.0,
+  "Enforce JPG file format": true,
+  "JPG image quality (0-100)": 90,
+  "Enable logging file": true,
+  "Enable logging console": true,
+  "Enable discord logging": false,
+  "Discord Webhook": "",
+  "Avatar URL": "https://i.imgur.com/dH7V1Dh.png",
+  "Discord Username": "Sign Artist"
+}

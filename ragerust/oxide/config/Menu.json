@@ -1,0 +1,34 @@
+{
+  "Название кнопки": [
+    "разблок предметов",
+    "клановое меню",
+    "рейтинг кланов",
+    "Рейтинг игроков",
+    "телепорт в город",
+    "рeпорт на игрока",
+	"Обмен монет",
+  ],
+  "Иконки для кнопок": [
+    "https://imgur.com/URWzSmc",
+    "https://imgur.com/SbWBZad",
+    "https://imgur.com/RgfKCo8",
+    "https://imgur.com/qmR3NAn",
+    "https://imgur.com/fD23tV0",
+    "https://imgur.com/4EC4bWv",
+    "https://imgur.com/zZxfWg6",
+    "https://imgur.com/zZxfWg6",
+    "https://imgur.com/lQYsoNq",
+    "https://imgur.com/DXPylwK",
+    "https://imgur.com/LsNIkBF"
+  ],
+  "Команды для кнопок": [
+    "/block",
+    "/clan",
+    "/ctop",
+    "/top",
+    "/outpost",
+    "/report",
+	"/swap"
+  ],
+  "Название сервера": "RAGE RUST #1 CLANS"
+}

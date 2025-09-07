@@ -1,0 +1,32 @@
+{
+  "76561199032705047": {
+    "home": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "hunter": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "medik": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "vip": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "premium": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "deluxe": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    },
+    "extra": {
+      "Amount": 0,
+      "Cooldown": 0.0
+    }
+  }
+}

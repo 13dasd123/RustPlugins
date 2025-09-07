@@ -1,0 +1,16 @@
+{
+  "NotAllowed": "You are not allowed to use the '{0}' command",
+  "PlayerAlreadyBanned": "{0} is already banned",
+  "PlayerBanned": "{0} has been banned for '{1}'",
+  "PlayerIsAdmin": "{0} is admin and cannot be banned or kicked",
+  "PlayerKicked": "{0} has been kicked for '{1}'",
+  "PlayerNotBanned": "{0} is not banned",
+  "PlayerNotFound": "No players were found with that name or ID",
+  "PlayerUnbanned": "{0} has been unbanned",
+  "PlayersFound": "Multiple players were found, please specify: {0}",
+  "ReasonUnknown": "Unknown",
+  "UsageBan": "Usage: {0} <name or id> <reason>",
+  "UsageKick": "Usage: {0} <name or id> <reason>",
+  "UsageSay": "Usage: {0} <message>",
+  "UsageUnban": "Usage: {0} <name or id>"
+}

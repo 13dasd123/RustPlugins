@@ -1,0 +1,8 @@
+{
+  "Options": {
+    "Enable_Scream_Ondemand": false,
+    "FX_Sound": "assets/bundled/prefabs/fx/player/beartrap_scream.prefab",
+    "Interval": 6.0,
+    "Scream_Cooldown": 30.0
+  }
+}

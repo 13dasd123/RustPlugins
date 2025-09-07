@@ -1,0 +1,18 @@
+{
+  "rhib": "Военный катер",
+  "minicopter": "MiniCopter",
+  "boat": "Лодка",
+  "balloon": "Воздушный шар",
+  "sedan": "Автомобиль",
+  "horse": "Лошадь",
+  "scraptransportheli": "Транспортный вертолет",
+  "ch47": "Чинук",
+  "ConsoleSyntax": "Синтаксис: vehicle.give <steamid|username> <{0}> [shortname]",
+  "PlayerNotFound": "Игрок с никнеймом '{0}' не найден!",
+  "VehicleNotFound": "Транспорт с названием '{0}' не найден!",
+  "ShortnameNotFound": "Item с shortname '{0}' не найден!",
+  "SuccessfullyGive": "Транспорт '{0}' успешно выдан игроку '{1}'",
+  "2module_car": "Маленькое шасси",
+  "3module_car": "Среднее шасси",
+  "4module_car": "Большое шасси"
+}

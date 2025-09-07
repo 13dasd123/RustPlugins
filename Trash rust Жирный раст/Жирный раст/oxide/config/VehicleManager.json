@@ -1,0 +1,72 @@
+{
+  "Разрешить подъем транспорта киянкой": true,
+  "shortname объекта который держит игрок при установке транспорта": "box.wooden.large",
+  "Список транспорта": [
+    {
+      "Короткое имя транспорта": "boat",
+      "prefab транспорта": "assets/content/vehicles/boats/rowboat/rowboat.prefab",
+      "skinID транспорта": 2189173904,
+      "Effect который проигрывается при установке транспорта": "assets/bundled/prefabs/fx/build/promote_TopTier.prefab"
+    },
+    {
+      "Короткое имя транспорта": "rhib",
+      "prefab транспорта": "assets/content/vehicles/boats/rhib/rhib.prefab",
+      "skinID транспорта": 2189175322,
+      "Effect который проигрывается при установке транспорта": "assets/bundled/prefabs/fx/build/promote_TopTier.prefab"
+    },
+    {
+      "Короткое имя транспорта": "minicopter",
+      "prefab транспорта": "assets/content/vehicles/minicopter/minicopter.entity.prefab",
+      "skinID транспорта": 2189176096,
+      "Effect который проигрывается при установке транспорта": "assets/bundled/prefabs/fx/build/promote_TopTier.prefab"
+    },
+    {
+      "Короткое имя транспорта": "balloon",
+      "prefab транспорта": "assets/prefabs/deployable/hot air balloon/hotairballoon.prefab",
+      "skinID транспорта": 2189176712,
+      "Effect который проигрывается при установке транспорта": "assets/bundled/prefabs/fx/build/promote_TopTier.prefab"
+    },
+    {
+      "Короткое имя транспорта": "sedan",
+      "prefab транспорта": "assets/content/vehicles/sedan_a/sedantest.entity.prefab",
+      "skinID транспорта": 2189177307,
+      "Effect который проигрывается при установке транспорта": "assets/bundled/prefabs/fx/build/promote_TopTier.prefab"
+    },
+    {
+      "Короткое имя транспорта": "horse",
+      "prefab транспорта": "assets/rust.ai/nextai/testridablehorse.prefab",
+      "skinID транспорта": 2189177940,
+      "Effect который проигрывается при установке транспорта": "assets/bundled/prefabs/fx/build/promote_TopTier.prefab"
+    },
+    {
+      "Короткое имя транспорта": "ch47",
+      "prefab транспорта": "assets/prefabs/npc/ch47/ch47.entity.prefab",
+      "skinID транспорта": 2189180720,
+      "Effect который проигрывается при установке транспорта": "assets/bundled/prefabs/fx/build/promote_TopTier.prefab"
+    },
+    {
+      "Короткое имя транспорта": "scraptransportheli",
+      "prefab транспорта": "assets/content/vehicles/scrap heli carrier/scraptransporthelicopter.prefab",
+      "skinID транспорта": 2189181296,
+      "Effect который проигрывается при установке транспорта": "assets/bundled/prefabs/fx/build/promote_TopTier.prefab"
+    },
+    {
+      "Короткое имя транспорта": "2module_car",
+      "prefab транспорта": "assets/content/vehicles/modularcar/2module_car_spawned.entity.prefab",
+      "skinID транспорта": 2162472804,
+      "Effect который проигрывается при установке транспорта": "assets/bundled/prefabs/fx/build/promote_TopTier.prefab"
+    },
+    {
+      "Короткое имя транспорта": "3module_car",
+      "prefab транспорта": "assets/content/vehicles/modularcar/3module_car_spawned.entity.prefab",
+      "skinID транспорта": 2162478030,
+      "Effect который проигрывается при установке транспорта": "assets/bundled/prefabs/fx/build/promote_TopTier.prefab"
+    },
+    {
+      "Короткое имя транспорта": "4module_car",
+      "prefab транспорта": "assets/content/vehicles/modularcar/4module_car_spawned.entity.prefab",
+      "skinID транспорта": 2162478376,
+      "Effect который проигрывается при установке транспорта": "assets/bundled/prefabs/fx/build/promote_TopTier.prefab"
+    }
+  ]
+}

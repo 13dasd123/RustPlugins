@@ -1,0 +1,54 @@
+{
+  "Icon Pixel Based Placement Per Team Member Index (0 is the first member)": {
+    "0": {
+      "xSize": 55,
+      "ySize": 55,
+      "xOffset": 550,
+      "yOffset": 500
+    },
+    "1": {
+      "xSize": 55,
+      "ySize": 55,
+      "xOffset": 635,
+      "yOffset": 500
+    },
+    "2": {
+      "xSize": 55,
+      "ySize": 55,
+      "xOffset": 720,
+      "yOffset": 500
+    },
+    "3": {
+      "xSize": 55,
+      "ySize": 55,
+      "xOffset": 805,
+      "yOffset": 500
+    },
+    "4": {
+      "xSize": 55,
+      "ySize": 55,
+      "xOffset": 550,
+      "yOffset": 420
+    },
+    "5": {
+      "xSize": 55,
+      "ySize": 55,
+      "xOffset": 635,
+      "yOffset": 420
+    },
+    "6": {
+      "xSize": 55,
+      "ySize": 55,
+      "xOffset": 720,
+      "yOffset": 420
+    },
+    "7": {
+      "xSize": 55,
+      "ySize": 55,
+      "xOffset": 805,
+      "yOffset": 420
+    }
+  },
+  "Show Your Own Health Bar": true,
+  "Command Name for Player Hiding Team GUI": "teamhud"
+}

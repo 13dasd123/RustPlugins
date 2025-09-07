@@ -1,0 +1,4 @@
+{
+  "NoUpgrade": "You can't upgrade to <color=orange>{0}</color> yet, you need to hit it with a hammer <color=orange>{1}</color> more times.",
+  "UpgradeReady": "An upgrade to <color=orange>{0}</color> on this block is now available."
+}

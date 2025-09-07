@@ -1,0 +1,53 @@
+{
+  "LogFileName": "DiscordServerPanel",
+  "Bot token": "",
+  "Embed's color": "#ff0000",
+  "Show Server FPS (Server command)": true,
+  "Show Gamemode (Server command)": true,
+  "Show Plugins Loaded (Server command)": true,
+  "Custom": {
+    "Use Custom (true/false)": false,
+    "Use Confirmation (true/false)": false,
+    "Custom Commands ('command name' 'command to send on console')": {
+      "Restart": "restart 300 Maintenance",
+      "SkipNight": "env.time 12"
+    },
+    "Discord Role ID (Can be left empty to use the first role id)": ""
+  },
+  "Restart": {
+    "Use Restart (true/false)": true,
+    "Restart Reasons (One Word)": [
+      "Maintenance",
+      "Update",
+      "Wipe",
+      "None"
+    ],
+    "Time for command (Use 'h' for hours, 'm' for minutes)": [
+      "5m",
+      "10m",
+      "30m",
+      "1h"
+    ],
+    "Discord Role ID (Can be left empty to use the first role id)": ""
+  },
+  "Plugins": {
+    "Use Plugins (true/false)": true,
+    "Use Confirmation (true/false)": true,
+    "Discord Role ID (Can be left empty to use the first role id)": ""
+  },
+  "Permissions": {
+    "Use Permissions (true/false)": true,
+    "Discord Role ID (Can be left empty to use the first role id)": ""
+  },
+  "logs": {
+    "Log to console (true/false)": true,
+    "Log to discord (true/false)": false,
+    "Discord Extension Log Level (Verbose/Debug/Info/Warning/Error/Exception/Off)": "Info",
+    "Delete message after command": true,
+    "Delete message after interaction": true,
+    "Log Discord Channel ID": ""
+  },
+  "Discord Guild ID (optional if the bot is in one guild)": "",
+  "Discord Role ID": "",
+  "Discord Channel ID where the command can be used": ""
+}

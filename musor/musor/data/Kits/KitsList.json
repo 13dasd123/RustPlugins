@@ -1,0 +1,41 @@
+[
+  {
+    "Name": "bezlemit",
+    "DisplayName": "bezlemit",
+    "Amount": 0,
+    "Cooldown": 600.0,
+    "Hide": true,
+    "Permission": "kits.default",
+    "Color": "0.55 0.68 0.31 0.6",
+    "Items": [
+      {
+        "ShortName": "rock",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 100.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      },
+      {
+        "ShortName": "torch",
+        "Amount": 1,
+        "Blueprint": 0,
+        "SkinID": 0,
+        "Container": "belt",
+        "Condition": 50.0,
+        "Change": 100,
+        "EnableCommand": false,
+        "Command (Player identifier %STEAMID%)": null,
+        "CustomImage": null,
+        "Weapon": null,
+        "Content": null
+      }
+    ]
+  }
+]

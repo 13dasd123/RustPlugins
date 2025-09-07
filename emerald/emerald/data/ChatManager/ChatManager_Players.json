@@ -1,0 +1,3593 @@
+{
+  "76561199063874990": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "KOMARIK",
+    "BlackList": []
+  },
+  "76561199060868252": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Яр1й [Exile,s Rust]",
+    "BlackList": []
+  },
+  "76561198440221262": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "ʕ•ᴥ•ʔnikita®",
+    "BlackList": []
+  },
+  "76561199064049565": {
+    "Prefix": "chatmanager.owner",
+    "NameColor": "chatmanager.owner",
+    "MessageColor": "chatmanager.owner",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Marin",
+    "BlackList": []
+  },
+  "76561199003724231": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "бумеранг",
+    "BlackList": []
+  },
+  "76561198059531649": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "uzerpunk",
+    "BlackList": []
+  },
+  "76561199070206465": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Marmook",
+    "BlackList": []
+  },
+  "76561199025945316": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "LoLiK_AIKoGoLiK",
+    "BlackList": []
+  },
+  "76561198425635520": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Dor1k",
+    "BlackList": []
+  },
+  "76561199007789106": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.admin",
+    "MessageColor": "chatmanager.admin",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "daniel13donik",
+    "BlackList": []
+  },
+  "76561199055717088": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Black Cat Matters",
+    "BlackList": []
+  },
+  "76561199036367022": {
+    "Prefix": "chatmanager.admin",
+    "NameColor": "chatmanager.admin",
+    "MessageColor": "chatmanager.admin",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "WoodCock",
+    "BlackList": []
+  },
+  "76561199071369246": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "exec",
+    "BlackList": []
+  },
+  "76561199062975850": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Ded",
+    "BlackList": []
+  },
+  "76561199065101458": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "TSV_Cobra",
+    "BlackList": []
+  },
+  "76561199059122837": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "S3type",
+    "BlackList": []
+  },
+  "76561198326288204": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "tahapcgames",
+    "BlackList": []
+  },
+  "76561198353458968": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "ndansby1224",
+    "BlackList": []
+  },
+  "76561198890699700": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "chancedray",
+    "BlackList": []
+  },
+  "76561198354168577": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Payton",
+    "BlackList": []
+  },
+  "76561198445735576": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "COVID-19",
+    "BlackList": []
+  },
+  "76561198377762943": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Kepchyk1101",
+    "BlackList": []
+  },
+  "76561198889507226": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "писькаедъ",
+    "BlackList": []
+  },
+  "76561199023566156": {
+    "Prefix": "chatmanager.admin",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Woodman",
+    "BlackList": []
+  },
+  "76561199013962819": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Pifagorov",
+    "BlackList": []
+  },
+  "76561198360919508": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Grav1337",
+    "BlackList": []
+  },
+  "76561198410772010": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Arlekin",
+    "BlackList": []
+  },
+  "76561198340711863": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "hi#",
+    "BlackList": []
+  },
+  "76561198848054603": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "JELLO STICK",
+    "BlackList": []
+  },
+  "76561199030049600": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Avigdor",
+    "BlackList": []
+  },
+  "76561198271086051": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Zefro",
+    "BlackList": []
+  },
+  "76561198121683540": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "8d_a",
+    "BlackList": []
+  },
+  "76561199071434203": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "nikitavislobokov1996",
+    "BlackList": []
+  },
+  "76561199060327578": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Alfizik",
+    "BlackList": []
+  },
+  "76561199069641759": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Sabuna",
+    "BlackList": []
+  },
+  "76561199040712560": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "кролик роджер",
+    "BlackList": []
+  },
+  "76561199026785759": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "water",
+    "BlackList": []
+  },
+  "76561199071192940": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "[] MOLODOY#4743",
+    "BlackList": []
+  },
+  "76561199001674733": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "BanerSu",
+    "BlackList": []
+  },
+  "76561198052529806": {
+    "Prefix": "chatmanager.заражонный",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "vlas03rus",
+    "BlackList": []
+  },
+  "76561198204464380": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Bopa",
+    "BlackList": []
+  },
+  "76561199030458259": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "rustam89670294640",
+    "BlackList": []
+  },
+  "76561199050915484": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "dimas",
+    "BlackList": []
+  },
+  "76561198865337121": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "✡ HuNteR ︻デ═一",
+    "BlackList": []
+  },
+  "76561198909909630": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "паша",
+    "BlackList": []
+  },
+  "76561198957982634": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "\"BlackBear\" nagibator nubov",
+    "BlackList": []
+  },
+  "76561198179526027": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "УбивашкаXD",
+    "BlackList": []
+  },
+  "76561198133836097": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "GhosT363",
+    "BlackList": []
+  },
+  "76561199000621450": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "КОРОЛЕВА",
+    "BlackList": []
+  },
+  "76561198294837677": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Project_AshL",
+    "BlackList": []
+  },
+  "76561198132016475": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "OOO",
+    "BlackList": []
+  },
+  "76561198996301930": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "shortytrace60",
+    "BlackList": []
+  },
+  "76561199013285620": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "броварский такси",
+    "BlackList": []
+  },
+  "76561199003970185": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Delucks(Destor)",
+    "BlackList": []
+  },
+  "76561198817415297": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Мавроди",
+    "BlackList": []
+  },
+  "12240292117186495605": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "44-EA-27-D4-40-DE-A9-B6",
+    "BlackList": []
+  },
+  "487647252527718002": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "1E-9C-AE-97-78-C4-06-25",
+    "BlackList": []
+  },
+  "1996393025557459455": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "71-6B-20-E1-9C-B4-1B-BA",
+    "BlackList": []
+  },
+  "10625424650659520579": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "60-3D-82-6C-17-75-93-90",
+    "BlackList": []
+  },
+  "5554867152009926529": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "97-09-6A-3E-DA-16-4D-D9",
+    "BlackList": []
+  },
+  "5758745525200427204": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "18-71-45-8B-2C-EB-4F-45",
+    "BlackList": []
+  },
+  "14004047362786395389": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "04-A1-3C-E1-5E-58-C2-6B",
+    "BlackList": []
+  },
+  "888445130902568593": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "7E-DF-AD-23-64-54-0C-F7",
+    "BlackList": []
+  },
+  "14204587041592914828": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "33-43-BB-A7-D4-20-C5-D4",
+    "BlackList": []
+  },
+  "9844826388494474192": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "DB-9A-B1-70-D9-9F-88-EC",
+    "BlackList": []
+  },
+  "8284711281612764682": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "36-33-2F-04-35-F9-72-7D",
+    "BlackList": []
+  },
+  "1962328934704799578": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "DF-8C-ED-C4-97-3B-1B-28",
+    "BlackList": []
+  },
+  "10028059733413480907": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "49-82-54-32-D3-2A-8B-0C",
+    "BlackList": []
+  },
+  "3798423240729403362": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "9F-43-02-D0-B5-B6-34-DE",
+    "BlackList": []
+  },
+  "10420464855759026912": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "7A-F5-89-93-ED-9C-90-4C",
+    "BlackList": []
+  },
+  "5361638811801039067": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "30-59-97-17-5E-68-4A-2A",
+    "BlackList": []
+  },
+  "11983681517735578584": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "0B-0B-1E-D9-96-4E-A6-99",
+    "BlackList": []
+  },
+  "7356897367198713444": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "C6-E2-4C-2D-F3-18-66-FC",
+    "BlackList": []
+  },
+  "4305342812584841381": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "90-66-34-7A-A6-BF-3B-41",
+    "BlackList": []
+  },
+  "500251982493133362": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "2A-B0-12-87-40-F1-06-93",
+    "BlackList": []
+  },
+  "3687009255392791654": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "CC-43-17-62-E3-2A-33-98",
+    "BlackList": []
+  },
+  "15691563128415023921": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "73-CB-1F-87-A1-C3-D9-6C",
+    "BlackList": []
+  },
+  "2203962568018389367": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "69-FE-4C-47-0C-96-1E-DD",
+    "BlackList": []
+  },
+  "14016652101324967868": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "0F-B5-9F-D2-26-85-C2-D9",
+    "BlackList": []
+  },
+  "16888354142084973235": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "C2-F8-27-9D-7C-5F-EA-52",
+    "BlackList": []
+  },
+  "8766242093133251378": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "C3-48-F8-BC-F2-A7-79-E0",
+    "BlackList": []
+  },
+  "214278883243464389": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "16-98-4E-82-45-F9-02-BE",
+    "BlackList": []
+  },
+  "11595487274109482874": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "B7-DB-82-3D-72-EB-A0-35",
+    "BlackList": []
+  },
+  "3163331917998984338": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "0C-FC-8E-9E-69-E6-2B-EB",
+    "BlackList": []
+  },
+  "16551811798192406925": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "C1-60-9C-22-D9-B3-E5-C9",
+    "BlackList": []
+  },
+  "11361164979393525317": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "F6-5B-CF-5A-F7-AA-9D-3B",
+    "BlackList": []
+  },
+  "11480972824566102219": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "F8-2C-84-F4-9B-54-9F-12",
+    "BlackList": []
+  },
+  "5680904914070273231": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "FC-ED-AD-EB-A0-D6-4E-92",
+    "BlackList": []
+  },
+  "11114549370970945108": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "B6-43-F7-C3-CF-3E-9A-AC",
+    "BlackList": []
+  },
+  "16742934744239325733": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "42-EE-27-71-DA-5A-E8-06",
+    "BlackList": []
+  },
+  "16994844852114408942": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "C5-27-B7-59-D1-D9-EB-49",
+    "BlackList": []
+  },
+  "5362007828350017905": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "A1-AA-F3-B5-AD-69-4A-8F",
+    "BlackList": []
+  },
+  "3183276589771208812": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "38-21-53-31-45-2D-2C-77",
+    "BlackList": []
+  },
+  "1944028720629361211": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "2A-45-4E-D2-93-FA-1A-6D",
+    "BlackList": []
+  },
+  "13627716459735235185": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "3A-43-DA-EA-5F-1F-BD-DC",
+    "BlackList": []
+  },
+  "5502502842803703997": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "50-E4-98-2E-D1-5C-4C-8C",
+    "BlackList": []
+  },
+  "15826852288778228029": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "51-34-69-4D-46-A4-DB-1A",
+    "BlackList": []
+  },
+  "15889997413042863538": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "BD-4B-56-75-9C-84-DC-62",
+    "BlackList": []
+  },
+  "17897268898108789497": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "D2-6B-31-3D-DF-5F-F8-C9",
+    "BlackList": []
+  },
+  "17957032087501689659": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "53-D4-0B-8B-31-34-F9-35",
+    "BlackList": []
+  },
+  "12958531083395172729": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "89-A0-F4-5C-F3-D5-B3-7E",
+    "BlackList": []
+  },
+  "12766385264424617972": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "87-CF-3F-C2-4F-2B-B1-A7",
+    "BlackList": []
+  },
+  "7764503420663026687": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "D3-EC-15-B9-0E-C1-6B-13",
+    "BlackList": []
+  },
+  "4516381831489840614": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "E5-FA-CF-58-69-AD-3E-A5",
+    "BlackList": []
+  },
+  "18276298189770858287": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "1F-68-22-5F-74-A2-FD-9D",
+    "BlackList": []
+  },
+  "17087899940737056439": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "FE-0C-E5-75-6A-24-ED-48",
+    "BlackList": []
+  },
+  "17151045060706724397": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "6A-24-D2-9C-C0-04-EE-91",
+    "BlackList": []
+  },
+  "15779694937452305594": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "DC-DF-F2-F0-BC-FC-DA-1C",
+    "BlackList": []
+  },
+  "3894947810074179188": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "36-28-9E-65-A2-0D-36-1F",
+    "BlackList": []
+  },
+  "6412520806162245297": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "26-1A-BE-B2-D9-FD-58-C6",
+    "BlackList": []
+  },
+  "5040888108419487550": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "97-D5-DE-06-D5-F4-45-51",
+    "BlackList": []
+  },
+  "9541426350460018246": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "9E-B8-8D-B6-F4-69-84-36",
+    "BlackList": []
+  },
+  "11296506261230465476": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "31-9E-D7-97-40-C5-9C-5A",
+    "BlackList": []
+  },
+  "18050651225589386245": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "8C-B9-39-A7-CB-80-FA-34",
+    "BlackList": []
+  },
+  "17879192575866320710": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "37-50-73-EB-A6-1F-F8-83",
+    "BlackList": []
+  },
+  "16805307672569304701": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "D6-A3-34-4A-72-38-E9-51",
+    "BlackList": []
+  },
+  "76561199030746868": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "n!K",
+    "BlackList": []
+  },
+  "76561199015283014": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "lemon4ik",
+    "BlackList": []
+  },
+  "76561198398016170": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "ballonik",
+    "BlackList": []
+  },
+  "76561199071067136": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "n!K",
+    "BlackList": []
+  },
+  "76561198857676942": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "C4|X",
+    "BlackList": []
+  },
+  "76561199046571781": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Firebaxer",
+    "BlackList": []
+  },
+  "76561199008542365": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "ya.maks2735",
+    "BlackList": []
+  },
+  "76561198216862063": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "pon4ik_ololo",
+    "BlackList": []
+  },
+  "76561199006847689": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Хто я?",
+    "BlackList": []
+  },
+  "76561198364817354": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "NierSnow",
+    "BlackList": []
+  },
+  "76561199051872091": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "sm_1005",
+    "BlackList": []
+  },
+  "76561198834495873": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Фу,бяка",
+    "BlackList": []
+  },
+  "76561198847410207": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Poebota",
+    "BlackList": []
+  },
+  "76561199072239337": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "portyankin19",
+    "BlackList": []
+  },
+  "76561198910455065": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "alexandr123",
+    "BlackList": []
+  },
+  "76561198835795024": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "MAX#FLASHBACK",
+    "BlackList": []
+  },
+  "76561199043681550": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "#Rust_Rust PaKeVe_RUS",
+    "BlackList": []
+  },
+  "76561199062885902": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "n!K",
+    "BlackList": []
+  },
+  "76561199062928691": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "N!k",
+    "BlackList": []
+  },
+  "76561199017172740": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Megumin",
+    "BlackList": []
+  },
+  "76561198100269725": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "ЗЛОБНЫЙ НИГЕР",
+    "BlackList": []
+  },
+  "76561198817453764": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Zainn",
+    "BlackList": []
+  },
+  "76561199062890680": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Лирика",
+    "BlackList": []
+  },
+  "76561199068520629": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Я это я",
+    "BlackList": []
+  },
+  "76561199065836798": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Король",
+    "BlackList": []
+  },
+  "76561198992464745": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "5tkaPro100",
+    "BlackList": []
+  },
+  "76561199049657639": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "MYCSGO.CC.ОУКБ",
+    "BlackList": []
+  },
+  "76561198813289377": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "BEN SİMAY",
+    "BlackList": []
+  },
+  "76561199072088538": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "zikzak",
+    "BlackList": []
+  },
+  "76561198286362611": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "NaRushiFukuda",
+    "BlackList": []
+  },
+  "76561199017198093": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Ky_CyKa",
+    "BlackList": []
+  },
+  "76561199007989649": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Grifyn",
+    "BlackList": []
+  },
+  "76561199042788763": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "ЗЛОБНЫЙ НИГЕР",
+    "BlackList": []
+  },
+  "76561199030023410": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "ЗАГРУЗКА...",
+    "BlackList": []
+  },
+  "76561198868192764": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "lolik",
+    "BlackList": []
+  },
+  "76561199066315839": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Orochimaru",
+    "BlackList": []
+  },
+  "76561199027512645": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "den.jabbarov",
+    "BlackList": []
+  },
+  "76561199072097003": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "!MaLaDoI!",
+    "BlackList": []
+  },
+  "76561197975113708": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "F1RSTSH0T",
+    "BlackList": []
+  },
+  "76561199072484997": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "zabava5999",
+    "BlackList": []
+  },
+  "76561198161070305": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "strela225",
+    "BlackList": []
+  },
+  "76561199061530259": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "-335D",
+    "BlackList": []
+  },
+  "76561199066773632": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "---ВАКУМ---",
+    "BlackList": []
+  },
+  "76561198018795687": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "stervoden",
+    "BlackList": []
+  },
+  "76561198136749986": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "TenSion",
+    "BlackList": []
+  },
+  "76561198327214577": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "kutta100",
+    "BlackList": []
+  },
+  "76561198332462065": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "secret",
+    "BlackList": []
+  },
+  "76561199036793112": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Your Bunny Wrote",
+    "BlackList": []
+  },
+  "76561199072561356": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "пацан",
+    "BlackList": []
+  },
+  "76561198439195879": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Pizz_Maker",
+    "BlackList": []
+  },
+  "76561199050372542": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "moroz2",
+    "BlackList": []
+  },
+  "76561199071784442": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "SWEET #BOSSRUST",
+    "BlackList": []
+  },
+  "76561199068063574": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "paketik",
+    "BlackList": []
+  },
+  "76561198275194262": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "o_0",
+    "BlackList": []
+  },
+  "76561199050711638": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "☜❶☞D҉O҉N҉A҉T҉҉1K҉",
+    "BlackList": []
+  },
+  "76561199045520736": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "killerbeebo",
+    "BlackList": []
+  },
+  "76561198989180874": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Opel Kadett",
+    "BlackList": []
+  },
+  "76561199073098709": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "¿加姆納♡𝑭𝒆𝒀𝒉",
+    "BlackList": []
+  },
+  "76561198985000657": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "ext4zzz",
+    "BlackList": []
+  },
+  "76561198290183873": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Hard HIKITA",
+    "BlackList": []
+  },
+  "76561199065325094": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "залУпа",
+    "BlackList": []
+  },
+  "76561199035521004": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Ali evlo",
+    "BlackList": []
+  },
+  "76561198058175489": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Evloev",
+    "BlackList": []
+  },
+  "76561198066729958": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "AWP POWER",
+    "BlackList": []
+  },
+  "76561199072619523": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "᠌ ᠌ ᠌᠌ ᠌ ᠌ ᠌ ᠌",
+    "BlackList": []
+  },
+  "76561199014232363": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "zut.egor",
+    "BlackList": []
+  },
+  "76561199071539761": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "w11zard21",
+    "BlackList": []
+  },
+  "76561198283598786": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "ЗлОдЕй",
+    "BlackList": []
+  },
+  "76561198363376705": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "HADES WORLD",
+    "BlackList": []
+  },
+  "76561198876656540": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "BaBy69",
+    "BlackList": []
+  },
+  "76561199067680296": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Шпек",
+    "BlackList": []
+  },
+  "76561199072906452": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Nelegal",
+    "BlackList": []
+  },
+  "76561198132056862": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "где же моё сердце?",
+    "BlackList": []
+  },
+  "76561199015413863": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "somу╚",
+    "BlackList": []
+  },
+  "76561198823527050": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "ZULUPE",
+    "BlackList": []
+  },
+  "76561199068050181": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "DOWN CITY",
+    "BlackList": []
+  },
+  "76561198800669292": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "agent007700007",
+    "BlackList": []
+  },
+  "76561198838718708": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "унылый_енот",
+    "BlackList": []
+  },
+  "76561198000768162": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Gogi",
+    "BlackList": []
+  },
+  "76561198042549631": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "[YT]FriendGame",
+    "BlackList": []
+  },
+  "76561199050446087": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Cаша Топчик",
+    "BlackList": []
+  },
+  "76561198972630506": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "timshimake",
+    "BlackList": []
+  },
+  "76561198796131004": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "KG_6aJla",
+    "BlackList": []
+  },
+  "76561199073031885": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "XX",
+    "BlackList": []
+  },
+  "76561199068778247": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "KENT_CHPOKEP",
+    "BlackList": []
+  },
+  "76561199057766129": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "ax1le",
+    "BlackList": []
+  },
+  "76561198996534834": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "2Forzz",
+    "BlackList": []
+  },
+  "76561198866502400": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Ти жопа",
+    "BlackList": []
+  },
+  "76561198848044230": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Братец Лис",
+    "BlackList": []
+  },
+  "76561198805825566": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "gege42",
+    "BlackList": []
+  },
+  "76561198345938947": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Zero",
+    "BlackList": []
+  },
+  "76561199001798492": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "АКУЛОЧКА#",
+    "BlackList": []
+  },
+  "76561198969919851": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "GOD",
+    "BlackList": []
+  },
+  "76561199071150977": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Loksi",
+    "BlackList": []
+  },
+  "76561198054269284": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "GusH",
+    "BlackList": []
+  },
+  "76561198894700899": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "dubrovskiy.69",
+    "BlackList": []
+  },
+  "76561199047252591": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "НА ЛУБОЙ",
+    "BlackList": []
+  },
+  "76561198963711950": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "[IMPOTENT]ФРАНЦУЗ [X-RAY]",
+    "BlackList": []
+  },
+  "76561198995584708": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "foregenn",
+    "BlackList": []
+  },
+  "76561199055538032": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "САЛАТ",
+    "BlackList": []
+  },
+  "76561198024396161": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "KARKOEKE-JUAN",
+    "BlackList": []
+  },
+  "76561198147485706": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "КонченыйО_о",
+    "BlackList": []
+  },
+  "76561199020636228": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "FRED",
+    "BlackList": []
+  },
+  "76561198964317881": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "NAZGUL_FLOW",
+    "BlackList": []
+  },
+  "76561199046368423": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "KoT_БоPuS",
+    "BlackList": []
+  },
+  "76561198082706685": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "JeJAC",
+    "BlackList": []
+  },
+  "76561199063437824": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "tanos-regulator",
+    "BlackList": []
+  },
+  "76561199058006931": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "хахах",
+    "BlackList": []
+  },
+  "76561199074158301": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "ORDHORD",
+    "BlackList": []
+  },
+  "76561198312880833": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Не пришёл не УВИДЕЛ не побЕДИЛ",
+    "BlackList": []
+  },
+  "76561198391332012": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "(_Мику_)",
+    "BlackList": []
+  },
+  "76561198982087655": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "25cm_pecheHbki",
+    "BlackList": []
+  },
+  "76561199030999106": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "csgo",
+    "BlackList": []
+  },
+  "76561198448951888": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Гномік",
+    "BlackList": []
+  },
+  "76561198988386203": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "JinRicors",
+    "BlackList": []
+  },
+  "76561199073277478": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "sidoruk.roma2016",
+    "BlackList": []
+  },
+  "76561198313935623": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "TheNeWb",
+    "BlackList": []
+  },
+  "76561199028715913": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Big Baby Tape",
+    "BlackList": []
+  },
+  "76561199074155832": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Я НАШЕЛ СЕБЯ",
+    "BlackList": []
+  },
+  "76561198952674783": {
+    "Prefix": "chatmanager.тех",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Rench",
+    "BlackList": []
+  },
+  "76561199074712903": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Я ПРОСТО УЕБОК",
+    "BlackList": []
+  },
+  "76561199067309338": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Angel",
+    "BlackList": []
+  },
+  "76561198285331546": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "स्कायडायव्",
+    "BlackList": []
+  },
+  "76561198354202803": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Master of Noobs",
+    "BlackList": []
+  },
+  "76561198817852516": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "angry cat",
+    "BlackList": []
+  },
+  "76561199068351508": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "[NICE]titupoiiiiii",
+    "BlackList": []
+  },
+  "76561199046869104": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Ni_L1fan",
+    "BlackList": []
+  },
+  "76561198834911309": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Gazallll",
+    "BlackList": []
+  },
+  "76561198426463085": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "_-๑Saske๑-_",
+    "BlackList": []
+  },
+  "76561198967412061": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "YUONGER",
+    "BlackList": []
+  },
+  "76561198300487398": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "rudi9743",
+    "BlackList": []
+  },
+  "76561198876730605": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Chipch",
+    "BlackList": []
+  },
+  "76561198349500524": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "!Нет,мы не курим О_",
+    "BlackList": []
+  },
+  "76561199074875383": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "n!K не гей",
+    "BlackList": []
+  },
+  "76561199074731967": {
+    "Prefix": "chatmanager.исследователь",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Яр1й",
+    "BlackList": []
+  },
+  "76561199052821588": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "neutlastv",
+    "BlackList": []
+  },
+  "76561198818886278": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "marekjata11",
+    "BlackList": []
+  },
+  "76561198978795264": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "ПИСЬКА #DOMINGORUST",
+    "BlackList": []
+  },
+  "76561199022541771": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "chicken_dab",
+    "BlackList": []
+  },
+  "76561198359485265": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "smullie2",
+    "BlackList": []
+  },
+  "76561199069374543": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "manapov_04",
+    "BlackList": []
+  },
+  "76561199075236156": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "ХОХОЛ",
+    "BlackList": []
+  },
+  "76561199052915982": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "foripets670",
+    "BlackList": []
+  },
+  "76561199038123073": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Buttercup",
+    "BlackList": []
+  },
+  "76561198067436614": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Мартикат",
+    "BlackList": []
+  },
+  "76561198967669018": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "WELL",
+    "BlackList": []
+  },
+  "76561198982811779": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "-offl1ne 🖤",
+    "BlackList": []
+  },
+  "76561198997773358": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "NopLOL",
+    "BlackList": []
+  },
+  "76561199075233104": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "chindiasov",
+    "BlackList": []
+  },
+  "76561198963729686": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "БЛЭЦЫНДЭ",
+    "BlackList": []
+  },
+  "76561198868677410": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "I very╰_╯",
+    "BlackList": []
+  },
+  "76561198978331323": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "7EAMK1LL",
+    "BlackList": []
+  },
+  "76561199074586419": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Kurva",
+    "BlackList": []
+  },
+  "76561198271332249": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "ਠЮн๏ȼtь~ℓo√ﻉ☭",
+    "BlackList": []
+  },
+  "76561198879674634": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "void.",
+    "BlackList": []
+  },
+  "76561199074183259": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "irinatihvin",
+    "BlackList": []
+  },
+  "76561198870707968": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "zag7833",
+    "BlackList": []
+  },
+  "76561198052864331": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "♥HaRLèY♥",
+    "BlackList": []
+  },
+  "76561199010192231": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "REBUS",
+    "BlackList": []
+  },
+  "76561199075057071": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "kostaneb72823",
+    "BlackList": []
+  },
+  "76561199074534975": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "pocikheats",
+    "BlackList": []
+  },
+  "76561199072354873": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Дейдарочка",
+    "BlackList": []
+  },
+  "76561199006419154": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "ITACHI",
+    "BlackList": []
+  },
+  "76561198866922850": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "p.wasyliszyn",
+    "BlackList": []
+  },
+  "76561198874620197": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Jaren",
+    "BlackList": []
+  },
+  "76561199022863277": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Sova98",
+    "BlackList": []
+  },
+  "76561198451688592": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "vavi1on4ik",
+    "BlackList": []
+  },
+  "76561198981440813": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "BananYeban",
+    "BlackList": []
+  },
+  "76561199010361828": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "DoNaT1k",
+    "BlackList": []
+  },
+  "76561198273296727": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "TenSeN",
+    "BlackList": []
+  },
+  "76561198797634448": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "dino2505",
+    "BlackList": []
+  },
+  "76561199072849265": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Recoil",
+    "BlackList": []
+  },
+  "76561198985366497": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Akira",
+    "BlackList": []
+  },
+  "76561197975763086": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "[RU]Danial Mirny",
+    "BlackList": []
+  },
+  "76561198949181684": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Lans",
+    "BlackList": []
+  },
+  "76561198240781370": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Жысдогий",
+    "BlackList": []
+  },
+  "76561198299039675": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "CS.FAIL-_- ЖОЖОБА-_-",
+    "BlackList": []
+  },
+  "76561199028837869": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Sasha-HA",
+    "BlackList": []
+  },
+  "76561198836646976": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Ну что больно???",
+    "BlackList": []
+  },
+  "76561199063075711": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Jetts",
+    "BlackList": []
+  },
+  "76561199076053674": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "зюзя#ULTIMATERUST",
+    "BlackList": []
+  },
+  "76561199032563668": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "БЛ4Т0Т4#FLASHBACK",
+    "BlackList": []
+  },
+  "76561199075483877": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "mohammadyosof1881",
+    "BlackList": []
+  },
+  "76561198987930650": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "ДцПшник!!!...",
+    "BlackList": []
+  },
+  "76561199068982917": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "МУДИЛА",
+    "BlackList": []
+  },
+  "76561198950111463": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Jamside#EmpicRust",
+    "BlackList": []
+  },
+  "76561198322270289": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "UnderLogg",
+    "BlackList": []
+  },
+  "76561199075659628": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "KOMARIK",
+    "BlackList": []
+  },
+  "76561198135566419": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "egrhitriy",
+    "BlackList": []
+  },
+  "76561199074411378": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "rugnoivan687",
+    "BlackList": []
+  },
+  "76561198874580438": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "tebe pizdec",
+    "BlackList": []
+  },
+  "76561199055396995": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "DeadMyLord",
+    "BlackList": []
+  },
+  "76561198356878830": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Bryan Fury",
+    "BlackList": []
+  },
+  "76561198437326540": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "A.R.",
+    "BlackList": []
+  },
+  "76561199075170568": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "im russian kill you",
+    "BlackList": []
+  },
+  "76561199025635646": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Mersy",
+    "BlackList": []
+  },
+  "76561198290136692": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Мафийозник",
+    "BlackList": []
+  },
+  "76561199075840115": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "kitaec",
+    "BlackList": []
+  },
+  "76561198856020112": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "MIKOLA_PLAY",
+    "BlackList": []
+  },
+  "76561198388668624": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "xuy",
+    "BlackList": []
+  },
+  "76561199075498260": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Богдан228",
+    "BlackList": []
+  },
+  "76561198243591522": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "skripkin-list",
+    "BlackList": []
+  },
+  "76561198982986885": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "yurka410top",
+    "BlackList": []
+  },
+  "76561199076116014": {
+    "Prefix": "chatmanager.girl",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "ZOLDS GAMES",
+    "BlackList": []
+  },
+  "76561197998178211": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "OldJedi",
+    "BlackList": []
+  },
+  "76561198153867041": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "EasY",
+    "BlackList": []
+  },
+  "76561199018635553": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Neverlose.cc",
+    "BlackList": []
+  },
+  "76561199070455663": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "banka",
+    "BlackList": []
+  },
+  "76561198843838935": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "писька воняит",
+    "BlackList": []
+  },
+  "76561199071996317": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "ебырь террорист",
+    "BlackList": []
+  },
+  "76561198367563475": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "nikast",
+    "BlackList": []
+  },
+  "76561198965654654": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "MaJIeHkuu_Ho_OnacHekuu",
+    "BlackList": []
+  },
+  "76561199029191590": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "borzon",
+    "BlackList": []
+  },
+  "76561198800248169": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Y@nNe",
+    "BlackList": []
+  },
+  "76561199017081725": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "helf_poker#EmpicRust",
+    "BlackList": []
+  },
+  "76561198844433569": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Zloy_kotttt",
+    "BlackList": []
+  },
+  "76561198980210999": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "zzXFeNeKsXzz#JUSTRUST",
+    "BlackList": []
+  },
+  "76561198908590518": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "stanbulbarbaros24",
+    "BlackList": []
+  },
+  "76561199075439178": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "miyexoh779",
+    "BlackList": []
+  },
+  "76561198821912861": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "На раз собрался н",
+    "BlackList": []
+  },
+  "76561198997591225": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "JaY43",
+    "BlackList": []
+  },
+  "76561199075485869": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "КАБАЧОК",
+    "BlackList": []
+  },
+  "76561198007859870": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "wait raid",
+    "BlackList": []
+  },
+  "76561199073422066": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "lololoska",
+    "BlackList": []
+  },
+  "76561199072674029": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "AnGEL",
+    "BlackList": []
+  },
+  "76561199069139080": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "hcreker",
+    "BlackList": []
+  },
+  "76561199076311451": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "lalka.piloy",
+    "BlackList": []
+  },
+  "76561198964545219": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Fluf Boi",
+    "BlackList": []
+  },
+  "76561198927874248": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Lust",
+    "BlackList": []
+  },
+  "76561198167966637": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "atida",
+    "BlackList": []
+  },
+  "76561198813291200": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Kilik",
+    "BlackList": []
+  },
+  "76561198081029524": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "HACKR",
+    "BlackList": []
+  },
+  "76561199066312762": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Press F",
+    "BlackList": []
+  },
+  "76561198813145869": {
+    "Prefix": "chatmanager.выживший",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "KqqazI #MAGICRUST",
+    "BlackList": []
+  },
+  "76561199075807391": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "top",
+    "BlackList": []
+  },
+  "76561198945215579": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "shark",
+    "BlackList": []
+  },
+  "76561198391657883": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "shararam197",
+    "BlackList": []
+  },
+  "76561198450994400": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Synd1z0n",
+    "BlackList": []
+  },
+  "76561199068692703": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "ZLoy_Zefirka",
+    "BlackList": []
+  },
+  "76561198992190653": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Moki",
+    "BlackList": []
+  },
+  "76561199016265595": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Logist",
+    "BlackList": []
+  },
+  "76561199026441434": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "AIM",
+    "BlackList": []
+  },
+  "76561198956935394": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Степашка",
+    "BlackList": []
+  },
+  "76561198316703375": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "sandro73-74",
+    "BlackList": []
+  },
+  "76561198986971086": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "respektus1994",
+    "BlackList": []
+  },
+  "76561199069947738": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Н_Е_Ч_Т_О",
+    "BlackList": []
+  },
+  "76561198293892688": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": ":::BAD..†..GIRL:::",
+    "BlackList": []
+  },
+  "76561198152484148": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "HellBoy",
+    "BlackList": []
+  },
+  "76561198188341666": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Анальный дебошир",
+    "BlackList": []
+  },
+  "76561199075891281": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "kuardikon",
+    "BlackList": []
+  },
+  "76561198114823881": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "чо зырешь бля...",
+    "BlackList": []
+  },
+  "76561198124046760": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "---OneChesteR---",
+    "BlackList": []
+  },
+  "76561199075728321": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "ДеДуЛя_Из_FBI",
+    "BlackList": []
+  },
+  "76561198026288102": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "але ты чо сука",
+    "BlackList": []
+  },
+  "76561199070447928": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "левый чел",
+    "BlackList": []
+  },
+  "76561199067795668": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "simst17",
+    "BlackList": []
+  },
+  "76561198839943689": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "&an%ot",
+    "BlackList": []
+  },
+  "76561199072858398": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Dosy",
+    "BlackList": []
+  },
+  "76561198163954001": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "КаКтУсИк",
+    "BlackList": []
+  },
+  "76561199014594170": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "HisztisPicsa",
+    "BlackList": []
+  },
+  "76561198851554122": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "NEXON.Skinswipe",
+    "BlackList": []
+  },
+  "76561198831129003": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Bublik",
+    "BlackList": []
+  },
+  "76561199072389108": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "_Aezer._",
+    "BlackList": []
+  },
+  "76561198291742717": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Bernard l'ermite",
+    "BlackList": []
+  },
+  "76561199075014861": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "BUS",
+    "BlackList": []
+  },
+  "76561199033544027": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "瑸AunaD瑸",
+    "BlackList": []
+  },
+  "76561198851988829": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "PLAYSFORDAYS",
+    "BlackList": []
+  },
+  "76561199074977930": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "🆅🅰🅻🆅🅴",
+    "BlackList": []
+  },
+  "76561199075929730": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "beka2006mail.com",
+    "BlackList": []
+  },
+  "76561199076499501": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "freez",
+    "BlackList": []
+  },
+  "76561199056422845": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "BIG FINE",
+    "BlackList": []
+  },
+  "76561199054714930": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "FirstOne",
+    "BlackList": []
+  },
+  "76561198804323102": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Губка Боб",
+    "BlackList": []
+  },
+  "76561199042590502": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "majorb963",
+    "BlackList": []
+  },
+  "76561199028206038": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "котэ с пером",
+    "BlackList": []
+  },
+  "76561199072083386": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "NeroKotuk",
+    "BlackList": []
+  },
+  "76561199050341064": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "varcenkokosta32",
+    "BlackList": []
+  },
+  "76561198277781629": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "chebachev727",
+    "BlackList": []
+  },
+  "76561199030799583": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "MonaLisa",
+    "BlackList": []
+  },
+  "76561198976040022": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Gonzalez",
+    "BlackList": []
+  },
+  "76561198894416252": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "topor666",
+    "BlackList": []
+  },
+  "76561199077054003": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "stanislavkrivoshiya",
+    "BlackList": []
+  },
+  "76561198846529574": {
+    "Prefix": "chatmanager.default",
+    "NameColor": "chatmanager.default",
+    "MessageColor": "chatmanager.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "ουρανός",
+    "BlackList": []
+  }
+}

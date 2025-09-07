@@ -1,0 +1,1502 @@
+{
+  "76561198329476129": {
+    "Info": {
+      "Prefix": "<color=#fe76ff>[ ЖИРДЯЙ АРГОНЧИК]</color>",
+      "ColorNick": "#03f2ff",
+      "ColorMessage": "#e60003",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198207111616": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#CC99FF",
+      "ColorMessage": "#CC99FF",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198453979400": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#CC99FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198331350127": {
+    "Info": {
+      "Prefix": "<color=#060000>[АДМИН]</color>",
+      "ColorNick": "#03f2ff",
+      "ColorMessage": "#e60003",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198869791144": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198892387857": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198366065523": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198844174408": {
+    "Info": {
+      "Prefix": "<color=#23d200>[BigPeps]</color>",
+      "ColorNick": "#CC99FF",
+      "ColorMessage": "#CC99FF",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 1675950502.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198813619112": {
+    "Info": {
+      "Prefix": "<color=#060000>[АДМИН]</color>",
+      "ColorNick": "#e60003",
+      "ColorMessage": "#e60003",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199217349708": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198094273346": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198129951358": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199006214483": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199117052312": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#CC99FF",
+      "ColorMessage": "#CC99FF",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199161705705": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199071505812": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 1676037622.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199362203627": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198136603134": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198425658113": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199002597805": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198393216809": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198984405280": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 1676034574.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198272782875": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199184276867": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199004569893": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199195879373": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199109943018": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198866514399": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 1676035977.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198118593301": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198404491251": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198962589440": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199111161733": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198983285973": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198815166005": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198085932851": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199258130333": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198845943496": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199323325783": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198220951192": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198444236429": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198310666803": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198871345140": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199031890098": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#CC99FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198980159939": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199087520818": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198360496184": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198439872605": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199032581382": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199227141480": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199210296693": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199184466178": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199265978592": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199114128935": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198367533806": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199017135673": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199216007171": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199098355767": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198846739564": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199105331818": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199349310065": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561197970658835": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198847044695": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198360791707": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199008360109": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199091785584": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198954193811": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198996113639": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199055295844": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199096994758": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199047594211": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198865366419": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199230819466": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#CC99FF",
+      "ColorMessage": "#CC99FF",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561198044001645": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199022272280": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#0099FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  },
+  "76561199150799515": {
+    "Info": {
+      "Prefix": "<color=#CC99FF>[ИГРОК]</color>",
+      "ColorNick": "#CC99FF",
+      "ColorMessage": "#33CCCC",
+      "Rank": "",
+      "PrefixList": []
+    },
+    "Settings": {
+      "TurnPM": true,
+      "TurnAlert": true,
+      "TurnBroadcast": true,
+      "TurnSound": true,
+      "IgnoreUsers": []
+    },
+    "MuteInfo": {
+      "TimeMuteChat": 0.0,
+      "TimeMuteVoice": 0.0
+    }
+  }
+}

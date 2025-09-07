@@ -1,0 +1,16 @@
+{
+  "Players": {
+    "76561199056230088": {
+      "Reports": 0,
+      "ReportCooldown": null,
+      "MessageCooldown": null,
+      "ReportDisabled": false
+    },
+    "76561198139847925": {
+      "Reports": 0,
+      "ReportCooldown": null,
+      "MessageCooldown": null,
+      "ReportDisabled": false
+    }
+  }
+}

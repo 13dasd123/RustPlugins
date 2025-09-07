@@ -1,0 +1,27 @@
+[
+  {
+    "netID": 213888,
+    "Remove": false,
+    "nameClan": "1212"
+  },
+  {
+    "netID": 264753,
+    "Remove": false,
+    "nameClan": "12"
+  },
+  {
+    "netID": 270740,
+    "Remove": false,
+    "nameClan": "56"
+  },
+  {
+    "netID": 3732533,
+    "Remove": false,
+    "nameClan": "111"
+  },
+  {
+    "netID": 3743813,
+    "Remove": true,
+    "nameClan": "LOLIPOP"
+  }
+]

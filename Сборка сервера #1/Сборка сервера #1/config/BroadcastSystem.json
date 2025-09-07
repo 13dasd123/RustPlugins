@@ -1,0 +1,59 @@
+{
+  "Заполнение капельки": {
+    "0": "https://i.ibb.co/ySSv2QY/image.png",
+    "0.1": "https://i.ibb.co/ySSv2QY/image.png",
+    "0.2": "https://i.ibb.co/ySSv2QY/image.png",
+    "0.3": "https://i.ibb.co/ySSv2QY/image.png",
+    "0.4": "https://i.ibb.co/ySSv2QY/image.png",
+    "0.5": "https://i.ibb.co/ySSv2QY/image.png",
+    "0.6": "https://i.ibb.co/ySSv2QY/image.png",
+    "0.7": "https://i.ibb.co/ySSv2QY/image.png",
+    "0.8": "https://i.ibb.co/ySSv2QY/image.png",
+    "0.9": "https://i.ibb.co/ySSv2QY/image.png",
+    "1": "https://i.ibb.co/ySSv2QY/image.png"
+  },
+  "Частота стандартных уведомлений": 600.0,
+  "Стандартные уведомления": [
+    {
+      "Стандартное": true,
+      "Заголовок": "ДОБРОГО ВРЕМЕНИ СУТОК!",
+      "Текст": "ИГРОКОВ ОНЛАЙН: online",
+      "Используемые ключи": [
+        "online"
+      ],
+      "Цвет": "1 1 1 0.9",
+      "Картинка(название)": null,
+      "Длительность": 3.0,
+      "Звук": null
+    },
+    {
+      "Стандартное": true,
+      "Заголовок": "ETERNITY",
+      "Текст": "ВСЕГО ИГРОКОВ: all",
+      "Используемые ключи": [
+        "all"
+      ],
+      "Цвет": "1 1 1 0.9",
+      "Картинка(название)": null,
+      "Длительность": 3.0,
+      "Звук": null
+    },
+    {
+      "Стандартное": true,
+      "Заголовок": "ETERNITY",
+      "Текст": "ПОДКЛЮЧАЮТСЯ: connecting В ОЧЕРЕДИ: queue",
+      "Используемые ключи": [
+        "connecting",
+        "queue"
+      ],
+      "Цвет": "1 1 1 0.9",
+      "Картинка(название)": null,
+      "Длительность": 3.0,
+      "Звук": null
+    }
+  ],
+  "фоны": {
+    "default": "https://i.ibb.co/RP9Sb0b/0nec8x.png",
+    "custom": "https://i.ibb.co/RP9Sb0b/0nec8x.png"
+  }
+}

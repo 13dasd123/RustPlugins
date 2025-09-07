@@ -1,0 +1,81 @@
+{
+  "blockedItems": {
+    "Боеприпасы": {
+      "86400": [
+        "ammo.rocket.basic",
+        "ammo.rocket.fire",
+        "ammo.rocket.hv"
+      ],
+      "72000": [
+        "ammo.rifle.explosive"
+      ]
+    },
+    "Броня": {
+      "14400": [
+        "coffeecan.helmet",
+        "roadsign.jacket",
+        "roadsign.kilt"
+      ],
+      "43200": [
+        "metal.facemask",
+        "metal.plate.torso",
+        "heavy.plate.helmet",
+        "heavy.plate.jacket",
+        "heavy.plate.pants"
+      ]
+    },
+    "Оружие": {
+	  "7200": [
+		"pistol.eoka",
+		"pistol.nailgun"
+      ],
+	  "10800": [
+        "shotgun.waterpipe",
+        "pistol.revolver"
+      ],
+      "14400": [
+        "pistol.semiauto",
+        "pistol.python",
+        "shotgun.double",
+        "shotgun.pump"
+      ],
+	  "21600": [
+        "pistol.m92",
+        "shotgun.spas12"
+      ],
+      "28800": [
+        "rifle.semiauto",
+        "smg.2",
+		"smg.thompson",
+		"grenade.f1"
+      ],
+      "43200": [
+		"rifle.m39",
+        "smg.mp5",
+        "grenade.beancan",
+		"surveycharge"
+      ],
+      "72000": [
+        "rifle.bolt",
+        "rifle.ak",
+        "rifle.lr300",
+        "rifle.l96",
+        "multiplegrenadelauncher",
+        "explosive.satchel"
+      ],
+	  "86400": [
+		"lmg.m249",
+        "rocket.launcher",
+        "explosive.timed"
+      ]
+    }
+  },
+  "colorConfig": {
+    "gradientColor": "#00000099",
+    "menuContentHighlighting": "#0000007f",
+    "menuContentHighlightingalternative": "#FFFFFF10",
+    "menuContentText": "#FFFFFFAA",
+    "menuContentTextAlternative": "#FFFFFFAA"
+  },
+  "serverName": "<b>ЖИРНЫЙ <color=#D04425>RUST</color> X20</b>"
+}

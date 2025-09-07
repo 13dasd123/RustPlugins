@@ -1,0 +1,11 @@
+{
+  "NEW_HEAD": "Attention!\nOn player {0}, a reward has been assigned for his head!\nYou can find out about the reward by the command /ih",
+  "HEAD_KILLED": "You have killed the player for whom the reward has been assigned!\nCongratulations!",
+  "HEAD_KILLED_ALERT": "The player {0} to whom the award was assigned was killed",
+  "HEAD_ALERT_HEADER": "A reward has been awarded for your head!\nBe vigilant, because everyone wants to kill you!",
+  "UI_TITLE": "<b><size=40>Bulletin board</size></b>",
+  "UI_DESCRIPTION": "<b><size=20>This board displays the players on whom the award is assigned.</size></b>",
+  "UI_CLOSE": "<b><size=30>Close</size></b>",
+  "UI_TAKE_REWARD": "<b><size=30>TAKE REWARD</size></b>",
+  "UI_TAKED_REWARD": "You have successfully collected the award!"
+}

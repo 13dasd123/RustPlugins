@@ -1,0 +1,108 @@
+{
+  "playerData": {
+    "76561198892387857": {
+      "doorData": {
+        "enabled": true,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561199117052312": {
+      "doorData": {
+        "enabled": true,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561199210296693": {
+      "doorData": {
+        "enabled": true,
+        "time": 10.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561198845943496": {
+      "doorData": {
+        "enabled": true,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561198962589440": {
+      "doorData": {
+        "enabled": true,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561198404491251": {
+      "doorData": {
+        "enabled": true,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561198310666803": {
+      "doorData": {
+        "enabled": true,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561199258130333": {
+      "doorData": {
+        "enabled": true,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561198980159939": {
+      "doorData": {
+        "enabled": true,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561199216007171": {
+      "doorData": {
+        "enabled": true,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561198094273346": {
+      "doorData": {
+        "enabled": true,
+        "time": 10.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561198996113639": {
+      "doorData": {
+        "enabled": true,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    },
+    "76561198983285973": {
+      "doorData": {
+        "enabled": true,
+        "time": 5.0
+      },
+      "theDoorS": {},
+      "doorTypeS": {}
+    }
+  }
+}

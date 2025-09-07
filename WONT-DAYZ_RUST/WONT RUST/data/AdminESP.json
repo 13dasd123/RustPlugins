@@ -1,0 +1,22 @@
+{
+  "76561198836398984": {
+    "Enabled": true,
+    "UpdateTime": 0.15,
+    "PlayerDistance": 200,
+    "ShowAdmins": true,
+    "DrawNames": true,
+    "DrawBoxes": false,
+    "DrawEyeLine": true,
+    "EyeLineDistance": 50
+  },
+  "76561199420437841": {
+    "Enabled": false,
+    "UpdateTime": 0.15,
+    "PlayerDistance": 200,
+    "ShowAdmins": true,
+    "DrawNames": true,
+    "DrawBoxes": false,
+    "DrawEyeLine": true,
+    "EyeLineDistance": 50
+  }
+}

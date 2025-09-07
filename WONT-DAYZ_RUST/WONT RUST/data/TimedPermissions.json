@@ -1,0 +1,25 @@
+[
+  {
+    "Permissions": [
+      {
+        "Value": "kits.wont",
+        "ExpireDate": "2023-02-28T16:55:33.143655Z"
+      },
+      {
+        "Value": "kits.wooden",
+        "ExpireDate": "2023-02-22T16:56:18.596835Z"
+      },
+      {
+        "Value": "kits.vander",
+        "ExpireDate": "2023-02-23T10:17:12.132441Z"
+      },
+      {
+        "Value": "kits.travle",
+        "ExpireDate": "2023-02-23T10:17:26.373512Z"
+      }
+    ],
+    "Groups": [],
+    "Id": "76561199420437841",
+    "Name": "dorevel"
+  }
+]

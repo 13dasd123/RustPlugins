@@ -1,0 +1,52 @@
+{
+  "PrefixEnabled": true,
+  "PrefixText": "<color=orange>TP: </color>",
+  "DefaultTimeUntilTeleport": 15,
+  "TimeUntilTeleport": {
+    "teleportgui.vip": 10,
+    "teleportgui.elite": 5,
+    "teleportgui.god": 3,
+    "teleportgui.none": 0
+  },
+  "TPCommandAliases": [],
+  "RequestTimeoutTime": 30.0,
+  "DefaultCooldown": 180.0,
+  "Cooldowns": {
+    "teleportgui.vip": 60.0,
+    "teleportgui.elite": 30.0,
+    "teleportgui.god": 15.0,
+    "teleportgui.none": 0.0
+  },
+  "DefaultDailyLimit": 3,
+  "DailyLimit": {
+    "teleportgui.vip": 5,
+    "teleportgui.elite": 8,
+    "teleportgui.god": 15,
+    "teleportgui.none": 9999
+  },
+  "AdminTPSilent": false,
+  "AdminTPEnabled": false,
+  "AllowTeleportWhilstBleeding": false,
+  "AllowTeleportToBuildBlockedPlayer": false,
+  "AllowTeleportFromBuildBlock": false,
+  "AllowTeleportToRaidBlockedPlayer": true,
+  "AllowTeleportFromCargoShip": false,
+  "AllowTeleportFromHotAirBalloon": false,
+  "AllowTeleportFromOilRig": false,
+  "AllowTeleportToOilRig": false,
+  "UseEconomicsPlugin": false,
+  "EconomicsPrice": 100.0,
+  "UseServerRewardsPlugin": false,
+  "ServerRewardsPrice": 10,
+  "PayAfterUsingDailyLimits": false,
+  "BlockTPCrafting": true,
+  "AllowSpecialCharacters": false,
+  "CancelTeleportOnDamage": true,
+  "CanTeleportIntoZone": true,
+  "CanTeleportFromZone": true,
+  "AllowAutoAcceptOnHereTPs": false,
+  "HideAdminsInUI": false,
+  "AllowTeleportFromMounted": false,
+  "AllowTeleportToMounted": false,
+  "ChatIconID": 0
+}

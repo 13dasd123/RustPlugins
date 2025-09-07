@@ -1,0 +1,2172 @@
+{
+  "default": {
+    "position": {
+      "x": "-436.9637",
+      "y": "668.0828",
+      "z": "106.5607"
+    },
+    "rotationdiff": "1.597407",
+    "rotationy": "193.586"
+  },
+  "entities": [
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-1.043563",
+        "y": "-0.09997559",
+        "z": "4.269307"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "8.742278E-08",
+        "y": "3.352101",
+        "z": "-8.742278E-08"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-1.670435",
+        "y": "-0.09997559",
+        "z": "1.335512"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "1.748456E-07",
+        "y": "3.352101",
+        "z": "-1.748456E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "1.263345",
+        "y": "-0.09997559",
+        "z": "0.7086402"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "-8.74228E-08",
+        "y": "1.781305",
+        "z": "-2.622684E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "1.890217",
+        "y": "-0.09997559",
+        "z": "3.642435"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "-5.329071E-15",
+        "y": "1.781305",
+        "z": "-1.748456E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "0.6364739",
+        "y": "-0.09997559",
+        "z": "-2.225155"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "3.496911E-07",
+        "y": "3.352101",
+        "z": "-1.748456E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-2.297306",
+        "y": "-0.09997559",
+        "z": "-1.598283"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "2.622683E-07",
+        "y": "3.352101",
+        "z": "-2.622683E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "4.197125",
+        "y": "-0.09997559",
+        "z": "0.08176828"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "-7.105427E-15",
+        "y": "1.781305",
+        "z": "-3.496911E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "3.570254",
+        "y": "-0.09997559",
+        "z": "-2.852027"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "4.371139E-07",
+        "y": "3.352101",
+        "z": "-8.742279E-08"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "0.009602417",
+        "y": "-0.09997559",
+        "z": "-5.15895"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "4.371139E-07",
+        "y": "3.352101",
+        "z": "-2.622683E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "7.130905",
+        "y": "-0.09997559",
+        "z": "-0.5451036"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "8.742278E-08",
+        "y": "1.781305",
+        "z": "-4.371139E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "5.877162",
+        "y": "-0.09997559",
+        "z": "-6.412694"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "6.119595E-07",
+        "y": "3.352101",
+        "z": "-8.742276E-08"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "2.943382",
+        "y": "-0.09997559",
+        "z": "-5.785822"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "5.245367E-07",
+        "y": "3.352101",
+        "z": "-1.748456E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "6.504034",
+        "y": "-0.09997559",
+        "z": "-3.478899"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "5.245367E-07",
+        "y": "3.352101",
+        "z": "2.842171E-14"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {
+        "Reserved1": true,
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "7.344052",
+        "y": "-0.09997559",
+        "z": "-6.72613"
+      },
+      "prefabname": "assets/prefabs/building core/wall.frame/wall.frame.prefab",
+      "rot": {
+        "x": "6.058547E-07",
+        "y": "0.2105089",
+        "z": "-9.761065E-08"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "4.823997",
+        "y": "-0.09997559",
+        "z": "3.015563"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "8.742278E-08",
+        "y": "1.781305",
+        "z": "-2.622683E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "7.757777",
+        "y": "-0.09997559",
+        "z": "2.388692"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "1.748456E-07",
+        "y": "1.781305",
+        "z": "-3.496911E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "8.384648",
+        "y": "-0.09997559",
+        "z": "5.322487"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "2.622683E-07",
+        "y": "1.781305",
+        "z": "-2.622683E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "5.450868",
+        "y": "-0.09997559",
+        "z": "5.949358"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "1.748456E-07",
+        "y": "1.781305",
+        "z": "-1.748456E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "ownerid": 0,
+      "pos": {
+        "x": "6.21298",
+        "y": "0.0005493164",
+        "z": "3.425775"
+      },
+      "prefabname": "assets/prefabs/misc/item drop/item_drop_backpack.prefab",
+      "rot": {
+        "x": "0.005170475",
+        "y": "-1.596462",
+        "z": "0.002089506"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "On": true
+      },
+      "IOEntity": {
+        "inputs": [],
+        "oldID": 1102436,
+        "outputs": []
+      },
+      "items": [
+        {
+          "amount": 2000,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "id": -1779180711,
+          "position": 0,
+          "skinid": 0
+        }
+      ],
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "3.725168",
+        "y": "0.0002441406",
+        "z": "11.98877"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/abovegroundpool/abovegroundpool.deployed.prefab",
+      "rot": {
+        "x": "0",
+        "y": "3.378529",
+        "z": "0"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "2.517088",
+        "y": "-0.09997559",
+        "z": "6.576231"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "8.742278E-08",
+        "y": "1.781305",
+        "z": "-8.742278E-08"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "0.2101798",
+        "y": "-0.09997559",
+        "z": "10.1369"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "8.742278E-08",
+        "y": "0.2105088",
+        "z": "-8.742278E-08"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "3.14396",
+        "y": "-0.09997559",
+        "z": "9.510026"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "-7.105427E-15",
+        "y": "0.2105088",
+        "z": "-1.748456E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "6.07774",
+        "y": "-0.09997559",
+        "z": "8.883154"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "2.622684E-07",
+        "y": "1.781305",
+        "z": "-8.742278E-08"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "1.670402",
+        "y": "1.705627",
+        "z": "7.234752"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "8.452057E-08",
+        "y": "1.690956",
+        "z": "-6.180379E-09"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-0.4166917",
+        "y": "-0.09997559",
+        "z": "7.203103"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "0",
+        "y": "3.352101",
+        "z": "0"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "3.845945",
+        "y": "1.705627",
+        "z": "7.02749"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "2.493797E-07",
+        "y": "0.9657124",
+        "z": "-2.404228E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "0.9992773",
+        "y": "1.705627",
+        "z": "9.639712"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "2.528464E-07",
+        "y": "1.601615",
+        "z": "2.420191E-09"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "5.14948",
+        "y": "1.705627",
+        "z": "8.576852"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "2.356128E-07",
+        "y": "-0.2942954",
+        "z": "5.111774E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "1.664672",
+        "y": "1.590393",
+        "z": "9.755908"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/boogie_board/boogieboard.deployed.prefab",
+      "rot": {
+        "x": "0.009153455",
+        "y": "4.633157",
+        "z": "6.282922"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "On": true
+      },
+      "IOEntity": {
+        "inputs": [],
+        "oldID": 1177918,
+        "outputs": []
+      },
+      "items": [
+        {
+          "amount": 2000,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "id": -1779180711,
+          "position": 0,
+          "skinid": 0
+        }
+      ],
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-3.675142",
+        "y": "0",
+        "z": "14.13128"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/abovegroundpool/abovegroundpool.deployed.prefab",
+      "rot": {
+        "x": "0",
+        "y": "3.3386",
+        "z": "0"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "0.8370513",
+        "y": "-0.09997559",
+        "z": "13.07069"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "1.748456E-07",
+        "y": "1.781305",
+        "z": "1.748456E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "1.093042",
+        "y": "1.650269",
+        "z": "11.73356"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "1.685874E-07",
+        "y": "3.293639",
+        "z": "7.105427E-15"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "3.770831",
+        "y": "-0.09997559",
+        "z": "12.44382"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "2.622683E-07",
+        "y": "1.781305",
+        "z": "8.742277E-08"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "2.253318",
+        "y": "1.650269",
+        "z": "14.95334"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "1.685874E-07",
+        "y": "3.667452",
+        "z": "0"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "1.463923",
+        "y": "-0.09997559",
+        "z": "16.00449"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "-2.622683E-07",
+        "y": "3.352101",
+        "z": "2.622683E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "4.984515",
+        "y": "1.650269",
+        "z": "15.38551"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "1.685874E-07",
+        "y": "3.159336",
+        "z": "0"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "4.397703",
+        "y": "-0.09997559",
+        "z": "15.37762"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "-3.496912E-07",
+        "y": "-1.360287",
+        "z": "-1.748455E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "5.371643",
+        "y": "1.705627",
+        "z": "13.04873"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "8.950577E-08",
+        "y": "3.978784",
+        "z": "2.918087E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "7.331482",
+        "y": "-0.09997559",
+        "z": "14.75074"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "-4.37114E-07",
+        "y": "-1.360287",
+        "z": "-8.742273E-08"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "6.005227",
+        "y": "1.650269",
+        "z": "10.68011"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "1.685874E-07",
+        "y": "2.933258",
+        "z": "0"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "6.704611",
+        "y": "-0.09997559",
+        "z": "11.81695"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "3.496911E-07",
+        "y": "1.781305",
+        "z": "-1.421085E-14"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "10.26526",
+        "y": "-0.09997559",
+        "z": "14.12387"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "5.684342E-14",
+        "y": "3.352101",
+        "z": "5.245367E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "9.638391",
+        "y": "-0.09997559",
+        "z": "11.19008"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "4.371139E-07",
+        "y": "1.781305",
+        "z": "-8.742279E-08"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "9.011519",
+        "y": "-0.09997559",
+        "z": "8.256282"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "3.496911E-07",
+        "y": "1.781305",
+        "z": "-1.748456E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "10.89213",
+        "y": "-0.09997559",
+        "z": "17.05767"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "6.119595E-07",
+        "y": "1.781305",
+        "z": "8.742273E-08"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "7.958354",
+        "y": "-0.09997559",
+        "z": "17.68454"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "5.245367E-07",
+        "y": "1.781305",
+        "z": "1.748455E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "5.153316",
+        "y": "1.650269",
+        "z": "16.90113"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachchair.deployed.prefab",
+      "rot": {
+        "x": "1.685874E-07",
+        "y": "3.365098",
+        "z": "-7.105427E-15"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "5.024574",
+        "y": "-0.09997559",
+        "z": "18.31141"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "4.37114E-07",
+        "y": "1.781305",
+        "z": "2.622683E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "6.082547",
+        "y": "1.650269",
+        "z": "16.68979"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachchair.deployed.prefab",
+      "rot": {
+        "x": "1.685874E-07",
+        "y": "3.365098",
+        "z": "-7.105427E-15"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "7.023787",
+        "y": "1.650269",
+        "z": "16.47574"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachchair.deployed.prefab",
+      "rot": {
+        "x": "1.685874E-07",
+        "y": "3.365098",
+        "z": "-7.105427E-15"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "7.667318",
+        "y": "1.650269",
+        "z": "16.56547"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "1.066468E-07",
+        "y": "3.194983",
+        "z": "5.717339E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "7.006029",
+        "y": "1.65033",
+        "z": "15.14951"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "1.177925E-07",
+        "y": "3.392281",
+        "z": "-6.727039E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "3.077929",
+        "y": "1.65033",
+        "z": "16.26109"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "8.36515E-08",
+        "y": "-1.532195",
+        "z": "1.83142E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "4.224078",
+        "y": "1.650269",
+        "z": "17.11244"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachchair.deployed.prefab",
+      "rot": {
+        "x": "1.685874E-07",
+        "y": "3.365098",
+        "z": "-7.105427E-15"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "0.4837756",
+        "y": "1.650024",
+        "z": "17.68628"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "1.685874E-07",
+        "y": "3.922825",
+        "z": "-3.552714E-15"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "1.814796",
+        "y": "1.650269",
+        "z": "18.43445"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "1.9707E-07",
+        "y": "3.201694",
+        "z": "3.106601E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "2.324",
+        "y": "1.650269",
+        "z": "17.47824"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachchair.deployed.prefab",
+      "rot": {
+        "x": "1.685874E-07",
+        "y": "3.360623",
+        "z": "-7.105427E-15"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "2.090794",
+        "y": "-0.09997559",
+        "z": "18.93828"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "3.496912E-07",
+        "y": "1.781305",
+        "z": "3.496911E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "3.301404",
+        "y": "1.650269",
+        "z": "17.3398"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachchair.deployed.prefab",
+      "rot": {
+        "x": "1.685874E-07",
+        "y": "3.365099",
+        "z": "-7.105427E-15"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-0.8429857",
+        "y": "-0.09997559",
+        "z": "19.56516"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "2.622683E-07",
+        "y": "1.781305",
+        "z": "4.371138E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-1.469857",
+        "y": "-0.09997559",
+        "z": "16.63136"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "3.496911E-07",
+        "y": "0.2105088",
+        "z": "-1.748456E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-0.175045",
+        "y": "1.650024",
+        "z": "18.37999"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachchair.deployed.prefab",
+      "rot": {
+        "x": "2.077963E-07",
+        "y": "3.329652",
+        "z": "-8.569974E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-1.808157",
+        "y": "1.650024",
+        "z": "18.69093"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachchair.deployed.prefab",
+      "rot": {
+        "x": "1.685874E-07",
+        "y": "3.329652",
+        "z": "7.105427E-15"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-2.667689",
+        "y": "1.650024",
+        "z": "18.85458"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachchair.deployed.prefab",
+      "rot": {
+        "x": "1.685874E-07",
+        "y": "3.329652",
+        "z": "7.105427E-15"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-0.9486242",
+        "y": "1.650024",
+        "z": "18.52728"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachchair.deployed.prefab",
+      "rot": {
+        "x": "1.685874E-07",
+        "y": "3.329652",
+        "z": "7.105427E-15"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-2.545113",
+        "y": "1.650024",
+        "z": "16.96771"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "2.313005E-07",
+        "y": "3.222208",
+        "z": "-5.632492E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-0.811797",
+        "y": "1.650024",
+        "z": "16.70685"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "1.41966E-07",
+        "y": "3.318459",
+        "z": "-3.267504E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-3.776766",
+        "y": "-0.09997559",
+        "z": "20.19203"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "1.748456E-07",
+        "y": "1.781305",
+        "z": "5.245367E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-4.403637",
+        "y": "-0.09997559",
+        "z": "17.25823"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "-8.742278E-08",
+        "y": "-1.360287",
+        "z": "-4.371138E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-6.088004",
+        "y": "1.650024",
+        "z": "18.61309"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "8.818813E-08",
+        "y": "2.154502",
+        "z": "-2.532555E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-5.762846",
+        "y": "1.705322",
+        "z": "14.76598"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "1.685874E-07",
+        "y": "1.825462",
+        "z": "-1.776357E-15"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-6.710546",
+        "y": "-0.09997559",
+        "z": "20.8189"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "8.742278E-08",
+        "y": "1.781305",
+        "z": "6.119595E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-7.337417",
+        "y": "-0.09997559",
+        "z": "17.8851"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "0",
+        "y": "1.781305",
+        "z": "5.245367E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-7.964289",
+        "y": "-0.09997559",
+        "z": "14.95131"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "4.371139E-07",
+        "y": "0.2105088",
+        "z": "8.742279E-08"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-5.200513",
+        "y": "1.650024",
+        "z": "19.32306"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachchair.deployed.prefab",
+      "rot": {
+        "x": "3.872546E-08",
+        "y": "3.302791",
+        "z": "1.075062E-07"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-4.429246",
+        "y": "1.650024",
+        "z": "19.18404"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachchair.deployed.prefab",
+      "rot": {
+        "x": "2.337583E-07",
+        "y": "3.311743",
+        "z": "-5.346194E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-3.521146",
+        "y": "1.650024",
+        "z": "19.02166"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachchair.deployed.prefab",
+      "rot": {
+        "x": "2.999997E-07",
+        "y": "3.33189",
+        "z": "-1.056055E-07"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-4.7592",
+        "y": "1.650024",
+        "z": "17.21918"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "1.369998E-07",
+        "y": "3.155055",
+        "z": "8.879193E-08"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-5.030509",
+        "y": "-0.09997559",
+        "z": "14.32444"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "3.496911E-07",
+        "y": "0.2105088",
+        "z": "0"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-2.096729",
+        "y": "-0.09997559",
+        "z": "13.69757"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "2.622683E-07",
+        "y": "0.2105088",
+        "z": "-8.742277E-08"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-1.434583",
+        "y": "1.705322",
+        "z": "14.13538"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "8.48387E-08",
+        "y": "1.771736",
+        "z": "-9.569859E-09"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-2.111521",
+        "y": "1.705322",
+        "z": "11.69075"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "2.524036E-07",
+        "y": "-1.384429",
+        "z": "8.959431E-09"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-2.7236",
+        "y": "-0.09997559",
+        "z": "10.76377"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "1.748456E-07",
+        "y": "0.2105088",
+        "z": "0"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-5.65738",
+        "y": "-0.09997559",
+        "z": "11.39064"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "2.622683E-07",
+        "y": "0.2105088",
+        "z": "8.742278E-08"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-8.59116",
+        "y": "-0.09997559",
+        "z": "12.01751"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "3.496911E-07",
+        "y": "0.2105088",
+        "z": "1.748456E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-9.218032",
+        "y": "-0.09997559",
+        "z": "9.083718"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "2.622683E-07",
+        "y": "-1.360287",
+        "z": "-2.622683E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-6.284252",
+        "y": "-0.09997559",
+        "z": "8.456846"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "1.748456E-07",
+        "y": "-1.360287",
+        "z": "-1.748456E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-6.111826",
+        "y": "1.705322",
+        "z": "12.42921"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "1.685874E-07",
+        "y": "1.749346",
+        "z": "-1.776357E-15"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-5.611707",
+        "y": "1.705322",
+        "z": "9.242048"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "1.685874E-07",
+        "y": "3.797477",
+        "z": "7.105427E-15"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-3.806757",
+        "y": "1.705322",
+        "z": "8.934191"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachparasol.deployed.prefab",
+      "rot": {
+        "x": "1.685874E-07",
+        "y": "-0.6412717",
+        "z": "2.131628E-14"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-3.350471",
+        "y": "-0.09997559",
+        "z": "7.829974"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "8.742278E-08",
+        "y": "-1.360287",
+        "z": "-8.742278E-08"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-3.977343",
+        "y": "-0.09997559",
+        "z": "4.896179"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "1.748456E-07",
+        "y": "-1.360287",
+        "z": "5.32907E-15"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-6.911123",
+        "y": "-0.09997559",
+        "z": "5.523051"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "2.622684E-07",
+        "y": "-1.360287",
+        "z": "-8.742278E-08"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-10.47177",
+        "y": "-0.09997559",
+        "z": "3.216128"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "4.371139E-07",
+        "y": "-1.360287",
+        "z": "-8.742277E-08"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-9.844903",
+        "y": "-0.09997559",
+        "z": "6.149923"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "3.496911E-07",
+        "y": "-1.360287",
+        "z": "-1.748456E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-4.604215",
+        "y": "-0.09997559",
+        "z": "1.962384"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "8.742278E-08",
+        "y": "3.352101",
+        "z": "-2.622683E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-7.537994",
+        "y": "-0.09997559",
+        "z": "2.589256"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "3.496911E-07",
+        "y": "-1.360287",
+        "z": "0"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-7.535604",
+        "y": "0",
+        "z": "1.768869"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_towel/beachtowel.deployed.prefab",
+      "rot": {
+        "x": "-1.419363E-07",
+        "y": "2.131755",
+        "z": "-1.379791E-07"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-11.09865",
+        "y": "-0.09997559",
+        "z": "0.2823325"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "5.245367E-07",
+        "y": "-1.360287",
+        "z": "-1.421085E-14"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-9.8176",
+        "y": "0",
+        "z": "0.5731438"
+      },
+      "prefabname": "assets/prefabs/deployable/sleeping bag/sleepingbag_leather_deployed.prefab",
+      "rot": {
+        "x": "8.898003E-08",
+        "y": "0.4059156",
+        "z": "5.012329E-07"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-9.326283",
+        "y": "0",
+        "z": "-0.1706689"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachtable.deployed.prefab",
+      "rot": {
+        "x": "5.131973E-07",
+        "y": "3.694183",
+        "z": "-4.259675E-07"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-8.027568",
+        "y": "0",
+        "z": "0.7658302"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_towel/beachtowel.deployed.prefab",
+      "rot": {
+        "x": "-2.02239E-07",
+        "y": "2.098168",
+        "z": "-2.368769E-07"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-9.040006",
+        "y": "0",
+        "z": "0.3779446"
+      },
+      "prefabname": "assets/prefabs/misc/summer_dlc/beach_chair/beachtable.deployed.prefab",
+      "rot": {
+        "x": "2.864624E-10",
+        "y": "0.5111455",
+        "z": "3.864072E-07"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "items": [
+        {
+          "amount": 11042,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "id": 317398316,
+          "position": 0,
+          "skinid": 0
+        },
+        {
+          "amount": 5000,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "id": 69511070,
+          "position": 1,
+          "skinid": 0
+        },
+        {
+          "amount": 1800,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "id": -932201673,
+          "position": 2,
+          "skinid": 0
+        },
+        {
+          "amount": 6400,
+          "blueprintTarget": 0,
+          "condition": "0",
+          "id": -2099697608,
+          "position": 3,
+          "skinid": 0
+        }
+      ],
+      "lock": {
+        "code": "1478",
+        "flags": {},
+        "prefabname": "assets/prefabs/locks/keypad/lock.code.prefab"
+      },
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-8.646417",
+        "y": "0",
+        "z": "-0.6010346"
+      },
+      "prefabname": "assets/prefabs/deployable/tool cupboard/cupboard.tool.deployed.prefab",
+      "rot": {
+        "x": "-3.192337E-07",
+        "y": "1.936892",
+        "z": "-1.400082E-07"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-8.164865",
+        "y": "-0.09997559",
+        "z": "-0.3445394"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "4.371139E-07",
+        "y": "-1.360287",
+        "z": "8.742277E-08"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-5.231086",
+        "y": "-0.09997559",
+        "z": "-0.9714113"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "1.748455E-07",
+        "y": "3.352101",
+        "z": "-3.496911E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-5.857957",
+        "y": "-0.09997559",
+        "z": "-3.905206"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "2.622683E-07",
+        "y": "3.352101",
+        "z": "-4.371139E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-8.791738",
+        "y": "-0.09997559",
+        "z": "-3.278335"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "1.748455E-07",
+        "y": "3.352101",
+        "z": "-5.245366E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-2.924177",
+        "y": "-0.09997559",
+        "z": "-4.532078"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "3.496911E-07",
+        "y": "3.352101",
+        "z": "-3.496911E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "ownerid": 0,
+      "pos": {
+        "x": "-3.467303",
+        "y": "0",
+        "z": "-1.326584"
+      },
+      "prefabname": "assets/prefabs/misc/item drop/item_drop_backpack.prefab",
+      "rot": {
+        "x": "0.0005082363",
+        "y": "-1.597269",
+        "z": "0.002952942"
+      },
+      "skinid": 0
+    },
+    {
+      "flags": {
+        "Reserved1": true,
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-12.03895",
+        "y": "-0.09997559",
+        "z": "-4.118361"
+      },
+      "prefabname": "assets/prefabs/building core/wall.frame/wall.frame.prefab",
+      "rot": {
+        "x": "5.918623E-07",
+        "y": "1.781305",
+        "z": "7.050182E-08"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {},
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-11.72552",
+        "y": "-0.09997559",
+        "z": "-2.651463"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "6.119595E-07",
+        "y": "-1.360287",
+        "z": "8.742275E-08"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-14.03243",
+        "y": "-0.09997559",
+        "z": "0.9092043"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "-8.742276E-08",
+        "y": "3.352101",
+        "z": "-6.119595E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-14.6593",
+        "y": "-0.09997559",
+        "z": "-2.024591"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "0",
+        "y": "3.352101",
+        "z": "-6.993822E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-13.40555",
+        "y": "-0.09997559",
+        "z": "3.842999"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "5.245367E-07",
+        "y": "-1.360287",
+        "z": "-1.748456E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-12.77868",
+        "y": "-0.09997559",
+        "z": "6.776795"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "4.371139E-07",
+        "y": "-1.360287",
+        "z": "-2.622683E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-12.15181",
+        "y": "-0.09997559",
+        "z": "9.710589"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "3.496911E-07",
+        "y": "-1.360287",
+        "z": "-3.496911E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-11.52494",
+        "y": "-0.09997559",
+        "z": "12.64439"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "4.371139E-07",
+        "y": "0.2105088",
+        "z": "2.622683E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-10.89807",
+        "y": "-0.09997559",
+        "z": "15.57818"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "5.245366E-07",
+        "y": "0.2105088",
+        "z": "1.748456E-07"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-10.2712",
+        "y": "-0.09997559",
+        "z": "18.51198"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "6.119595E-07",
+        "y": "0.2105088",
+        "z": "8.742276E-08"
+      },
+      "skinid": 1195976254
+    },
+    {
+      "flags": {
+        "Reserved2": true
+      },
+      "grade": 4,
+      "ownerid": 76561198831953072,
+      "pos": {
+        "x": "-9.644325",
+        "y": "-0.09997559",
+        "z": "21.44577"
+      },
+      "prefabname": "assets/prefabs/building core/foundation/foundation.prefab",
+      "rot": {
+        "x": "6.993822E-07",
+        "y": "0.2105088",
+        "z": "0"
+      },
+      "skinid": 1195976254
+    }
+  ],
+  "protocol": {
+    "items": 2,
+    "version": {
+      "Major": 4,
+      "Minor": 1,
+      "Patch": 24
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "List of partial strings to filter": [
+    "alphamapResolution is clamped to the range of",
+    "AngryAnt Behave version",
+    "Floating point textures aren't supported on this device",
+    "HDR Render Texture not supported, disabling HDR on reflection probe",
+    "Image Effects are not supported on this platform",
+    "Loading Prefab Bundle",
+    "Missing shader in",
+    "Missing projectileID",
+    "Motion vectors not supported on a platform that does not support",
+    "saddletest",
+    "SwitchParent Missed",
+    "The image effect Main Camera",
+    "The image effect effect -",
+    "The referenced script",
+    "Unsupported encoding: 'utf8'",
+    "Warning, null renderer for ScaleRenderer!",
+    "[AmplifyColor]",
+    "[AmplifyOcclusion]",
+    "[CoverageQueries] Disabled due to unsupported",
+    "[CustomProbe]",
+    "[Manifest] URI IS",
+    "[SpawnHandler] populationCounts"
+  ]
+}

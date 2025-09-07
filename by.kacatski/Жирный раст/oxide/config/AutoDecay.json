@@ -1,0 +1,2030 @@
+{
+  "Check cupboard time (seconds)": 300.0,
+  "Notify player, that his object will be removed": false,
+  "Notify player interval": 10.0,
+  "Chat prefix": "<color=#F24525>Гниение</color>: ",
+  "Chat steamID icon": 0,
+  "Decay entity list": {
+    "fogmachine": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "strobelight": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "kayak": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "door.double.hinged.metal": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "door.double.hinged.toptier": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "door.double.hinged.wood": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "door.hinged.metal": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "door.hinged.toptier": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "door.hinged.wood": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "floor.grill": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "floor.ladder.hatch": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "floor.triangle.grill": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "floor.triangle.ladder.hatch": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "gates.external.high.stone": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "gates.external.high.wood": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "ladder.wooden.wall": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "wall.external.high.stone": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "wall.external.high.wood": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "wall.frame.cell.gate": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "wall.frame.cell": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "wall.frame.fence.gate": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "wall.frame.fence": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "wall.frame.garagedoor": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "wall.frame.netting": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "wall.frame.shopfront": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "wall.frame.shopfront.metal": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "wall.window.bars.metal": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "wall.window.bars.toptier": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "wall.window.bars.wood": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "shutter.metal.embrasure.a": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "shutter.metal.embrasure.b": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "wall.window.glass.reinforced": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "shutter.wood.a": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "watchtower.wood": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "barricade.concrete": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "barricade.cover.wood": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "barricade.metal": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "barricade.sandbags": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "barricade.stone": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "barricade.wood": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "barricade.woodwire": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "bbq.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "beartrap": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "bed_deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "campfire": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "ceilinglight.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "chair.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "composter": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "computerstation.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "dropbox.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "elevator": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "fireplace.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "mortarblue": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "mortarchampagne": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "mortargreen": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "mortarorange": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "mortarred": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "mortarviolet": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "romancandle-blue": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "romancandle-green": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "romancandle": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "romancandle-violet": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "volcanofirework": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "volcanofirework-red": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "volcanofirework-violet": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "spikes.floor": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "fridge.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "furnace.large": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "furnace": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "hitchtrough.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "jackolantern.angry": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "jackolantern.happy": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "landmine": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "lantern.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "box.wooden.large": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "waterbarrel": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "locker.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "mailbox.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "mixingtable.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "electrical.modularcarlift.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "mining.pumpjack": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "refinery_small_deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "planter.large.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "planter.small.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "audioalarm": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "smartalarm": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "smartswitch": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "storagemonitor.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "large.rechargable.battery.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "medium.rechargable.battery.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "smallrechargablebattery.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "button": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "counter": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "hbhfsensor.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "laserdetector": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "pressurepad.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "doorcontroller.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "electrical.heater": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "fluid.combiner.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "fluidsplitter": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "fluidswitch": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "andswitch.entity": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "electrical.blocker.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "electrical.branch.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "electrical.combiner.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "electrical.memorycell.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "orswitch.entity": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "electrical.random.switch.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "rfbroadcaster": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "rfreceiver": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "xorswitch.entity": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "small_fuel_generator.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "generator.small": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "solarpanel.large.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "igniter.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "electric.flasherlight.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "simplelight": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "electric.sirenlight.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "poweredwaterpurifier.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "switch": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "splitter": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "electric.sprinkler.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "teslacoil.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "timer": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "cabletunnel": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "water.pump.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "mining_quarry": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "reactivetarget_deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "repairbench_deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "researchtable_deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "rug.bear.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "rug.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "searchlight.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "secretlabchair.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "shelves": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sign.hanging.banner.large": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sign.hanging": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sign.hanging.ornate": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sign.pictureframe.landscape": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sign.pictureframe.portrait": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sign.pictureframe.tall": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sign.pictureframe.xl": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sign.pictureframe.xxl": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sign.pole.banner.large": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sign.post.double": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sign.post.single": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sign.post.town": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sign.post.town.roof": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sign.huge.wood": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sign.large.wood": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sign.medium.wood": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sign.small.wood": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "guntrap.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sleepingbag_leather_deployed": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "small_stash_deployed": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "spinner.wheel.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "survivalfishtrap.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "table.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "workbench1.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "workbench2.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "workbench3.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "cupboard.tool.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "tunalight.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "vendingmachine.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "water_catcher_large": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "water_catcher_small": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "waterpurifier.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "electric.windmill.small": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "woodbox_deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "drumkit.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "piano.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "xylophone.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "chineselantern.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "dragondoorknocker.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "newyeargong.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "chippyarcademachine": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "easter_door_wreath_deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "rustigeegg_a.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "rustigeegg_b.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "rustigeegg_c.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "rustigeegg_d.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "largecandleset": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "smallcandleset": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "coffinstorage": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "cursedcauldron.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "gravestone.stone.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "gravestone.wood.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "graveyardfence": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "scarecrow.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "skullspikes.candles.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "skullspikes.pumpkin.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "skullspikes.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "skull_door_knocker.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "skull_fire_pit": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "spiderweba": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "spookyspeaker": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "skulltrophy.jar.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "skulltrophy.jar2.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "skulltrophy.table.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "skulltrophy.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "abovegroundpool.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "beachchair.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "beachparasol.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "beachtable.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "beachtowel.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "boogieboard.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "innertube.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "innertube.horse.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "innertube.unicorn.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "paddlingpool.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "photoframe.landscape": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "photoframe.large": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "photoframe.portrait": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "xmas.lightstring.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "doorgarland.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "giantcandycane.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "icewall": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "wall.external.high.ice": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "giantlollipops.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sign.neon.125x125": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sign.neon.125x215.animated": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sign.neon.125x215": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sign.neon.xl.animated": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sign.neon.xl": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "pookie_deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sled.deployed.xmas": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sled.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "snowmachine": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "snowman.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "stocking_large_deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "stocking_small_deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "windowgarland.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "christmas_door_wreath_deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "xmas_tree.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "autoturret_deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "flameturret.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sam_site_turret_deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "black_berry.entity": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "blue_berry.entity": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "green_berry.entity": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "red_berry.entity": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "white_berry.entity": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "yellow_berry.entity": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "corn.entity": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "hemp.entity": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "potato.entity": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "pumpkin.entity": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "cctv_deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "telephone.deployed": {
+      "Enabled destroy": true,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "rhib": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "rowboat": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "minicopter.entity": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "2module_car_spawned.entity": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "3module_car_spawned.entity": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "4module_car_spawned.entity": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "_base_car_chassis.entity": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "car_chassis_2module.entity": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "car_chassis_3module.entity": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "car_chassis_4module.entity": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "scraptransporthelicopter": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sedantest.entity": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "floor": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "floor.frame": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "floor.triangle": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "floor.triangle.frame": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "foundation": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "foundation.steps": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "foundation.triangle": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "ramp": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "roof": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "roof.triangle": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "block.stair.lshape": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "block.stair.spiral": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "block.stair.spiral.triangle": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "block.stair.ushape": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "wall": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "wall.doorway": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "wall.frame": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "wall.half": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "wall.low": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "wall.window": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "ch47.entity": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "ch47scientists.entity": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "testridablehorse": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "sofa.deployed": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "hobobarrel.deployed": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "door.hinged.industrial.a": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    },
+    "drone.deployed": {
+      "Enabled destroy": false,
+      "Check if it is a player's entity": true,
+      "Delay destroy time (seconds)": 600.0,
+      "Tick rate (Damage per tick = max health / this)": 10.0,
+      "Destroy time (seconds)": 3600.0
+    }
+  },
+  "Version": {
+    "Major": 1,
+    "Minor": 2,
+    "Patch": 9
+  }
+}

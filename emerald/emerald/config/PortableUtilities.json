@@ -1,0 +1,26 @@
+{
+  "Allowed while combat blocked (No Escape required)": {
+    "bbq": false,
+    "recycle": true,
+    "repair": true,
+    "research": false
+  },
+  "Allowed while raid blocked (No Escape required)": {
+    "bbq": false,
+    "recycle": false,
+    "repair": false,
+    "research": false
+  },
+  "Default Cooldowns (in minutes)": {
+    "bbq": 5.0,
+    "recycle": 0.0,
+    "repair": 0.0,
+    "research": 5.0
+  },
+  "VIP Cooldowns (users with the permission portableutilities.vip)": {
+    "bbq": 1.0,
+    "recycle": 1.0,
+    "repair": 1.0,
+    "research": 1.0
+  }
+}

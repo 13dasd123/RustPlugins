@@ -1,0 +1,72 @@
+{
+  "Show Traps and Entitys in Kill Feed": true,
+  "Show Animals in Kill Feed": true,
+  "Show Npcs in Kill Feed": true,
+  "Show suicides in KillFeed (Default: true)": true,
+  "Show radiation kills in KillFeed (Default: true)": true,
+  "Chat Icon Id (Steam profile ID)": 76561197960839785,
+  "Max messages in feed (Default: 5)": 5,
+  "Max player name length in feed (Default: 18)": 18,
+  "Feed message TTL in seconds (Default: 7)": 7,
+  "Allow kill messages in chat along with kill feed": true,
+  "Log PvP Kill events": false,
+  "Height ident (space between messages). Default: 0.0185": 0.0185,
+  "Feed Position - Anchor Max. (Default: 0.995 0.986": "0.995 0.986",
+  "Feed Position - Anchor Min. (Default: 0.723 0.964": "0.723 0.964",
+  "Font size of kill feed (Default: 12)": 12,
+  "Outline Text Size (Default: 0.5 0.5)": "0.5 0.5",
+  "Default color for distance (if too far from any from the list). Default: #FF8000": "#FF8000",
+  "Distance Colors List (Certain color will apply if distance is <= than specified)": [
+    {
+      "DistanceThreshold": 50,
+      "Color": "#FFFFFF"
+    },
+    {
+      "DistanceThreshold": 100,
+      "Color": "#91D6FF"
+    },
+    {
+      "DistanceThreshold": 150,
+      "Color": "#FFFF00"
+    }
+  ],
+  "Custom Entity Names, you can remove or add more!": {
+    "autoturret_deployed": "Auto Turret",
+    "flameturret.deployed": "Flame Turret",
+    "guntrap.deployed": "Gun Trap",
+    "landmine": "Landmine",
+    "beartrap": "Bear Trap",
+    "sam_site_turret_deployed": "Sam Site Turret",
+    "patrolhelicopter": "Helicopter",
+    "bradleyapc": "Bradley APC"
+  },
+  "Custom Animal Names, you can remove or add more!": {
+    "bear": "Bear",
+    "wolf": "Wolf",
+    "stag": "Stag",
+    "boar": "Boar",
+    "chicken": "Chicken",
+    "horse": "Horse"
+  },
+  "Custom Weapon Names, you can add more!": {
+    "Assault Rifle": "Ak-47",
+    "LR-300 Assault Rifle": "LR-300",
+    "L96 Rifle": "L96",
+    "Bolt Action Rifle": "Bolt",
+    "Semi-Automatic Rifle": "Semi-AR",
+    "Semi-Automatic Pistol": "Semi-AP",
+    "Spas-12 Shotgun": "Spas-12",
+    "M92 Pistol": "M92",
+    "Double Barrel Shotgun": "Double Barrel Shotgun",
+    "Jackhammer": "Jackhammer",
+    "Torch": "Torch",
+    "Salvaged Icepick": "Salvaged Icepick",
+    "Rock": "Rock",
+    "Crossbow": "Crossbow",
+    "[N/A]": "[N/A]"
+  },
+  "Custom Npc Names, you can add more!": {
+    "scientist": "Scientist Npc",
+    "scientist_junkpile_pistol": "scientist_junkpile_pistol"
+  }
+}

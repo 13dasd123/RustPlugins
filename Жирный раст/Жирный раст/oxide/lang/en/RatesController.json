@@ -1,0 +1,14 @@
+{
+  "Добываемые ресурсы в карьере": "Quarry gather rates: {0}",
+  "Добываемые ресурсы в экскаваторе": "Excavator gather rates: {0}",
+  "Добываемые ресурсы": "Gather rates: {0}",
+  "Получаемый лут": "Loot rates: {0}",
+  "Подбираемые ресурсы": "Pickup rates: {0}",
+  "Скорость печей": "Oven speed: {0}",
+  "RatesPersonal": "Your personal rates:\n{0}",
+  "DayStarted": "The day has come!\n{0}",
+  "NightStarted": "The night has come!\n{0}",
+  "PositiveRate": "<color=green>{0:P0}</color>",
+  "NegativeRate": "<color=red>{0:P0}</color>",
+  "NeutralRate": "{0:P0}"
+}

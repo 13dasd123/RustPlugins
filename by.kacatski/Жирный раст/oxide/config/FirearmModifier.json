@@ -1,0 +1,142 @@
+{
+  "Weapon Options": {
+    "snowballgun.entity": {
+      "MagazineSize": 50,
+      "ItemCondition": 200.0,
+      "MagazineSizeVip": 50,
+      "ItemConditionVip": 200.0
+    },
+    "ak47u.entity": {
+      "MagazineSize": 35,
+      "ItemCondition": 150.0,
+      "MagazineSizeVip": 30,
+      "ItemConditionVip": 150.0
+    },
+    "bolt_rifle.entity": {
+      "MagazineSize": 5,
+      "ItemCondition": 100.0,
+      "MagazineSizeVip": 4,
+      "ItemConditionVip": 100.0
+    },
+    "double_shotgun.entity": {
+      "MagazineSize": 2,
+      "ItemCondition": 100.0,
+      "MagazineSizeVip": 2,
+      "ItemConditionVip": 100.0
+    },
+    "pistol_eoka.entity": {
+      "MagazineSize": 1,
+      "ItemCondition": 50.0,
+      "MagazineSizeVip": 1,
+      "ItemConditionVip": 50.0
+    },
+    "mgl.entity": {
+      "MagazineSize": 6,
+      "ItemCondition": 200.0,
+      "MagazineSizeVip": 6,
+      "ItemConditionVip": 200.0
+    },
+    "l96.entity": {
+      "MagazineSize": 10,
+      "ItemCondition": 60.0,
+      "MagazineSizeVip": 5,
+      "ItemConditionVip": 60.0
+    },
+    "lr300.entity": {
+      "MagazineSize": 35,
+      "ItemCondition": 150.0,
+      "MagazineSizeVip": 30,
+      "ItemConditionVip": 150.0
+    },
+    "m249.entity": {
+      "MagazineSize": 150,
+      "ItemCondition": 500.0,
+      "MagazineSizeVip": 100,
+      "ItemConditionVip": 500.0
+    },
+    "m39.entity": {
+      "MagazineSize": 30,
+      "ItemCondition": 100.0,
+      "MagazineSizeVip": 20,
+      "ItemConditionVip": 100.0
+    },
+    "m92.entity": {
+      "MagazineSize": 20,
+      "ItemCondition": 100.0,
+      "MagazineSizeVip": 15,
+      "ItemConditionVip": 100.0
+    },
+    "mp5.entity": {
+      "MagazineSize": 40,
+      "ItemCondition": 100.0,
+      "MagazineSizeVip": 30,
+      "ItemConditionVip": 100.0
+    },
+    "nailgun.entity": {
+      "MagazineSize": 16,
+      "ItemCondition": 100.0,
+      "MagazineSizeVip": 16,
+      "ItemConditionVip": 100.0
+    },
+    "shotgun_waterpipe.entity": {
+      "MagazineSize": 1,
+      "ItemCondition": 100.0,
+      "MagazineSizeVip": 1,
+      "ItemConditionVip": 100.0
+    },
+    "python.entity": {
+      "MagazineSize": 10,
+      "ItemCondition": 100.0,
+      "MagazineSizeVip": 6,
+      "ItemConditionVip": 100.0
+    },
+    "pistol_revolver.entity": {
+      "MagazineSize": 10,
+      "ItemCondition": 100.0,
+      "MagazineSizeVip": 8,
+      "ItemConditionVip": 100.0
+    },
+    "rocket_launcher.entity": {
+      "MagazineSize": 1,
+      "ItemCondition": 200.0,
+      "MagazineSizeVip": 1,
+      "ItemConditionVip": 200.0
+    },
+    "shotgun_pump.entity": {
+      "MagazineSize": 10,
+      "ItemCondition": 100.0,
+      "MagazineSizeVip": 6,
+      "ItemConditionVip": 100.0
+    },
+    "pistol_semiauto.entity": {
+      "MagazineSize": 15,
+      "ItemCondition": 100.0,
+      "MagazineSizeVip": 10,
+      "ItemConditionVip": 100.0
+    },
+    "semi_auto_rifle.entity": {
+      "MagazineSize": 20,
+      "ItemCondition": 100.0,
+      "MagazineSizeVip": 16,
+      "ItemConditionVip": 100.0
+    },
+    "smg.entity": {
+      "MagazineSize": 30,
+      "ItemCondition": 100.0,
+      "MagazineSizeVip": 24,
+      "ItemConditionVip": 100.0
+    },
+    "spas12.entity": {
+      "MagazineSize": 10,
+      "ItemCondition": 100.0,
+      "MagazineSizeVip": 6,
+      "ItemConditionVip": 100.0
+    },
+    "thompson.entity": {
+      "MagazineSize": 30,
+      "ItemCondition": 100.0,
+      "MagazineSizeVip": 20,
+      "ItemConditionVip": 100.0
+    }
+  }
+}

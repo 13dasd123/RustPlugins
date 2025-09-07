@@ -1,0 +1,29 @@
+{
+  "Allow decay on our minicopters": {
+    "Copter Decay": false
+  },
+  "Chat Settings": {
+    "Prefix": "[My MiniCopter] :"
+  },
+  "Cooldown (on permission)": {
+    "Use Cooldown": false,
+    "Value in minutes": "2"
+  },
+  "Global": {
+    "Allow driver dismount while flying": true,
+    "Allow passenger dismount while flying": true,
+    "Allow spawn when building blocked": true,
+    "Allow unlimited to use fuel tank": true,
+    "Destroy copter on player sleep": false,
+    "Standard fuel consumption per second": 0.25
+  },
+  "Maximum height for dismount": {
+    "Value in meters": "7"
+  },
+  "Minimum Distance for /gmini": {
+    "Value in meters": "0"
+  },
+  "Minimum Distance for /nomini": {
+    "Value in meters": "0"
+  }
+}

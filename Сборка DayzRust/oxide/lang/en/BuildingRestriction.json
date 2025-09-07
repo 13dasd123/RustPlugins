@@ -1,0 +1,6 @@
+{
+  "MaxBuildHeight": "You have reached the max building height! ({0} building blocks)",
+  "MaxFoundations": "You have reached the max foundations allowed! ({0} foundations)",
+  "MaxTriFoundations": "You have reached the max triangle foundations allowed! ({0} foundations)",
+  "MaxWaterDepth": "You are not allowed to build in water!"
+}

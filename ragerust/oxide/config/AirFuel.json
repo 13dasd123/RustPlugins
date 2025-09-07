@@ -1,0 +1,12 @@
+{
+  "Fuel": {
+    "Default": 500,
+    "MiniCopter": 500,
+    "ScrapTransportHelicopter": 700
+  },
+  "Version": {
+    "Major": 0,
+    "Minor": 2,
+    "Patch": 1
+  }
+}

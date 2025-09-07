@@ -1,0 +1,13 @@
+{
+  "Usage": "Команды:\n/l save - сохранить текущую экипировку\n/l default - сбросить текущую экипировку\n/l list - показать весь список",
+  "Permission": "<color=#ff0000>У вас нет разрешения использовать это!</color>",
+  "SaveDisabled": "Вы не можете сохранить предметы в своей группе экипировки",
+  "GetDisabled": "Вы не можете получить предметы в своей группе экипировки",
+  "CantFindItems": "Не могу найти предметы в экипировки (Команда - /l)!",
+  "LoadoutSaved": "<color=#00ff00>Были сохранены следующие предметы:</color>\n{saved}\n\n<color=#ff0000>Блокированные предметы:</color>\n{blocked}",
+  "LoadoutReceived": "ПРЕДВАЙПОВЫЙ КИТ УСПЕШНО ПОЛУЧЕН\nВАЙП БУДЕТ <color=#83CBFF>09/02/2021</color> В <color=#83CBFF>8:00</color> ПО МСК!\n<color=#83CBFF>ПОДРОБНОСТИ: VK.COM/TRASHRUST</color>",
+  "LoadoutReset": "Ваша экипировка сохранена!",
+  "LoadoutCurrent": "Ваша текущая экипировка:\n{list}",
+  "RestrictedEntry": "{name} <color=#00ffff>x{amount}</color>\n",
+  "None": "Нет предметов"
+}

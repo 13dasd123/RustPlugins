@@ -1,0 +1,57 @@
+{
+  "76561198836398984": {
+    "UserName": "[12] ADADADADADADADADAD",
+    "Reports": [
+      {
+        "status": 2,
+        "VictimName": "[12] ADADADADADADADADAD",
+        "SenderName": "[1212] dorevel",
+        "ReportReson": "Wall Hack",
+        "ReportID": "9180968",
+        "ReportDate": "2023-02-14T21:58:25.759501+03:00",
+        "SendreID": 76561199420437841
+      },
+      {
+        "status": 2,
+        "VictimName": "[56] ADADADADADADADADAD",
+        "SenderName": "[1212] dorevel",
+        "ReportReson": "Macros",
+        "ReportID": "7734739",
+        "ReportDate": "2023-02-15T14:54:20.238421+03:00",
+        "SendreID": 76561199420437841
+      },
+      {
+        "status": 2,
+        "VictimName": "[56] ADADADADADADADADAD",
+        "SenderName": "[1212] dorevel",
+        "ReportReson": "Macros",
+        "ReportID": "133759",
+        "ReportDate": "2023-02-15T15:06:42.333662+03:00",
+        "SendreID": 76561199420437841
+      },
+      {
+        "status": 2,
+        "VictimName": "[56] ADADADADADADADADAD",
+        "SenderName": "[1212] dorevel",
+        "ReportReson": "Wall Hack",
+        "ReportID": "2659304",
+        "ReportDate": "2023-02-15T16:10:55.018169+03:00",
+        "SendreID": 76561199420437841
+      }
+    ]
+  },
+  "76561199420437841": {
+    "UserName": "[1212] dorevel",
+    "Reports": [
+      {
+        "status": 2,
+        "VictimName": "[1212] dorevel",
+        "SenderName": "[56] ADADADADADADADADAD",
+        "ReportReson": "Wall Hack",
+        "ReportID": "9888390",
+        "ReportDate": "2023-02-15T14:51:22.93754+03:00",
+        "SendreID": 76561198836398984
+      }
+    ]
+  }
+}

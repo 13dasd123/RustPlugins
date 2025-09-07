@@ -1,0 +1,48 @@
+{
+  "Text Display Frequency (Seconds)": 5.0,
+  "Enable Messages Cyclicity": true,
+  "Use Random Cyclicity (Instead of sequential)": false,
+  "Cycle Messages Every ~N Seconds": 5.0,
+  "Messages": [
+	{
+      "Top Status": "<size=8>Добро пожаловать на проект <b>trash rust clans X20</b> [ rpg ]. Пока идет загрузка, посетите наши страницы!\n</size><size=8>Наш магазин: <color=#008cf0>http://www.trashrust.ru</color>,\r так же новости/конкурсы в нашей группе ВКонтакте: <color=#008cf0>https://vk.com/trashrust</color>\n<size=31><color=#d34e22>%NAME%</color>, ПРИВЕТСТВУЕМ ТЕБЯ!</size>\n</size>",
+      "Bottom Status": "ЗАГРУЗКА"
+    },
+	{
+      "Top Status": "<size=8>Добро пожаловать на проект <b>trash rust clans X20</b> [ rpg ]. Пока идет загрузка, посетите наши страницы!\n</size><size=8>Наш магазин: <color=#008cf0>http://www.trashrust.ru</color>, так же новости/конкурсы в нашей группе ВКонтакте: <color=#008cf0>https://vk.com/trashrust</color>\n<size=31><color=#d34e22>[NOSTEAM]</color> СКАЧАЙТЕ АНТИЧИТ <color=#d34e22>GameWer</color></size>\n</size>",
+      "Bottom Status": "ЗАГРУЗКА"
+    },
+	{
+      "Top Status": "<size=8>Добро пожаловать на проект <b>trash rust clans X20</b> [ rpg ]. Пока идет загрузка, посетите наши страницы!\n</size><size=8>Наш магазин: <color=#008cf0>http://www.trashrust.ru</color>, так же новости/конкурсы в нашей группе ВКонтакте: <color=#008cf0>https://vk.com/trashrust</color>\n<size=31>ВАЙП БЫЛ: <color=#d34e22>%WIPE%</color></size>\n</size>",
+      "Bottom Status": "ЗАГРУЗКА"
+    },
+	{
+      "Top Status": "<size=8>Добро пожаловать на проект <b>trash rust clans X20</b> [ rpg ]. Пока идет загрузка, посетите наши страницы!\n</size><size=8>Наш магазин: <color=#008cf0>http://www.trashrust.ru</color>, так же новости/конкурсы в нашей группе ВКонтакте: <color=#008cf0>https://vk.com/trashrust</color>\n<size=31>МАКСИМАЛЬНАЯ ТИМА <color=#d34e22>4 ИГРОКА</color>!</size>\n</size>",
+      "Bottom Status": "ЗАГРУЗКА"
+    },
+	{
+      "Top Status": "<size=8>Добро пожаловать на проект <b>trash rust clans X20</b> [ rpg ]. Пока идет загрузка, посетите наши страницы!\n</size><size=8>Наш магазин: <color=#008cf0>http://www.trashrust.ru</color>, так же новости/конкурсы в нашей группе ВКонтакте: <color=#008cf0>https://vk.com/trashrust</color>\n<size=31>ДОБАВЬ НАС В <color=#d34e22>ИЗБРАННОЕ</color>!</size>\n</size>",
+      "Bottom Status": "ЗАГРУЗКА"
+    },
+	{
+      "Top Status": "<size=8>Добро пожаловать на проект <b>trash rust clans X20</b> [ rpg ]. Пока идет загрузка, посетите наши страницы!\n</size><size=8>Наш магазин: <color=#008cf0>http://www.trashrust.ru</color>, так же новости/конкурсы в нашей группе ВКонтакте: <color=#008cf0>https://vk.com/trashrust</color>\n<size=31>ОТКРЫТЬ МЕНЮ КОМАНДА: <color=#d34e22>/MENU</color></size>\n</size>",
+      "Bottom Status": "ЗАГРУЗКА"
+    },
+	{
+      "Top Status": "<size=8>Добро пожаловать на проект <b>trash rust clans X20</b> [ rpg ]. Пока идет загрузка, посетите наши страницы!\n</size><size=8>Наш магазин: <color=#008cf0>http://www.trashrust.ru</color>, так же новости/конкурсы в нашей группе ВКонтакте: <color=#008cf0>https://vk.com/trashrust</color>\n<size=31>ОТКРЫТЬ МЕНЮ КРАФТА: <color=#d34e22>/CRAFT</color></size>\n</size>",
+      "Bottom Status": "ЗАГРУЗКА"
+    }
+  ],
+  "Enable Queue Messages": true,
+  "Queue Messages": [
+    {
+      "Top Status": "<size=8>Добро пожаловать на проект <b>trash rust clans X20</b> [ rpg ]. Пока идет загрузка, посетите наши страницы!\n</size><size=8>Наш магазин: <color=#008cf0>http://www.trashrust.ru</color>, так же новости/конкурсы в нашей группе ВКонтакте: <color=#008cf0>https://vk.com/trashrust</color>\n<size=32>ЖИРНЫЙ <color=#d34e22>RUST</color> RPG #1</size>\n</size>",
+      "Bottom Status": "ЗАГРУЗКА"
+    }
+  ],
+  "QueuePosition": null,
+  "Last Message (When entering game)": {
+    "Top Status": "<size=8>Добро пожаловать на проект <b>trash rust clans X20</b> [ rpg ]. Пока идет загрузка, посетите наши страницы!\n</size><size=8>Наш магазин: <color=#008cf0>http://www.trashrust.ru</color>, так же новости/конкурсы в нашей группе ВКонтакте: <color=#008cf0>https://vk.com/trashrust</color>\n<size=32>СОБЛЮДАЙТЕ ПРАВИЛА СЕРВЕРА!</size>\n</size>",
+    "Bottom Status": "ЗАГРУЗКА"
+  }
+}

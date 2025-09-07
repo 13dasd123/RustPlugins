@@ -1,0 +1,79 @@
+{
+  "76561198813619112": {
+    "Prefix": "chatplus.default",
+    "NameColor": "chatplus.default",
+    "MessageColor": "chatplus.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "[biba] [B&B] BOBA.//666",
+    "IsAdmin": true,
+    "IsModer": false,
+    "BlackList": []
+  },
+  "76561198844174408": {
+    "Prefix": "chatplus.default",
+    "NameColor": "chatplus.default",
+    "MessageColor": "chatplus.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "[KEKS] PEPSI | VALIM",
+    "IsAdmin": false,
+    "IsModer": false,
+    "BlackList": []
+  },
+  "76561199123421399": {
+    "Prefix": "chatplus.default",
+    "NameColor": "chatplus.default",
+    "MessageColor": "chatplus.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "[HUY] [71MC] .d1saaaw",
+    "IsAdmin": false,
+    "IsModer": false,
+    "BlackList": []
+  },
+  "76561198453979400": {
+    "Prefix": "chatplus.default",
+    "NameColor": "chatplus.default",
+    "MessageColor": "chatplus.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "IQ 200",
+    "IsAdmin": true,
+    "IsModer": false,
+    "BlackList": []
+  },
+  "76561198331350127": {
+    "Prefix": "chatplus.default",
+    "NameColor": "chatplus.default",
+    "MessageColor": "chatplus.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "opkerbtw#VALIM",
+    "IsAdmin": false,
+    "IsModer": false,
+    "BlackList": []
+  },
+  "76561198329476129": {
+    "Prefix": "chatplus.default",
+    "NameColor": "chatplus.default",
+    "MessageColor": "chatplus.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "Argon",
+    "IsAdmin": false,
+    "IsModer": false,
+    "BlackList": []
+  },
+  "76561199022272280": {
+    "Prefix": "chatplus.default",
+    "NameColor": "chatplus.default",
+    "MessageColor": "chatplus.default",
+    "Censor": true,
+    "PMSound": true,
+    "Name": "vavavooob banditcamp.com",
+    "IsAdmin": false,
+    "IsModer": false,
+    "BlackList": []
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "Chat command to toggle printing chat to console": "/ctc",
+  "Chat to console enabled by default": true,
+  "Messages format": "{Time}: [{ChatLang}] {Titles}{Name}({SteamID}): {Message}",
+  "Permission to see all team's chat and all PM": "ChatToConsole.Admin",
+  "Permission to use command and get the chat to console": "ChatToConsole.See",
+  "Private messages format": "{Time}: [{PM}] {From}->{To}: {Message}"
+}
